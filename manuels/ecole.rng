@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xrem/rng2html.xsl"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" 
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" 
+  xmlns:h="http://www.w3.org/1999/xhtml" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
+  ns="http://www.tei-c.org/ns/1.0" 
+  xml:lang="fr">
+  
+  <!--
+    SURCHARGE TEIBOOK
+    http://relaxng.org/tutorial-20011203.html#IDAVEZR
+  -->
+  <include
+    href="../../teibook/teibook.rng"
+    h:href="../../teibook/teibook.rng" 
+    h:title="Schéma Teibook">
+    
+    <define name="p">
+      <element name="p">
+        <a:documentation>Paragraphe de texte, html5:p</a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">  
+          <p><a href="http://www.w3.org/TR/html5/the-p-element.html#the-p-element">[html]</a> Pour les paragraphes numérotés, le numéro de l’édition imprimée est à inscrire dans l’attribut <a:att>n</a:att>.</p>
+        </div>
+        <ref name="xml-atts"/>
+        <optional>
+          <ref name="n-att"/>
+        </optional>
+        <ref name="rendering.block"/>
+        <optional>
+          <ref name="ana-att"/>
+        </optional>
+        <choice>
+          <oneOrMore>
+            <ref name="s"/>
+          </oneOrMore>
+          <ref name="flow"/>
+        </choice>
+      </element>
+    </define>
+    
+  </include>
+  
+  <!--
+    SPÉCIFIQUE ÉCOLE
+  -->
+  <define name="ana-att">
+    <attribute name="ana">
+      <choice>
+        <value>consigne</value>
+        <a:documentation>intitulé de l’exercice (consigne) soumis aux élèves</a:documentation>
+        <value>notice</value>
+        <a:documentation>notice historique attachée à la leçon</a:documentation>
+      </choice>
+    </attribute>
+  </define>
+    
+</grammar>
