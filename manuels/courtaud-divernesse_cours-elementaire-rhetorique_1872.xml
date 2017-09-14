@@ -155,7 +155,7 @@
       <div>
         <head>Première partie. Invention.</head>
         <p>L’invention oratoire consiste à <hi rend="i">découvrir dans un sujet tout ce qu’il contient de propre à persuader.</hi> Or, pour persuader, il faut, suivant les cas, instruire, plaire et toucher. Il suffit quelquefois du premier moyen ; mais, le plus souvent, ce n’est pas trop des trois. On instruit par les <hi rend="i">preuves</hi>, on plaît par les <hi rend="i">mœurs</hi>, on touche par les <hi rend="i">passions</hi>, triple ressource que l’invention doit mettre en œuvre.</p>
-        <div type="chapter">
+        <div>
           <head>Chapitre premier. Des preuves.</head>
           <p>La preuve est le premier objet que doit se proposer l’écrivain ; car, ce qu’il doit faire avant tout, c’est d’éclairer, d’instruire et de convaincre. On définit la preuve : « toute raison qu’apporte le dialecticien pour donner à ce qu’il affirme ou ôter à ce qu’il nie le caractère de vérité, de certitude ou de vraisemblance. »</p>
           <p>La preuve peut n’être qu’<hi rend="i">oratoire</hi> : c’est alors le simple récit, l’exposé ou le développement des faits qu’on veut établir. Elle est d’usage dans tous les sujets où il s’agit moins de <hi rend="i">discussion</hi> que d’<hi rend="i">élocution</hi>, les harangues, les oraisons funèbres, et tout ce qui enfin appartient au <hi rend="i">genre démonstratif</hi>.</p>
@@ -331,7 +331,7 @@
             <p>Voyez le plaidoyer de Cicéron pour Cœlius, accusé d’avoir voulu empoisonner l’un de ses créanciers, dans une pensée cupide, quel talent y déploie le défenseur ! Ne pouvant s’appuyer sur aucune preuve qui fit éclater l’innocence de son client, et, forcé, à défaut de meilleures raisons, de recourir aux simples présomptions, avec quelle adresse il en use pour prouver que le jeune homme n’a pu, en même temps, s’adonner à l’étude, si pénible, si attachante, de l’éloquence et se laisser aller aux désordres qu’on lui reproche !</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre II. Des mœurs.</head>
           <p>Les mœurs, au point de vue de l’art oratoire, sont le deuxième moyen de persuasion. Suivant la définition qu’on en donne, c’est « le soin que doit prendre l’orateur de montrer en lui des sentiments d’honnêteté, de bonté, de justice, de vertus, en un mot, propres à lui rendre favorable l’auditeur. »</p>
           <p>S’il ne fait ou ne laisse apparaître ce reflet dans son langage, dans son maintien, dans toute sa personne, il risque fort, avec les plus beaux discours, d’échouer complètement.</p>
@@ -405,7 +405,7 @@
             <p>Mais qu’à part ces émotions douces, ces moyens insinuants qui s’adressent au cœur, il faille, à l’occasion, ravir, entraîner, subjuger l’auditoire, c’est au <hi rend="i">pathètique</hi> alors qu’il faut recourir, ce qui veut dire remuer fortement les <hi rend="i">passions</hi>.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre III. Des passions.</head>
           <p>Les passions, suivant la définition qu’en donnent les rhéteurs et les philosophes, « sont ces mouvements vifs et irrésistibles » qui nous entraînent vers les objets ou nous en détournent. C’est le <hi rend="i">troisième</hi> et le plus puissant moyen de persuasion, celui qui constitue l’éloquence proprement dite.</p>
           <quote>
@@ -533,7 +533,7 @@
             <p>Nous allons passer en revue les diverses parties dont se compose la <hi rend="i">Disposition</hi> ou si l’on veut le discours.</p>
           
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre I<hi rend="sup">er</hi>. De l’exorde.</head>
           <p>L’exorde (du latin <hi rend="i">exordium</hi>) est cette partie du discours qui <hi rend="i">prépare les esprits à recevoir favorablement ce qu’on va dire</hi>, ou, comme dit Cicéron (<hi rend="i">de Orat.</hi>, II, 19) <quote>« <hi rend="i">qui rend l’auditeur bienveillant, attentif, disposé à suivre docilement l’orateur</hi>. »</quote></p>
           <p>Ainsi l’objet de l’orateur est de s’y concilier la bienveillance, l’attention et, dans ce but, de provoquer l’intérêt. Il se conciliera la bienveillance, s’il sait prendre un air de douceur, d’honnêteté, de modestie qui prévient toujours en faveur de celui qui parle en public ; s’il s’oublie lui-même pour ne s’occuper que de son sujet ou de ceux qui l’écoutent. Il provoquera l’intérêt et, par suite, l’attention, si, dès le commencement, il s’attache à donner une haute idée de son talent, de sa science, de sa probité ; s’il sait faire envisager la question comme capable d’intéresser ; enfin, s’il s’énonce avec clarté, netteté et précision.</p>
@@ -603,7 +603,7 @@
             <p>Comme tout est ménagé ! modestie, piété, désintéressement, dévouement à la cause commune, respectueuse déférence pour les juges, haute estime témoignée aux grands hommes, voilà les moyens qu’il emploie pour se concilier la bienveillance générale.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre II. De la proposition.</head>
           <p>La proposition est l’<hi rend="i">exposition simple, claire et précise du sujet</hi>. C’est, dans les plaidoyers, le litige, (en grec τὸ κρινόμενον) ou l’<hi rend="i">état de la question</hi>.</p>
           <p>La proposition peut être <hi rend="i">simple</hi> ou <hi rend="i">composée</hi>. Elle est <hi rend="i">simple</hi>, quand elle n’a qu’un <hi rend="i">seul objet</hi> à prouver. Telle est celle du sermon de Massillon sur <hi rend="i">les exemples des Grands</hi> :</p>
@@ -630,7 +630,7 @@
             <p>Mais Cicéron, dans son discours (<hi rend="i">pro lege Maniliâ</hi>, c. 2), dans son plaidoyer (<hi rend="i">pro Murenâ</hi>, c. 5) et ailleurs, n’offre-t-il pas des exemples de divisions parfaitement régulières ? À l’autorité de Fénelon opposant celle de Bourdaloue, de Massillon, pour la chaire évangélique, laissons le célèbre critique rejeter, comme une contrainte déplacée, funeste à l’éloquence, l’usage des divisions et, reconnaissant ce que cette méthode a de lumineux, disons avec M. Le Clerc (<hi rend="i">Rhét.</hi> p. 99) que <quote>« une heureuse division prévient favorablement, soutient l’attention, soulage la mémoire et n’empêche pas que l’orateur n’échauffe et ne remue. »</quote></p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre III. De la narration.</head>
           <p>La narration, dans le discours, est le récit ou l’exposé du fait ou des faits, mais présentés sous l’aspect le plus favorable à la cause.</p>
           <p>C’est en cela qu’elle diffère du récit purement historique. L’historien, uniquement préoccupé du vrai, expose les faits tels qu’ils se sont passés. L’orateur, sans blesser toutefois la vérité, se doit, pour le succès qu’il poursuit, d’insister sur les circonstances qui lui paraissent le plus avantageuses, atténuant d’autre part celles qui sont contraires. Un autre soin qui lui incombe, c’est qu’il arrange son récit de manière qu’il offre le germe de tous les moyens qui seront employés dans la suite et feront l’objet soit de la confirmation, soit de la réfutation, <quote><hi rend="i">omnis orationis reliquæ fons est narratio</hi></quote> (Cic., <hi rend="i">de Orat.</hi>, II, 81).</p>
@@ -650,7 +650,7 @@
             </quote>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre IV. De la confirmation.</head>
           <p>La confirmation a pour objet d’affirmer, c’est-à-dire de prouver la vérité énoncée dans la <hi rend="i">proposition</hi> ou les faits racontés dans la <hi rend="i">narration</hi>. Elle est la partie la plus importante du discours, celle qui est comme le fondement et qui, à ce titre, réclame toute la puissance, toute l’efficacité de l’art oratoire, car c’est à elle qu’il appartient d’opérer la conviction, de faire éclater dans tout son lustre la vérité en l’appuyant sur la preuve et sur le raisonnement. Les autres parties n’en sont guère que l’accessoire.</p>
           <p>La confirmation se propose tout naturellement trois objets : le <hi rend="i">choix des preuves, leur arrangement, leur développement</hi>.</p>
@@ -684,7 +684,7 @@
             <p>On voit que l’auteur, sans être moins correct, moins élégant pour cela, ne s’est préoccupé que d’une chose, d’agir sur l’esprit de ses auditeurs par la force, par la puissance du raisonnement. C’est le triomphe que doit se proposer l’éloquence.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre V. De la réfutation.</head>
           <p>La réfutation a pour objet <hi rend="i">de répondre aux objections de l’adversaire et de les détruire</hi>. Ces objections portent ou sur des faits ou sur des raisons.</p>
           <p>S’il s’agit de faits, on les peut réfuter de trois manières : 1º On les niera absolument en démontrant qu’ils sont absurdes, incroyables, qu’ils répugnent ; 2º À défaut de ce moyen, on se bornera à les excuser en montrant qu’on a eu droit d’agir ainsi ou qu’il n’a pas été possible de faire autrement ; 3º On pourra, à l’occasion, dédaigner de répondre en se prévalant de sa dignité, de sa fierté, comme fit autrefois le grand Scipion qui, en butte aux calomnies de quelques misérables factieux, ne s’abaissa pas jusqu’à réfuter ce qu’on lui reprochait, mais se contenta de dire : <quote>« C’est à pareil jour, Romains, que je triomphai d’Annibal : il ne convient pas de consacrer cette journée à des disputes, à des procès : mais allons de ce pas au Capitole en rendre des actions de grâces aux dieux. »</quote></p>
@@ -699,7 +699,7 @@
             <p>D’autre part, il est souvent fort à propos de faire qu’elles s’accompagnent l’une l’autre ; et certains rhéteurs, avec quelque raison, n’en font point deux parties distinctes. <quote>« Comme les objections ne peuvent être réfutées, dit Cicéron (<hi rend="i">Or.</hi>, <hi rend="sc">ii</hi>, 81), sans que vous apportiez vos moyens, ni ces moyens établis, sans que vous réfutiez celles-là, ce sont donc deux choses unies par la nature, par l’utilité qu’on en tire, par l’usage qu’on en fait. »</quote></p>
           </div>
         </div>
-        <div type="chapter">
+        <div>
           <head>Chapitre VI. De la péroraison.</head>
           <p>La péroraison qui clôt le discours, a pour but « d’achever de convaincre en résumant les principaux moyens, et de persuader en recourant à tout ce que l’éloquence a de séduction et d’entraînement. »</p>
           <p>Elle a, comme on voit, une double tâche à remplir : la première, c’est de grouper en un tableau raccourci, mais bien serré, bien net, bien lucide, les principales preuves qu’on a développées dans le corps du discours, afin de porter dans les esprits le dernier degré de conviction. Cette <hi rend="i">récapitulation</hi> (du grec ἀνακεφάλωσις) est indispensable dans les grandes questions, dans les longs plaidoyers qui, par la diversité des moyens mis en œuvre, peuvent laisser quelque obscurité, quelque confusion dans l’esprit des auditeurs ou des juges. Elle réclame un grand discernement dans le choix, une grande variété dans les tours de phrases, dans l’exposition sommaire.<quote> « Mais, dit Cicéron, sous quelque forme qu’on la présente, on se gardera de reprendre toute l’argumentation, il suffit de rappeler ce qu’elle a de plus solide : résumer un discours, ce n’est pas le recommencer. »</quote> (<hi rend="i">De Invent.</hi>, 1, 52.)</p>
@@ -1392,7 +1392,7 @@
           <head>Des figures. Diverses sortes.</head>
           <p>Les figures entrent essentiellement dans la composition du style. Comme lui, elles ont leur source dans la façon particulière de penser, de sentir et de s’exprimer et, si nous nous en référons à la signification du mot, nous dirons qu’elles sont l’âme, la vie, le mouvement et comme les <hi rend="i">gestes</hi> ou les <hi rend="i">attitudes</hi> du discours, <quote><hi rend="i">quasi gestus orationis</hi></quote>, selon l’expression de Cicéron, <hi rend="i">Orat.</hi>, c. 25.</p>
           <p>Parmi les <hi rend="i">figures</hi>, les unes se trouvent spécialement dans la <hi rend="i">pensée</hi>, les autres, bien que dépendantes de celle-ci à certains égards, se rencontrent plus particulièrement dans l’<hi rend="i">expression</hi>. Aussi les dénomme-t-on <hi rend="i">figures de pensée</hi> et <hi rend="i">figures de mot</hi> ou <hi rend="i">de diction</hi>.</p>
-          <div type="chapter">
+          <div>
             <head>Chapitre premier. — Figures de pensée.</head>
             <p>Les figures de <hi rend="i">pensée</hi>, aussi variées que le style, revêtent le même caractère que lui. Les unes qui s’appliquent au raisonnement, à l’établissement de la preuve, à la discussion du sujet ou de la cause, appartiennent au <hi rend="i">style simple</hi>. D’autres, qui ont pour but de flatter l’imagination, de plaire à l’esprit ou de gagner les cœurs, sont des figures d’ornement et se rapportent au <hi rend="i">style tempéré</hi> ou <hi rend="i">fleuri</hi>. D’autres enfin, plus vives, plus énergiques, qui remuent plus efficacement le cœur, plus propres par cela même aux grands mouvements, trouvent leur place dans le <hi rend="i">style sublime</hi>.</p>
             <div>
@@ -2073,7 +2073,7 @@
               </div>
             </div>
           </div>
-          <div type="chapter">
+          <div>
             <head>Chapitre II. Figures de mots.</head>
             <p>Les figures dites de <hi rend="i">mots</hi> ou d’<hi rend="i">expression</hi> sont tellement dépendantes du mot ou du tour de phrase, que si l’on change l’un ou l’autre, elles disparaissent. Ces figures sont : l’<hi rend="i">adjonction</hi>, la <hi rend="i">disjonction</hi>, la <hi rend="i">complexion</hi>, la <hi rend="i">conversion</hi>, la <hi rend="i">répétition</hi>, la <hi rend="i">réversion</hi>, l’<hi rend="i">apposition</hi>.</p>
             <div>
