@@ -1,5 +1,3 @@
-# ecole
-
 # Administration
 
 http://obvil.paris-sorbonne.fr/corpus/ecole/pull.php<br/>
@@ -20,22 +18,24 @@ A l’issue de l’installation décrite plus bas, l’arbre de fichiers aboutir
 ```
 Livrable/ (pour epub, lecture seule, git clone https://github.com/oeuvres/Livrable.git)
 Teinte/ (publication web, lecture seule, git clone https://github.com/oeuvres/Teinte)
-oeuvre/ (le corpus, accessible en écriture au serveur apache)
-   * _conf.php (source du fichier de configuration)
-   * .htaccess (redirections Apache pour URL propres)
-   * conf.php (fichier de configuration modifié, avec le mot de passe)
-   * index.php (page de publication)
-   * pull.php (page d’administration)
+
+corpus/ (le corpus, accessible en écriture au serveur apache)
+   _conf.php (source du fichier de configuration)
+   .htaccess (redirections Apache pour URL propres)
+   conf.php (fichier de configuration modifié, avec le mot de passe)
+   index.php (page de publication)
+   pull.php (page d’administration)
+   
    # dossier générés
-   * article/ (les textes affichés)
-   * toc/ (dossier généré, les tables des matières)
-   * epub/ (livres électroniques ouvert, epub)
-   * kindle/ (livres électroniques kindle, mobi)
-   * xml/ (sources XML/TEI des textes)
-   * notes/ (spécifique au projet Challe, des notes multimédia)
+   
+   article/ (les textes affichés)
+   toc/ (dossier généré, les tables des matières)
+   epub/ (livres électroniques ouvert, epub)
+   kindle/ (livres électroniques kindle, mobi)
+   xml/ (sources XML/TEI des textes)
 ```
    
-```
+```sh
 # Dans le dossier web de votre serveur hhtp.
 # Créer à l’avance le dossier de destination avec les bons droits
 mkdir corpus
