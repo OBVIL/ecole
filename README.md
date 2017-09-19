@@ -71,7 +71,24 @@ Aller voir votre site dans un navigateur, ex:
 ## Erreurs rencontrées
 
 Dans l’interface web de mise à jour
-<br/>error: cannot open .git/FETCH_HEAD: Permission denied
-<br/>Problème de droits, Apache ne peut pas écrire dans le dossier git, solution, dans le dossier :
+
+error: cannot open .git/FETCH_HEAD: Permission denied
+<br/>Problème de droits, Apache ne peut pas écrire dans le dossier git
+<br/>solution, dans le dossier :
 <br/>sudo chown -R apache .
 
+article/ impossible à créer.
+<br/>Problème de droits, Apache ne peut pas écrire dans le dossier git
+<br/>solution, dans le dossier
+<br/>sudo chown -R apache .
+
+```
+From https://github.com/OBVIL/corpus
+   3d04adf..be29dad  gh-pages   -> origin/gh-pages
+error: Your local changes to the following files would be overwritten by merge:
+	.htaccess
+Please, commit your changes or stash them before you can merge.
+Aborting
+Updating 3d04adf..be29dad
+```
+Vous avez changé vous même un fichier sur votre serveur, par FTP ou SSH, il n’est plus synchrone avec le Git, le supprimer du serveur et l’établir comme vous le souhaitez dans le git.
