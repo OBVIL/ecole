@@ -1,7 +1,6 @@
 # Administration
 
-http://obvil.paris-sorbonne.fr/corpus/ecole/pull.php
-
+(le lien n'est pas donné ici pour tout l’internet), aller voir la page pull.php sur l’installation.
 Le programme délivrera deux séquences d’informations
 
 * les messages de la mise à jour distante : un git pull.
