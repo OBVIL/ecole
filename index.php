@@ -53,7 +53,15 @@ echo $conf['title'];
         <aside id="aside">
           <?php
 if ( $doc ) {
-  // if (isset($doc['download'])) echo $doc['download'];
+  echo "\n".'<nav id="download"><small>Télécharger :</small>
+  <a target="_blank" href="http://obvil.github.io/ecole/manuels/'.$doc['code'].'.xml" title="XML/TEI">tei</a>,
+  <a target="_blank" href="epub/'.$doc['code'].'.epub" title="Livre électronique">epub</a>,
+  <a target="_blank" href="kindle/'.$doc['code'].'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>,
+  <a target="_blank" href="markdown/'.$doc['code'].'.md" title="Markdown">texte brut</a>,
+  <a target="_blank" href="iramuteq/'.$doc['code'].'.txt" title="Iramuteq">iramuteq</a>,
+  <a target="_blank" href="html/'.$doc['code'].'.html">html</a>.
+  </nav>';
+  echo '<p> </p>';
   // auteur, titre, date
   echo '
 <header>
@@ -68,8 +76,17 @@ if ( $doc ) {
   // table des matières, quand il y en a une
    if ( file_exists( $f="toc/".$doc['code']."_toc.html" ) ) readfile( $f );
 }
-// accueil ? formulaire de recherche général
+// accueil, formulaire de recherche général
 else {
+  echo "\n".'<nav id="download"><small>Téléchagements :</small>
+  <a target="_blank" href="http://obvil.github.io/ecole/" title="XML/TEI">tei</a>,
+  <a target="_blank" href="epub/" title="Livre électronique">epub</a>,
+  <a target="_blank" href="kindle/" title="Mobi, format propriétaire Amazon">kindle</a>,
+  <a target="_blank" href="markdown/" title="Markdown">texte brut</a>,
+  <a target="_blank" href="iramuteq/">iramuteq</a>,
+  <a target="_blank" href="html/">html</a>.
+  </nav>';
+  echo '<p> </p>';
   echo'
 <form action="">
   <input style="width: 100%;" name="q" class="text" placeholder="Rechercher de mots" value="'.str_replace( '"', '&quot;', $base->p['q'] ).'"/>
