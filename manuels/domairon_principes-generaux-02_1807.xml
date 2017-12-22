@@ -123,7 +123,7 @@
           <head>Section I.
 <lb/>Des Ouvrages en Prose.</head>
           <p><hi rend="sc">Pour</hi> n’omettre aucun des principaux ouvrages en prose, je parlerai du <hi rend="i">discours oratoire</hi> et de ses différentes <hi rend="i">espèces</hi>, du <hi rend="i">genre historique</hi>, des <hi rend="i">ouvrages didactiques</hi> et du <hi rend="i">roman</hi>.</p>
-          <div type="chapter">
+          <div>
             <head>Chapitre I.
 <lb/>Du Discours oratoire.</head>
             <p><hi rend="sc">Le</hi> discours oratoire est le vaste champ où l’éloquence peut étaler ses plus grandes richesses les distribuant, néanmoins, d’une manière proportionnée au sujet qu’elle traite, et. au lieu où elle se montre ; soit que, dans nos temples, elle annonce aux peuples les vérités augustes de la religion, et qu’elle loue les saints et les héros ; soit que, dans le sanctuaire de la justice, elle défende la fortune, la vie et l’honneur des citoyens ; soit que, dans les sociétés littéraires, elle embrasse des objets relatifs aux sciences et aux arts ; soit qu’enfin, dans les assemblées des nations, ou dans les cabinets des rois, elle discute les intérêts des peuples et des souverains. On voit par là, que le discours oratoire est un discours composé pour des occasions publiques et brillantes. Quelque matière que traite l’orateur, il faut d’abord qu’il trouve les choses qu’il doit dire, c’est l’<hi rend="i">invention</hi> ; qu’il les mette ensuite dans un ordre convenable, c’est la <hi rend="i">disposition</hi> ; qu’il les exprime enfin de la meilleure manière, c’est l’<hi rend="i">élocution</hi>.</p>
@@ -469,7 +469,7 @@
               <p>Je me bornerai donc à dire ici que, pour réussir dans l’élocution, il faut bien penser, bien sentir, et écrire comme l’on pense et comme l’on sent ; qu’il ne faut ni prodiguer les figures, ni les placer sans discernement ; elles doivent naître du fond du sujet, tirer leur source dans le cœur même de l’orateur, dans les passions qui l’animent, dans les sentiments dont il est pénétré. Il faut surtout s’attacher à bannir du discours oratoire ces pensées stériles, qui ne sont que brillantes, et qui ne disent rien pour l’instruction de l’auditeur. En un mot, l’orateur doit avoir sans cesse présente à l’esprit cette réflexion de Cicéron<note place="bottom">De Orat. L. 3, Nº 12.</note>: Le discours est un composé de choses et de paroles : les paroles n’ont point de fondement, si elles ne sont appuyées sur les choses ; et les choses n’ont point de grâce, si elles ne sont ornées par les paroles.</p>
             </div>
           </div>
-          <div type="chapter">
+          <div>
             <head>Chapitre II.
 <lb/>Des différentes espèces de Discours Oratoires.</head>
             <p><hi rend="sc">On</hi> réduit ordinairement tous les grands discours, tous les discours vraiment oratoires à trois genres, qui sont le genre <hi rend="i">démonstratif</hi>, le genre <hi rend="i">délibératif</hi>, le genre <hi rend="i">judiciaire</hi>. Dans le démonstratif, l’orateur blâme, loue ; tout s’y rapporte à l’honnêteté. Dans le délibératif, il engage à agir ou à ne pas agir ; tout s’y rapporte à l’utilité. Dans le judiciaire, il accuse, il défend ; tout s’y rapporte à l’équité. Quoique ces trois genres soient distingués entre eux, ils se trouvent néanmoins très souvent ensemble. Quand un orateur, par exemple, loue la vertu, il ne le fait que pour la conseiller, et nous animer à l’embrasser : voilà le genre démonstratif et le délibératif réunis. Ainsi je ne m’astreindrai point à la division de ces trois genres, pour faire connaître les différentes espèces de discours, que chacun d’eux peut renfermer. Je me contenterai de dire successivement un mot des discours <hi rend="i">sacrés</hi>, des discours du <hi rend="i">barreau</hi>, des discours <hi rend="i">académiques</hi>, et des discours <hi rend="i">politiques</hi>.</p>
@@ -705,7 +705,7 @@
               </div>
             </div>
           </div>
-          <div type="chapter">
+          <div>
             <head>Chapitre III.
 <lb/>Du Genre historique.</head>
             <p><hi rend="sc">Les</hi> bornes resserrées de cet ouvrage ne me permettent point de traiter le <hi rend="i">genre historique</hi>, dans toute l’étendue et avec tous les développements dont il serait susceptible. Je ne peux que tracer succinctement les préceptes généraux sur la <hi rend="i">manière d’écrire l’histoire</hi>, et en ajouter ensuite quelques-uns de particulier dans l’énumération de ses <hi rend="i">différentes espèces</hi>. Mais ces courtes réflexions suffiront pour nous faire juger qu’un esprit vaste, ferme et pénétrant ; une raison saine et lumineuse ; un jugement droit, solide et profond ; en un mot, un génie heureux, soutenu d’un goût exquis, enrichi d’une infinité de connaissances, et joint à toutes les qualités du cœur, qui distinguent le parfait honnête homme, sont absolument nécessaires à l’écrivain qui veut obtenir dans ce genre des succès non moins durables que brillants.</p>
@@ -883,7 +883,7 @@
               </div>
             </div>
           </div>
-          <div type="chapter">
+          <div>
             <head>Chapitre IV.
 <lb/>Des Ouvrages Didactiques.</head>
             <p><hi rend="sc">Les</hi> ouvrages didactiques, dans le genre littéraire, sont ceux où l’écrivain expose les principes et les règles d’un art. Il est aisé de sentir qu’ici le génie n’a rien à créer pour le fond. Les règles de l’éloquence, de la poésie et des autres arts ayant été prises dans la nature du cœur humain, ont toujours été et seront toujours aussi invariables que la raison même. On ne peut point les abroger pour y en substituer de nouvelles. Il ne s’agit que de les expliquer, de les développer. Le mérite de ces sortes d’ouvrages consiste donc principalement dans la <hi rend="i">méthode</hi> et dans le <hi rend="i">style</hi>.</p>
@@ -944,7 +944,7 @@
               <p><hi rend="i">Fénelon</hi><note place="bottom">Orthographié <hi rend="i">Fénélon</hi> (NdE).</note> a fait des <hi rend="i">Dialogues sur l’éloquence</hi>, où tout est sagement pensé, exprimé avec la plus belle simplicité, et ramené à l’instruction. Ses <hi rend="i">Dialogues des morts</hi> sont pleins de finesse et d’enjouement. Le même éloge est bien dû aux <hi rend="i">Dialogues des morts</hi> par <hi rend="i">Fontenelle</hi>. Tous ces ouvrages sont d’excellents modèles de dialogue oratoire.</p>
             </div>
           </div>
-          <div type="chapter">
+          <div>
             <head>Chapitre V.
 <lb/>Du Roman.</head>
             <p><quote><hi rend="i"><hi rend="sc">Le</hi> divertissement du lecteur, que le romancier habile semble se proposer pour but, n’est qu’une fin subordonnée à la principale, qui est l’instruction de l’esprit et la correction des mœurs.</hi></quote> Telle est l’importante vérité que nous apprend le savant Huet<note place="bottom">Orthographié <hi rend="i">Huët</hi> (NdE).</note>, évêque d’Avranches, dans son <hi rend="i">Traité de l’origine des romans</hi>. Ce serait donc une erreur et une bien funeste erreur de croire que le roman est un récit de diverses aventures, imaginées seulement pour amuser. La fin que l’écrivain doit s’y proposer, est d’instruire sous le voile de la fiction, de polir l’esprit et de former le cœur, en présentant un tableau de la vie humaine. Censurer les ridicules et les vices ; montrer le triste effet des passions désordonnées ; s’attacher toujours à inspirer l’amour de la vertu, et faire sentir qu’elle seule est digne de nos hommages, qu’elle seule est la source de notre bonheur ; tel est le principal devoir du romancier. Ce n’est qu’en le remplissant, qu’il peut faire un ouvrage qui tourne à sa propre gloire, et à l’avantage des mœurs et de la société.</p>
@@ -1577,7 +1577,7 @@
               </div>
             </div>
           </div>
-          <div type="chapter">
+          <div>
             <head>Chapitre I.
 <lb/>Des Poésies fugitives.</head>
             <p><hi rend="sc">Il</hi> n’est pas aussi aisé qu’on pourrait se l’imaginer de réussir dans les poésies fugitives. Outre qu’elles exigent, chacune dans son espèce, un talent particulier, on n’y souffre pas les moindres inégalités, les plus légers défauts. Il faut qu’une petite pièce de vers soit aussi parfaite qu’elle puisse l’être. Si elle ne l’est point, on la regarde, avec raison, presque comme mauvaise. Ces petits ouvrages poétiques sont : 1º. L’<hi rend="i">énigme</hi>, le <hi rend="i">logogriphe</hi>, et la <hi rend="i">charade</hi>. 2º. L’<hi rend="i">épigramme</hi>, le <hi rend="i">madrigal</hi> et le <hi rend="i">sonnet</hi>. 3º. Le <hi rend="i">rondeau</hi> et le <hi rend="i">triolet</hi>. 4º. L’<hi rend="i">épitaphe et</hi> l’<hi rend="i">inscription</hi>. 5º. L’<hi rend="i">épithalame</hi> et la <hi rend="i">chanson</hi>. Je ne parle point de la <hi rend="i">balade</hi>, du <hi rend="i">chant royal</hi>, du <hi rend="i">lai</hi>, du <hi rend="i">virelai</hi>, et autres petites pièces de vers, qui ne sont plus guère d’usage.</p>
@@ -2059,7 +2059,7 @@
               </div>
             </div>
           </div>
-          <div type="chapter">
+          <div>
             <head>Chapitre II.
 <lb/>Des petits Poèmes.</head>
             <p><hi rend="sc">Les</hi> petits poèmes, ainsi nommés, parce qu’ils n’ont pas une étendue bien considérable, sont l’<hi rend="i">Apologue</hi>, l’<hi rend="i">Églogue</hi> et l’<hi rend="i">Idylle</hi>, l’<hi rend="i">Épître</hi>, la <hi rend="i">Satire</hi>, l’<hi rend="i">Elégie</hi>, et l’<hi rend="i">Ode</hi>. On verra que, pour y exceller, il faut avoir reçu de la nature un grand talent poétique.</p>
