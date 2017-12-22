@@ -1,10 +1,42 @@
-# Administration
 
-(le lien n'est pas donné ici pour tout l’internet), aller voir la page pull.php sur l’installation.
-Le programme délivrera deux séquences d’informations
 
-* les messages de la mise à jour distante : un git pull.
-* la liste des fichiers qui seront transformés, avec si nécessaires les messages d’erreurs, souvent, fichier XML mal formé, ou message très verbeux de transformation kindle (exigeante : pas de lien mort, langue &lt;TEI xml:lang="fr">.
-
-Pour la réinstallaiton du corpus, voir
-https://github.com/oeuvres/Teinte
+* [amar_cours-rhetorique_1811](manuels/amar_cours-rhetorique_1811.xml)
+* [aristote_poetique-et-rhetorique-trad-ruelle_1883](manuels/aristote_poetique-et-rhetorique-trad-ruelle_1883.xml)
+* [aristote_poetique-trad-batteux_1875](manuels/aristote_poetique-trad-batteux_1875.xml)
+* [barrau_exercices-composition_1853](manuels/barrau_exercices-composition_1853.xml)
+* [billet_de-la-versification_1865](manuels/billet_de-la-versification_1865.xml)
+* [blair_lecons-rhetorique-01_1845](manuels/blair_lecons-rhetorique-01_1845.xml)
+* [blair_lecons-rhetorique-02_1845](manuels/blair_lecons-rhetorique-02_1845.xml)
+* [bougeault_principes-composition_1853](manuels/bougeault_principes-composition_1853.xml)
+* [boulet_manuel-pratique-rhetorique_1839](manuels/boulet_manuel-pratique-rhetorique_1839.xml)
+* [cahen_morceaux-premier-cycle_1912](manuels/cahen_morceaux-premier-cycle_1912.xml)
+* [caussade_rhetorique](manuels/caussade_rhetorique.xml)
+* [ciceron_discours-choisis-01_1863](manuels/ciceron_discours-choisis-01_1863.xml)
+* [courtaud-divernesse_cours-elementaire-rhetorique_1872](manuels/courtaud-divernesse_cours-elementaire-rhetorique_1872.xml)
+* [delestree_recueil-compositions-01_1872](manuels/delestree_recueil-compositions-01_1872.xml)
+* [didier_principes-rhetorique_1863](manuels/didier_principes-rhetorique_1863.xml)
+* [domairon_principes-generaux-02_1807](manuels/domairon_principes-generaux-02_1807.xml)
+* [feugere-leon_morceaux-choisis-17e-18e-2e_1867](manuels/feugere-leon_morceaux-choisis-17e-18e-2e_1867.xml)
+* [feugere-leon_morceaux-choisis-17e-18e-rhetorique_1867](manuels/feugere-leon_morceaux-choisis-17e-18e-rhetorique_1867.xml)
+* [feugere_morceaux-contemporains-classes-superieures_1868](manuels/feugere_morceaux-contemporains-classes-superieures_1868.xml)
+* [feugere_morceaux-rhetorique_1882](manuels/feugere_morceaux-rhetorique_1882.xml)
+* [filon_elements-de-rhetorique-francaise-ed6_1854](manuels/filon_elements-de-rhetorique-francaise-ed6_1854.xml)
+* [gasc-desfosses_recueil-sujets-baccalaureat](manuels/gasc-desfosses_recueil-sujets-baccalaureat.xml)
+* [gidel_art-ecrire_1879](manuels/gidel_art-ecrire_1879.xml)
+* [godefroy_morceaux-poetes_cours-superieur_1882](manuels/godefroy_morceaux-poetes_cours-superieur_1882.xml)
+* [guyet_precis-rhetorique_1852](manuels/guyet_precis-rhetorique_1852.xml)
+* [guyet_rhetorique-appliquee-01_1850](manuels/guyet_rhetorique-appliquee-01_1850.xml)
+* [guyet_rhetorique-appliquee-02_1850](manuels/guyet_rhetorique-appliquee-02_1850.xml)
+* [guyet_rhetorique-appliquee-03_1850](manuels/guyet_rhetorique-appliquee-03_1850.xml)
+* [jullien_petit-traite-rhetorique_1853](manuels/jullien_petit-traite-rhetorique_1853.xml)
+* [leclerc_nouvelle-rhetorique_1843](manuels/leclerc_nouvelle-rhetorique_1843.xml)
+* [leclerc_principes-composition-01](manuels/leclerc_principes-composition-01.xml)
+* [malepeyre_resume-rhetorique_1827](manuels/malepeyre_resume-rhetorique_1827.xml)
+* [marcou_morceaux-classes-superieures-poetes_1881](manuels/marcou_morceaux-classes-superieures-poetes_1881.xml)
+* [marcou_morceaux-classes-superieures-prosateurs_1881](manuels/marcou_morceaux-classes-superieures-prosateurs_1881.xml)
+* [merlet_extraits-cours-moyens-prose_1870](manuels/merlet_extraits-cours-moyens-prose_1870.xml)
+* [pellissier_morceaux-prose-et-vers-rhetorique_1885](manuels/pellissier_morceaux-prose-et-vers-rhetorique_1885.xml)
+* [pellissier_morceaux_troisieme_1883](manuels/pellissier_morceaux_troisieme_1883.xml)
+* [pellissier_principes-de-rhetorique-francaise_1867](manuels/pellissier_principes-de-rhetorique-francaise_1867.xml)
+* [verniolles_cours-elementaire-litterature_1865](manuels/verniolles_cours-elementaire-litterature_1865.xml)
+* [verniolles_cours-elementaire-rhetorique_1866](manuels/verniolles_cours-elementaire-rhetorique_1866.xml)
