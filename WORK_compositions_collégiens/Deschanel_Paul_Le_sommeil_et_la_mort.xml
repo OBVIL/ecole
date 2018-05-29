@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Le sommeil et la mort »</title>
+                <author key="Deschanel, Paul (1855-1922)">Paul Deschanel</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Paul Deschanel, « Le sommeil et la mort », <hi rend="i">Le Cahier d'honneur. Revue de l'enseignement secondaire</hi>, 2<hi rend="sup">e</hi> année, n° 42, 1869, p. 7.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1869"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« Le sommeil et la mort »
+        <lb/>[classe de troisième, 1869]</head>
+    <p/>
+    <quote>
+        <l>Littora praepetibus Genii terrestria pennis</l>
+        <l>Lustrabant duo findentes simili aêra lapsu.</l>
+        <l>Alter Somnus erat, menti deus utilis aegrae ;</l>
+        <l>Alter, mortales quem dicunt nomine Mortem.</l>
+        <l>Ambo, nigranti pallentes lumine corpus,</l>
+        <l>Divino ardebant capite et splendentibus auris.</l>
+        <l>Rupto paulatim demissus uterque volatu,</l>
+        <l>Constitit umbroso praerupti in culmine montis,</l>
+        <l>Despicere unde domos hominum sedesque liceret.</l>
+        <l>Vespere quum primo per tecta papavera Somnus</l>
+        <l>Humida fundebat, felici pectore dixit :</l>
+        <l>« O ! quam suave mihi mortalia corda levare,</l>
+        <l>Et generare novos effeto corpore sensus !</l>
+        <l>Viribus exhaustos, fessosque labore diurno</l>
+        <l>(Dulce ministerium !) mihi fas recreare quiete !</l>
+        <l>Concentu unanimi grates mihi proxima mittet</l>
+        <l>Aurora : arridens, rerum natura resurget. »</l>
+        <l>Mors suspirat ad haec, et talia, pectore tristi ;</l>
+        <l>« Fortunate, inquit, tibi solvunt omnia grates ;</l>
+        <l>ast ego terribilis cunctis mortalibus adsum ;</l>
+        <l>Tota infesta mihi rerum natura videtur. »</l>
+        <l>Suscepit Somnus, moesti solatia fratris :</l>
+        <l>« Desine, fide comes, fatum incusare querelis ;</l>
+        <l>num piget ingratis succurrere ? Desine fletùs !</l>
+        <l>Nonne ambo fratres et creti sanguine eodem</l>
+        <l>Adsumus ? Has idem genitor nos misit in oras.</l>
+        <l>Quin etiam, majora bonus solatia fundis ;</l>
+        <l>Namque breves ego per tenebras oblivia vitae</l>
+        <l>Dulcia sollicitae, et curarum dulce levamen</l>
+        <l>Praebeo ; tu vero, mortalia corpora nocte</l>
+        <l>Aeterna rapiens, morbos simul atque dolores</l>
+        <l>Aerumnasque graves ictu restinguis eodem.</l>
+        <l>Te, Mors, sola timet stultorum turba, nec audet</l>
+        <l>Velle mori ! Insanis modo, dira nocte, tenebras</l>
+        <l>Terribiles, ignesque infernos, atque sepulcri</l>
+        <l>Horrorem ostentas, et monstra minantia flammis :</l>
+        <l>Non tua, quae terret stultorum pectora, pompa !</l>
+        <l>Es nempe alterius genitalia semina vitae :</l>
+        <l>Nam mox, linquentes mortalia corpora, vivae</l>
+        <l>Torporem excutient animae, foedasque relinquent</l>
+        <l>Exuvias, turpesque habitus ; iterumque resurget</l>
+        <l>Libera mens, rupto tandem rediviva sepulcro !</l>
+        <l>Quumque novus nigras noctis discusserit umbras,</l>
+        <l>Aurora fulgente, dies, tibi munere grates</l>
+        <l>Pro tanto solvent animae ; quae vincula dudum</l>
+        <l>Corporea exutae, jam libertate fruentur ! »</l>
+        <l>Dixit, et arridens, fratrem complexibus arctis</l>
+        <l>Ad pectus premit ; inde, alis sublatus uterque,</l>
+        <l>Aethereas revolat, penna fugiente, per auras.</l>
+    </quote>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

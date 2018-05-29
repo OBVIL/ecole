@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Entrevue d’Hamlet avec le fantôme de son père »</title>
+                <author key="Deschanel, Paul (1855-1922)">Paul Deschanel</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Paul Deschanel, « Entrevue d’Hamlet avec le fantôme de son père », <hi rend="i">Le Cahier d'honneur. Revue de l'enseignement secondaire</hi>, 2<hi rend="sup">e</hi> année, n° 40, 1869, p. 5.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1869"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« Entrevue d’Hamlet avec le fantôme de son père »
+        <lb/>[classe de troisième, juin 1869]</head>
+    <p/>
+    <quote>
+        <l>Nox erat, et lunae pallebant lumine turres ;</l>
+        <l>Terra, silente polo procul, Oceanusque tacebant ;</l>
+        <l>At vigil excubias celsis in moenibus Hamlet</l>
+        <l>Solus agit ; nihil auditur, nisi fractus in umbrâ</l>
+        <l>Armorum fragor interdum, gressusque virorum</l>
+        <l>Arces per nigras vastâ sub nocte vagantûm ;</l>
+        <l>Quum subito ante oculos defuncti regis imago</l>
+        <l>Visa per incertas noctis spectabilis umbras,</l>
+        <l>Qualis quum dives quondam rex sceptra tenebat.</l>
+        <l>Adstitit umbra dolens, vultusque induta severos</l>
+        <l>Moesto terribilis conspexit lumine natum.</l>
+        <l>Tum juvenis (miratus enim motusque tuendo) :</l>
+        <l>« Fare, age ; num pater es, cujus mihi, tristis imago,</l>
+        <l>Os habitumque geris ? Qui lethi rumpere vincla</l>
+        <l>Arcta tibi licuit ? tibi quid, sub luce malignâ</l>
+        <l>Est iter in terris ? Quid vult adventus in aedes ? »</l>
+        <l>Illa autem : « Pater ipse adsum ! mihi pallida regna</l>
+        <l>Linquere nocte datur, flammasque, ubi pristina vitae</l>
+        <l>Exuitur labes, et diro exuritur igne.</l>
+        <l>Quod si fas mihi sit verbis te, nate, docere</l>
+        <l>Aeternas quae sit sedes suprema per umbras,</l>
+        <l>Horrerent terrore comae, tuaque ora vicissim</l>
+        <l>Ut mea, pallerent ; sed vivis infera fata</l>
+        <l>Usque ignota manent, semperque ignota manebunt.</l>
+        <l>Saepius hîc noctu regalia tecta pererro</l>
+        <l>Te quaerens, frustra dudum ; ast, excitus ab istis</l>
+        <l>Venisti tandem ; tuaque exspectata parenti</l>
+        <l>Respondit pietas ! mihi nunc datur ora tueri</l>
+        <l>Nate, tua, et notas audire et reddere voces.</l>
+        <l>Disce igitur : frater qui nunc mea regna gubernat,</l>
+        <l>Frater lethales herbas mihi miscuit : hic est</l>
+        <l>Mortis causa meae, partes perjurus in omnes.</l>
+        <l>Huc venio, infelix, terras errare per omnes</l>
+        <l>Jussa, suâ donec nece justa piamina solvant,</l>
+        <l>Qui nostram rapido vitam abrupere veneno,</l>
+        <l>Suppliciumque meum proprio, haud impune nocentes,</l>
+        <l>Supplicio excipiant et mortem sanguine purgent</l>
+        <l>Quam saepe in teneris ludens pueriliter annis,</l>
+        <l>Invictum patri spondebas laetus amorem,</l>
+        <l>Atque tibi sacrum dicebas esse parentem !</l>
+        <l>Sis memor, o fili, neu nostras rejice voces.</l>
+        <l>Eia age ! tempus adest ! quali sis sanguine cretus</l>
+        <l>Ostende ! Haud impar genitoris filius esto !</l>
+        <l>Infidique caput foedo submerge cruore ! »</l>
+    </quote>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Satan fait la revue des anges rebelles »</title>
+                <author key="Deschanel, Paul (1855-1922)">Paul Deschanel</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Paul Deschanel, « Satan fait la revue des anges rebelles », <hi rend="i">Le Cahier d'honneur. Revue de l'enseignement secondaire</hi>, 2<hi rend="sup">e</hi> année, n° 28, 1869, p. 6.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1869"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« Satan fait la revue des anges rebelles » 
+        <lb/>[classe de troisième, janvier 1869]</head>
+    <p/>
+    <quote>
+        <l>Jam tuba terribilis, per pallida regna, fragore</l>
+        <l>Increpuit resonans ; gemitumque dedere cavernae.</l>
+        <l>Explicuere aciem, turba splendente, phalanges</l>
+        <l>Infernae ; vastasque fremunt vexilia per umbras ;</l>
+        <l>Undique Tartareae reboant clamore latebrae</l>
+        <l>Horrisono ; atque riget strictis exercitus hastis ;</l>
+        <l>Jam clypeis densisque seges mucronibus horret ;</l>
+        <l>Ardet apex late galearum, auroque coruscat.</l>
+        <l>Conticuere omnes, arrectisque auribus adstant,</l>
+        <l>Intenti ad signum ducis ; atras ille catervas</l>
+        <l>Luminibus lustrat ; miraturque ordine longo</l>
+        <l>Dispositas circum, hirstutasque micantibus armis ;</l>
+        <l>Gaudet ovans tantis legionibus atque superbit ;</l>
+        <l>Ipse, haud absimilis turri, supereminet omnes,</l>
+        <l>Perstringitque oculos. Sedenim splendoris in ore</l>
+        <l>Antiqui stat nescio quid ; de culmine coeli</l>
+        <l>Prolapsum fas nôsse deum ; caligine tristi</l>
+        <l>Obscurata nitet majestas tempora circum :</l>
+        <l>Qualis, mane novo, sol autumnalis in orbem</l>
+        <l>Imbelles fundit radios, aegreque malignam</l>
+        <l>Mittit inops, inter brumalia nubila, lucem ;</l>
+        <l>Aut quum, deficiens, nitidam ferrugine frontem</l>
+        <l>Obtegit, atque monet caecos instare tumultus,</l>
+        <l>Pallentesque agitat subito terrore tyrannos.</l>
+        <l>Talis adhuc Satanas moesto fulgore nitebat ;</l>
+        <l>Ast impressa tamen vestigia fulminis ori</l>
+        <l>Sulcato haerebant ; liventibus atra sedebat</l>
+        <l>Victi cura genis. Sed dira superbia torvis</l>
+        <l>Usque superciliis, vindictaeque aspra cupido</l>
+        <l>Eminet : exsilium sedet alta mente repostum</l>
+        <l>Arcibus a superis, spretique injuria fastûs :</l>
+        <l>Stant animo causae irarum saevique dolores</l>
+        <l>Ex quo fulminea dejectus Lucifer ira</l>
+        <l>Cogitur aeternis moerens habitare sub umbris.</l>
+    </quote>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

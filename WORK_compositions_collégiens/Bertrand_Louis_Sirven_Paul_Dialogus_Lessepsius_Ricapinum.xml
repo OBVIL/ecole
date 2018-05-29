@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Dialogus inter Lessepsium et Ricapinum »</title>
+                <author key="Bertrand, Louis">Louis Bertrand</author>
+                <author key="Sirven, Paul">Paul Sirven</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Louis Bertrand et Paul Sirven, <hi rend="i">Dialogus inter Lessepsium et Ricapinum, poème récité au banquet de la Saint-Charlemagne, le 31 janvier 1885, par MM. Louis Bertrand et Paul Sirven, élèves du lycée Henri IV</hi>, Briey, impr. E. Branchard, 1885.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1885"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>« Dialogus inter Lessepsium et Ricapinum »</head>
+                <p/>
+                <p rend="right i">À monsieur Marot, professeur de Rhétorique au lycée Henri IV, hommage respectueux.</p>
+                <p/>
+                <p>Comment M. de Lesseps rencontra Jean Richepin, devenu ermite, et de la conversion qui s’ensuivit.</p>
+                <p/>
+                <p rend="i">La scène représente un désert.</p>
+                <p/>
+                <label>L</label>
+                <quote>
+                    <l>Pol ! quisnam iste ? ferox garamas sylvestris an ursus ?</l>
+                    <l>Ambigitur : caveamus item, plumbosque paremus.</l>
+                    <l><hi rend="i">(à sa suite)</hi> Accelerate, viri.</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>Quis nostris appulit oris</l>
+                    <l>Candidus ille senex, hirto sub naribus arcu,</l>
+                    <l>Torva tuens, roseo facies cui ditior ostro ?</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>Num fallor ? jam me vafer agnovisse videtur :</l>
+                    <l>Hic est, hic miseros nuper qui tristis amores</l>
+                    <l>Liquit, et in Libyam longis erroribus actus,</l>
+                    <l>Amissam Eurydicen studio deplorat inani.</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>Ecquid ? apud Libycos « Gallorum maximus » ? – Erro.</l>
+                    <l>At verum est : venit, ecce venit Lessepsius ille,</l>
+                    <l>Qui per avenarum tractus et inhospita saxa</l>
+                    <l>Attonitos fluctus a litore junxit utroque ;</l>
+                    <l>Hic rerum inventor, multisque canalibus ausus</l>
+                    <l>Oceanis veteris Tethydisque effringere muros,</l>
+                    <l>Suaziacae laudi cupidus sociare Panamam,</l>
+                    <l>Necnon progenie multa super aethera notus :</l>
+                    <l>O decus, o nostrum, semper robustior annis,</l>
+                    <l>Unde et quo ?</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>Hercle ! prius te respondere jubemus.</l>
+                    <l>Unde ego, non refert. Tu verum in Syrtibus exsul,</l>
+                    <l>Dic : quid agis ?</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>Forsan « BLASPHEMIA » noris, amice,</l>
+                    <l>Nuper scripta mihi : superum contemptor et audax</l>
+                    <l>Quae pecus humanum stulta pietate veretur</l>
+                    <l>Numina, fulmineo detrusi in Tartara telo.</l>
+                    <l>Sed tenuis labor : ecce mihi datur amplior ultro</l>
+                    <l>Materies ; quis enim non novit qualia demens</l>
+                    <l>Aegyptus portenta colat ? Crocodilus habetur</l>
+                    <l>Divorum in numero ; saturam serpentibus ibin</l>
+                    <l>Thuricremas donis Pharius veneratur ad aras :</l>
+                    <l>Hos ego sidereo divos de vertice fundam,</l>
+                    <l>Et levibus jaculis per totum persequar orbem.</l>
+                    <l>Atque giganteo quatiam subsellia risu</l>
+                    <l>Si tantum in libris appello cercopithecos,</l>
+                    <l>Meque nova reducem cingit Lutetia lauro.</l>
+                    <l>Nam quidquid faciam, semper Lutetia cura</l>
+                    <l>Maxima cura mihi : quare dulcissime rerum</l>
+                    <l>Qui nuper, centum queis Sequana flexibus errat</l>
+                    <l>Arva reliquisti, te quoeso, quid novum in urbe ?</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>Illa, parisiacae scenae decus, illa macrescit</l>
+                    <l>Instar acus : restat sola aeternumque manebit</l>
+                    <l>Aurea vox, tragicique viget solertia gestus.</l>
+                    <l>Quare semper ovat ; semper mihi personat aurem</l>
+                    <l>Hic vulgi strepitus, quo, sicut Roscius olim</l>
+                    <l>Excipitur, resonantque dies noctesque Beati</l>
+                    <l>Pulpita Martini : jactat Theodora furores,</l>
+                    <l>Scilicet obsceno turpis sermone virago,</l>
+                    <l>Mille modisque manus pectusque et brachia torquet.</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>At quis erat scriptor tanti causa triumphi ?</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>Supprimite o paulum, zephyri, intermittite flatus :</l>
+                    <l>Expediam dictis nomen memorabile SARDOU,</l>
+                    <l>Cujus inexhausto lacrimosa poemata fletu</l>
+                    <l>Janitor et conjux fumoso humectat in antro.</l>
+                    <l>Nam simul ac rumor lustrat praenuntius urbem</l>
+                    <l>Assignat quae diem « Theodorae », interprete SARAH,</l>
+                    <l>Extemplo latia decurrit ab arce pedestris</l>
+                    <l>Ac numerosa cohors ; populus Batignollibus exit</l>
+                    <l>Plurimus, oppugnatque gravi obsidione vehiclum</l>
+                    <l>Quod gemino tractu ferrato involvitur alvo,</l>
+                    <l>Ne piger occlusae patiatur taedia portae.</l>
+                    <l>Ante fores agitat « Noctis Programmata » praeco.</l>
+                    <l>Irruit in portas magnis clamoribus intrans,</l>
+                    <l>Haud mora, plebs. Intus quae tum spectacula captant</l>
+                    <l>Incertos oculos ? late dispergitur umbra,</l>
+                    <l>Cristalli radiat claro sub carcere fulgor</l>
+                    <l>Lampadis igniferae, subitoque aulaea premuntur,</l>
+                    <l>Apparentque prius centum miracula, vasa,</l>
+                    <l>Scuta virum, galeae, chlamydes, pilenta, leones.</l>
+                    <l>Undique convisens acies stupet igne metalli</l>
+                    <l>Et circumfuso trepidans obtunditur auro.</l>
+                    <l>Verum haec ambages, et in hoc convertitur unum</l>
+                    <l>Totum opus : excutitur capsis numerosa supellex,</l>
+                    <l>Et cumulantur opes elephanto auroque recocto.</l>
+                    <l>Interdum contorta furit per pulpita Sarah</l>
+                    <l>Et transfigit acu Marcellum nomine quemdam.</l>
+                    <l>Tum crepitant plausus ; summa Paradisus ab arce</l>
+                    <l>Hesperidum fructus fundit quasi Copia cornu.</l>
+                    <l>Necnon exultat laudator temporis acti</l>
+                    <l>In cuneis, ille, ille Scholae normalis alumnus,</l>
+                    <l>Ventre capax, vitreoque myops cum lumine SARCEY,</l>
+                    <l>Et clamat populus gemebunda voce per auras :</l>
+                    <l>« Sic Marcellus obit : manibus date lilia plenis. »</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>Vervecum genus ! hoc laudas ; hoc laudibus effers.</l>
+                    <l>Excitat interea saevos impune cachinnos</l>
+                    <l>« Nana Sahib ! »</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>Minimum est : tibi major copia flendit :</l>
+                    <l>Ante, parisiacas pestis vitiavit arenas</l>
+                    <l>Horridior, Libyco nobis afflata vapore.</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>Novimus, et nostras rumor pervenit ad oras.</l>
+                    <l>Dicitur invectus boreas Cholera per urbes</l>
+                    <l>Elegisse domum, terris australibus exsul,</l>
+                    <l>Haud procul inclusa manat qua Sequana ripa.</l>
+                    <l>Dic mihi quas vendens medicatis frugibus offas</l>
+                    <l>Poculaque et latices, congestos pharmacopola</l>
+                    <l>Auxerit in cavea nummos ; ut ventre laborans,</l>
+                    <l>Late effusa cohors ad tetra foramina clausi</l>
+                    <l>Stercoris, assidue steterit nocteque diesque.</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>Infandum, miserande, jubes renovare dolorem ;</l>
+                    <l>Horresco referens : luctus circumvolant atrox</l>
+                    <l>Urbem ; intermittit lites Libitina forenses,</l>
+                    <l>Et captator ovat dum testamenta recludit :</l>
+                    <l>Tum duri veterem medici cecinere querelam :</l>
+                    <l>Illorum auspiciis redolet jejuna lycaei</l>
+                    <l>Mensa cibis : juvenum corpus dum morbida frangunt</l>
+                    <l>Semina jugis aquae : pluit ecce jamaicus imber,</l>
+                    <l>Ilia qui medicat potumque salubrior offert.</l>
+                    <l>Undique phenolium nares corrugat odore</l>
+                    <l>Municipesque rigant merguntque miasmata lymphis.</l>
+                    <l/>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>At multi periere ?</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>Ita : mors etenim horrida vexat</l>
+                    <l>Praesertim tuguri vili sub cespite natos,</l>
+                    <l>Qui deserta petunt dubia sub luce lucernae</l>
+                    <l>Compita, et expoliant tenebras scruntantibus uncis.</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>O utinam potius totum periisset ad unam</l>
+                    <l>Femineum genus !</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>Ex quo tantae exordia bilis ?</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>O mihi praeteritos referat si Jupiter annos !</l>
+                    <l/>
+                </quote>
+                <label>L </label>
+                <quote>
+                    <l>Qua non invidia si nuper in urbe fuisses</l>
+                    <l>Arsisset tibi mens : nempe ecce Palatia Juris</l>
+                    <l>Feminea polluta manu, maduere cruore</l>
+                    <l>Immeriti fortasse viri…</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>Muliercula quaedam ?</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>At matrona potens… verum non sedula nutrix.</l>
+                    <l>Num dubitas ? audi : nosces, incredule, nosces</l>
+                    <l>Horrendum scelus, atque furens quid femina possit…</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>Materies hinc digna tua, Coppaee, camena !</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>Coppoeum noli mordere : academicus ipse</l>
+                    <l>Unanimo plauso veneranda exceptus in arce,</l>
+                    <l>Et collega recens, academi in saltibus errat…</l>
+                    <l>Mecum : namque et nos doctis successimus umbris.</l>
+                    <l/>
+                </quote>
+                <label>R</label>
+                <quote>
+                    <l>Fortunate senex ! Frigus captabis opacum.</l>
+                    <l>Hic solitum eloquium, cultae et facundia linguae</l>
+                    <l>Saepe levi somnum suadebit inire susurro.</l>
+                    <l>Foratunate senex, tibi sera academia sedem</l>
+                    <l>Detulit, at longo saltem post tempore defert ;</l>
+                    <l>Fortunate senex…</l>
+                    <l/>
+                </quote>
+                <label>L</label>
+                <quote>
+                    <l>Abeo : haec sunt spicula Parthi !</l>
+                    <l/>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

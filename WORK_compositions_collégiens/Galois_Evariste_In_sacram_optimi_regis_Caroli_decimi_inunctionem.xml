@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« In sacram optimi regis Caroli decimi inunctionem »</title>
+                <author key="Galois, Évariste (1811-1832)">Évariste Galois</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Évariste Galois, « In sacram optimi regis Caroli decimi inunctionem », ms. aux Archives nationales : F<hi rend="sup">17</hi> 7646.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1825"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« In sacram optimi regis Caroli decimi inunctionem »<lb/>[classe de seconde, 6 juin 1825]</head>
+    <p/>
+    <quote>
+        <l>Musa, novum celebra regem ; tibi talia mandat</l>
+        <l>Gratus amor. Templum totiès quod regna parentûm</l>
+        <l>Sacravit, nunc vota novi solemnia regis</l>
+        <l>Accipiet sanctique nepos Lodoicis ad aras</l>
+        <l>Consecrare paras ritu nova regna vetusta.</l>
+        <l>Ecce, quibus quondàm francâ cum gente Clodoveus</l>
+        <l>Est renovatus aquis, Carolus conspergitur, atque</l>
+        <l>Supplice voce Deum exorat. Solium arduus aureum</l>
+        <l>Conscendit, laetusque novo splendore refulget.</l>
+        <l>Ast, avium per templa simul laetissima turba</l>
+        <l>Evolat ecce, novae sacra libertatis imago,</l>
+        <l>Quae Caroli auspiciis stabilis sapiensque manebit.</l>
+        <l>Haud mora : panduntur portae ; tùm tangere cunctis</l>
+        <l>Templa licet, sacrae resonant clamoribus aedes :</l>
+        <l>Vivat Rex : divina simùl tùm templa relinquit</l>
+        <l>Rex Carolus, fulvo cinctus diademate frontem.</l>
+        <l>Hunc alacres circùm Rhemi comitantur ab omni</l>
+        <l>Ordine, dilectum non possunt linquere regem.</l>
+        <l>Haud aliter quondàm patriam post longa revertens</l>
+        <l>Exilia, arva resisti tu dulcia : nemo</l>
+        <l>Tùm lentu servare domum : ridebat ubique</l>
+        <l>Campus, et ingetem liquebant pectora luctum,</l>
+        <l>Nec Carolum poterant expleri corda tuendo.</l>
+        <l>Rex hodiè, majore quidèm nunc pectora replet</l>
+        <l>Laetitiâ, majore tuî flagramus amore.</l>
+        <l>Nempe beatorum annorum jam longus, amicis</l>
+        <l>Sub sceptris, rex summe, tuis innascitur ordo.</l>
+        <l>Gallia, nunc placidos perages melioribus annos</l>
+        <l>Auspiciis, opibusque nitens generosa, superbum</l>
+        <l>Laeta caput tolles. Tibi nunc felicia surgunt</l>
+        <l>Tempora, solve metus, cives in pace beabit</l>
+        <l>Rex Carolus. Placidum semper firmumque manebit</l>
+        <l>Imperium ; metuent non horrida proelia campi.</l>
+        <l>Sed nobis tandèm Rhemis reddêre relictis.</l>
+        <l>Te, Carole, ingenti clamore Lutetia quaerit,</l>
+        <l>Impatiensque morae portis circùm omnibus adstat</l>
+        <l>Gallica gens, laeto ut celebret clamore parentem,</l>
+        <l>Utque revertenti magnos tibi solvat honores.</l>
+        <l>Nos etiàm, optime rex, tibi vota tenerrima laeti</l>
+        <l>Offerimus ; nostrum ne dedignare laborem,</l>
+        <l>Non nos haec, verùm ausus amor ; majora nec ipsis</l>
+        <l>Haud licitum tentare ; decent nam tenuia parvos.</l>
+    </quote>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

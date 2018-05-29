@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« L'exilé »</title>
+                <author key="Baudelaire, Charles (1821-1867)">Charles Baudelaire</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl><hi rend="i">Choix de matières et de pièces de vers latins recueillies par M. Achille Chardin, ancien professeur de seconde au lycée Louis-le-Grand et publiées par ses anciens élèves M. Deltour et M. Marcou</hi>, 3e éd. augmentée, Paris, J. Delalain et fils, 1876, p. 73-75. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k8406552/f87.image">Gallica</ref>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1837"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+ <text>
+    <body>
+      <div>
+        <head>« L’exilé<note place="bottom">Le poème fut composé à partir de la matière suivante : « <hi rend="i">Dum terror Galliae incumbebat, Gallus unus, fugere coactus, cymbam Rheno impositam reliquis nummis emisse dicitur, in eaque cum duobus liberis et uxore commoratus, piscatu victum quaesivisse. Saepius ab altera ripa pulsus, in alteram confugiebat, aut in medio flumine stabat. Nocte in terram descendebat, ut herbas ac folia colligeret quibus ignem accenderet. Infelices illi hoc unum solatii habebant, quod Galliam circumvecti, aura fruerentur aliquando quae patrium solum contigerat</hi> ». Elle s’inspire de Chateaubriand, <hi rend="i">Génie du christianisme ou beautés de la religion chrétienne</hi>, I, V, 14 : « On dit qu’un Français, obligé de fuir pendant la Terreur, avait acheté de quelques deniers qui lui restaient une barque sur le Rhin ; il s’y était logé avec sa femme et ses deux enfants. N’ayant point d’argent, il n’y avait pas pour lui d’hospitalité. Quand on le chassait d’un rivage, il passait, sans se plaindre, sur l’autre bord ; souvent poursuivi sur les deux rives, il était obligé de jeter l’ancre au milieu du fleuve. Il pêchait pour nourrir sa famille ; mais les hommes lui disputaient encore les secours de la Providence. La nuit, il allait cueillir des herbes sèches pour faire un peu de feu, et sa femme demeurait dans des mortelles angoisses jusqu’à son retour. Obligée de se faire sauvage entre quatre nations civilisées, cette famille n’avait pas sur le globe un seul coin de terre où elle osât mettre le pied : toute sa consolation était, errant dans le voisinage de la France, de respirer quelquefois un air qui avait passé sur son pays » (Paris, Migneret, 1803, t. I, p. 319-321).</note> »
+            <lb/>[1837]</head>
+        <p/>
+        <quote>
+            <l>Quum dirus trepidis incumberet undique terror</l>
+            <l>Civibus, et vigili palleret Gallia cura,</l>
+            <l>Ut sua subtraheret plebeiae colla securi,</l>
+            <l>E miseris unus patrios fugisse penates</l>
+            <l>Dicitur, incertamque in aquis tentasse salutem.</l>
+            <l>Scilicet huic parvam suprema pecunia cymbam</l>
+            <l>Aegre suppeditat ; Rheni melioribus undis,</l>
+            <l>Solas divitias, geminam cum conjuge prolem</l>
+            <l>Credit et in fragili tandem componit asylo.</l>
+            <l>Victum infelicem dat raris piscibus unda,</l>
+            <l>Et quam terra negat servant pia flumina vitam.</l>
+            <l>Saepius alterno depulsus littore, remis</l>
+            <l>Oppositum trepidis repetit, vel saepius alto</l>
+            <l>Servat inoffensam subsistens flumine cymbam.</l>
+            <l>Arcetur patria, tanquam non Gallus, arena ;</l>
+            <l>Gallia damnatur excludit : ceu barbara mater,</l>
+            <l>Infantes negat esse suos, et ab ubere pellit.</l>
+            <l>Ast ubi reddiderat nox muta silentia terris,</l>
+            <l>Ille pia in patriam remeabat fraude sub umbras,</l>
+            <l>Littora nota petens, fletuque rigabat amaro</l>
+            <l>Natales terras, felicia littora quondam ;</l>
+            <l>Vellebatque herbas cum frondibus, arida cogens</l>
+            <l>Nutrimenta, quibus, ferventi in fomite flammam</l>
+            <l>Abripiens, coqueret fluvialia munera, pisces.</l>
+            <l>Parva sed ingentis restant solatia casus,</l>
+            <l>Quod circum patriam vecti notumque per amnem,</l>
+            <l>Obscurosque procul colles dilectaque patrum</l>
+            <l>Ejecti castella vident, auraque fruuntur</l>
+            <l>Quae forsan patriis flores libavit in hortis</l>
+        </quote>
+        <p/>
+      </div>
+    </body>
+    </text>
+</TEI>

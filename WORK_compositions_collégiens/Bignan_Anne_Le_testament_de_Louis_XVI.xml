@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Le testament de Louis XVI »</title>
+                <author key="Bignan, Anne (1795-1861)">Anne Bignan</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Anne Bignan, « Le testament de Louis XVI », <hi rend="i">Hermes romanus ou le Mercure latin</hi>, n° 8, janvier 1817, p. 350-351. Source : <ref target="https://books.google.fr/books?id=hxouAQAAIAAJ">Google</ref>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1817"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>« Le testament de Louis XVI » 
+                    <lb/>[2<hi rend="sup">e</hi> prix des nouveaux au concours général, en 1814]</head>
+                <p/>
+                <quote>
+                    <l>Tot Regum soboles, solio dejectus avito,</l>
+                    <l>Moxque sub infenso dicturus judice causam,</l>
+                    <l>Carcere in infami, jàm Rex sine honore, sedebat,</l>
+                    <l>Quondàm gentis amor, Lodoix, quum sceptra teneret,</l>
+                    <l>Nunc indigna ferens saeve ludibria plebis.</l>
+                    <l>Haud procul hinc generosa soror conjuxque fidelis,</l>
+                    <l>Vinclorum comites, stabant in carcere, fratre</l>
+                    <l>Digna soror tanto, tanto uxor conjuge digna.</l>
+                    <l>Coràm matre duplex deplorandusque jacebat</l>
+                    <l>Infelicis honor thalami, pars maxima casûs,</l>
+                    <l>Filia cum nato. Quàm vellet uterque catenas</l>
+                    <l>Rupisse, et collis supremùm haesisse paternis !</l>
+                    <l>Sed tanquàm natos miseros, miserumque parentem</l>
+                    <l>Immensum longo mare dividat intervallo,</l>
+                    <l>Complexu arcentur Regis ; solatia ferre</l>
+                    <l>Non datur, et verbis aegrum lenire dolorem.</l>
+                    <l>Ergò per obscuram noctem, dùm cuncta silebant,</l>
+                    <l>Et dùm custodes circùm per limina fusi</l>
+                    <l>Seram carpebant defessâ mente quietem,</l>
+                    <l>Rex vigili Gallos etiàm tùm amplexus amore,</l>
+                    <l>Invictosque malis servans sub pectore sensus,</l>
+                    <l>Mandata impavidus sic exarant ultima ceris :</l>
+                    <l>« Hanc tibi, supplicio quam plebs insana reposcit,</l>
+                    <l>Hanc animam commendo tibi, Deus optime ! Nôsti,</l>
+                    <l>Qui Regum aeterno scrutaris lumine mentes,</l>
+                    <l>Ipse quidem nôsti, quàm longè à pectore nostro</l>
+                    <l>Crimina, quae vulgi furor impius objicit, absint.</l>
+                    <l>Vixi insons, testorque tuum venerabile numen</l>
+                    <l>Me semper totum patriae invigilâsse saluti.</l>
+                    <l>At quanquàm populo tanti non ulla furoris</l>
+                    <l>Causa subesse potest, Gallos Regique patrique</l>
+                    <l>Est odisse nefas : potiùs me supplice, Gallis,</l>
+                    <l>Gallis, summe Deus, veniam concede, meisque</l>
+                    <l>Parce, precor, populis, caecoque ignosce furori.</l>
+                    <l>Vos, quarum capiti propter me tanta malorum</l>
+                    <l>Vis ruit, insontis quaeso miserescite Regis !</l>
+                    <l>Fratri ignosce, soror ; conjux ignosce marito :</l>
+                    <l>Nec minùs ignoscant communia pignora patri.</l>
+                    <l>Tu, fili, monitus supremaque verba parentis</l>
+                    <l>Fige animo : melior si nostra in sceptra reponat</l>
+                    <l>Te fortuna, omnem, nostrae necis immemor, iram</l>
+                    <l>Pone, nec ullius nostrum lue funere funus.</l>
+                    <l>Sed Gallis, patrio proprioque accensus amore,</l>
+                    <l>Ignosce : ulcisci patrem sic maxima nato</l>
+                    <l>Laus erit : in tumulo mea sic laetabitur umbra. »</l>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

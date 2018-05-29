@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Le vélocipède »</title>
+                <author key="Deschanel, Paul (1855-1922)">Paul Deschanel</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Paul Deschanel, « Le vélocipède », <hi rend="i">Le Cahier d'honneur. Revue de l'enseignement secondaire</hi>, 2<hi rend="sup">e</hi> année, n° 28, 1869, p. 6.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1869"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« Le vélocipède »
+        <lb/> [classe de troisième, janvier 1869]</head>
+    <p/>
+    <p>On nous a envoyé plusieurs nouvelles pièces sur ce sujet. La plus agréable est celle de M. Paul Deschanel, élève de ce lycée Bonaparte qu’un bon juge des choses de l’esprit proclamait naguère le plus spirituel des lycées de France. Après un début qui ne diffère que peu de celui du rhétoricien d’Albi, le jeune Parisien fait dire aux crédules chevaux :</p>
+    <p/>
+    <quote>
+        <l>« Artibus ecce novis inventa est altera nuper</l>
+        <l>Machina ; parva quidem, verum dignissima nostris</l>
+        <l>Laudibus : illa etenim nobis haec otia fecit.</l>
+        <l>Namque rota duplici impositum spectate sedile,</l>
+        <l>Quo, libratus, homo geminos movet, arbiter, axes</l>
+        <l>Cruribus alternis, sibi equus simul atque viator ;</l>
+        <l>Remigioque pedum celeri, levis ipse rotatur ;</l>
+        <l>Mille orbes et mille sinus describit, iterque</l>
+        <l>Veloci pede cicumagit, mirante corona.</l>
+        <l>Jamque hominum ut nostras virtus rapit aemula mentes ;</l>
+        <l>Praemia ponuntur ; fiunt certamina, cursus ;</l>
+        <l>Undique conveniunt artis velocis amantes ;</l>
+        <l>Tum loca sorte legunt ; juxta stat quisque sedile,</l>
+        <l>Pronus et exspectat signum : jam brachia freno</l>
+        <l>Incumbunt… Tandem apparent vexilla per auras…</l>
+        <l>Protinus insiliunt in celsa sedilia… Signo</l>
+        <l>Inde dato ire juvat ; rapido sic turbine nimbus</l>
+        <l>Pulverulenta volans aquilonibus aequora verrit ;</l>
+        <l>Saepe cadunt homines ; risum teneamus, amici !</l>
+        <l>« Mox etiam, sperare licet, meliora gerentur</l>
+        <l>Bella ; viri sine equis alacres in praelia current ;</l>
+        <l>Impositaeque rotis turmae volventur in hostes ;</l>
+        <l>Haud equidem invideo : miror magis ; ite per ignes,</l>
+        <l>Ite, boni, interea, et plagas, et per discrima soli !</l>
+        <l>At nos, interea, sub ramis arboris altae,</l>
+        <l>Corpora curantes, belli meminisse juvabit. »</l>
+    </quote>
+    <p/>
+    <p>Viennent ensuite d’autres jolis vers, mais où l’imagination et la fantaisie l’emportent un peu trop sur le bon sens. Supposer qu’Aethon, Eoüs, Phlégon et Pyroïs, les chevaux de l’antique Phébus, vont à leur tour être mis à la réforme, et seront remplacés par un vélocipède céleste, c’est là une idée assez comique, mais plus faite pour plaire aux compatriotes d’Hoffmann qu’à ceux de Boileau.</p>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

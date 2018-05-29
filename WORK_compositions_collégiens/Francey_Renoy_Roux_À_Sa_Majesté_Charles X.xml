@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« À Sa Majesté Charles X »</title>
+                <author key="Francey">Francey</author>
+                <author key="Renoy">Renoy</author>
+                <author key="Roux">Roux</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Francey, Renoy et Roux, « À Sa Majesté Charles X », ms. aux Archives nationales : F<hi rend="sup">17</hi> 7646.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1825"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« À Sa Majesté Charles X » 
+        <lb/>[classe de quatrième, 6 juin 1825]</head>
+    <p/>
+    <quote>
+        <l>Ecce dies tandem populis optata refulget :</l>
+        <l>Pandite vos sacrae, longo post tempore, valvae !</l>
+        <l>Splendida solemni jàm fervent limina pompâ.</l>
+        <l>Pinguia divinas adolescunt thura per aedes,</l>
+        <l>Totaque communi cum relligione triumpho</l>
+        <l>Reddita supremis exsultat Gallia fatis.</l>
+        <l>Scilicet innocuâ decimos jàm pace per annos</l>
+        <l>Gallia gens, luctu longo defuncta, quiescit.</l>
+        <l>Haud aliter quàm, cum tumidas audita per undas</l>
+        <l>Neptuni vox exoritur… jam nubila cedunt,</l>
+        <l>Jam venti posuêre, omnes jam subjicit undas</l>
+        <l>Oceanus. Placidum stagnat maris intervallum.</l>
+        <l>Sic Caroli ad vocem civilia bella quiêrunt :</l>
+        <l>Quod frater suscepit opus, firmabit et hoeres</l>
+        <l>Consilioque manuque potens, opibusque tonantis,</l>
+        <l>Et fraterna manus quae serit gaudia, laetam</l>
+        <l>Ad frugem fraterna parat deducere cura.</l>
+        <l>At studio fervent promissaque foedera genti</l>
+        <l>Ut melius peragat, Clodovei numen adorant,</l>
+        <l>Rhemenses supplex Carolus procedit ad aras.</l>
+        <l>Jamque augusta patent avidae penetralia plebi :</l>
+        <l>Stat regem exspectant solemni veste sacerdos :</l>
+        <l>Utque propinquantem divina ad limina vidit,</l>
+        <l>Ad coelum cum voce manus animumque fidelem</l>
+        <l>Sustulit… Et subitò, dictu mirabile, coeli</l>
+        <l>Oeternae patuêre fores et sacra relucent</l>
+        <l>Atria… Praepetibus labens venit angelus alis</l>
+        <l>Relligiosa Dei sub tecta, arisque reponit,</l>
+        <l>Grande ministerium, coelestis munus olivae.</l>
+        <l>Quam simul excipiens praesagâ mente sacerdos</l>
+        <l>Ad Carolum accedit tendensque ad sidera palmas</l>
+        <l>Exclamat : « Sacer, esto sacer. » Tùm tempora regis</l>
+        <l>Adstantûm plaudente choro, diademate cingit,</l>
+        <l>Et : « Meritum, dixit, rex optime, suscipe regnum :</l>
+        <l>Sceptrum dulce bonis, pravis grave ferre memento.</l>
+        <l>Hâc eris arte Dei vere terrestris imago ;</l>
+        <l>Sic fortes populorum animos, devotaque corda</l>
+        <l>Virtutemque diù fidam experiere tuarum. »</l>
+        <l>Dixerat et cuncti : Salvum, Deus optime, regem.</l>
+        <l>Rex vivat ! vox una fuit, vox omnibus una :</l>
+        <l>Vivat per longos actis felicibus annos,</l>
+        <l>Rex coelo dicitur, terris pater, atque volenter</l>
+        <l>Per populos princeps iterum aurea saecula condat.</l>
+    </quote>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

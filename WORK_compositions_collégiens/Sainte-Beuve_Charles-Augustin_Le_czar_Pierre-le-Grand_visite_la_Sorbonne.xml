@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Le czar Pierre-le-Grand visite la Sorbonne »</title>
+                <author key="Sainte-Beuve, Charles-Augustin (1804-1869)">Charles-Augustin Sainte-Beuve</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Charles-Augustin Sainte-Beuve, « Le czar Pierre-le-Grand visite la Sorbonne », <hi rend="i">Annales des concours généraux ou recueil des discours latins, discours français et vers latins couronnés, en rhétorique, aux concours généraux de l’ancienne et de la nouvelle Université</hi>, Paris, Brédif, 1825, p. 385-387. Source : <ref target="https://books.google.fr/books?id=Opg0AAAAMAAJ">Google</ref>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1822"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« Le czar Pierre-le-Grand visite la Sorbonne »
+        <lb/>[1<hi rend="sup">er</hi> prix des vétérans au concours général, en 1822]</head>
+    <p/>
+    <quote>
+        <l>Qualis in immenso sol indefessus Olympo</l>
+        <l>Uni dimidium semper sibi dividit orbem,</l>
+        <l>Atque vices mutans nunquàm mutabilis ipse</l>
+        <l>Occidit hâc, illâ mox idem parte resurgit :</l>
+        <l>Haud aliter postquàm, Gallis memorabile sidus,</l>
+        <l>Occiderat Lodoix, et moerens nocte profundâ</l>
+        <l>Ingentes secum volvebat Gallia luctus,</l>
+        <l>Nascenti adversae gaudebant sidere gentes</l>
+        <l>Aurorâque suâ. Princeps cognomine magnus</l>
+        <l>Alter hyperboreas tandem dimoverat umbras,</l>
+        <l>Qui simul atque novum statuit sibi condere regnum</l>
+        <l>Atque abolere vetus, jussit peregrina venire</l>
+        <l>Jura imitanda suis, excepit sedulus hospes,</l>
+        <l>Et placidum extremis vectigal traxit ab oris.</l>
+        <l>Nec satis est, majora cupit ; cupit ipse videre</l>
+        <l>Rex, quascumque domum referat mox aemulus, artes,</l>
+        <l>Et pulchrè oblitus regem, illustrisque suorum</l>
+        <l>Desertor, non arma trahit non agmina, pergit</l>
+        <l>Nobile solus iter ; se devovet omnibus unus,</l>
+        <l>Omnibus et puram carpit sine sanguine praedam.</l>
+        <l>Ut verò instanti spatiosa Lutetia, fastus</l>
+        <l>Templorum ingentes veterumque palatia regum,</l>
+        <l>Insuper et spirans Lodoici apparuit umbra ;</l>
+        <l>Ut decus antiquum solii, soliique tenellum</l>
+        <l>Haeredem, gentisque pios respexit amores,</l>
+        <l>Obstupuit tacuitque diù, secumque revolvens :</l>
+        <l>« Haec est maxima gens, inquit, rex maximus hic est. »</l>
+        <l>Nec mora, jam claras devenit regius hospes,</l>
+        <l>Quas quondàm egregius terrae coelique minister</l>
+        <l>Armandus, pius utiliter sanctèque profanus,</l>
+        <l>Doctis doctorumque Deo sacraverat, aedes.</l>
+        <l>Hic post fata jacet, medià quasi laude sepultus,</l>
+        <l>Conditor, et proprio quod struxerat ipse potitus</l>
+        <l>Marmore, nescio quid mutum imperitare videtur.</l>
+        <l>Ut statuam princeps saxoque interprete vultus</l>
+        <l>Cernit, et ingenium sentit sub fronte profundum,</l>
+        <l>Stat mente attonitus, longo defixus inhaeret</l>
+        <l>Obtutu, reputatque virum fecundaque laude</l>
+        <l>Tempora, quid talis forti sub rege minister,</l>
+        <l>Quid demùm valeat tali rex ipse ministro.</l>
+        <l>Talia volventem rapit admiratio, bustum</l>
+        <l>Corripit amplexus, lacrymas ex ore decoras</l>
+        <l>Fundit, et illustri defigens oscula saxo :</l>
+        <l>« Magne vir, exclamat, nil dedignare colentem,</l>
+        <l>Sim licet externus, facit admiratio civem !</l>
+        <l>Quin utinàm nostros tua convenisset in annos</l>
+        <l>Vita, necinsigni fraudâssent munere fata !</l>
+        <l>Regnum ego dimidium laetus, tibi, magne, dedissem,</l>
+        <l>Tu mihi regnandi leges reliquumque regendi. »</l>
+        <l>Audiit è coelo votum Deus, atque supernè</l>
+        <l>Nominis haeredem nec non virtutis avitae</l>
+        <l>Richelium misit, magnas qui conderet urbes</l>
+        <l>Ipse carens patriâ, secumque exempla suorum</l>
+        <l>Exul hyperboreas longè transferret ad oras.</l>
+    </quote>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

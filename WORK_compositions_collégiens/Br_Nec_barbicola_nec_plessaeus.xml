@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nec barbicola nec plessaeus B*, Ad amicum D. L. H.</title>
+                <author key="[BR…..]">[BR…..]</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>[BR…..], <hi rend="i">Nec barbicola nec plessaeus B*, Ad amicum D. L. H.</hi>, Kal. Juanur. 1809.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1809"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text> 
+        <body>
+            <div>
+     <head>Nec barbicola nec plessaeus B*, Ad amicum D. L. H.</head>
+    <p/>
+    <p rend="right">Scribimus indocti doctique.</p>
+    <p/>
+    <quote>
+        <l>Quid libet et lepido Rectorum dicere versu</l>
+        <l>  Nomina ? Non nobis nomina nota priùs !</l>
+        <l>Jam scola, jam ferulae, procùl hinc durique Magistri !</l>
+        <l>  Heu ! fuge triste genus ! territa Musa fremit.</l>
+        <l>Nunc nunc Grammatici, dubios jactate triumphos</l>
+        <l>  Et curas vigiles ; otia nos canimus.</l>
+        <l>Vos, quoque, stridenti donârunt pectine Musae ;</l>
+        <l>  Luctisonamque dedit justus Apollo tubam.</l>
+        <l>Non equidem invideo, facilis dùm dicat amores</l>
+        <l>  Fistula, dùm foveat carmina nostra Venus.</l>
+        <l>Ah ! dicat, lasciva, jocos meritosque sodales ;</l>
+        <l>  Lusus, laeta, meos ; dicat, amice, tuos !</l>
+        <l>Ite leves Elegi ; vos, ô bona numina, Musae,</l>
+        <l>  Non pudeat, forsan si cano dulce nefas.</l>
+        <l/>
+        <l>Non tribuit Plessae domus nec Barbara nobis,</l>
+        <l>  Cum plausu, parvos, praemia magna, libros ;</l>
+        <l>Verùm gymnasii potuit non janitor unquam</l>
+        <l>  Verberibus miseras excoriare nates.</l>
+        <l>Scripta, manu dubiâ, veterum monumenta virorum</l>
+        <l>  Verso, nilque scio, sed nihil omne meum est.</l>
+        <l>Attamen indocto, divini Musa Maronis,</l>
+        <l>  Indocto, Flacci Musa sonora placet.</l>
+        <l>Dulces Nasonis numeros, modulosque Tibulli</l>
+        <l>  Cantando memini condere saepè diem.</l>
+        <l>Dira pios nobis rapuit Fortuna labores,</l>
+        <l>  Arripuit lepidos, caeca cupido, jocos.</l>
+        <l>Quàm rapidè studii labuntur tempora ! Volvit</l>
+        <l>  Innocuas citiùs barbara Parca dies !....</l>
+        <l/>
+        <l>Sed tecum fruitus sum etiam melioribus annis,</l>
+        <l>  Dùmque frequentarem limina caeca fori.</l>
+        <l>Vita brevis nimium, nullis jactata procellis !</l>
+        <l>  Laeta quies, laeto parta labore, quies !</l>
+        <l>Quanquam, austera nigro cingat diademate frontem,</l>
+        <l>  Ludorum et Veneris non inimica Themis.</l>
+        <l>Tempora laetitiae, dulci celebranda Lyaeo,</l>
+        <l>  Dudùm fugistis sed meminisse juvat !</l>
+        <l/>
+        <l>Saepius, exultìm, primâque in nocte, <hi rend="sc">Gerarde</hi>,</l>
+        <l>  Nos, compellabas, terribilesque manus.</l>
+        <l>Undiquè conveniunt socii, lectisque relictis,</l>
+        <l>  Omnis in arma ruit, te stimulante, cohors.</l>
+        <l>Turba leves meditata dolos, laetamque ruinam !</l>
+        <l>  Turba procax, semper turba parata malo !</l>
+        <l><hi rend="sc">Parrisotus</hi>, (nuper crudeli funere raptus !)</l>
+        <l>  Militibus, memini, dux erat, in tenebris.</l>
+        <l>O fidi comites, cur horrent nomina, versus ?</l>
+        <l>  Raucaque, cur mollis fistula nostra silet ?</l>
+        <l>Verùm, si nequeunt latè volitare per orbem</l>
+        <l>  Nomina, carminibus grandia facta manent.</l>
+        <l>Crebrâ emota, cadunt jam tintinnabula, dextrâ,</l>
+        <l>  Atque fenestrarum jam vitra fracta, sonant.</l>
+        <l>Jamque in nocte vigil, clamat : « Quis limina pulsat ? »</l>
+        <l>  Inscius, et lecto janitor exiliens.</l>
+        <l>Jamque domum redeo defessus, et alter Achilles,</l>
+        <l>  Fescennina canens, exuviasque trahens.</l>
+        <l>Haec sat erunt, cecini tam dulcia furta, nec omnes</l>
+        <l>  Forsitan ista juvant, jam meliora cano.</l>
+        <l/>
+        <l>Aedibus in mediis ubi nunc tonat ore Patronus,</l>
+        <l>  Assiduusque cliens improba bella ciet,</l>
+        <l>Lauta taberna patet, teneris habitata puellis.</l>
+        <l>  Mentiri vario serta colore solent.</l>
+        <l>Grata, sed haud gratìs, semper mulieribus arma,</l>
+        <l>  Vittas suppeditant, candida pepla, togas.</l>
+        <l>Saepius hìc libuit tangere forficulas.</l>
+        <l>  Non, quondàm, Alcides horrenti victor ab hydrâ</l>
+        <l>Insolitâ erubuit stamina nere manu.</l>
+        <l>  Hìc hilares cantus docui resonare tabernam ;</l>
+        <l>Hìc primi versus, hìc mihi primus amor ;</l>
+        <l>  Saepe hìc furtivo, mihi dulcis amica, labello</l>
+        <l>Basia mille, tamen basia rara, dedit.</l>
+        <l>  Ah ! Chloris, memini, per noctem, nota petebam</l>
+        <l>Limina, pulsabam, te vigilante, fores !....</l>
+        <l>  Musa trophoeca tacet ; non vos numerabit, amores,</l>
+        <l>Nasci quos eadem luna morique videt.</l>
+        <l>  Invita, illa silet ; nam si licet esse jocosa,</l>
+        <l>Esse tamen, fateor, carmina casta decet.</l>
+        <l/>
+        <l><hi rend="sc">Verum</hi> crescit opus, verbosae taedia Musae</l>
+        <l>  Jam vereor ; valeo, dulcis amice, vale</l>
+    </quote>
+    <p/>
+</div>
+        </body>
+    </text>
+</TEI>

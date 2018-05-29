@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Bacchus aux enfers »</title>
+                <author key="Deschanel, Paul (1855-1922)">Paul Deschanel</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Paul Deschanel, « Bacchus aux enfers », <hi rend="i">Le Cahier d'honneur. Recueil de devoirs classiques et choix de lectures à l'usage des élèves</hi>, 2<hi rend="sup">ère</hi> année, n° 23 et 24, anno finiente 1868, p. 5.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1868"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« Bacchus aux enfers »
+        <lb/>[classe de troisième, 10 octobre 1868]</head>
+    <p/>
+    <quote>
+        <l>Dicitur infernas sedes et inania regna</l>
+        <l>Invisisse olim Bacchus. Non Herculis olli</l>
+        <l>Arma, nec aurato ramus splendore refulgens ;</l>
+        <l>Sed rubra pampineis redimitus tempora sertis,</l>
+        <l>Pocula magna gerit, dulci spumantia vino.</l>
+        <l>Fluminis ut Stygii metuendas venit ad oras,</l>
+        <l>Clamore horrendo tenebrosi portitor amnis</l>
+        <l>Increpat. Huic pateram Bacchus protendit ; at ille</l>
+        <l>Naribus ambrosium patulis adspirat odorem ;</l>
+        <l>Atque rubescenti vultu, cyathum impiger haurit ;</l>
+        <l>Turpis jam fugit squalor, stant lumina flammâ :</l>
+        <l>Et jam vividior florescit cruda senectus.</l>
+        <l>Dein, ripae advertit puppim : simùl accipit alno,</l>
+        <l>Et salvum oppositâ Bacchum deponit in orâ.</l>
+        <l>Cerberus hic saevus, nigrantis janitor Orci,</l>
+        <l>Tergemino latè fluvialia personat ore</l>
+        <l>Littora ; viventem ut videt, irâ latrat in auras ;</l>
+        <l>Nectaris at Liber guttis arentia monstri</l>
+        <l>Ora rigat ; linguis tum dextram lambere custos,</l>
+        <l>Atque, solo fusus, sese protendere somno</l>
+        <l>Ingens… Indè fugit deus irremaeabile flumen,</l>
+        <l>Perque leves populos, simulacraque functa sepulcris,</l>
+        <l>Persephonen adiit inamoenaque regna tenentem</l>
+        <l>Umbrarum dominum ; divi, fragrante liquore</l>
+        <l>Allecti, gustare volunt. Mox, ambo, madentes,</l>
+        <l>Ingenti sonitu saltant. Vino indè moventur</l>
+        <l>Eumenides, nec jam curant torquere nocentes ;</l>
+        <l>Angues, quin etiam, in pateram descendere tentant,</l>
+        <l>Atque novum linguis laticem libare trisulcis.</l>
+        <l>Constitit Ixion ; quin, saxo considet ipso</l>
+        <l>Sisyphus ; exsultans, pronâ vorat arbore poma</l>
+        <l>Tantalus, et jam vina bibit, vetitae immemor undae.</l>
+        <l>Tartareo ipsa igni tellus ambusta, recenti</l>
+        <l>Ut semel est imbuta mero jam gignere flores</l>
+        <l>Gestit, et insolitas circumdat floribus herbas.</l>
+        <l>Intereà, in terris, dùm Bacchus Tartara lustrat,</l>
+        <l>Omnia senserunt homines mutata ; parumper</l>
+        <l>Purpureo juvenis consistit flore juventae ;</l>
+        <l>Proximus atque senex leto, quando orgia Parcae</l>
+        <l>Laeta canunt, trahit, invitis heredibus, aevum ;</l>
+        <l>Et nos, discipuli, cursum dùm tempora sistunt,</l>
+        <l>Immemores ultrà studiorum asprique laboris,</l>
+        <l>Dulces miramur ferias sinè fine morantes ;</l>
+        <l>Scilicet ille deus nobis haec otia fecit.</l>
+    </quote>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Les montagnes russes »</title>
+                <author key="Bignan, Anne (1795-1861)">Anne Bignan</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Anne Bignan, « Les montagnes russes », <hi rend="i">Hermes romanus ou le Mercure latin</hi>, n° 7, décembre 1816, p. 314-315. Source : <ref target="https://books.google.fr/books?id=hxouAQAAIAAJ">Google</ref>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1816"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>« Les montagnes russes » 
+                    <lb/>décembre 1816</head>
+                <p/>
+                <p>Ces montagnes artificielles ont été élevées près de l’Étoile, aux portes de Paris.</p>
+                <p/>
+                <quote>
+                    <l>Hîc ubi sublimes arcus se tollit ad auras,</l>
+                    <l>Quem Stellam Stellae de nomine diximus, hortus</l>
+                    <l>Panditur, et mirae spectantibus explicat artis</l>
+                    <l xml:lang="it">Prodigium, praebetque novi nova gaudia lusûs.</l>
+                    <l xml:lang="it">Nàmque Parisiacis sua surgere culmina campis</l>
+                    <l>Russia miratur ; miratur et invidet arti</l>
+                    <l xml:lang="it">Natura, usque adeò mens ingeniosa periti</l>
+                    <l xml:lang="it">Artificis novit Russaeos fingere montes !</l>
+                    <l xml:lang="it">Scilicet arboreis junctus compagibus aptè</l>
+                    <l xml:lang="it">Conseritur, duplicique duplex mons vertice surgit</l>
+                    <l xml:lang="it">Lubricus, undè ruunt uno tres impete rapti</l>
+                    <l xml:lang="it">Aethereum per iter, jussoque in tramite currus,</l>
+                    <l xml:lang="it">Tutaque deponunt in molli pondera clivo.</l>
+                    <l xml:lang="it">Hîc ardent Galli Russaea cacumina lapsu</l>
+                    <l xml:lang="it">Linquere praecipiti : dilectum scandere montem</l>
+                    <l xml:lang="it">Passibus accelerant : stant omnes ordine denso,</l>
+                    <l xml:lang="it">increpitantque moras, posito dùm munere tandem</l>
+                    <l xml:lang="it">Alterni aërio devolvi culmine possint.</l>
+                    <l xml:lang="it">Nec mora, curriculo signum datur : ocyùs illi</l>
+                    <l xml:lang="it">Componunt se sede suâ ; currusque sonantes</l>
+                    <l xml:lang="it">Jàm per prona volant, defixaque lumina fallunt.</l>
+                    <l>Labitur ille sedens ; hic curru pendet ab alto,</l>
+                    <l>Unanimesque inter plausus et murmura, gaudet</l>
+                    <l xml:lang="it">Summa triumphali tetigisse repagula cursu.</l>
+                    <l>Foemineis etiàm non lusus displicet ille</l>
+                    <l>Mentibus. Ut mulier sese committere monti</l>
+                    <l>Audet, inexpertos trepidanti lumine lapsus</l>
+                    <l>Haeret despiciens : mox victa cupidine, junctis</l>
+                    <l>Ecce cadit manibus, fuit et cecidisse voluptas ;</l>
+                    <l>Et renovare simùl cursus et gaudia gestit.</l>
+                    <l>Semper ibi magnus vastâ concursus ab urbe ;</l>
+                    <l>Hi nempè ut cernant, illi ut cernantur in hortum</l>
+                    <l>Undique conveniunt : spectacula talia plebes</l>
+                    <l>Densa humeris videt, et visu insatiabilis haeret,</l>
+                    <l>Tàm blandâ mentes novitas dulcedine captat !</l>
+                    <l>Sic ars Russiacos simulavit Gallica montes,</l>
+                    <l>Veraque de fictis nascuntur gaudia ludis.</l>
+                </quote>
+            </div>
+        </body>
+    </text>
+</TEI>

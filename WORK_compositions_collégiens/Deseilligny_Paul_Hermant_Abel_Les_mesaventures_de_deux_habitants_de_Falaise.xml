@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+              <title>« Les mésaventures de deux habitants de Falaise »</title>
+              <author key="Deseilligny, Paul">Paul Deseilligny</author>
+              <author key="Hermant, Abel (1862-1950)">Abel Hermant</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+              <bibl>Paul Deseilligny et Abel Hermant, « Les mésaventures de deux habitants de Falaise », <hi rend="i">Lycée Fontanes. Vers latins lus au banquet de la Saint-Charlemagne</hi>, Paris, imprimerie typographique Kugelmann, 1879.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1879"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+        <head>« Les mésaventures de deux habitants de Falaise »
+<lb/>[1<hi rend="sup">er</hi> février 1879]</head>
+        <p/>
+        <label>Selinius</label>
+        <quote>
+          <l>Hic etiam voluit comites nos jungere fatum</l>
+          <l><hi rend="i">Falasa</hi> quos genuit socios, sociosque Lycaeum</l>
+          <l>Egregias quondam simul informavit ad artes.</l>
+          <l/>
+        </quote>
+        <label>Arminius</label>
+        <quote>
+          <l>Nempe etiam socii fuimus prohibente magistro,</l>
+          <l>Quum tibi molirer vena non divite, versus,</l>
+          <l>– Heu ! quales versus ! – quos tetricus exposcebat</l>
+          <l><hi rend="i">Scaevola</hi> !!<note place="bottom">. Professeur de rhétorique au lycée de Falaise. [Note des auteurs.]</note></l>
+          <l/>
+        </quote>
+        <label>Selinius</label>
+        <quote>
+          <l>                Parisiis quis te sperasset in oris ?</l>
+          <l/>
+        </quote>
+        <label>Arminius</label>
+        <quote>
+          <l>Visere Reginam semper mens arserat Urbem :</l>
+          <l>Nempe supra nostram tantum caput extulit illa,</l>
+          <l>Quantum pileolos quos gignit Falasa, semper</l>
+          <l>Parisiacorum supereminuere galeri.</l>
+          <l>Quantum <hi rend="i">Iabloskoviae</hi> nostras sine luce lucernas !</l>
+          <l>Quae tamen in primis juvenem recreaverat annis</l>
+          <l>Falasa, et extremam recrearit sola senectam,</l>
+          <l>Huc nisi per festos immensa Lutetia menses</l>
+          <l>Diversas gentes totumque vocaverit orbem :</l>
+          <l>Haud mora, Falasiis statui discedere muris ;</l>
+          <l>Nec via longa fuit : deserta conjuge, clausus</l>
+          <l>In fornace vapor ferrato tramite ducit,</l>
+          <l>Meque Parisiaca stupefactum sistit in urbe,</l>
+          <l>Mane novo. <hi rend="i">Trocaderiam</hi> studiosus ad arcem</l>
+          <l>Jam propero, insignem vel <hi rend="i">Martis</hi> nomine <hi rend="i">Campum</hi></l>
+          <l>Nescius optatas quod iter me ducat ad aedes.</l>
+          <l>En currum adspicio, gracilis quem membra caballus</l>
+          <l>Traxit, anhelanti prope ducens ilia cursu.</l>
+          <l>At super insistit, vultuque auriga protervo</l>
+          <l>Ignava dat lora manu ; clamore protervum</l>
+          <l>Arcesso : nil respondet, nil respicit ille.</l>
+          <l/>
+        </quote>
+        <label>Selinius</label>
+        <quote>
+          <l>Nam facit aurigas clamosa Lutetia surdos.</l>
+          <l/>
+        </quote>
+        <label>Arminius</label>
+        <quote>
+          <l>Mox alium supplex magno clamore vocavi :</l>
+          <l>Ille meo ridens clamori reddere nutum</l>
+          <l>Dignatus, lorisque macrum celerare caballum…</l>
+          <l>Daedali calles et inextricabilis error</l>
+          <l>Me tenuere diu : tandem sublimia tecta</l>
+          <l>Late prospicio, regalibus alta columnis ;</l>
+          <l>Altas ante vigil stabat custodia portas.</l>
+          <l>Sciscitor illane sit Martis domus hospita campi,</l>
+          <l>Subridet miles, <hi rend="i">Luparam</hi> mihi nominat arcem :</l>
+          <l>Ignotum per iter quo me malus abstulit error ?</l>
+          <l>Tendebam in Campum, Luparenses labor in aedes !</l>
+          <l>Intrabamque tamen, Fortunae iratus, in aulam</l>
+          <l>Ingentem ; nova quum subito miracula rerum</l>
+          <l>Apparent oculis : ad caeli nubila surgit,</l>
+          <l>Secum homines rapiens, longo vix <hi rend="i">fune</hi> repressa,</l>
+          <l><hi rend="i">Sphaera</hi> rotunda, ingens, solido circumadata reti.</l>
+          <l>Inde levi pendet contexta <hi rend="i">domuncula</hi> ferro</l>
+          <l>Quae capit ardentem se tollere in aethera turbam,</l>
+          <l>Utque agilis tumido spatiatur in aequore navis,</l>
+          <l>Sic volat immensas, navis quoque parva, per auras,</l>
+          <l>Dicitur et parvae navis de nomine <hi rend="i">Cymba</hi>.</l>
+          <l>An memorem totum quae solers machina Funem</l>
+          <l>Unius evolvat virtute impulsa vaporis,</l>
+          <l>Ut septemgemino Sphaeram sub tegmine lata</l>
+          <l>Includat pellis, qua vi, quid jussa, repente</l>
+          <l>Immensa ascendat, nullo quasi pondere, moles,</l>
+          <l>Moxque soli repetat, jam non caelestis, arenam ? –</l>
+          <l>Obtutu tacito stabam…</l>
+          <l>                                    Mens ardet amore</l>
+          <l>Lustrare ignotum, <hi rend="i">Giffardi</hi> munere, caelum,</l>
+          <l>Et sine Daesaleis volitare per aera pennis !</l>
+          <l>Ut bellator equus, resonantia si audiit arma,</l>
+          <l>Jam nec stare loco, nec humi requiescere possum :</l>
+          <l>Fixi sunt oculi caelo, pulso pede terram,</l>
+          <l>Prisca reviviscit veteri sub corde juventus !</l>
+          <l>Hoc tumulo possint superaddere carmen amici :</l>
+          <l>HIC JACET ARMINIUS. SURREXIT IN AETHERA QUONDAM.</l>
+          <l>CEDITE TU PHAETON, TUQUE ICARE CEDITE VICTI :</l>
+          <l>HIC QUOQUE MAGNA AUSUS… NEQUE MAGNIS EXCIDIT AUSIS !</l>
+          <l>Talia volvebam tacito sub pectore mecum,</l>
+          <l>Et septum simul ingredior, quum Machina surgens</l>
+          <l>Rursus sidereas attollebatur ad arces.</l>
+          <l>Fisco praepositus viginti solvere nummos</l>
+          <l/>
+        </quote>
+        <label>Arminius</label>
+        <quote>
+          <l>Me jubet…</l>
+          <l/>
+        </quote>
+        <label>Selinius</label>
+        <quote>
+          <l>                Hoc subito tantum restinxit amorem</l>
+          <l>Ignotas tentare vias et surgere caelo ?</l>
+          <l/>
+        </quote>
+        <label>Arminius</label>
+        <quote>
+          <l>Haece tamen invadit cautam sententia mentem :</l>
+          <l>Non resonat loculis, heu ! multa pecunia nostris ;</l>
+          <l>Nec minor est virtus quam parcere, rectius uti.</l>
+          <l>Latis magna patet populosa Lutetia muris,</l>
+          <l>Nec gratis totam mihi perlustrare licebit :</l>
+          <l>En age ! jam caeli superas evectus in auras,</l>
+          <l>Aedes despiciam, divinaque templa, viasque,</l>
+          <l>Despiciam campos longe lateque patentes,</l>
+          <l>Parisios intra muros extraque videbo.</l>
+          <l>Exactum, dicto citius, persolvimus aurum.</l>
+          <l>Interea longos perfecti Machina cursus,</l>
+          <l>Jamque residit humi : cohibet mora nulla vocatum</l>
+          <l>Ad reducem Sphaeram ; recipit me Machina primum.</l>
+          <l>Jam jubet aerius funes evolvere nauta ;</l>
+          <l>Auditur funis stridor strepitusque vaporis,</l>
+          <l>Sphaeraque se tollit, caeloque potimur aperto !</l>
+          <l>Surgentes fortuna juvat ! Nos aethere rura,</l>
+          <l>Nos immensam Urbem visu complectimur uno !</l>
+          <l>Quid tamen ? En tantum se Machina tollit in auras</l>
+          <l>Ut dicas penitus penitusque recedere terram.</l>
+          <l>Hinc mihi magificae pro latis moenibus Urbis,</l>
+          <l>Vix tenuis vicus confusaque tecta domorum</l>
+          <l>Apparent, arctis veluti circumdata muris ;</l>
+          <l>Sequana qui lambit regali flumine ripas</l>
+          <l>Fit rivus ; patulaeque viae lateque patentes</l>
+          <l>Se velut in longos dicas convertere vermes !</l>
+          <l/>
+        </quote>
+        <label>Selinius</label>
+        <quote>
+          <l>Ni mirabilius tibi tota apparuit Urbe ?</l>
+          <l/>
+        </quote>
+        <label>Arminius</label>
+        <quote>
+          <l>Nil mirabilius ?...</l>
+          <l>                         Vidi obstupuique puellam<note place="bottom">. « L’illustre Mlle S. B. “Nous ne pouvons rien, faibles poètes, pour la gloire des personnes extraordinaires : le sage a raison de dire que leurs seuls ouvrages les peuvent louer ; toute autre louange languit auprès des grands noms !... » (imité de Bossuet.)” » [Note des auteurs.]</note></l>
+          <l>Gallica quae resonat sublimi voce theatra,</l>
+          <l>Racinii blanda seu cantat carmina lingua,</l>
+          <l>Hernanicos pleno seu versus intonat in ore ;</l>
+          <l>Et (tantam gracili celat sub pectore mentem !)</l>
+          <l>Docta – etiam pingues – sculptura effingere formas,</l>
+          <l>Ossibus humanis capuloque ornare penates</l>
+          <l>Gaudet, et in flammis miseram consumere felem,</l>
+          <l>Raptaque per nubes <hi rend="i">narrantem</hi> audire <hi rend="i">Cathedram</hi> :</l>
+          <l>Tam variae nunc sunt animis mulieribus artes !</l>
+          <l/>
+        </quote>
+        <label>Selinius</label>
+        <quote>
+          <l>Agnosco Arminium per nubila saepe vagantem ;</l>
+          <l>Nec fortuna mihi, quamvis meliora secuto</l>
+          <l>Prosperior ; meritumque tamen me paenitet : et me</l>
+          <l>Magna Parisiacas fama alliciebat ad oras ;</l>
+          <l>Fataque, nubis amans, audi terrestris amici.</l>
+          <l>Ad Trocaderium verti vestigia collem.</l>
+          <l>Ingressus mirabar aquas atque humida regna ;</l>
+          <l>Aurea magnarum stupui simulacra ferarum,</l>
+          <l>Praecipitemque alto tenuem de culmine rivum.</l>
+          <l>Tanta sed impastum non admiratio ventrem</l>
+          <l>Exsaturet : potior quam tot miracula coena est.</l>
+          <l>Ingredior plenam turba strepitante tabernam ;</l>
+          <l>Circum dispositae stabant ad fercula mensae,</l>
+          <l>Tota ubi coenasset convivis Falasa laxis ;</l>
+          <l>Cogor at innumeras inter procedere mensas :</l>
+          <l>Fit via vi. Nitidusque puer comptisque capillis,</l>
+          <l>(Hunc ego quem memorem ? Servi non ora gerebat</l>
+          <l>Servilemve habitum), blanda me voce rogavit,</l>
+          <l>Quas sumpsisse dapes quae spumida vina placeret.</l>
+          <l>Tunc solitas epulas et viscera cocta poposci,</l>
+          <l>Ac nostro de more cibos ; et vina recusans,</l>
+          <l>Pocula de patriis petii spumantia malis.</l>
+          <l>Riserat ille ; negat tales apponere coenas,</l>
+          <l>Enumeratque dapum resonantia nomina : tostam</l>
+          <l>Richelius commendat avem, Colbertius ovum :</l>
+          <l>Nomen ovina trahit Subisi de nomine costa.</l>
+          <l>Obstupui, mecum dubitans, ancepsque pependi</l>
+          <l>Praepositus ne epulis foret historiaene magister.</l>
+          <l/>
+        </quote>
+        <label>Arminius</label>
+        <quote>
+          <l>Talis, amice quidem tu praeceptoris egebas,</l>
+          <l>Qui non historiae coluisti pigrior artem,</l>
+          <l>Historiae quam quos pleno pulmone docebat</l>
+          <l>Vir rerum sapiens et facundissimus ore.</l>
+          <l/>
+        </quote>
+        <label>Selinius</label>
+        <quote>
+          <l>Talibus allectus titulis, peto pauca, puerque</l>
+          <l>Vanescit… Vitet caenacula talia, quisquis</l>
+          <l>Non valeat tolerare moras !... Tandem ille regressus</l>
+          <l>Fercula diversis nobis cim juribus affert,</l>
+          <l>Vinaque purpureo male commendata colore,</l>
+          <l>Ast ubi solvendum tandem transitur ad assem,</l>
+          <l>Nec parvi rubra vina valent, nec fercula parvi.</l>
+          <l>Non procul immanis clangor sonat : ecce movetur</l>
+          <l>Plurima diversis exercita machina gyris.</l>
+          <l>Illa rapit violenta rotas, velocior orbes</l>
+          <l>Praecipitat rapidos, nobisque minacia tendit</l>
+          <l>Brachia. Dum ferri mecum nova sibila miror,</l>
+          <l>En sonat a tergo, repetito pondere labens</l>
+          <l>Altera, et incautas rauca voce admonet aures ;</l>
+          <l>Respicio ; sed quid miracula singula pandam ?</l>
+          <l>Machina parva fuit, mira quam fecerat arte…</l>
+          <l>Nescio quis ; nostra quae conjuge doctius, arctas</l>
+          <l>Dispositis didicit telas intexere filis ;</l>
+          <l>Ordine continuos instabat docta labores,</l>
+          <l>Et crescebat opus… Digito mihi tangere telam</l>
+          <l>Accidit : en subito labor interrumpitur omnis :</l>
+          <l>Imperfecta manet, pigro jam stamine, tela ;</l>
+          <l>Et sum causa mali !... Glomeratur vulgus et instat,</l>
+          <l>Multa auctore super rogitans, et crimine multa ;</l>
+          <l>Jamque procul securus eram.</l>
+          <l/>
+        </quote>
+        <label>Arminius</label>
+        <quote>
+          <l>                                   Nec, prave, pudebat</l>
+          <l>Quod per te solitos Industria nostra labores</l>
+          <l>Desiit ?</l>
+          <l/>
+        </quote>
+        <label>Selinius</label>
+        <quote>
+          <l>Infausti quaero solatia casus,</l>
+          <l>Falasias visurus opes ; timidaque salutans</l>
+          <l>Voce virum, nobis qui proximus adstitit, oro</l>
+          <l>Me doceat loca pileolis concessa ; repente</l>
+          <l>Infremuit, medioque ferox est ventre locutus :</l>
+          <l>Teutonicas sensi, stridentia sibila, linguas…</l>
+          <l>Devenique locos laetos dulcesque tabernas</l>
+          <l>Quo mea pileolos solers Normannia misit,</l>
+          <l>Et subitam nobis facit admiratio vocem :</l>
+          <l>Pileoli salvete meae laus maxima gentis !</l>
+          <l>Tegmen avis, proavis, atavis et patribus unum !</l>
+          <l>Vos video ! Mihi pileolis ni triste receptis !</l>
+          <l>Hic vos nemo gerit ; turpi sed more, superbi</l>
+          <l>Erexere nigras onerata in fronte columnas.</l>
+          <l>At vos, arboreo quos vellere Falasa texit,</l>
+          <l>Semper fronte palam gerimus, niveoque nitore</l>
+          <l>Oris purpureos placuit variare colores !</l>
+          <l>Vos frons nostra decet ! Meritamque capessite frontem !</l>
+          <l>Pileolo incedam media insignitus in Urbe !</l>
+          <l>Et simul ingentem, medio super ordine, cepi</l>
+          <l>Pileolum, solito cincturus tegmine crines,</l>
+          <l>Hunc rapuit custos, et nos ab amoribus arcet.</l>
+          <l>Magna vehebatur curru matrona gravato,</l>
+          <l>Stridebatque sonans nimio sub pondere currus.</l>
+          <l>Aversum tetigit rota, praecipitemque remisit ;</l>
+          <l>In gremium miserae, miseraeque in brachia labor.</l>
+          <l>Increpat Automedon, queritur matrona : rubebam.</l>
+          <l>Tum turba ingeminat, naso crispante, cachinnos,</l>
+          <l>Et duplicem ridet, nobis incommoda, casum.</l>
+          <l>Est tubulus nobis fumos qui sponte tabacci</l>
+          <l>Spirat odoriferos ; plenis fornacibus ignis</l>
+          <l>Additur : accipio laetus reddoque vaporem.</l>
+          <l>At custos rabidus, quo proxima janua, tractum</l>
+          <l>Expulit : integrum quem nuper Falasa misit,</l>
+          <l>Falasa famosum, temerate fronte, reviset.</l>
+          <l/>
+        </quote>
+        <label>Arminius</label>
+        <quote>
+          <l>O comes, insolitos jam fas deponere vultus.</l>
+          <l>Salve, <hi rend="i">Fontanii</hi> clarissima fama Lycaei,</l>
+          <l>Quod studiis bene credit emi quos optat honores !</l>
+          <l/>
+        </quote>
+        <label>Selinius</label>
+        <quote>
+          <l>Praeclaras referant <hi rend="i">Sorbonnica</hi> praelia palmas !</l>
+          <l><hi rend="i">Praeside</hi> sub tali, nostris nil viribus impar :</l>
+          <l>Praesidis ingenium quis non canat ? Ille lycaei</l>
+          <l>Discipulus, praeses, clarissimus ante magister !</l>
+          <l>Carus et Ille prior<note place="bottom">. M. C. Legrand, ancien proviseur du lycée Fontanes. [Note des auteurs.]</note> : sed carus tu quoque nobis :</l>
+          <l>Dilecto dilectus adest pro praeside praeses !</l>
+          <l/>
+        </quote>
+        <label>Arminius</label>
+        <quote>
+          <l>Quid tamen ? Est dignus praeclaro praeside <hi rend="i">Censor</hi>.</l>
+          <l>Miles erat, natos quum Gallia ad arma vocaret :</l>
+          <l>In bello dux fortis adest, in pace magister !</l>
+          <l>Eia agite ! o comites. Illis vis fervida Bacchi</l>
+          <l>Qua data porta ruat, spumetque in pocula vinum !</l>
+        </quote>
+        <p/>
+      </div>
+      </body>
+      </text>
+      </TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Amyntas seu viatores »</title>
+                <author key="Deschanel, Paul (1855-1922)">Paul Deschanel</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Paul Deschanel, « Amyntas seu viatores », <hi rend="i">Le Cahier d'honneur. Revue de l'enseignement secondaire</hi>, 2<hi rend="sup">e</hi> année, n° 34, 1869, p. 5.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1869"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« Amyntas seu viatores »
+        <lb/>[classe de troisième, 1869]</head>
+    <p/>
+    <quote>
+        <l>Dudum incedentes, duo Phoebi celsa petebant</l>
+        <l>Templa viatores Jam Delphica moenia longe</l>
+        <l>Proscpiciunt, sacrasque excelsis turribus arces ;</l>
+        <l>Dirorum sed adhuc non proxima meta dolorum ;</l>
+        <l>Longum iter emensi, nullum invenere, gementes,</l>
+        <l>Hospitium ; miseri, deserta per arida, solis</l>
+        <l>Urgentur radio torrente, sitique laborant.</l>
+        <l>Aequore in immenso nempe aestas ignea late</l>
+        <l>Saevit ; anhelantes incendit Sirius agros ;</l>
+        <l>Nulla unda, aut arbos, aut gramina !... Semper arena,</l>
+        <l>Urit arena pedes, exhaustaque flammeus ora</l>
+        <l>Suffocat pulvis ; jam labra arentia languent ;</l>
+        <l>Jamque natant oculi ; defessaque membra fatiscunt.</l>
+        <l>Ecce autem tanquam frondescens insula longe</l>
+        <l>Apparet, recreatque oculos ; redit incita virtus ;</l>
+        <l>Approperant celeres, subeunt jucunda vireta.</l>
+        <l>Quum nova se praebent oculis spectacula rerum !</l>
+        <l>Undique curvantur viridanti fornice rami,</l>
+        <l>Et dulces patulo tenebras sub tegmine pandunt.</l>
+        <l>Ambo viatores, laeti, sub frondibus altis</l>
+        <l>Corpora fessa levant, et captant frigus opacum.</l>
+        <l>Dum requiescentes oblivia grata laborum</l>
+        <l>Deliberare juvat, cecinit leve murmur ad aures</l>
+        <l>Attonitas ; surgunt celeres, sonitumque sequuntur ;</l>
+        <l>Per virgulta viam praerupto tramite carpunt ;</l>
+        <l>Dum pergunt, crescit murmur ; rapidosque volantes</l>
+        <l>Concursu, tandem adspiciunt de rupe fluentes</l>
+        <l>Illimes lymphas, dulci cum murmure rivus</l>
+        <l>Gramina per jucunda fugit, laetisque susurros</l>
+        <l>Vocibus immiscet volucrum, quae suavibus usque</l>
+        <l>Innumerae ambrosias mulcent concentibus auras.</l>
+        <l>Margine confestim viridanti inclinis uterque,</l>
+        <l>Pergratos latices bibit et se proluit unda.</l>
+        <l>Dein, ubi se largis recrearunt haustibus ambo,</l>
+        <l>Membraque curarunt ramorum frigore amoeno :</l>
+        <l>Spinea forte movens unus virgulta, sepulcrum</l>
+        <l>Detegit et sculpto signatum carmine saxum</l>
+        <l>« Vir bonus hisce locis tranquilla pace quiescit,</l>
+        <l>Munera qui vivus civibus ampla suis</l>
+        <l>Contulit, et, prodesse volens vel morte sub ipsa,</l>
+        <l>Scruposo elicuit fornice fontis aquas. »</l>
+        <l>Tum dulces lacrimas, permoto pectore, laeti</l>
+        <l>Effudere viatores<note place="bottom">. On sait que la sensibilité, parfois même la sensiblerie, est un des caractères de la littérature du <num>xviii<hi rend="sup">e</hi></num> siècle. Nul ne s’y abandonna plus naïvement que le bon Gessner, et toutefois ce n’est ploint un poète à dédaigner. [Note de l’éditeur.]</note>, et fletibus ultro</l>
+        <l>Muneris auctorem tanti veneratus uterque,</l>
+        <l>Inde piis precibus Phoebi omnipentis ad aram,</l>
+        <l>Haud mora, festinant meritas persolvere grates.</l>
+    </quote>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

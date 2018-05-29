@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Sur la comédie de Plaute »</title>
+                <author key="Didier, Achille">Achille Didier</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Achille Didier, « Sur la comédie de Plaute », ms. aux Archives nationales : F<hi rend="sup">17</hi> 7240.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1841"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« Sur la comédie de Plaute » 
+        <lb/>[2<hi rend="sup">e</hi> année de l'École normale supérieure, 1841]</head>
+    <p/>
+    <quote>
+        <l>Nostin’ ut iratos et durâ voce minantes</l>
+        <l>Natis multa senes et amatis multa puellis</l>
+        <l>Ludificent Plauti germanae Bacchides ? Alter</l>
+        <l>As sibi subreptum, capitisque opprobria cani</l>
+        <l>Ulcisci, servique dolos cupit : alter ad aedes</l>
+        <l>Invisas properat (furit haud minus ipse) sororum,</l>
+        <l>Ut citiùs juvenem secura ad limina ducat.</l>
+        <l>At ridere minas festivâ voce seniles</l>
+        <l>Par lepidum, mirisque modis urgere pudentes</l>
+        <l>Mussantesque simul, salibusque illudere crebris,</l>
+        <l>Vulneribusque imis stimulos agitare jocorum.</l>
+        <l>Mox, ubi jam bello potior pax denique visa est,</l>
+        <l>Vertit ad illecebras subito versuta puella,</l>
+        <l>Argutasque preces, et dulcia dicta. Recumbit</l>
+        <l>Hīc prior unius patris dolor. Altera blandis</l>
+        <l>Mellitisque aggressa senum sermonibus, iram</l>
+        <l>hanc, nuper saevam, et magnâ cum voce frementem,</l>
+        <l>tantaque pollicitam mala, leni murmure mulcet.</l>
+        <l>Scilicet his similes habitus, risumque, salesque,</l>
+        <l>Dictaque, sermonemque, tibi, Comoedia, Plautus</l>
+        <l>attribuit. Talis, vultu festiva, jocosâ</l>
+        <l>Voce, levi socco percurris pulpita. Bacchis</l>
+        <l>Una mihi per te semper garrire videtur.</l>
+        <l>Jam saturi taceant ; taceant et quos malè laedit</l>
+        <l>matutina fames. Nutrices, cedite ; vestros</l>
+        <l>Procurate domi pueros : vos, turba, cavete</l>
+        <l>A virgis, servi : Linguâ, matrona, faveto :</l>
+        <l>Pressa jacent aulaea ; patent proscenia.</l>
+        <l>                                                              Quem tu</l>
+        <l>Luminibus cupidis vulgi jam, Plaute, priorem</l>
+        <l>Ostentas ? En turba tenet confusa tuarum</l>
+        <l>Personarum aditus. Hīc laetâ voce jocatur,</l>
+        <l>Adversamque crucem, et fustes, et vincula ridet</l>
+        <l>Servus. Ibi properat, festis intentus, et urget</l>
+        <l>Saepe negata sibi parasitus fercula. Mussat</l>
+        <l>Parte aliâ, et natum pater increpat acer. Avarus</l>
+        <l>Parte aliâ cupidis oculis fovet anxius aurum.</l>
+        <l>Pauperis hinc juvenis deceptos ridet amores</l>
+        <l>Et questus vanos anus implacabilis. Illinc</l>
+        <l>Versutus struit insidias, et furta, dolosque,</l>
+        <l>Omnibus invisus, fallaci in pectore leno.</l>
+        <l>Quid, quod et instantes ad scenam plurima pone</l>
+        <l>Insequitur, densamque urgendo femina turbam</l>
+        <l>Auget adhùc, nunc laeta jocos sermone canoro</l>
+        <l>Et risus iterans ; gravior nunc, atque decenti</l>
+        <l>Incedens facie ; sed leni semper amores</l>
+        <l>Voce locuta suos, et suavia verba susurrans ?</l>
+        <l>Quis placeat prior ante alios ? Est gratia cuique,</l>
+        <l>Est et honor varius, non impar. Hosne priores,</l>
+        <l>An meliùs reliquos elegeris ? – At tibi plausum</l>
+        <l>Sollicitus caveae dum magnae quaeris, et ora</l>
+        <l>Interea in loculos (pauper) demittere gestis,</l>
+        <l>Tolle moras. Scenam quemcumque inscendere, Plaute,</l>
+        <l>Jusseris, hunc animis fremituque faventi</l>
+        <l>Accipiet populus : nam te tua gloria servat ;</l>
+        <l>Nam vis ingenii spondet tibi comica plausus</l>
+        <l>Optatos, et saepe favens fortuna poetis.</l>
+    </quote>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Sur l’union des lettres et des sciences dans l’éducation »</title>
+                <author key="Thierry, Louis-Alexandre-Marie">Lucien-Alexandre-Marie Thierry</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Lucien-Alexandre-Marie Thierry, « Sur l’union des lettres et des sciences dans l’éducation », <hi rend="i">Concours généraux de l’Université. Devoirs donnés au concours général entre les élèves des collèges de Paris et de Versailles suivis de copies d’élèves couronnés, année 1853</hi>, Paris, Jules Delalain, 1854, p. 89-92. Source : <ref target="https://books.google.fr/books?id=3gQBAAAAYAAJ">Google</ref>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1853"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« Sur l’union des lettres et des sciences dans l’éducation<note place="bottom">. Le poème fut composé à partir de la matière suivante : « <hi rend="i">Narrat Lucianus deas sibi quondam esse visas in somno, Sculpturam atque Doctrinam, contendentes utram ipse sequeretur ; se vero Sculpturae valedicentem ad Doctrinam confugisse. Verum Lucianus unam Doctrinam norat. Nunc illa geminas filias peperit. Ambae quidem pulcherrimae, sed diversae tamen et in diversos amores trahentes nostra ingenia, ubi nos ad adolescentiam pervenimus. Gaudet altera facundo eloquio, et versibus canoris, et libris veteribus. Altera docet quibus legibus pareant numeri, formaeque rerum ; aut omnium, quae sunt in mundo, animantium, arborum, lapidum figuras habitumque perspicit ; aut ipsam elementorum scrutatur substantiam ; nec eam fallit subtilis aeris natura ; neque ignis ; neque lucis illius aethereae ; neque arcana vis, quae olim vix magnete apparebat, aut in electro, nunc penitus nota manifestaque tanta miracula efficit : quin ipsa corporum principia, et juncta separat, et jungit separata ; et quasi transmutat inter se ; aut siderum vias describit radio ; aut terrae parentis antiquam originem, historiamque temporum, quibus nondum fuerunt homines, evolvit. O felices nimium, quibus datum est tantas artes exercere ! Me vero dulces, ut ait Virgilius, accipiant Musae, alantque melle suo ut rapiant in loca secreta, ubi vox Homeri auditur, aut Platonis</hi> ! », <hi rend="i">Concours généraux de l’Université. Devoirs donnés au Concours général entre les élèves des collèges de Paris et de Versailles suivis de copies d’élèves couronnés, année 1853</hi>, Paris, Jules Delalain, 1854, p. 8-9.</note> »
+        <lb/>[1er prix des vétérans au concours général, en 1853]</head>
+    <p/>
+    <quote>
+        <l>Ille vir, ingenii subtilis acumine, Manes</l>
+        <l>Qui lepido induxit quondam sermone loquentes,</l>
+        <l>Omnia et emuncto sollers suspendere naso,</l>
+        <l>Viderat, ut perhibet, geminas per somnia divas ;</l>
+        <l>Certantes utram sibi quaereret ipse magistram.</l>
+        <l>Altera, phidiacam laudem testata, rogabat</l>
+        <l>Fingeret ut veris spirantia marmora formis.</l>
+        <l>Altera Doctrinae sanctum ac venerabile nomen,</l>
+        <l>Et majus juveni studium jactabat. At ille</l>
+        <l>Doctrinam amplexus patria transfugit ab arte.</l>
+        <l>Una quidem Graeco Doctrina apparuit ; aevo</l>
+        <l>Sed labente, parens prolem tullit illa gemellam.</l>
+        <l>Nunc igitur juveni, quum vitae nescius error</l>
+        <l>Ancipitem varia pertentat imagine mentem,</l>
+        <l>Apparent una geminae pro matre puellae.</l>
+        <l>Ambarum in vultu fulget coelestis origo,</l>
+        <l>Et facies materna velut rediviva renidet ;</l>
+        <l>Neutri major honos vultus nec gratia, forma</l>
+        <l>Sed diversa tamen, qualem decet esse sororum</l>
+        <l>Adspicit has juvenis, litemque exaudit agentes,</l>
+        <l>Et pendent dubius, dubiumque alternat amorem.</l>
+        <l>Incipit haec, dulci quae majestate decora</l>
+        <l>Mitius ingenium, lepidas magis indicat artes :</l>
+        <l>« Sunt mea, sunt, inquit, doctae miracula linguae ;</l>
+        <l>Sunt quos eloquii virtus facunda triumphos</l>
+        <l>pacificos retulit ; moderorque operosa furentis</l>
+        <l>Frena fori ; numeris verborum dulcibus aures</l>
+        <l>allicere et blandos doceo componere cantus.</l>
+        <l>Carmina me concinna juvant, me ruris amoeni</l>
+        <l>Otia, me fontes et vallis amabillis umbrae</l>
+        <l>Delectant, silvaeque et habentes carmina rivi.</l>
+        <l>Suavis inest nostris studiis, mihi crede, voluptas,</l>
+        <l>Blanda quies, lenem sequitur pax longa laborem.</l>
+        <l>Te veterum libros, generosa volumina, vatum</l>
+        <l>Assidua laetum dextra versare docebo ;</l>
+        <l>Inde animo purosque cibos alimentaque duces</l>
+        <l>Dulcia, et antiquo renovabis robore mentem.</l>
+        <l>Inde bibes, longi tanquam medicina morbi</l>
+        <l>Nectareos latices, doctrinae pocula sanae. »</l>
+        <l>Excipit hanc habitu germana severior : olli</l>
+        <l>Vox cita, quae molli componere nesciat arte</l>
+        <l>Dicta, neque ad modulos rigidos inflectere sensus ;</l>
+        <l>At sermo ratione potens, nihil indigus artis :</l>
+        <l>« Ast ego quae numeros variantes certa docebo</l>
+        <l>norma regat ; rerum formas diversaque novi</l>
+        <l>Corpora, quadratis possum mutare rotunda,</l>
+        <l>Abstrusosque sinus, et inanes metior auras.</l>
+        <l>Aut tibi si non tanta placent, pavidusque recusas</l>
+        <l>Asperius studium, terrarum animantia dicam</l>
+        <l>Omnia ; corporeas solidis ex ossibus intus</l>
+        <l>Compages, ductos ramosa in compita nervos,</l>
+        <l>Et vitam et vitae poteris deprendere causam.</l>
+        <l>An plantae magis arrident ? mecum adspice gemmam</l>
+        <l>Nascentem, magnae parvum arboris incrementum ;</l>
+        <l>Perspice sub rigido vivacem cortice succum,</l>
+        <l>Et fructu in putrido recidivae germina vitae.</l>
+        <l>Quin etiam lapides brutos cognovimus : annos</l>
+        <l>Rupis, et antiquum tibi pandere possumus ortum.</l>
+        <l>Non elementa latent : quae sit substantia simplex</l>
+        <l>Scrutati scimus : tenues nunc aetheris auras</l>
+        <l>Dividimus, coeli non jam intractabilis auras ;</l>
+        <l>Nos neque subtilis flammarum fallit origo.</l>
+        <l>Luminis aerii septem distinximus arcus,</l>
+        <l>Et Phoebi radios humano aptavimus usu :</l>
+        <l>Nam speculo memori mortales pingere vultus</l>
+        <l>Sol didicit. Quin nos terrenum fecimus astrum !</l>
+        <l>Sol si deficiat, solem supplebimus orbi.</l>
+        <l>Scilicet ignoto quae vis magnete latebat</l>
+        <l>Electroque, mihi tota ac manifesta refulsit :</l>
+        <l>Illa parem soli, coeli velut aemula, lucem</l>
+        <l>Suppedit ; illa levi volitantia verba metallo</l>
+        <l>Solis ab occasu (spatium breve !) portat ad ortum ;</l>
+        <l>Illa etiam gelidum posset refovere cadaver.</l>
+        <l>Quid referam quod aquae felici mota vapore</l>
+        <l>Machina vel celeres possit praevertere ventos ?</l>
+        <l>Ut docilis mihi materies ! conjuncta revello</l>
+        <l>Principia, aut rursum jungo divisa, vicissim</l>
+        <l>Inverto mutata, meae ludibria dextrae.</l>
+        <l>Suspice sidereos spatium per inane meatus :</l>
+        <l>Omnia descripsi radio : trans flammea coeli</l>
+        <l>Moenia, me viles volucrem contemnere terras,</l>
+        <l>Stellantisque juvat civem me credere sedis.</l>
+        <l>Cura tibi veteris fastos evolvere mundi ?</l>
+        <l>Ecce patent nobis terrarum viscera, pandit</l>
+        <l>Arcanos natura sinus, magnaeque ruinae</l>
+        <l>Apparent, aevi velut ossa immensa prioris.</l>
+        <l>Monstra vide terris olim dominantia, nusquam,</l>
+        <l>Nusquam homo ; sed legi ceu fata inscripta ruinis,</l>
+        <l>Immanesque vices et inenarrabile tempus</l>
+        <l>Ostendo, summi quasi conscia facta Parentis. »</l>
+        <l>Audivi, vidique duas per somnia Musas :</l>
+        <l>Hanc etiam memini frustra contendere victam,</l>
+        <l>Quae forsan majora, minus sed grata ferebat.</l>
+        <l>Heu ! docti, incauto ne succensete poetae,</l>
+        <l>Quem capiunt cantus et verba sonantia fallunt :</l>
+        <l>Non omnes cubique juvant rigidaeque figurae,</l>
+        <l>Nonnullosque piget miracula tangere dextra.</l>
+        <l>Jam nimis in numeris nostra est operata juventus.</l>
+        <l>Felicem, si quis geminis parere puellis</l>
+        <l>Et queat immergi doctrinae flumine toto !</l>
+        <l>Felices etiam mathesim quicumque sequentur !</l>
+        <l>Laetentur caeci nodo problematis, omnes</l>
+        <l>Naturae latebras coeli scrutentur et arces,</l>
+        <l>Nil fugiat numeros : ego tantis artibus impar,</l>
+        <l>Non equidem invideo, miror magis : altera quaero</l>
+        <l>Templa pius, me Virgilius praecedit euntem :</l>
+        <l>Non me poeniteat vestigia tanta secutum.</l>
+        <l>Vos igitur primum dulces ante omnia Musae</l>
+        <l>Tironem me vestra sequi permittite signa.</l>
+        <l>Ambrosios latices et Phoebi nectar amici</l>
+        <l>Fundite ; castalio liceat requiescere in antro,</l>
+        <l>Et vestros spectare choros ; me sistite sacris</l>
+        <l>Sub nemorum latebris, quas purior aura canoras</l>
+        <l>Ventilat, et coelum sublustri sidere rorat.</l>
+        <l>Hic grandes liceat cantus audire poetae</l>
+        <l>Maeonii, liceat docti praecepta Platonis,</l>
+        <l>Carmina vel Flacci, romanave fata sonantem</l>
+        <l>Virgilium ; magnaeque inter commercia turbae</l>
+        <l>Forsan apollineae cadet mihi gloria lauri.</l>
+        <l/>
+    </quote>
+</div>
+</body>
+</text>
+</TEI>

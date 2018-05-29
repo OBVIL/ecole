@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Le sacre de S. M. Charles X »</title>
+                <author key="Guenée">Guenée</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Guenée, « Le sacre de S. M. Charles X », ms. aux Archives nationales : F<hi rend="sup">17</hi> 7646.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1825"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+    <head>« Le sacre de S. M. Charles X »
+        <lb/>[classe de quatrième, 6 juin 1825]</head>
+    <p/>
+    <quote>
+        <l>Insanos furiis agitans discordia cives</l>
+        <l>Miscuerat latè miserando cuncta tumultu ;</l>
+        <l>Nullus erat terror legum nullusque Deorum,</l>
+        <l>Francigenas miseros invaserat undiquè luctus.</l>
+        <l>Quis tantos possit verbis aequare dolores ?</l>
+        <l>Quis dicat patriae fletus plebisque furores </l>
+        <l>Et regem pulsum soliis prostrataque templa ?</l>
+        <l>Post miseros casus tantas sarcire ruinas</l>
+        <l>Tu solus poteras, certis qui legibus orbem</l>
+        <l>Dirigis omnipotens, pertituraque regna decusque</l>
+        <l>Dividis humanis, nunquàm periturus et ipse.</l>
+        <l>Te tandem coepit quaedam miseratio nostrî,</l>
+        <l>Et priscam nobis placuit tibi reddere pacem.</l>
+        <l>Restinctum diri jubar exitiale cometae,</l>
+        <l>Jam non sanguineo contristrat lumine solem,</l>
+        <l>Et nobis tandem sidus collucet amicum.</l>
+        <l>Gallorum precibus reges redduntur amati,</l>
+        <l>Quos procùl externis longè rejecerat oris</l>
+        <l>Seditio. Reduces adsunt ducente secundo</l>
+        <l>numine, regressis jam Gallia tota quiescit,</l>
+        <l>Jam leges et jura vigent, jam sancta resurgit.</l>
+        <l>Relligio, dulcis jungit concordia cives.</l>
+        <l>Pro tantis meritis grates persolvere dignas</l>
+        <l>Carolus exultans sacras festinat ad aedes :</l>
+        <l>Supplex antè pedes aeterni Numinis, ingens</l>
+        <l>Imperium ponit, submissa voce precatur</l>
+        <l>Adsit longa quies adsint et dulcia pacis</l>
+        <l>Otia Francigenis. Superas vox fertur ad auras.</l>
+        <l>Plaudite vos Galli, festos agitate triumphos,</l>
+        <l>En Deus apparet caelo fulgente coronâ</l>
+        <l>Caelicolum, radians mediis è nubibus olli</l>
+        <l>Arridet, aeternos fausto sub sidere soles</l>
+        <l>Promittit Gallis pacem promittit amicam.</l>
+        <l>Plaudite felices, redeunt Saturnia regna,</l>
+        <l>Magnanimi Regis celebrantur carmine laudes</l>
+        <l>Festivisque sonet latè clamoribus aether.</l>
+    </quote>
+    <p/>
+</div>
+</body>
+</text>
+</TEI>

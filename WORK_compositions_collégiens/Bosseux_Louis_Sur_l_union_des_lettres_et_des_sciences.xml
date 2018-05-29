@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Sur l’union des lettres et des sciences dans l’éducation »</title>
+                <author key="Bosseux, Louis">Louis Bosseux</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Louis Bosseux, « Sur l’union des lettres et des sciences dans l’éducation », <hi rend="i">Concours généraux de l’Université. Devoirs donnés au concours général entre les élèves des collèges de Paris et de Versailles suivis de copies d’élèves couronnés, année 1853</hi>, Paris, Jules Delalain, 1854, p. 92-95. Sources : <ref target="https://books.google.fr/books?id=3gQBAAAAYAAJ">Google</ref>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1853"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Louis Bosseux, « Sur l’union des lettres et des sciences dans l’éducation<note place="bottom">. Le poème fut composé à partir de la matière suivante : « <hi rend="i">Narrat Lucianus deas sibi quondam esse visas in somno, Sculpturam atque Doctrinam, contendentes utram ipse sequeretur ; se vero Sculpturae valedicentem ad Doctrinam confugisse. Verum Lucianus unam Doctrinam norat. Nunc illa geminas filias peperit. Ambae quidem pulcherrimae, sed diversae tamen et in diversos amores trahentes nostra ingenia, ubi nos ad adolescentiam pervenimus. Gaudet altera facundo eloquio, et versibus canoris, et libris veteribus. Altera docet quibus legibus pareant numeri, formaeque rerum ; aut omnium, quae sunt in mundo, animantium, arborum, lapidum figuras habitumque perspicit ; aut ipsam elementorum scrutatur substantiam ; nec eam fallit subtilis aeris natura ; neque ignis ; neque lucis illius aethereae ; neque arcana vis, quae olim vix magnete apparebat, aut in electro, nunc penitus nota manifestaque tanta miracula efficit : quin ipsa corporum principia, et juncta separat, et jungit separata ; et quasi transmutat inter se ; aut siderum vias describit radio ; aut terrae parentis antiquam originem, historiamque temporum, quibus nondum fuerunt homines, evolvit. O felices nimium, quibus datum est tantas artes exercere ! Me vero dulces, ut ait Virgilius, accipiant Musae, alantque melle suo ut rapiant in loca secreta, ubi vox Homeri auditur, aut Platonis</hi> ! », <hi rend="i">Concours généraux de l’Université. Devoirs donnés au Concours général entre les élèves des collèges de Paris et de Versailles suivis de copies d’élèves couronnés, année 1853</hi>, Paris, Jules Delalain, 1854, p. 8-9.</note> » 
+                    <lb/>[1<hi rend="sup">er</hi> prix des nouveaux au concours général, en 1853]</head>
+                <p/>
+                <quote>
+                    <l>Olim graius homo, primus qui luce carentes</l>
+                    <l>Affari potuit (melius non nomina fas est</l>
+                    <l>Dicere, quod fugiunt versus, numerisque repugnant,</l>
+                    <l>Longis namque brevis sonat interclusa duabus</l>
+                    <l>Syllaba), quum placidos altus sopor occupat artus,</l>
+                    <l>Binas ante oculos dixit fulsisse figuras.</l>
+                    <l>Huic fuerant Sculptura simul Doctrinaque visae :</l>
+                    <l>Jurgia miscebant attentae, hominemque vocabant,</l>
+                    <l>Ut sibi quam vellet dominam sequeretur alumnus.</l>
+                    <l>Sculpturae, paulum dubitans, valedixit, et almae</l>
+                    <l>Dulcia Doctrinae sapiens ad brachia fugit :</l>
+                    <l>Sed non vera fuit Doctrinae elementa secutus.</l>
+                    <l>Prisca mathematici vix norant saecula nomen,</l>
+                    <l>Et doctrina fuit primis aetatibus una.</l>
+                    <l>Ecce mathematici florent ; Doctrina beatam</l>
+                    <l>In gemino genuit sobolem laetissima partu :</l>
+                    <l>Utraque pulchra quidem ; magna dulcedine floret</l>
+                    <l>Utraque : diversas sed servavere figuras,</l>
+                    <l>Et diversa ferunt studiosae gaudia turbae.</l>
+                    <l>Quum puer Alcides primis adoleverat annis,</l>
+                    <l>Dicitur ante oculos huic, in diversa vocantes,</l>
+                    <l>Binas effigies olim fulsisse dearum.</l>
+                    <l>Sic, ubi curriculum vitae, spatiumque patescit,</l>
+                    <l>Quindecies nobis, suspiria magna reportans</l>
+                    <l>Quum redit october, veniunt simulacra dearum.</l>
+                    <l>Melliflua una potens lingua, fidibusque canoris</l>
+                    <l>Carmine blandiloquo gaudet mansueta, manuque</l>
+                    <l>Assidua veterum diuturna volumina versat.</l>
+                    <l>Altera conspectu primo minus alma videtur.</l>
+                    <l>Pro fictis nam vera regit : non laeta, severa</l>
+                    <l>Cuncta suo sed jure tenet, numerosque gubernat.</l>
+                    <l>Haec demonstrat uti, bene certo foedere, rerum</l>
+                    <l>Diversae vigeant facies, mundusque regatur.</l>
+                    <l>Admonet et corpus proprium novisse, quibusque</l>
+                    <l>Partibus in nostri florens quasi vita moretur ;</l>
+                    <l>Quoque modo dives per cunctos corporis artus</l>
+                    <l>Sanguis eat, viresque ferat, suetumque vigorem.</l>
+                    <l>In nostro quaecumque vigent animalia mundo</l>
+                    <l>Perspicit, et varios mores variasque figuras ;</l>
+                    <l>Arboris et cunctas partes herbasque potentes,</l>
+                    <l>Crescentesque videt lapides, lapidumque figuras.</l>
+                    <l>Quin elementorum naturam discit, et alte</l>
+                    <l>Scrutatur fodiens discordia semina rerum.</l>
+                    <l>Tempora praeteritis nunc o praesentia confer</l>
+                    <l>Temporibus, veteresque dies extolle canendo !</l>
+                    <l>Tunc mortales genus longo vix tempore parvum</l>
+                    <l>Efficiebat iter, manus calcaribus urgens :</l>
+                    <l>Nulli quadrupedes nobis, calcaria nulla</l>
+                    <l>Sunt opus : en rapitur sine equis celer axis in agros,</l>
+                    <l>Plaustraque nostra volant rapidos superantia ventos.</l>
+                    <l>Occupat aetherios tractus doctrina polumque.</l>
+                    <l>Cymba, vide, humano jam nunc perfecta labore,</l>
+                    <l>Aera transvolitat, praecelsaque sidera visit.</l>
+                    <l>Jam leviore quidem freti nunc aere coelum</l>
+                    <l>Scandimus, atque poli jam nunc secreta tenemus.</l>
+                    <l>Aera qui nostrum circumfluus obtegit orbem</l>
+                    <l>Pendere jam fas est, et certum dicere pondus.</l>
+                    <l>Quo pacto rutilum flagrantia fulgura coelum</l>
+                    <l>Lumine pervolitent, scimus ; nec fulmina nisus</l>
+                    <l>Compressere novos ; nos fulmina saeva tenemus</l>
+                    <l>Qualia sint, jaciantque metum flammasque trisulcas.</l>
+                    <l>Nulla arcana fugit virtus : miracula quondam</l>
+                    <l>Magnetis stupuere viri : nos novimus illum,</l>
+                    <l>Novimus et miras vires foedusque perenne</l>
+                    <l>Ille lapis gelidam quo se convertit ad Arcton.</l>
+                    <l>Fulmina turbabant : nostri jam juris habemus</l>
+                    <l>Fulmen, et ad proprios usus propriosque labores</l>
+                    <l>Vertimus, et celerem dictis parere jubemus.</l>
+                    <l>Apparent, quaerente viro, primordia rerum ;</l>
+                    <l>Cuncta potestates tradunt ad luminis auras</l>
+                    <l>Corpora ; et ex notis ignotos appetit usus</l>
+                    <l>Usque sequax doctrina, novas qua surgat ad artes :</l>
+                    <l>Junctaque sejungit semper, sejunctaque jungit,</l>
+                    <l>Miscendoque alias aliis res rebus, et ipsam</l>
+                    <l>Naturam mutare facit, faciemque novare.</l>
+                    <l>Astrorum illa vias radio describit, et ipsa</l>
+                    <l>Vela reclusa poli pandit, magnasque per altum</l>
+                    <l>Nunc errare videt stellas, novaque invenit astra,</l>
+                    <l>Aetheriisque donis mortalia nomina figit.</l>
+                    <l>Necnon et novit nascentem ab origine mundum ;</l>
+                    <l>Terrarumque vices varias auctusque frequentes.</l>
+                    <l>Discit ut a mediis sensim surrexerit undis</l>
+                    <l>Terrae planities, fluctusque fugaverit altos,</l>
+                    <l>Paulatimque novos crescens susceperit auctus.</l>
+                    <l>Discit ut, ardenti tellus succensa calore,</l>
+                    <l>Tunc nullos homines, animalia nulla teneret ;</l>
+                    <l>Refrigente solo, formari magna ferarum</l>
+                    <l>Corpora et insuetos hodie concrescere fetus.</l>
+                    <l>Corpora monstrorum, latis effosa sepulcris,</l>
+                    <l>Apparent, insueta quidem ; (mirabile dictu !)</l>
+                    <l>En doctrina, suis tantummodo viribus utens,</l>
+                    <l>Corpora composuit subito, terraeque parentis</l>
+                    <l>Immanes fetus, nullo dicente, creavit,</l>
+                    <l>Atque ignota modis formavit corpora certis.</l>
+                    <l>Felices nimium doctrinae castra secutos !</l>
+                    <l>Res tantas penetrare queunt doctosque recessus.</l>
+                    <l>Felices nimium queis fas est scire, quibusque</l>
+                    <l>Arridet doctrina favens, carosque tuetur !</l>
+                    <l>His ego vivere amem studiis clarissimus, almae</l>
+                    <l>Si mihi non placeant Musae, dulcesque poetae :</l>
+                    <l>Musarum sed castra sequor ; mendacia vatum</l>
+                    <l>Inclita me rapiunt, indignum noscere veram</l>
+                    <l>Clarae doctrinae rationem, arcacanaque rerum.</l>
+                    <l>O quoque felices nimium quibus optima caris</l>
+                    <l>Melle suo pascens, jucundo carmine mulcens</l>
+                    <l>Musa favet, dulcique movet bona corda lepore !</l>
+                    <l>O mihi si faveant Musae, secreta locorum</l>
+                    <l>Visere si tribuant, ubi clara poemata pleno</l>
+                    <l>Flumine magniloquens graece diffundit Homerus,</l>
+                    <l>Atque ubi facundi resonat vox blanda Platonis !</l>
+                    <l>Me docilem accipiant Musae, gremioque foventes</l>
+                    <l>Dulcia magnorum mihi fundant carmina vatum !</l>
+                </quote>
+                <p/>
+            </div>
+        </body>
+    </text>
+</TEI>

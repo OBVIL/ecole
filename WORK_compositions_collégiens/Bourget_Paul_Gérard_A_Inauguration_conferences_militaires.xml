@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>« Inauguration des conférences militaires au lycée Louis-le-Grand. Discours d’ouverture par un sergent instructeur »</title>
+                <author key="Bourget, Paul (1852-1935)">Paul Bourget</author>
+                <author key="Gérard, A.">A. Gérard</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Romain Jalabert</name>
+                    <resp>Édition TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Paul Bourget et A. Gérard, « Inauguration des conférences militaires au lycée Louis-le-Grand. Discours d’ouverture par un sergent instructeur », <hi rend="i">Lycée impérial Louis-le-Grand. Banquet de la Saint-Charlemagne, 28 janvier 1869</hi>, Paris, imp. de E. Donnaud, 1865, p. 3-5.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1869"/>
+            </creation>
+            <langUsage>
+                <language ident="lat"/>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+  <body>       
+<div>
+    <head>« Inauguration des conférences militaires au lycée Louis-le-Grand. Discours d’ouverture par un sergent instructeur » 
+        <lb/>[28 janvier 1869]</head>
+    <p/>
+    <quote>
+        <l>State viri, docilem circum densate coronam,</l>
+        <l>Atque salutantes, tironum more, magistrum,</l>
+        <l>Exaudite ducis reverenti pectore vocem.</l>
+        <l/>
+        <l>Non novus hic vestris succedo sedibus hospes ;</l>
+        <l>Quanquam pacificae dudum commercia Musae</l>
+        <l>Dedidici, indoctae jactatus in aquore vitae,</l>
+        <l>Non tamen ingredior studiosam barbarus aedem.</l>
+        <l>Ipse puer quondam petii, nec sponte, lycaeum,</l>
+        <l>Laevo suspensus librum chartamque lacerto ;</l>
+        <l>Ipse recantavi toties recitata Maronis</l>
+        <l>Carmina, et ingratas celebravi voce Camoenas.</l>
+        <l>En etiam memini, vetitas quum lividus escas</l>
+        <l>Riderem, doctasque dapes et nectaris haustus !</l>
+        <l>– Nunc me castra tenent ; nunc Mars per praelia versat ;</l>
+        <l>Nunc sublimis apex nigra de casside fulget.</l>
+        <l>Cernite ; jam duplices mihi bellica gloria limbos,</l>
+        <l>Assuit in manicis, et flavo signat honore.</l>
+        <l>– Sic patriae prodest animosam impendere vitam !</l>
+        <l>Exspectant eadem felix te praemia, pubes ;</l>
+        <l>Jam sat Apollinea tractastis bella palaestra,</l>
+        <l>Jam sat rhetorici squaletis pulvere campi,</l>
+        <l>Movistisque stylo pugnae simulacra togatae.</l>
+        <l>Vos Mars e curru serus respexit inertes,</l>
+        <l>Et veri jussit doctrinam ediscere belli.</l>
+        <l>Me Deus huc vobis, interprete voce Ministri,</l>
+        <l>Mittit, ut informem graciles ad bella lacertos,</l>
+        <l>Armorumque sono doceam resonare lycaeum.</l>
+        <l/>
+        <l>Quumque per Elysaeos campos et amoena vireta</l>
+        <l>Ibitis, insignes tunica vultuque superbi,</l>
+        <l>Si procul occurret legio conferta maniplis,</l>
+        <l>Quam cupido sequitur miratrix lumine turba</l>
+        <l>Tum vobis tacitum tentabunt gaudia pectus,</l>
+        <l>Quum blande cuivis memori sub mente recurret,</l>
+        <l>Se quoque militiae magnum tractare laborem !</l>
+        <l/>
+        <l>Ite, magistrorum series, fecundaque poenis</l>
+        <l>Turba, soloecismi censores, ite, Quirites,</l>
+        <l>Tempus flete novum, veteres lugete triumphos ;</l>
+        <l>Aemulus huc veni, vestri pars magna lycaei,</l>
+        <l>– Pars melior ! – Non pensa dabo, non trise piamen,</l>
+        <l>Quod velit ex oculis pueriles ducere fletus,</l>
+        <l>Aut rorare genas, ira lacrymisque tumentes.</l>
+        <l>– Non vos, discipuli, doceo cantare latinum,</l>
+        <l>Sed castrense loqui ! Nec foeda volumina mecum,</l>
+        <l>Scriptorumve gero segetem, veteresque papyros,</l>
+        <l>Quidquid vos trita jubeat pallescere charta,</l>
+        <l>Acclinesque libris, noctes vigilare serenas !</l>
+        <l/>
+        <l>Unum nempo fero, quod speravisti inermes,</l>
+        <l>Quod pia pacificae terrebit moenia sedis,</l>
+        <l>Scilicet hoc monstrum est toti spectabile terrae,</l>
+        <l>Fistula longa, levis, citioris machina belli,</l>
+        <l>Quam plumbo flammaque gravem, caedisque ministram</l>
+        <l>– Interior compungit acus, – cogitque tonantem</l>
+        <l>Spargere sextuplam prostrata per agmina mortem !</l>
+        <l>Accipite haec igitur, vobis quae tradimus arma ;</l>
+        <l>Et forti versate manu, versate perita.</l>
+        <l>Sic quondam memini, testes adhibete magistros,</l>
+        <l>Urbe in Cecropia, generosi lege Solonis,</l>
+        <l>Quum juveni alberent prima lanugine malae,</l>
+        <l>Donabatur orans telis, quae ferret in hostes,</l>
+        <l>Jam patriae miles, laudi jam addictus avitae.</l>
+        <l/>
+        <l>At quum Francigenae, genitricis voce vocati,</l>
+        <l>Antiquos patrio defendent agmine fines,</l>
+        <l>Tum qui pugnatum classis descendet ab umbra,</l>
+        <l>Non steriles ignes, non plumba novitia mittet,</l>
+        <l>Sed certum edoctus jaculari funus in hostes,</l>
+        <l>Gentibus ostendet, juvenum certamine victis,</l>
+        <l>Summos laude viros et magna exempla daturos,</l>
+        <l>– Possi in gymnasiis, Latioque sub aere nasci. –</l>
+    </quote>
+    <p/>
+</div>
+  </body>
+    </text>
+</TEI>

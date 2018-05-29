@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>« Horace raconte à un ami de Rome la vie qu’il mène à Athènes »</title>
+            <author key="About, Edmond (1828-1885)">Edmond About</author>
+        </titleStmt>
+        <editionStmt>
+            <edition>OBVIL</edition>
+            <respStmt>
+                <name>Romain Jalabert</name>
+                <resp>Édition TEI</resp>
+            </respStmt>
+        </editionStmt>
+        <publicationStmt>
+            <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+            <date when="2018"/>
+            <idno>http://obvil.paris-sorbonne.fr/ecole/</idno>
+            <availability status="restricted">
+                <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                    <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                    <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                    <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                    <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                    <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                </licence>
+            </availability>
+        </publicationStmt>
+        <sourceDesc>
+            <bibl><hi rend="i">Choix de matières et de pièces de vers latins recueillies par M. Achille Chardin, ancien professeur de seconde au lycée Louis-le-Grand et publiées par ses anciens élèves M. Deltour et M. Marcou</hi>, 3e éd. augmentée, Paris, J. Delalain et fils, 1876, p. 31-35. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k8406552/f45.image">Gallica</ref>.</bibl>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+        <creation>
+            <date when="1852"/>
+        </creation>
+        <langUsage>
+            <language ident="lat"/>
+        </langUsage>
+    </profileDesc>
+</teiHeader>
+    <text>
+        <body>
+            <div>
+        <head>« Horace raconte à un ami de Rome la vie qu’il mène à Athènes »</head>
+        <p/>
+        <quote>
+            <l>Pars animae non parva meae<note place="bottom">. « Ah ! te meae si partem animae rapit, / Maturior vis… », Od. II, 17.</note>, Venusine sodalis,</l>
+            <l>Nate puer mecum sub eodem consule<note place="bottom">. « O nata mecum consule Manlio », Od. III, 21.</note>, mecum</l>
+            <l>Saepius heu ! plagas regis partite sonantes</l>
+            <l>Orbilii<note place="bottom">. « Memor / Actae non alio rege puertiae », Od. I, 36 ; « … Memini quae plagosum mihi parvo / Orbilium dictare », Ep. II, 1.</note> ; dum tu, patriis tunicatus in agris,</l>
+            <l>Findis humum dives propriam, laudasque parentes</l>
+            <l>Talia quod parci servarint praedia nato ;</l>
+            <l>Pauper ego, et felix non multi jugeris haeres<note place="bottom">. « Qui macro pauper agello », Sat, I, 6.</note>,</l>
+            <l>Munificum patrem et sapienter prodiga laudo</l>
+            <l>Dona<note place="bottom">. « Sed puerum est ausus Romam portare, docendum / Artes quas doceat quivis eques atque senator, / Semet prognatos », Sat, I, 6.</note>, neque abnuerim toto spectacula censu</l>
+            <l>Pendere, nec visis decedere nudus Athenis.</l>
+            <l>Num dubitas ? Audi : nosces, incredule, qualis</l>
+            <l>Vita fluat, quales sint absque labore labores,</l>
+            <l>Quam nova, quam vario redeuntia gaudia vultu</l>
+            <l>Afferat una dies ! Solem non saepe marinis</l>
+            <l>Vidimus exstantem thalamis ; prior emicat ille,</l>
+            <l>Pigrior ipse comes longo sequor intervallo<note place="bottom">. « Longo sed proximus intervallo », Virg., En., V, 320.</note>.</l>
+            <l>Ne tamen indigno credas torpere sopore :</l>
+            <l>Ut bibimus modice<note place="bottom">. « Vile potabis modicis sabinum / Cantharis », Od., I, 20.</note>, modici dormire<note place="bottom">. « Nequeo dormire », Sat., II, 1, 7.</note> solemus,</l>
+            <l>Et vigilem vigili captamus lumine lucem.</l>
+            <l>Sed tunc prima sua mens passim lege vagatur,</l>
+            <l>Somnia producens, erratque in margine somni.</l>
+            <l>Mox liber in manibus capitur, plerumque poetae,</l>
+            <l>Et, mea Pindaris vel Ceis somnia mutans</l>
+            <l>Nunc currus et equos Dircaeo<note place="bottom">. « Multa dircaeum levat aura cycnum », Od., IV, 2.</note> carmine miror</l>
+            <l>Volvi praecipites ; nunc Cei naenia<note place="bottom">. « Sed ne relictis, musa procax, jocis / Ceae retractes munera naenia », Od., II, 1.</note> vatis</l>
+            <l>Jucunde horrificat moerentes suaviter aures ;</l>
+            <l>Saepius ad lectum ridenti Teia fronte</l>
+            <l>Musa sedet, flavosque rosis praecincta capillos,</l>
+            <l>Vina canit, faciles aut garrula laudat amores.</l>
+            <l>Saepe etiam (sed tu fida occultare memento</l>
+            <l>Aure pius<note place="bottom">. « Quidquid habes, age, / Depone tutis auribus », Od., I, 27.</note> detecta tibi deliria soli),</l>
+            <l>Saepe ego Dircaeos coeli per aperta volatus,</l>
+            <l>Ales et ipse, sequor : felix si viribus illum</l>
+            <l>Aequassem ! sedenim ceratis Icarus alis<note place="bottom">. « Ceratis ope daedalea / Nititur pennis, vitreo daturus / Nomina ponto », Od., IV, 2.</note></l>
+            <l>Saepe cado, cunctis et cogor nare diebus.</l>
+            <l>O mihi si Graiae dignatur adesse camoenae</l>
+            <l>Spiritus !<note place="bottom">. « Spiritum graiae tenuem camenae / Parca non mendax dedit », Od., II, 16.</note> ut feriam sublimi sidera fronte<note place="bottom">. « Sublimi feriam sidera vertice », Od., I, 1.</note></l>
+            <l>Romanus fidicen !<note place="bottom">. « Romanae fidicen lyrae », Od. IV, 3.</note> Sed me quum navis ab alto</l>
+            <l>Fracta refert, fessusque peto sine remige portum,</l>
+            <l>Me dolor in celeres, non frigidus, urget iambos<note place="bottom">. « Me quoque pectoris / Tentavit in dulci juventa / Fervor et in celeres iambos, / Misit furentem », Od., I, v. 16.</note>,</l>
+            <l>Et nova, non sine dis animosus<note place="bottom">. « Non sine dis animosus infans », Od., III, 3.</note>, carmina tento.</l>
+            <l>De solido non saepe die pars multa<note place="bottom">. « Nec partem solido demere de die », Od. I, 1.</note> labori</l>
+            <l>Demitur : invadunt socii mea tecta, librisque</l>
+            <l>Cunctantem eripiunt : socii, clarissima Romae</l>
+            <l>Progenies, Fabiique truces, sanguisque superbus</l>
+            <l>Paulorum, multoque inflati consule Cossi,</l>
+            <l>Tuque Metellorum gens olim dura poetis !<note place="bottom">. Névius, poète tragique et comique, chassé de Rome pour avoir attaqué dans ses vers la familles des Métellus, mourut en Afrique (550 de Rome), voy. Hor, Sat., II, 1, 63 sqq.</note></l>
+            <l>Me colit haec pubes, et in unum vivimus ! Illis</l>
+            <l>Diligor obscurus, nec claro de patre natus<note place="bottom">.« Me libertino natum patre », Ep., I, 20.</note>.</l>
+            <l>Sed nobilium juvenum me forte clientem<note place="bottom">. « Si gestis, juvenum nobilium cliens / Nardo vina merebere », Od., IV, 12.</note></l>
+            <l>Esse putes ; aequis sociati legibus omnes</l>
+            <l>Vivimus. Ad coenam, si qua in commune paratur,</l>
+            <l>Non vacuis curro manibus ; sed glorior unus</l>
+            <l>Vel nardum vino vel nardo vina mereri.</l>
+            <l>Nullas pulso fores ; illi me mane salutant.</l>
+            <l>Non ego demiror servili voce patronum</l>
+            <l>Stulta cavillantem : rident mea dicta sodales.</l>
+            <l>Qualia miscemus salibus risusque maligno.</l>
+            <l>Colloquia ! ut dulce est in circumstantia quaeque</l>
+            <l>Sermonis lepidi tenues vibrare sagittas,</l>
+            <l>Et terrere hebetes, et ineptum spernere vulgus !<note place="bottom">. « Et malignum spernere vulgus », Od. II, 16.</note></l>
+            <l>Sed jam rhetoricos patefecit janua ludos :</l>
+            <l>Mille tonant linguae, totidem cruciantur et aures ;</l>
+            <l>Garrula multisona fremit omnis Graecia voce.</l>
+            <l>Quo ferimur ? ludum clari <hi rend="i">rhetoris</hi><note place="bottom">. La quantité est « rhētòrì ».</note> adimus :</l>
+            <l>Audio clamantes juvenes ; recitamus et ipsi,</l>
+            <l>Sollicitique parum laudet carpatve magister,</l>
+            <l>Cedimus, indociles collo juga ferre Latino<note place="bottom">. « Indocilis pauperiem pati », Od., I, 1.</note>.</l>
+            <l>Nunc juvat illustrem sapientis adire tabernam ;</l>
+            <l>Plurima quippe bonas modico artes vendicat auro.</l>
+            <l>Hic porcus fieri<note place="bottom">. « Epicuri de grege porcum », Ep., I, 4.</note> disces ; sed protenus illic,</l>
+            <l>Si cupis, in rigidum sapiens mutabere ferrum.</l>
+            <l>Rex eris et sutor<note place="bottom">. « Qui sapiens est, / Et sutor bonus, et solus formosus, et est rex », Sat., I, 3.</note> : tibi nec diademata deerunt,</l>
+            <l>Nec crepidae. Molles, Epicuri audimus alumnum ;</l>
+            <l>Zenonis, rigidi : sed neutri tradimus in nos</l>
+            <l>Arbitrium, nullique cohors addicta magistro<note place="bottom">. « Nullius addictus jurare in verba magistri », Ep., I, 1.</note>.</l>
+            <l>Decedente die, quum sol Salamina vaporat<note place="bottom">. « curru fugiente vaporet », Ep., I, 16.</note></l>
+            <l>Occiduus, per templa deum pia saepe caterva</l>
+            <l>Composito gressu, quamvis sine ture, vagatur.</l>
+            <l>Nos etiam pietas antiqui temporis illos</l>
+            <l>Urget adire locos, et bis sacra templa deorum</l>
+            <l>Numine et artificum ; bis relligiosa voluptas</l>
+            <l>Cernere Phidiaco spirantes marmore divos.</l>
+            <l>Et quum vesper adest, et puro incedere coelo</l>
+            <l>Stellarum coepere chori, discedimus urbe,</l>
+            <l>Et vocat ad notos Academi silva<note place="bottom">. « Atque inter silvas Academi quaerere verum », Ep., II, 2.</note> susurros.</l>
+            <l>Hic reptare juvat<note place="bottom">. « An tacitum sivas inter reptare salubres », Ep., I, 4.</note>, gelidoque accumbere fonti ;</l>
+            <l>Hic tendit virides non alta cacumine ramos</l>
+            <l>Arbutus, a nostra tandem rediviva bipenni.</l>
+            <l>Ignoscit Latio Sullanos silva furores<note place="bottom">. Sylla ne respecta pas les bois sacrés et fit couper les parcs du Lycée et de l’Académie, qui, par la beauté de leurs allées, faisaient l’ornement des faubourgs d’Athènes (Plutarque, <hi rend="i">Vie de Sylla</hi>).</note>,</l>
+            <l>Damnaque Romanis reparat sua, jamque videntur</l>
+            <l>Crescere gaudentes caris victoribus umbrae.</l>
+        </quote>
+        <p/>
+    </div>
+        </body>
+    </text>
+</TEI>
