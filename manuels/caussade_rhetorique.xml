@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="ecole.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -1017,7 +1017,7 @@
                     <bibl>(<hi rend="sc">P. Corneille</hi>, <hi rend="i">Le Cid</hi>, acte III, scène <num>vi</num>.)</bibl>
                   </quote>
                   <p>Exagérée, la concision devient un défaut.</p>
-                  <p>II y a différentes manières d’être concis. La concision de Bossuet n’est pas celle de Montesquieu, dont les <hi rend="i">Considérations sur la grandeur et la décadence des Romains</hi> sont contenues dans quelques pages du <hi rend="i">Discours sur l’histoire universelle</hi> (III<hi rend="sup">e</hi> partie, chap. <num>vi</num> et <num>vii</num>.)</p>
+                  <p>Il y a différentes manières d’être concis. La concision de Bossuet n’est pas celle de Montesquieu, dont les <hi rend="i">Considérations sur la grandeur et la décadence des Romains</hi> sont contenues dans quelques pages du <hi rend="i">Discours sur l’histoire universelle</hi> (III<hi rend="sup">e</hi> partie, chap. <num>vi</num> et <num>vii</num>.)</p>
                 </div>
                 <div>
                   <head>5° Correction</head>
@@ -1723,7 +1723,7 @@
                     <head>Tmèse</head>
                     <p>La <hi rend="b">tmèse</hi> (τμῆσις je coupe) <hi rend="i">sépare</hi> en deux parties un mot composé.</p>
                     <p><hi rend="i">Ex.</hi><quote><hi rend="i">Septem</hi> subjecta <hi rend="i">trioni</hi></quote>, pour <hi rend="i">septentrioni</hi>. (<hi rend="sc">Virgile</hi>, <hi rend="i">Géorgiques</hi>, livre III, vers 381.)</p>
-                    <p>II en est de même en prose :</p>
+                    <p>Il en est de même en prose :</p>
                     <p><quote><hi rend="i">Quod</hi> judicium <hi rend="i">cumque</hi> subierat, damnabitur</quote>, pour <hi rend="i">quodcunque</hi>, etc. (<hi rend="sc">Cicéron</hi>, <hi rend="i">Pro Sextio</hi>, chapitre <num>xxxi</num>.)</p>
                   </div>
                 </div>
@@ -2247,7 +2247,7 @@
             <p>La <hi rend="b">description</hi> est une amplification dont le but est de <hi rend="i">peindre</hi> les objets sous leurs traits les plus importants et les plus caractéristiques. Elle est fausse, quand elle substitue les mois au dessin et à la couleur.</p>
             <p>La description <hi rend="i">scientifique</hi>, qu’il faut distinguer de la description <hi rend="i">littéraire</hi>, se propose seulement d’instruire et de peindre l’objet d’après ses caractères essentiels. C’est une variété de la définition. Sa principale qualité est l’<hi rend="i">exactitude</hi>.</p>
             <p>Les qualités de la description doivent être celles de la narration. Son but est de produire sur l’imagination du lecteur ou de l’auditeur une impression si vive qu’il lui semble voir l’objet. Elle embellit un fait que l’historien se contente de raconter simplement. Cf. Platon décrivant au début de <hi rend="i">Phèdre</hi> un paysage des environs d’Athènes ; les descriptions de Buffon, de J.-J. Rousseau, de Bernardin de Saint-Pierre, de Chateaubriand, etc.</p>
-            <p>II ne faut pas abuser de la description comme Delille et imiter ces auteurs dont se moque Boileau :</p>
+            <p>Il ne faut pas abuser de la description comme Delille et imiter ces auteurs dont se moque Boileau :</p>
             <quote>
               <l>S’il rencontre un patois, il m’en dépeint la face :</l>
               <l>Il me promène après de terrasse en terrasse ; etc.</l>
@@ -2639,7 +2639,7 @@
               </div>
               <div>
                 <head>Prosodie grecque</head>
-                <p>II est beaucoup plus difficile de fixer la <hi rend="b">prosodie grecque</hi> que la <hi rend="b">prosodie latine</hi>. Toutefois, on peut remarquer dans la première la <hi rend="i">complète indépendance de la quantité et des accents</hi>. Quant aux différentes formes de vers, les poètes n’ont employé que l’<hi rend="i">hexamètre</hi> pour l’épopée, le genre didactique, etc. ; l’<hi rend="i">ïambe trimètre</hi> dans le dialogue de la poésie dramatique (tragédie et comédie) : les vers <hi rend="i">saphique et alcaïque</hi> dans la poésie lyrique. Le retour périodique de la <hi rend="i">strophe</hi>, de l’<hi rend="i">antistrophe</hi> et de l’<hi rend="i">épode</hi> répondait aux trois évolutions du chœur dans la <hi rend="i">poésie chorique</hi> de la tragédie. Les <hi rend="i">hymnes</hi> de Pindare n’ont pas encore leur métrique déterminée d’une manière certaine.</p>
+                <p>Il est beaucoup plus difficile de fixer la <hi rend="b">prosodie grecque</hi> que la <hi rend="b">prosodie latine</hi>. Toutefois, on peut remarquer dans la première la <hi rend="i">complète indépendance de la quantité et des accents</hi>. Quant aux différentes formes de vers, les poètes n’ont employé que l’<hi rend="i">hexamètre</hi> pour l’épopée, le genre didactique, etc. ; l’<hi rend="i">ïambe trimètre</hi> dans le dialogue de la poésie dramatique (tragédie et comédie) : les vers <hi rend="i">saphique et alcaïque</hi> dans la poésie lyrique. Le retour périodique de la <hi rend="i">strophe</hi>, de l’<hi rend="i">antistrophe</hi> et de l’<hi rend="i">épode</hi> répondait aux trois évolutions du chœur dans la <hi rend="i">poésie chorique</hi> de la tragédie. Les <hi rend="i">hymnes</hi> de Pindare n’ont pas encore leur métrique déterminée d’une manière certaine.</p>
                 <p>La <hi rend="b">poésie grecque</hi> empruntait une puissance musicale, dont nous ne pouvons guère nous faire une idée, à l’usage de l’<hi rend="i">accent tonique</hi> qui élevait la notation de quelques syllabes, sans en augmenter ni diminuer la durée. Le <hi rend="i">temps fort</hi> sur lequel la voix montait s’appelait ἀρσὶς, et le <hi rend="i">temps faible</hi> où la voix s’abaissait prenait le nom de θέσις.</p>
               </div>
             </div>
@@ -3237,7 +3237,7 @@
                     <p>À partir de ce <hi rend="i">virement</hi>, le nombre de vers ajoutés devait égaler celui qui l’avait précédé.</p>
                     <p>Le <hi rend="b">virelai nouveau</hi> diffère complètement de l’ancien. Il est tout entier écrit sur <hi rend="i">deux rimes</hi> et commence par <hi rend="i">deux vers</hi> destinés à revenir plusieurs fois comme <hi rend="i">refrain</hi>, alternativement ; le premier vers d’abord ; le second ensuite jusqu’à la fin du poème. Les vers du <hi rend="b">virelai nouveau</hi> ne sont pas à forme fixe ni coupés par strophes régulières. Ils s’entremêlent selon la fantaisie du poète, comme des vers libres ; l’alinéa finit chaque fois que le poète les coupe en faisant revenir habilement un des deux vers refrain. Ceux-ci sont la fin du poème comme ils en ont été le commencement ; seulement le <hi rend="i">vers refrain</hi> qui a été le second vers du poème en devient l’avant-dernier, et celui qui en a été le premier en devient le dernier. C’est ainsi que le <hi rend="b">virelai</hi> se rapproche de la ballade et du triolet.</p>
                     <p>Voici, d’après le père Mourgues, un exemple de chacun de ces <hi rend="b">virelais</hi> :</p>
-                    <label><hi rend="b">Virelai</hi> (<hi rend="i">ancien</hi>).</label>
+                    <label>Virelai (<hi rend="i">ancien</hi>).</label>
                     <quote>
                       <l>Sur l’appui du monde</l>
                       <l>Que faut-il qu’on fonde</l>
@@ -3269,7 +3269,7 @@
                       <l>Le devoir atteste</l>
                       <l>Les cieux.</l>
                     </quote>
-                    <label><hi rend="b">Virelai</hi> (<hi rend="i">nouveau</hi>)</label>
+                    <label>Virelai (<hi rend="i">nouveau</hi>)</label>
                     <label><hi rend="sc">Le Rimeur rebuté</hi>.</label>
                     <quote>
                       <l>Adieu vous dy, triste lyre,</l>
@@ -4361,7 +4361,7 @@
           </div>
         </div>
         <div>
-          <head>II Prose</head>
+          <head>II. Prose</head>
           <div>
             <head>[Introduction]</head>
             <div>
@@ -4381,7 +4381,7 @@
                 <l>Ô prose ! mâle outil et bon aux fortes mains !</l>
                 <l>Quand l’esprit veut marcher, tu lui fais des chemins ;</l>
                 <l>Sans toi, dans l’idéal il flanc et vagabonde.</l>
-                <l>Vrai langage des rois et des maîtres du inonde,</l>
+                <l>Vrai langage des rois et des maîtres du monde,</l>
                 <l>Tu donnes à l’idée un corps ferme et vaillant ;</l>
                 <l>Tu l’ornes si tu veux ; jamais un faux brillant</l>
                 <l>À sa simplicité malgré toi ne s’ajoute.</l>

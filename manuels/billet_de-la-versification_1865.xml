@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="http://gallica.bnf.fr/ark:/12148/bpt6k54640923">De la Versification française, préceptes et exercices à l’usage des élèves de rhétorique</title>
+        <title ref="http://gallica.bnf.fr/ark:/12148/bpt6k54640923">De la Versification française,
+          préceptes et exercices à l’usage des élèves de rhétorique</title>
         <title type="sub">Première partie. Préceptes. Conseils aux élèves.</title>
         <author key="Billet, Henri-Louis">Henri-Louis Billet</author>
       </titleStmt>
@@ -22,16 +23,29 @@
         <idno>http://obvil.paris-sorbonne.fr/corpus/ecole/billet_de-la-versification_1865/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p> 
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
+              « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
+              les bases de données (L341-1) est mise à disposition de la communauté scientifique
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC
+              BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
+              Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+              utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+              électronique, notamment en intégrant toutes les contributions extérieures. La
+              diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Billet, Henri-Louis</author>, <title>De la versification française, préceptes et exercices à l’usage des élèves de rhétorique</title>, <pubPlace>Saint-Quentin</pubPlace>, <publisher>Imprimerie Hourdequin et Thiroux</publisher>, <date>1865</date>, 47 p.</bibl>
+        <bibl><author>Billet, Henri-Louis</author>, <title>De la versification française, préceptes
+            et exercices à l’usage des élèves de rhétorique</title>,
+            <pubPlace>Saint-Quentin</pubPlace>, <publisher>Imprimerie Hourdequin et
+            Thiroux</publisher>, <date>1865</date>, 47 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -48,8 +62,12 @@
       <div type="dedication">
         <salute rend="uc">À mes chers élèves.</salute>
         <salute>Jeunes Amis,</salute>
-        <p rend="i">C’est à vous que je veux dédier cet opuscule, parce que c’est vous, vous seuls, qui me l’avez inspiré. C’est pour vous que j’ai recueilli ces préceptes ; pour vous que j’ai imaginé ces <hi rend="n">exercices</hi> ; pour vous, et avant vous, que j’ai fait moi-même tous ces devoirs.</p>
-        <p rend="i">Gardez ce souvenir d’un enseignement que vous avez accueilli avec plaisir, et que je vous ai donné avec bonheur.</p>
+        <p rend="i">C’est à vous que je veux dédier cet opuscule, parce que c’est vous, vous seuls,
+          qui me l’avez inspiré. C’est pour vous que j’ai recueilli ces préceptes ; pour vous que
+          j’ai imaginé ces <hi rend="n">exercices</hi> ; pour vous, et avant vous, que j’ai fait
+          moi-même tous ces devoirs.</p>
+        <p rend="i">Gardez ce souvenir d’un enseignement que vous avez accueilli avec plaisir, et
+          que je vous ai donné avec bonheur.</p>
         <dateline>Noyon, le 1er Janvier 1865.</dateline>
         <signed>H. BILLET.<lb/>Directeur de Saint-Barthélémy.</signed>
       </div>
@@ -57,14 +75,26 @@
         <head>I.</head>
         <p>Étudiez Racine et Boileau, nos maîtres, à tous !</p>
         <quote>
-          <l>Que leurs <hi rend="i">doctes</hi> écrits, par les <hi rend="i">Muses</hi> dictés,    </l>
-          <l>Ne quittent point vos mains, jour et nuit feuilletés<note n="1" place="bottom"><p>Boileau, en parlant de Théocrite et de Virgile, Art p., II, v. 27 :</p><quote><l>Que leurs tendres écrits, par les Grâces dictés,</l><l>Ne quittent point vos mains, jour et nuit feuilletés.</l></quote><p>Horace, Art p., v. 268 :</p><quote><l>Vos exemplaria groeca</l><l>Nocturna versate manu, versate diurna.</l></quote></note>.</l>
+          <l>Que leurs <hi rend="i">doctes</hi> écrits, par les <hi rend="i">Muses</hi> dictés,
+               </l>
+          <l>Ne quittent point vos mains, jour et nuit feuilletés<note n="1" place="bottom"
+                ><p>Boileau, en parlant de Théocrite et de Virgile, Art p., II, v.
+                  27 :</p><quote><l>Que leurs tendres écrits, par les Grâces dictés,</l><l>Ne
+                  quittent point vos mains, jour et nuit feuilletés.</l></quote><p>Horace, Art p.,
+                v. 268 :</p><quote><l>Vos exemplaria groeca</l><l>Nocturna versate manu, versate
+                  diurna.</l></quote></note>.</l>
         </quote>
-        <p>Étudiez Boileau et Racine ; et vous apprendrez dans leurs vers, bien mieux que dans n’importe quel <hi rend="i">Traité</hi>, toutes les règles et tous les <hi rend="i">Secrets</hi> de la versification française. — C’est un travail que nous allons commencer ensemble, et que, pour votre plus grande utilité, je vous laisserai continuer tout seuls.</p>
+        <p>Étudiez Boileau et Racine ; et vous apprendrez dans leurs vers, bien mieux que dans
+          n’importe quel <hi rend="i">Traité</hi>, toutes les règles et tous les <hi rend="i"
+            >Secrets</hi> de la versification française. — C’est un travail que nous allons
+          commencer ensemble, et que, pour votre plus grande utilité, je vous laisserai continuer
+          tout seuls.</p>
       </div>
       <div>
         <head>II.</head>
-        <p>Et vous-mêmes, à votre tour, mettez-vous à l’œuvre : Essayez de faire des vers français. — Deviendrez-vous ainsi des poètes ? Non, très-vraisemblablement ; car, vous le savez :</p>
+        <p>Et vous-mêmes, à votre tour, mettez-vous à l’œuvre : Essayez de faire des vers français.
+          — Deviendrez-vous ainsi des poètes ? Non, très-vraisemblablement ; car, vous le
+          savez :</p>
         <quote>
           <l>C’est en vain qu’au Parnasse un téméraire auteur</l>
           <l>Pense de l’art des vers atteindre la hauteur :</l>
@@ -74,7 +104,10 @@
           <l>Pour lui Phébus est sourd, et Pégase est rétif.</l>
           <bibl>(<title>Boileau, Art p.</title>, v. 1-6.)</bibl>
         </quote>
-        <p>Mais, au moins, vous deviendrez des versificateurs, et alors vous pourrez, avec connaissance de cause, louer ou blâmer les vers des autres ; alors surtout, vous serez plus heureux d’admirer les grands poètes dont la France s’enorgueillit, à si juste titre, depuis le XVII<hi rend="sup">e</hi> siècle jusqu’à nos jours.    </p>
+        <p>Mais, au moins, vous deviendrez des versificateurs, et alors vous pourrez, avec
+          connaissance de cause, louer ou blâmer les vers des autres ; alors surtout, vous serez
+          plus heureux d’admirer les grands poètes dont la France s’enorgueillit, à si juste titre,
+          depuis le XVII<hi rend="sup">e</hi> siècle jusqu’à nos jours.    </p>
       </div>
       <div>
         <head>III.</head>
@@ -82,17 +115,23 @@
           <l rend="i">Travaillez, prenez de la peine. </l>
           <l>Appliquez-vous, sans vous décourager, sans vous impatienter jamais.</l>
           <l>Hâtez-vous lentement ; et sans perdre courage,</l>
-          <l>Vingt fois sur le métier remettez votre ouvrage : Polissez-le sans cesse et le repolissez :</l>
+          <l>Vingt fois sur le métier remettez votre ouvrage : Polissez-le sans cesse et le
+            repolissez :</l>
           <l>Ajoutez quelquefois ; et souvent effacez.</l>
           <bibl>(<title>Boileau, Art p.</title>, I, v. 171.)</bibl>
         </quote>
       </div>
       <div>
         <head>IV.</head>
-        <p>L’auteur doit mettre à son œuvre tant de travail, tant d’art, que l’art et le travail disparaissent aux yeux du lecteur. — Boileau employait une journée entière pour faire une dizaine de vers. Il lui fallut onze mois pour composer la Satire XII, et trois ans pour la corriger. — Racine remerciait Boileau de lui <hi rend="i">avoir appris à faire difficilement des vers faciles.</hi></p>
+        <p>L’auteur doit mettre à son œuvre tant de travail, tant d’art, que l’art et le travail
+          disparaissent aux yeux du lecteur. — Boileau employait une journée entière pour faire une
+          dizaine de vers. Il lui fallut onze mois pour composer la Satire XII, et trois ans pour la
+          corriger. — Racine remerciait Boileau de lui <hi rend="i">avoir appris à faire
+            difficilement des vers faciles.</hi></p>
       </div>
       <div>
-        <head>V. De la rime<note n="2" place="bottom"> Voir notre ouvrage <hi rend="i">De la Rime d’après Boileau et Racine.</hi></note>.</head>
+        <head>V. De la rime<note n="2" place="bottom"> Voir notre ouvrage <hi rend="i">De la Rime
+              d’après Boileau et Racine.</hi></note>.</head>
         <quote>
           <l>Quelque sujet qu’on traite, ou plaisant ou sublime,</l>
           <l>Que toujours le bon sens s’accorde avec la rime :</l>
@@ -104,46 +143,75 @@
           <l>Et, loin de la gêner, la sert et l’enrichit.</l>
           <l>Mais lorsqu’on la néglige, elle devient rebelle ;</l>
           <l>Et pour la rattraper, le sens court après elle.</l>
-          <l>Aimez donc la raison : que toujours vos écrits Empruntent d’elle seule et leur lustre et leur prix.</l>
+          <l>Aimez donc la raison : que toujours vos écrits Empruntent d’elle seule et leur lustre
+            et leur prix.</l>
           <bibl><title>(Boileau, Art p.</title>, I, v. 27.)</bibl>
         </quote>
-        <p><hi rend="i">La rime pour le vers, et non le vers pour la rime.</hi> — Malheureusement, même dans nos meilleurs poètes, on trouve un certain nombre de vers qui, évidemment, n’ont été faits que pour la rime.</p>
+        <p><hi rend="i">La rime pour le vers, et non le vers pour la rime.</hi> — Malheureusement,
+          même dans nos meilleurs poètes, on trouve un certain nombre de vers qui, évidemment, n’ont
+          été faits que pour la rime.</p>
       </div>
       <div>
-        <head>VI. <hi rend="i">Du petit nombre de rimes classiques.</hi> — <hi rend="i">De Racine en particulier.</hi></head>
-        <p>Même en notant toutes les formes dont les mots variables sont susceptibles (le singulier et le pluriel des noms, le singulier et le pluriel, le masculin et le féminin des adjectifs ; les modes, les temps, les personnes, le singulier et le pluriel des verbes), on ne compte que 5, 900 rimes différentes dans Racine et Boileau. — Avec un <hi rend="i">millier</hi> seulement de rimes <hi rend="i">supplémentaires</hi>, pour les œuvres principales de Corneille et de Molière (soit, en tout, 7, 000), on posséderait le vocabulaire des rimes <hi rend="i">classiques</hi> de nos quatre grands poètes du XVII<hi rend="sup">e</hi> siècle<note n="3" place="bottom"> Si nous omettons ici <hi rend="i">l’autre</hi> grand poète du XVIIe siècle, c’est qu’il ne s’agit que de la <hi rend="i">rime</hi>, et que, sous ce rapport, <hi rend="i">La Fontaine</hi> est parfois d’une négligence qui n’est pas à imiter.</note>.</p>
-        <p>Parmi eux, celui qui répète le plus souvent les mêmes rimes, est incontestablement Racine : ce qui ne l’a pas empêché de faire, incontestablement aussi, le plus grand nombre de beaux vers, le plus grand nombre de vers vraiment poétiques.</p>
-        <p>Le nombre des mots (sans compter leurs formes diverses) qui ont fourni des rimes à Racine, ne s’élève pas tout-à-fait à <hi rend="i">trois mille</hi> : ce n’est qu<hi rend="i">'un</hi> mot pour <hi rend="i">sept</hi> vers<note n="4" place="bottom"> Les douze <hi rend="i">pièces</hi> de Racine forment un total de 18, 900 vers : d’où, en moyenne, 18900/12 = 1575 v. par pièce, et 1575/5 = 325 v. par acte. — Plus exactement, comme deux pièces <hi rend="i">(les Plaideurs</hi> et <hi rend="i">Esther)</hi> n’ont que trois actes, la moyenne, pour un acte, est 18900/56=337, 5.</note>.</p>
+        <head>VI. <hi rend="i">Du petit nombre de rimes classiques.</hi> — <hi rend="i">De Racine en
+            particulier.</hi></head>
+        <p>Même en notant toutes les formes dont les mots variables sont susceptibles (le singulier
+          et le pluriel des noms, le singulier et le pluriel, le masculin et le féminin des
+          adjectifs ; les modes, les temps, les personnes, le singulier et le pluriel des verbes),
+          on ne compte que 5, 900 rimes différentes dans Racine et Boileau. — Avec un <hi rend="i"
+            >millier</hi> seulement de rimes <hi rend="i">supplémentaires</hi>, pour les œuvres
+          principales de Corneille et de Molière (soit, en tout, 7, 000), on posséderait le
+          vocabulaire des rimes <hi rend="i">classiques</hi> de nos quatre grands poètes du XVII<hi
+            rend="sup">e</hi> siècle<note n="3" place="bottom"> Si nous omettons ici <hi rend="i"
+              >l’autre</hi> grand poète du XVIIe siècle, c’est qu’il ne s’agit que de la <hi
+              rend="i">rime</hi>, et que, sous ce rapport, <hi rend="i">La Fontaine</hi> est parfois
+            d’une négligence qui n’est pas à imiter.</note>.</p>
+        <p>Parmi eux, celui qui répète le plus souvent les mêmes rimes, est incontestablement
+          Racine : ce qui ne l’a pas empêché de faire, incontestablement aussi, le plus grand nombre
+          de beaux vers, le plus grand nombre de vers vraiment poétiques.</p>
+        <p>Le nombre des mots (sans compter leurs formes diverses) qui ont fourni des rimes à
+          Racine, ne s’élève pas tout-à-fait à <hi rend="i">trois mille</hi> : ce n’est qu<hi
+            rend="i">'un</hi> mot pour <hi rend="i">sept</hi> vers<note n="4" place="bottom"> Les
+            douze <hi rend="i">pièces</hi> de Racine forment un total de 18, 900 vers : d’où, en
+            moyenne, 18900/12 = 1575 v. par pièce, et 1575/5 = 325 v. par acte. — Plus exactement,
+            comme deux pièces <hi rend="i">(les Plaideurs</hi> et <hi rend="i">Esther)</hi> n’ont
+            que trois actes, la moyenne, pour un acte, est 18900/56=337, 5.</note>.</p>
       </div>
       <div>
         <head>VII. Des rimes employées le plus fréquemment par Racine.</head>
         <table>
           <row>
-            <cell>Les <hi rend="i">deux</hi> rimes <hi rend="i">adore</hi> et <hi rend="i">encore</hi> ont fourni à Racine</cell>
+            <cell>Les <hi rend="i">deux</hi> rimes <hi rend="i">adore</hi> et <hi rend="i"
+                >encore</hi> ont fourni à Racine</cell>
             <cell>34 vers ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">deux</hi> rimes <hi rend="i">humains</hi> et <hi rend="i">mains, id.</hi></cell>
+            <cell>Les <hi rend="i">deux</hi> rimes <hi rend="i">humains</hi> et <hi rend="i">mains,
+                id.</hi></cell>
             <cell>34 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">deux</hi> rimes <hi rend="i">cœur</hi> et <hi rend="i">vainqueur, id</hi>.</cell>
+            <cell>Les <hi rend="i">deux</hi> rimes <hi rend="i">cœur</hi> et <hi rend="i">vainqueur,
+                id</hi>.</cell>
             <cell>36 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">cinq</hi> rimes <hi rend="i">adieux, aïeux, cieux, dieux, lieux</hi></cell>
+            <cell>Les <hi rend="i">cinq</hi> rimes <hi rend="i">adieux, aïeux, cieux, dieux,
+                lieux</hi></cell>
             <cell>106 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">trois</hi> rimes <hi rend="i">douleurs, malheurs</hi>, et <hi rend="i">pleurs</hi></cell>
+            <cell>Les <hi rend="i">trois</hi> rimes <hi rend="i">douleurs, malheurs</hi>, et <hi
+                rend="i">pleurs</hi></cell>
             <cell>68 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">quatre</hi> rimes <hi rend="i">fois, lois, rois</hi> et <hi rend="i">voix</hi></cell>
+            <cell>Les <hi rend="i">quatre</hi> rimes <hi rend="i">fois, lois, rois</hi> et <hi
+                rend="i">voix</hi></cell>
             <cell>96 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">cinq</hi> rimes <hi rend="i">foi, loi, moi, roi</hi> et <hi rend="i">toi</hi></cell>
+            <cell>Les <hi rend="i">cinq</hi> rimes <hi rend="i">foi, loi, moi, roi</hi> et <hi
+                rend="i">toi</hi></cell>
             <cell>186 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
@@ -151,7 +219,8 @@
             <cell>100 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell><hi rend="i">Les quatre</hi> rimes <hi rend="i">alarmes, armes, charmes, larmes</hi></cell>
+            <cell><hi rend="i">Les quatre</hi> rimes <hi rend="i">alarmes, armes, charmes,
+                larmes</hi></cell>
             <cell>138 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
@@ -160,43 +229,66 @@
           </row>
           <row>
             <cell>
-              <p>Les <hi rend="i">cinq</hi> rimes <hi rend="i">amours, discours, jours, secours</hi> et <hi rend="i">toujours</hi><note n="5" place="bottom"> Les mots <hi rend="i">jours</hi> et <hi rend="i">toujours</hi> ne riment, l’un avec l’autre, ni dans Boileau, ni dans Racine.</note></p>
+              <p>Les <hi rend="i">cinq</hi> rimes <hi rend="i">amours, discours, jours, secours</hi>
+                et <hi rend="i">toujours</hi><note n="5" place="bottom"> Les mots <hi rend="i"
+                    >jours</hi> et <hi rend="i">toujours</hi> ne riment, l’un avec l’autre, ni dans
+                  Boileau, ni dans Racine.</note></p>
             </cell>
             <cell>166 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">quatre</hi> rimes <hi rend="i">appui, aujourd’hui, ennui, lui</hi></cell>
+            <cell>Les <hi rend="i">quatre</hi> rimes <hi rend="i">appui, aujourd’hui, ennui,
+                lui</hi></cell>
             <cell>174 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">deux</hi> rimes <hi rend="i">gloire</hi> et <hi rend="i">victoire</hi></cell>
+            <cell>Les <hi rend="i">deux</hi> rimes <hi rend="i">gloire</hi> et <hi rend="i"
+                >victoire</hi></cell>
             <cell>78 <hi rend="i">id.</hi>;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">trois</hi> rimes <hi rend="i">mémoire, gloire et victoire</hi></cell>
+            <cell>Les <hi rend="i">trois</hi> rimes <hi rend="i">mémoire, gloire et
+              victoire</hi></cell>
             <cell>142 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">cinq</hi> rimes <hi rend="i">coups, courroux, doux, nous, vous</hi></cell>
+            <cell>Les <hi rend="i">cinq</hi> rimes <hi rend="i">coups, courroux, doux, nous,
+                vous</hi></cell>
             <cell>278 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">deux</hi> rimes <hi rend="i">aime</hi> et <hi rend="i">même</hi></cell>
+            <cell>Les <hi rend="i">deux</hi> rimes <hi rend="i">aime</hi> et <hi rend="i"
+              >même</hi></cell>
             <cell>112 <hi rend="i">id.</hi> ;</cell>
           </row>
           <row>
-            <cell>Les <hi rend="i">trois</hi> rimes <hi rend="i">aime, extrême</hi> et <hi rend="i">même</hi></cell>
+            <cell>Les <hi rend="i">trois</hi> rimes <hi rend="i">aime, extrême</hi> et <hi rend="i"
+                >même</hi></cell>
             <cell>180 <hi rend="i">id.</hi></cell>
           </row>
         </table>
-        <p>On remarque immédiatement ici les rimes qu’affectionnait le <hi rend="i">tendre</hi> Racine.</p>
-        <p>Enfin, le monosyllabe <hi rend="i">pas</hi> (nom ou adverbe), en se combinant avec les seules rimes en PAS, a fourni à Racine 130 vers ; — et, avec toutes les rimes en AS, ATS, 262 vers. Ainsi, 131 vers (ou la 144<hi rend="sup">e</hi> partie de l’œuvre de notre poète) se terminent par le mot <hi rend="i">pas</hi> ; autrement dit : Tous les 144 vers, en moyenne, on retrouve ce même monosyllabe à la rime.</p>
-        <p>En résumé : sur ses 18, 900 vers, Racine en a composé plus de 1, 900, avec une <hi rend="i">cinquantaine</hi> de rimes différentes !</p>
+        <p>On remarque immédiatement ici les rimes qu’affectionnait le <hi rend="i">tendre</hi>
+          Racine.</p>
+        <p>Enfin, le monosyllabe <hi rend="i">pas</hi> (nom ou adverbe), en se combinant avec les
+          seules rimes en PAS, a fourni à Racine 130 vers ; — et, avec toutes les rimes en AS, ATS,
+          262 vers. Ainsi, 131 vers (ou la 144<hi rend="sup">e</hi> partie de l’œuvre de notre
+          poète) se terminent par le mot <hi rend="i">pas</hi> ; autrement dit : Tous les 144 vers,
+          en moyenne, on retrouve ce même monosyllabe à la rime.</p>
+        <p>En résumé : sur ses 18, 900 vers, Racine en a composé plus de 1, 900, avec une <hi
+            rend="i">cinquantaine</hi> de rimes différentes !</p>
       </div>
       <div>
         <head>VIII. <hi rend="i">Des rimes trop communes et des rimes trop rares.</hi></head>
         <quote>
-          <p>« Le peu de rimes de notre langue fait que, pour rimer à <hi rend="i">hommes</hi>, on fait venir comme on peut <hi rend="i">le siècle où nous sommes, l’état où nous sommes, tous tant que nous sommes</hi><note n="6" place="bottom"><space/>Les deux rimes <hi rend="i">hommes</hi> et <hi rend="i">sommes</hi> n’ont été employées que <hi rend="i">huit fois</hi> par Racine, et <hi rend="i">une seule fois</hi> par Boileau ; mais ces deux poètes n’ont pas d’autres rimes en <hi rend="sc">ommes.</hi></note>. Cette gêne ne se fait que trop sentir en mille occasions. La seule ressource est d’éviter, si l’on peut, ces malheureuses rimes, et de chercher un autre tour ; la difficulté est prodigieuse, mais il la faut vaincre. »    </p>
+          <p>« Le peu de rimes de notre langue fait que, pour rimer à <hi rend="i">hommes</hi>, on
+            fait venir comme on peut <hi rend="i">le siècle où nous sommes, l’état où nous sommes,
+              tous tant que nous sommes</hi><note n="6" place="bottom">Les deux rimes <hi rend="i"
+                >hommes</hi> et <hi rend="i">sommes</hi> n’ont été employées que <hi rend="i">huit
+                fois</hi> par Racine, et <hi rend="i">une seule fois</hi> par Boileau ; mais ces
+              deux poètes n’ont pas d’autres rimes en <hi rend="sc">ommes.</hi></note>. Cette gêne
+            ne se fait que trop sentir en mille occasions. La seule ressource est d’éviter, si l’on
+            peut, ces malheureuses rimes, et de chercher un autre tour ; la difficulté est
+            prodigieuse, mais il la faut vaincre. »    </p>
           <bibl>(<author>Voltaire</author>, <title>note sur Corneille</title>.)</bibl>
         </quote>
         <p>Exemple de rimes trop communes.</p>
@@ -210,25 +302,37 @@
         </quote>
         <p>D’un autre côté,</p>
         <quote>
-          <l><hi rend="i">Souvent la peur d’un mal nous conduit dans un pire</hi><note n="7" place="bottom"><p><space/><hi rend="i">Souvent</hi>, d’après Boileau ; — Horace avait dit : <quote>« <hi rend="i">Quand on manque d’art</hi>, »</quote></p><p><quote>In vitium ducit culpœ fuga, si caret arte.</quote> </p><quote><bibl><title>(Art p.</title>, v. 31 )</bibl></quote></note>.</l>
+          <l><hi rend="i">Souvent la peur d’un mal nous conduit dans un pire</hi><note n="7"
+              place="bottom"><p><space/><hi rend="i">Souvent</hi>, d’après Boileau ; — Horace avait
+                dit : <quote>« <hi rend="i">Quand on manque d’art</hi>, »</quote></p><p><quote>In
+                  vitium ducit culpœ fuga, si caret arte.</quote>
+              </p><quote><bibl><title>(Art p.</title>, v. 31 )</bibl></quote></note>.</l>
           <bibl><title>(Boileau, Art p.</title>, I, v.64.)</bibl>
         </quote>
-        <p>Il ne faut donc pas, non plus, que le versificateur, pour échapper à tout prix à la banalité, se mette à la recherche de rimes extrêmement rares, étranges, <hi rend="i">impossibles.</hi> Il ne produirait guère que des vers aussi bizarres que ses rimes. Il s’exposerait même à perdre entièrement son temps et sa peine, attendu que notre langue n’a pas de rime pour certains mots, comme <hi rend="i">huître, hymne, perdre</hi> ( à l’infinitif ), <hi rend="i">rhythme, siècle, triomphe</hi>, etc.</p>
+        <p>Il ne faut donc pas, non plus, que le versificateur, pour échapper à tout prix à la
+          banalité, se mette à la recherche de rimes extrêmement rares, étranges, <hi rend="i"
+            >impossibles.</hi> Il ne produirait guère que des vers aussi bizarres que ses rimes. Il
+          s’exposerait même à perdre entièrement son temps et sa peine, attendu que notre langue n’a
+          pas de rime pour certains mots, comme <hi rend="i">huître, hymne, perdre</hi> ( à
+          l’infinitif ), <hi rend="i">rhythme, siècle, triomphe</hi>, etc.</p>
         <p>Boileau voulut une fois terminer un vers par le mot <hi rend="i">huître</hi> :</p>
         <quote>
           <l><hi rend="i">Un jour</hi>............</l>
           <l><hi rend="i">Deux voyageurs à jeun rencontrèrent une huître</hi>.</l>
         </quote>
-        <p>Et, pour <hi rend="i">remplir</hi> le premier vers, il ne trouva plus rien de mieux que les <hi rend="i">chevilles</hi> ci-dessous :</p>
+        <p>Et, pour <hi rend="i">remplir</hi> le premier vers, il ne trouva plus rien de mieux que
+          les <hi rend="i">chevilles</hi> ci-dessous :</p>
         <quote>
           <l>Un jour, <hi rend="i">dit un auteur, n’importe en quel chapitre</hi>,</l>
           <l>Deux voyageurs à jeun rencontrèrent une huître.</l>
           <bibl> <title>(Epître II</title>, v. 41.)</bibl>
         </quote>
-        <p>Un poète moderne, un vrai poète pourtant, n’a pas été plus heureux en cherchant une rime à <hi rend="i">hymne</hi> :</p>
+        <p>Un poète moderne, un vrai poète pourtant, n’a pas été plus heureux en cherchant une rime
+          à <hi rend="i">hymne</hi> :</p>
         <quote>
           <l>Comme deux rossignols au même nid éclos,</l>
-          <l><hi rend="i">Enseignons-nous l’un l’autre</hi> à moduler ses <hi rend="i">hymnes</hi> ;</l>
+          <l><hi rend="i">Enseignons-nous l’un l’autre</hi> à moduler ses <hi rend="i"
+            >hymnes</hi> ;</l>
           <l>De la voix de la terre expirant sur ces <hi rend="i">cimes</hi></l>
           <l>Soyons-lui les derniers échos.</l>
           <bibl>(De Lamartine.)</bibl>
@@ -239,7 +343,8 @@
           <l>Je le laisse à plus fin que moi.</l>
           <bibl>(Scarron.)</bibl>
         </quote>
-        <p>Racine et Boileau n’ont employé que les formes <hi rend="i">je perds, se perd, perdu, perdue, perdus, perdues.</hi></p>
+        <p>Racine et Boileau n’ont employé que les formes <hi rend="i">je perds, se perd, perdu,
+            perdue, perdus, perdues.</hi></p>
       </div>
       <div>
         <head>IX. Respecter la grammaire et l’orthographe.</head>
@@ -254,19 +359,52 @@
           <l>Est toujours, quoi qu’il fasse, un méchant écrivain.</l>
           <bibl>(<title>Boileau, Art. p.</title>, I, v. 155.)</bibl>
         </quote>
-        <p>Nous ne parlerons ici que des fautes de français et d’orthographe relatives à la rime.</p>
-        <p>Il y a d’abord des licences parfaitement autorisées, même aujourd’hui. C’est ainsi que, pour le besoin de la rime, on écrit <hi rend="i">encore</hi> ou <hi rend="i">encor, naguère</hi> ou <hi rend="i">naguères</hi>, etc.; qu’on fait <hi rend="i">amour</hi> du genre féminin, même au singulier ; etc. Mais nos jeunes versificateurs feront bien d’être sévères pour eux-mêmes, sur ce chapitre, et de ne pas écrire, par exemple, <hi rend="i">je voi, je croi</hi>, pour <hi rend="i">je vois, je crois ;</hi> ni, à plus forte raison, <hi rend="i">tu voi, tu croi</hi>, pour <hi rend="i">tu vois, tu crois.</hi></p>
+        <p>Nous ne parlerons ici que des fautes de français et d’orthographe relatives à la
+          rime.</p>
+        <p>Il y a d’abord des licences parfaitement autorisées, même aujourd’hui. C’est ainsi que,
+          pour le besoin de la rime, on écrit <hi rend="i">encore</hi> ou <hi rend="i">encor,
+            naguère</hi> ou <hi rend="i">naguères</hi>, etc.; qu’on fait <hi rend="i">amour</hi> du
+          genre féminin, même au singulier ; etc. Mais nos jeunes versificateurs feront bien d’être
+          sévères pour eux-mêmes, sur ce chapitre, et de ne pas écrire, par exemple, <hi rend="i">je
+            voi, je croi</hi>, pour <hi rend="i">je vois, je crois ;</hi> ni, à plus forte raison,
+            <hi rend="i">tu voi, tu croi</hi>, pour <hi rend="i">tu vois, tu crois.</hi></p>
         <p>(Voir notre ouvrage <hi rend="i">De la Rime d’après Boileau et Racine.)</hi></p>
         <quote>
-          <p>« M. de Lamartine, préoccupé sans doute par la grandeur imposante de ses pensées, en a quelquefois négligé l’expression. On croirait que, jaloux d’un repos que l’envie et la haine laissent rarement au talent, il a jeté comme une expiation de son génie, dans ses ouvrages les plus parfaits, des imperfections volontaires, ou qu’il a pensé vivre encore dans cet âge de goût et de raison où le plus judicieux des critiques écrivait :</p>
+          <p>« M. de Lamartine, préoccupé sans doute par la grandeur imposante de ses pensées, en a
+            quelquefois négligé l’expression. On croirait que, jaloux d’un repos que l’envie et la
+            haine laissent rarement au talent, il a jeté comme une expiation de son génie, dans ses
+            ouvrages les plus parfaits, des imperfections volontaires, ou qu’il a pensé vivre encore
+            dans cet âge de goût et de raison où le plus judicieux des critiques écrivait :</p>
           <l>Ubi plura nitent in carmine, non ego paucis</l>
-          <l>Offendar maculis<note n="8" place="bottom"> Horace, Art p., v. 351. — <quote>Dès que le nombre des beautés domine dans un poème, je n’irai pas, moi, me choquer de quelques taches.</quote></note>.</l>
-          <p>M. de Lamartine a trouvé des juges plus sévères, et il devait s’y attendre. Il est si agréable de faire preuve du facile talent de peser des syllabes, de disséquer des mots, de souligner une épithète hasardée ou une rime défectueuse ! Joie puérile de la médiocrité, qui rappelle les <hi rend="i">insulteurs</hi> publics que les Romains plaçaient sur le chemin des triomphateurs, et qui ne les empêchaient pas de s’élever, entourés d’acclamations et couronnés de lauriers, aux pompes du Capitole ! »</p>
+          <l>Offendar maculis<note n="8" place="bottom"> Horace, Art p., v. 351. — <quote>Dès que le
+                nombre des beautés domine dans un poème, je n’irai pas, moi, me choquer de quelques
+                taches.</quote></note>.</l>
+          <p>M. de Lamartine a trouvé des juges plus sévères, et il devait s’y attendre. Il est si
+            agréable de faire preuve du facile talent de peser des syllabes, de disséquer des mots,
+            de souligner une épithète hasardée ou une rime défectueuse ! Joie puérile de la
+            médiocrité, qui rappelle les <hi rend="i">insulteurs</hi> publics que les Romains
+            plaçaient sur le chemin des triomphateurs, et qui ne les empêchaient pas de s’élever,
+            entourés d’acclamations et couronnés de lauriers, aux pompes du Capitole ! »</p>
           <bibl><title>(Méditations.</title> — <title>Préface de Ch. Nodier.)</title></bibl>
           <l rend="i">La critique est aisée, et l’art est difficile. </l>
           <bibl><title>(Destouches, Le Glorieux</title>, acte II, sc. 5.)</bibl>
         </quote>
-        <p>Nous aussi, nous ressentons la plus profonde admiration pour notre grand poète contemporain<note n="9" place="bottom"><p>Chaque fois que je parle à mes Élèves de notre poésie lyrique, je ne puis m’empêcher de comparer leur situation avec celle qui nous était faite à leur âge. Qu’ils sont bien autrement favorisés que nous ne l’étions ! Mais peut-être que, pour apprécier, selon toute sa valeur, la poésie de notre Lamartine, il n’est pas mauvais <hi rend="i">d’avoir dû apprendre par cœur le livre entier des Odes de J.-B. Rousseau</hi>.</p><p>Le XIXe siècle, si calomnié, n’a rien à envier aux âges que l’on vante le plus. Même en dehors du domaine des <hi rend="i">choses matérielles</hi>, ce n’est pas de lui qu’on peut dire qu’il <hi rend="i">a dégénéré de ses ancêtres.</hi> Il est digne, au contraire, des plus nobles d’entre eux. C’est l’enfant légitime, ou, du moins, le petit-fils du grand XVIIe siècle. Lamartine et Victor Hugo sont les héritiers et les continuateurs de Racine et de Corneille.</p></note>. — Seulement, à propos de la rime, nous croyons devoir recommander à nos élèves de ne pas imiter les négligences ci-dessous, qui sont, d’ailleurs, extraites d’une œuvre <hi rend="i">moins parfaite</hi> que les <hi rend="i">Méditations.</hi></p>
+        <p>Nous aussi, nous ressentons la plus profonde admiration pour notre grand poète
+            contemporain<note n="9" place="bottom"><p>Chaque fois que je parle à mes Élèves de notre
+              poésie lyrique, je ne puis m’empêcher de comparer leur situation avec celle qui nous
+              était faite à leur âge. Qu’ils sont bien autrement favorisés que nous ne l’étions !
+              Mais peut-être que, pour apprécier, selon toute sa valeur, la poésie de notre
+              Lamartine, il n’est pas mauvais <hi rend="i">d’avoir dû apprendre par cœur le livre
+                entier des Odes de J.-B. Rousseau</hi>.</p><p>Le XIXe siècle, si calomnié, n’a rien
+              à envier aux âges que l’on vante le plus. Même en dehors du domaine des <hi rend="i"
+                >choses matérielles</hi>, ce n’est pas de lui qu’on peut dire qu’il <hi rend="i">a
+                dégénéré de ses ancêtres.</hi> Il est digne, au contraire, des plus nobles d’entre
+              eux. C’est l’enfant légitime, ou, du moins, le petit-fils du grand XVIIe siècle.
+              Lamartine et Victor Hugo sont les héritiers et les continuateurs de Racine et de
+              Corneille.</p></note>. — Seulement, à propos de la rime, nous croyons devoir
+          recommander à nos élèves de ne pas imiter les négligences ci-dessous, qui sont,
+          d’ailleurs, extraites d’une œuvre <hi rend="i">moins parfaite</hi> que les <hi rend="i"
+            >Méditations.</hi></p>
         <quote>
           <l>Et bondissant après comme un jeune <hi rend="i">chamoi</hi>,</l>
           <l>Me ramène à la grotte en courant devant moi.</l>
@@ -289,7 +427,9 @@
         <ab type="ornament">***</ab>
         <quote>
           <l>Heureuse je vivrai toujours, toujours, toujours !</l>
-          <l>Que m’importe quels vœux enchaîneront tes jours ?<note n="10" place="bottom"> Voir (VII) la note relative aux rimes <hi rend="i">jour</hi> et <hi rend="i">toujours</hi>. </note></l>
+          <l>Que m’importe quels vœux enchaîneront tes jours ?<note n="10" place="bottom"> Voir
+              (VII) la note relative aux rimes <hi rend="i">jour</hi> et <hi rend="i">toujours</hi>.
+            </note></l>
           <l>Ton travail en ce monde, et le pain dont <hi rend="i">tu vive</hi> ?</l>
           <l>Et ton chemin ? Si Dieu permet que je t’y suive.</l>
         </quote>
@@ -336,12 +476,18 @@
         <ab type="ornament">***</ab>
         <quote>
           <l>Tel par la caravane au désert oublié</l>
-          <l>L’homme cherche de l’œil la trace d’un seul <hi rend="i">pié</hi><note n="11" place="bottom"> Le mot <hi rend="i">pied</hi> ne peut rimer régulièrement qu’avec un mot tel que <hi rend="i">sied</hi>.̶ Ce <hi rend="i">singulier</hi> ne se trouve pas une seule fois à la fi des vers de Boileau et de Racine ; mais le <hi rend="i">pluriel pieds</hi> se trouve plusieurs fois assoié avec les différentes rimes en <hi rend="sc">iés, iez</hi>. </note>.</l>
+          <l>L’homme cherche de l’œil la trace d’un seul <hi rend="i">pié</hi><note n="11"
+              place="bottom"> Le mot <hi rend="i">pied</hi> ne peut rimer régulièrement qu’avec un
+              mot tel que <hi rend="i">sied</hi>.̶ Ce <hi rend="i">singulier</hi> ne se trouve pas
+              une seule fois à la fi des vers de Boileau et de Racine ; mais le <hi rend="i">pluriel
+                pieds</hi> se trouve plusieurs fois assoié avec les différentes rimes en <hi
+                rend="sc">iés, iez</hi>. </note>.</l>
           <l>Etc., etc., etc...</l>
         </quote>
       </div>
       <div>
-        <head>X. <hi rend="i">Observer l’hémistiche.</hi> — Éviter <hi rend="i">l’hiatus.</hi></head>
+        <head>X. <hi rend="i">Observer l’hémistiche.</hi> — Éviter <hi rend="i"
+          >l’hiatus.</hi></head>
         <quote>
           <l>N’offrez rien au lecteur que ce qui peut lui plaire.</l>
           <l>Ayez pour la cadence une oreille sévère :</l>
@@ -351,14 +497,15 @@
           <l>Ne soit d’une voyelle en son chemin heurtée.</l>
           <bibl><title>(Boileau, Art p.</title>, I, v. 103.)</bibl>
         </quote>
-        <p>A part le premier vers (vers de <hi rend="i">remplissage</hi>, peu poétique, peu harmonieux, peu fait pour <hi rend="i">plaire à une oreille sévère</hi>), Boileau joint admirablement ici l’exemple au précepte.</p>
+        <p>A part le premier vers (vers de <hi rend="i">remplissage</hi>, peu poétique, peu
+          harmonieux, peu fait pour <hi rend="i">plaire à une oreille sévère</hi>), Boileau joint
+          admirablement ici l’exemple au précepte.</p>
       </div>
       <div>
         <head>XI. Différentes coupes du vers alexandrin.</head>
         <div>
-          <head>1°</head>
-          <stage>AGRIPPINE et BURRHUS.</stage>
-          <label>AGRIPPINE.</label>
+          <head>1° AGRIPPINE et BURRHUS.</head>
+          <label type="speaker">AGRIPPINE.</label>
           <quote>
             <l>Prétendez-vous longtemps me cacher l’empereur ?</l>
             <l>Ne le verrai-je plus qu’à titre d’importune ?</l>
@@ -388,7 +535,7 @@
             <l>Je puis l’instruire au moins combien sa confidence</l>
             <l>Entre un sujet et lui doit laisser de distance.</l>
           </quote>
-          <label>BURRHUS.</label>
+          <label type="speaker">BURRHUS.</label>
           <quote>
             <l>Je ne m’étais chargé dans cette occasion</l>
             <l>Que d’excuser César d’une seule action ;</l>
@@ -446,9 +593,8 @@
           </quote>
         </div>
         <div>
-          <head>2°</head>
+          <head>2° MITHRIDATE, à ses fils.</head>
           <quote>
-            <label type="speaker">MITHRIDATE, à ses fils.</label>
             <l>Approchez, mes enfants. Enfin l’heure est venue</l>
             <l>Qu’il faut que mon secret éclate à votre vue :</l>
             <l>A mes nobles projets je vois tout conspirer ;</l>
@@ -561,7 +707,7 @@
           </quote>
         </div>
         <div>
-           <stage>IPHIGÉNIE, à son père.</stage>
+          <head>3° IPHIGÉNIE, à son père.</head>
           <quote>
             <label type="speaker">AGAMEMNON.</label>
             <l>Que vois-je ! Quel discours ! Ma fille, vous pleurez,</l>
@@ -618,9 +764,9 @@
             <l>Pour prévenir les pleurs que je leur vais coûter.</l>
             <bibl><title>(Racine, Iphigénie</title>, acte IV, sc. 4)</bibl>
           </quote>
-          
-          <head>4°.</head>
-          <stage>ACHILLE ET AGAMEMNON.</stage>
+        </div>
+        <div>
+          <head>4° ACHILLE ET AGAMEMNON.</head>
           <quote>
             <label type="speaker">ACHILLE.</label>
             <l>Un bruit assez étrange est venu jusqu’à moi,</l>
@@ -745,17 +891,16 @@
           </quote>
         </div>
         <div>
-          <head>5°.</head>
-          <stage>LA MORT D'HIPPOLYTE.</stage>
+          <head>5° LA MORT D'HIPPOLYTE.</head>
           <quote>
             <l>A peine nous sortions des portes de Trézène,</l>
             <l>Il était sur son char ; etc.</l>
           </quote>
-          <p>(Voir plus loin, 3<hi rend="sup">e</hi> <hi rend="i">exercice.)</hi></p>
+          <p>(Voir plus loin, 3<hi rend="sup">e</hi>
+            <hi rend="i">exercice.)</hi></p>
         </div>
         <div>
-          <head>6°.</head>
-          <stage>LE SONGE D’ATHALIE.</stage>
+          <head>6° LE SONGE D’ATHALIE.</head>
           <quote>
             <l>Un songe (me devrais-je inquiéter d’un songe ?)</l>
             <l>Entretient dans mon cœur un chagrin qui le ronge :</l>
@@ -778,11 +923,11 @@
             <l>Des lambeaux pleins de sang, et des membres affreux</l>
             <l>Que des chiens dévorants se disputaient entre eux.</l>
           </quote>
-          <label>ABNER.</label>
+          <label type="speaker">ABNER.</label>
           <quote>
             <l>Grand Dieu !    </l>
           </quote>
-          <label>ATHALIE.</label>
+          <label type="speaker">ATHALIE.</label>
           <quote>
             <l>Dans ce désordre à mes yeux se présente</l>
             <l>Un jeune enfant couvert d’une robe éclatante,</l>
@@ -822,11 +967,11 @@
             <l>Et sur quoi j’ai voulu tous deux vous consulter.</l>
             <l>Que présage, Mathan, ce prodige incroyable ?</l>
           </quote>
-          <label>MATHAN.</label>
+          <label type="speaker">MATHAN.</label>
           <quote>
             <l>Ce songe et ce rapport, tout me semble effroyable.</l>
           </quote>
-          <label>ATHALIE.</label>
+          <label type="speaker">ATHALIE.</label>
           <quote>
             <l>Mais cet enfant fatal, Abner, vous l’avez vu :</l>
             <l>Quel est-il ? de quel sang, et de quelle tribu ?</l>
@@ -835,12 +980,16 @@
         </div>
         <div>
           <head>7°.</head>
-          <p>Enfin, dans un genre léger, on peut remarquer différents passages des <hi rend="i">Plaideurs</hi>, entre autres : la tirade de <hi rend="i">Dandin</hi> (acte I, sc. 4), la tirade de <hi rend="i">Chicaneau</hi> (acte I, sc. 7), et toute la plaidoirie de <hi rend="i">l’Intimé</hi> (acte III, sc. 3.)</p>
+          <p>Enfin, dans un genre léger, on peut remarquer différents passages des <hi rend="i"
+              >Plaideurs</hi>, entre autres : la tirade de <hi rend="i">Dandin</hi> (acte I, sc. 4),
+            la tirade de <hi rend="i">Chicaneau</hi> (acte I, sc. 7), et toute la plaidoirie de <hi
+              rend="i">l’Intimé</hi> (acte III, sc. 3.)</p>
         </div>
       </div>
       <div>
         <head>XII.</head>
-        <p>Différence essentielle entre la coupe du vers français et celle du vers latin. — <hi rend="i">Rejet</hi> ou <hi rend="i">enjambement.</hi></p>
+        <p>Différence essentielle entre la coupe du vers français et celle du vers latin. — <hi
+            rend="i">Rejet</hi> ou <hi rend="i">enjambement.</hi></p>
         <quote>
           <l>Durant les premiers ans du Parnasse françois,</l>
           <l>Le caprice tout seul faisait toutes les lois.</l>
@@ -856,8 +1005,20 @@
           <l>Et le vers sur le vers n’osa plus enjamber.</l>
           <bibl><title>(Boileau, Art p.</title> I, v. 113 )</bibl>
         </quote>
-        <p>Voici un conseil à l’adresse toute particulière de ceux de nos jeunes versificateurs qui abordent les traces de Boileau et de Racine, après avoir déjà marché, non sans succès, sur celles d’Horace et de Virgile.</p>
-        <p>Le <hi rend="i">rejet</hi>, ou <hi rend="i">enjambement</hi>, un des plus beaux ornements des vers latins, doit être évité avec le plus grand soin dans notre versification. La fin du vers français est marquée par un repos <hi rend="i">logique</hi> : c’est la fin même de la phrase, ou d’une de ses parties principales. Aussi voit-on presque toujours, à cette place importante, un signe de ponctuation. Nos meilleurs vers sont précisément ces <hi rend="i">vers-sentences</hi> qui suffisent, à eux seuls, isolément, à l’expression entière d’une pensée. Le <hi rend="i">rejet</hi> est donc tout-à-fait opposé à la coupe naturelle du vers français ; et ce sera toujours un défaut capital, à moins que le poète n’y trouve, dans des cas très-rares, l’occasion de produire un <hi rend="i">effet</hi> extraordinairement heureux, et, par un trait de génie, ne transforme cette licence en une beauté de premier ordre.</p>
+        <p>Voici un conseil à l’adresse toute particulière de ceux de nos jeunes versificateurs qui
+          abordent les traces de Boileau et de Racine, après avoir déjà marché, non sans succès, sur
+          celles d’Horace et de Virgile.</p>
+        <p>Le <hi rend="i">rejet</hi>, ou <hi rend="i">enjambement</hi>, un des plus beaux ornements
+          des vers latins, doit être évité avec le plus grand soin dans notre versification. La fin
+          du vers français est marquée par un repos <hi rend="i">logique</hi> : c’est la fin même de
+          la phrase, ou d’une de ses parties principales. Aussi voit-on presque toujours, à cette
+          place importante, un signe de ponctuation. Nos meilleurs vers sont précisément ces <hi
+            rend="i">vers-sentences</hi> qui suffisent, à eux seuls, isolément, à l’expression
+          entière d’une pensée. Le <hi rend="i">rejet</hi> est donc tout-à-fait opposé à la coupe
+          naturelle du vers français ; et ce sera toujours un défaut capital, à moins que le poète
+          n’y trouve, dans des cas très-rares, l’occasion de produire un <hi rend="i">effet</hi>
+          extraordinairement heureux, et, par un trait de génie, ne transforme cette licence en une
+          beauté de premier ordre.</p>
         <quote>
           <l><hi rend="i">Par un</hi> transport heureux,</l>
           <l>Quelquefois dans sa course un esprit vigoureux.</l>
@@ -867,7 +1028,8 @@
         </quote>
         <div>
           <head>1°</head>
-          <p>Le morceau suivant, outre un <hi rend="i">rejet</hi> du plus bel effet, offre encore plusieurs autres coupes à remarquer.</p>
+          <p>Le morceau suivant, outre un <hi rend="i">rejet</hi> du plus bel effet, offre encore
+            plusieurs autres coupes à remarquer.</p>
           <quote>
             <l>Au spectacle étonnant de leur chute imprévue,</l>
             <l>Le prélat pousse un cri qui pénètre la nue.</l>
@@ -927,7 +1089,11 @@
             <l><hi rend="i">D’un soldat</hi> qui sait mal farder la vérité.</l>
             <bibl>(<title>Racine, Britannicus</title>, acte I, sc. 2.)</bibl>
           </quote>
-          <p>Remarquons ici que le <hi rend="i">rejet</hi> se trouve, en quelque sorte, comme soutenu par les autres mots du dernier vers, avec lesquels il est étroitement lié par la construction de la phrase ; Ou plutôt, c’est le dernier vers tout entier qui constitue lui-même le <hi rend="i">rejet.</hi> Il semble que l’isolement aurait paru trop hardi au poète, si le vers avait été <hi rend="i">brisé</hi> comme ci-dessous :</p>
+          <p>Remarquons ici que le <hi rend="i">rejet</hi> se trouve, en quelque sorte, comme
+            soutenu par les autres mots du dernier vers, avec lesquels il est étroitement lié par la
+            construction de la phrase ; Ou plutôt, c’est le dernier vers tout entier qui constitue
+            lui-même le <hi rend="i">rejet.</hi> Il semble que l’isolement aurait paru trop hardi au
+            poète, si le vers avait été <hi rend="i">brisé</hi> comme ci-dessous :</p>
           <quote>
             <l rend="i">Je répondrai, madame, avec la liberté </l>
             <l>D’un soldat : je sais mal farder la vérité.</l>
@@ -947,10 +1113,7 @@
       <div>
         <head>XIII. De la réticence.</head>
         <div>
-          <head>
-            <num>1</num>
-            <hi rend="b">°.</hi>
-          </head>
+          <head>1°.</head>
           <quote>
             <l>J’eus soin de vous nommer, par un contraire choix,</l>
             <l>Des gouverneurs que Rome honorait de sa voix ;</l>
@@ -959,9 +1122,11 @@
             <l>Et ce même Sénèque et ce même Burrhus</l>
             <l>Qui depuis... Rome alors estimait leurs vertus.</l>
             <bibl>(<title>Racine, Britannicus</title>, acte IV, sc. 2.)</bibl>
-            
-            <head>2°.</head>
-            
+          </quote>
+        </div>
+        <div>
+          <head>2°.</head>
+          <quote>
             <l>Prenez garde, Seigneur : vos invincibles mains</l>
             <l>Ont de monstres sans nombre affranchi les humains ;</l>
             <l>Mais tout n’est pas détruit, et vous en laissez vivre</l>
@@ -982,7 +1147,12 @@
             <l>De ton espoir frivole es-tu désabusé ?</l>
             <l>Il laisse en mon pouvoir et ton temple et ta vie.</l>
             <l>Je devrais sur l’autel où ta main sacrifie</l>
-            <l>Te... Mais du prix qu’on m’offre il faut me contenter<note n="12" place="bottom"><p>Rapprochement.</p><quote><l>Tantane vos generis tenuit fiducia vestri ?    </l><l>Jam cœlum terramque meo sine numine, venti,</l><l>Miscere, et tantas audetis tollere moles ?</l><l>Quos ego... Sed motos præstat componere fluctus.</l><bibl><title>(Virgile, Enéide</title>, I, v. 132.)</bibl></quote></note>.</l>
+            <l>Te... Mais du prix qu’on m’offre il faut me contenter<note n="12" place="bottom"
+                  ><p>Rapprochement.</p><quote><l>Tantane vos generis tenuit fiducia vestri ?
+                       </l><l>Jam cœlum terramque meo sine numine, venti,</l><l>Miscere, et tantas
+                    audetis tollere moles ?</l><l>Quos ego... Sed motos præstat componere
+                    fluctus.</l><bibl><title>(Virgile, Enéide</title>, I, v.
+                132.)</bibl></quote></note>.</l>
             <bibl><title>(Racine, Athalie</title>, acte V, sc. 5.)</bibl>
           </quote>
         </div>
@@ -1003,10 +1173,13 @@
       </div>
       <div>
         <head>XIV. [De l’inversion]</head>
-        <p>DE L'INVERSION, ou licence relative à la construction de la phrase : changement dans la place ordinaire ou <hi rend="i">logique</hi> des mots.</p>
-        <p><hi rend="i">L’inversion</hi> est très-fréquente dans les vers français : c’est même généralement une élégance, à moins qu’elle ne soit <hi rend="i">forcée</hi>, et ne nuise à la clarté de la phrase.</p>
+        <p>DE L'INVERSION, ou licence relative à la construction de la phrase : changement dans la
+          place ordinaire ou <hi rend="i">logique</hi> des mots.</p>
+        <p><hi rend="i">L’inversion</hi> est très-fréquente dans les vers français : c’est même
+          généralement une élégance, à moins qu’elle ne soit <hi rend="i">forcée</hi>, et ne nuise à
+          la clarté de la phrase.</p>
         <p rend="i">Exemple.</p>
-        <label>ESTHER.</label>
+        <label type="speaker">ESTHER.</label>
         <quote>
           <l>Est-ce toi, chère Elise ? O jour trois fois heureux !</l>
           <l>Que béni soit le ciel qui te rend à mes vœux,</l>
@@ -1019,7 +1192,7 @@
           <l>Depuis plus de six mois que je te fais chercher,</l>
           <l>Quel climat, quel désert a donc pu te cacher ?</l>
         </quote>
-        <label>ELISE.</label>
+        <label type="speaker">ELISE.</label>
         <quote>
           <l>Au bruit de votre mort justement éplorée,</l>
           <l>Du reste des humains je vivais séparée,</l>
@@ -1031,14 +1204,21 @@
           <l>Et sur le trône assis le sujet de tes pleurs. »</l>
           <bibl><title>(Racine, Esther</title>, acte I, sc. 1.)</bibl>
         </quote>
-        <p>Autre exemple remarquable : Les vingt-quatre premiers vers <hi rend="i">d’Athalie.</hi> (Voir plus loin, 1<hi rend="sup">er</hi> <hi rend="i">exercice</hi>.)</p>
+        <p>Autre exemple remarquable : Les vingt-quatre premiers vers <hi rend="i">d’Athalie.</hi>
+          (Voir plus loin, 1<hi rend="sup">er</hi>
+          <hi rend="i">exercice</hi>.)</p>
       </div>
       <div>
         <head>XV. Des monosyllabes prosaïques.</head>
-        <p>On doit, en général, éviter le concours d’un trop grand nombre de monosyllabes, surtout si ces monosyllabes appartiennent à des espèces de mots naturellement peu poétiques.</p>
-        <p>J’appelle <hi rend="i">espèces poétiques</hi> : 1°. les substantifs, 2°. les adjectifs, 3°. les verbes.</p>
-        <p>Des vers chargés de pareils monosyllabes ne sauraient être, presque toujours, que des vers à la fois <hi rend="i">prosaïques et durs.</hi></p>
-        <p>Qu'il me soit permis de signaler, ici quelques taches dans les œuvres de Boileau lui-même. Ainsi, les passages défectueux de ce maître en versification tourneront encore à l’avantage des élèves, et serviront à rendre prudents nos jeunes versificateurs,</p>
+        <p>On doit, en général, éviter le concours d’un trop grand nombre de monosyllabes, surtout
+          si ces monosyllabes appartiennent à des espèces de mots naturellement peu poétiques.</p>
+        <p>J’appelle <hi rend="i">espèces poétiques</hi> : 1°. les substantifs, 2°. les adjectifs,
+          3°. les verbes.</p>
+        <p>Des vers chargés de pareils monosyllabes ne sauraient être, presque toujours, que des
+          vers à la fois <hi rend="i">prosaïques et durs.</hi></p>
+        <p>Qu'il me soit permis de signaler, ici quelques taches dans les œuvres de Boileau
+          lui-même. Ainsi, les passages défectueux de ce maître en versification tourneront encore à
+          l’avantage des élèves, et serviront à rendre prudents nos jeunes versificateurs,</p>
         <quote>
           <l>Conduire le carrosse <hi rend="i">où l’ont le voit traîné.</hi></l>
           <bibl>(Sat. I.)</bibl>
@@ -1119,9 +1299,33 @@
           <l><hi rend="i">Qui sait bien ce que c’est qu’un</hi> prodigue, un avare,...</l>
           <bibl><title>(Art p.</title>, III.)</bibl>
           <l><hi rend="i">Il est dans tout autre art</hi> des degrés différents.</l>
-          <bibl>(<title>Art</title> p., IV.)<note n="13" place="bottom"><p>Pour être complètement vrai et juste, il faut ajouter deux remarques :</p><p>1°. On ne trouve pas de ces vers durs et prosaïques dans le <hi rend="i">Lutrin</hi> ; 2°. On trouve dans les <hi rend="i">Satires</hi> et dans les <hi rend="i">Épîtres</hi>, quelques vers qui contiennent même plus de monosyllabes que les vers ci-dessus, et qui sont cependant assez coulants.</p><p/><p>EXEMPLES.</p><quote><l>C'est bien dit. Va, tu sais tout ce qu’il faut savoir.</l><bibl>(Sat. VIII.)</bibl><l>Mais moi, qui dans le fond sais bien ce que j’en crois...</l><bibl>(Sat. IX.)</bibl><l>De là vient que Paris voit chez lui de tout temps…</l><bibl>(Sat. IX.)</bibl><l>Et c’est par là, grand Roi, que je te veux louer.</l><bibl>(Ep. I.)</bibl><l>La Seine, au pied des monts que son flot vient laver,</l><l>Voit du sein de ses eaux vingt îles s’élever.</l><bibl>(Ep. VI.)</bibl><l>Tout ce qu’on boit est bon, tout ce qu’on mange est sain.</l><bibl>(Ep. VI.)</bibl><l>Je trouve au coin d’un bois le mot qui m’avait fui.</l><bibl>(Ep. VI.)</bibl><l>Que ce roi dont le nom fait trembler tant de rois,</l><bibl>(Ep. X.)</bibl></quote><p>Dans ce dernier exemple, ou pourrait même remplacer l’expression <hi rend="i">fait trembler</hi> par <hi rend="i">fait peur à ;</hi> et le vers, qui se composerait alors uniquement de monosyllabes, n’en serait pas moins bon :</p><quote><l>Que ce roi dont le nom fait peur à tant de rois.</l></quote><p><hi rend="sc">Conclusion.</hi> — C’est donc au versificateur de bien choisir et de bien grouper ses monosyllabes.</p><quote/></note></bibl>
+          <bibl>(<title>Art</title> p., IV.)<note n="13" place="bottom"><p>Pour être complètement
+                vrai et juste, il faut ajouter deux remarques :</p><p>1°. On ne trouve pas de ces
+                vers durs et prosaïques dans le <hi rend="i">Lutrin</hi> ; 2°. On trouve dans les
+                  <hi rend="i">Satires</hi> et dans les <hi rend="i">Épîtres</hi>, quelques vers qui
+                contiennent même plus de monosyllabes que les vers ci-dessus, et qui sont cependant
+                assez coulants.</p><p/><p>EXEMPLES.</p><quote><l>C'est bien dit. Va, tu sais tout ce
+                  qu’il faut savoir.</l><bibl>(Sat. VIII.)</bibl><l>Mais moi, qui dans le fond sais
+                  bien ce que j’en crois...</l><bibl>(Sat. IX.)</bibl><l>De là vient que Paris voit
+                  chez lui de tout temps…</l><bibl>(Sat. IX.)</bibl><l>Et c’est par là, grand Roi,
+                  que je te veux louer.</l><bibl>(Ep. I.)</bibl><l>La Seine, au pied des monts que
+                  son flot vient laver,</l><l>Voit du sein de ses eaux vingt îles
+                  s’élever.</l><bibl>(Ep. VI.)</bibl><l>Tout ce qu’on boit est bon, tout ce qu’on
+                  mange est sain.</l><bibl>(Ep. VI.)</bibl><l>Je trouve au coin d’un bois le mot qui
+                  m’avait fui.</l><bibl>(Ep. VI.)</bibl><l>Que ce roi dont le nom fait trembler tant
+                  de rois,</l><bibl>(Ep. X.)</bibl></quote><p>Dans ce dernier exemple, ou pourrait
+                même remplacer l’expression <hi rend="i">fait trembler</hi> par <hi rend="i">fait
+                  peur à ;</hi> et le vers, qui se composerait alors uniquement de monosyllabes,
+                n’en serait pas moins bon :</p><quote><l>Que ce roi dont le nom fait peur à tant de
+                  rois.</l></quote><p><hi rend="sc">Conclusion.</hi> — C’est donc au versificateur
+                de bien choisir et de bien grouper ses monosyllabes.</p><quote/></note></bibl>
         </quote>
-        <p>C'est ici surtout qu’on peut apercevoir toute la distance qui sépare la versification de Boileau d’avec la poésie de Racine. En effet, prenons maintenant dans Racine des vers uniquement composés de monosyllabes : nos jeunes lecteurs pourront eux-mêmes comparer et juger<note n="14" place="bottom"> Il serait mieux de ne pas détacher ces vers des tirades dont ils font partie, et de les lire dans <hi rend="i">Andromaque, Britannicus, Mithridate</hi> et <hi rend="i">Phèdre.</hi></note>.</p>
+        <p>C'est ici surtout qu’on peut apercevoir toute la distance qui sépare la versification de
+          Boileau d’avec la poésie de Racine. En effet, prenons maintenant dans Racine des vers
+          uniquement composés de monosyllabes : nos jeunes lecteurs pourront eux-mêmes comparer et
+            juger<note n="14" place="bottom"> Il serait mieux de ne pas détacher ces vers des
+            tirades dont ils font partie, et de les lire dans <hi rend="i">Andromaque, Britannicus,
+              Mithridate</hi> et <hi rend="i">Phèdre.</hi></note>.</p>
         <p/>
         <stage>Pyrrhus à Andromaque.</stage>
         <quote>
@@ -1141,24 +1345,76 @@
         </quote>
         <stage>Thésée.</stage>
         <quote>
-          <l><hi rend="i">Mon fils n’est plus</hi> ? <hi rend="i">Hé quoi ! quand je lui tends les bras</hi>,</l>
+          <l><hi rend="i">Mon fils n’est plus</hi> ? <hi rend="i">Hé quoi ! quand je lui tends les
+              bras</hi>,</l>
           <l>Les dieux impatients ont hâté son trépas ?</l>
           <bibl>(<title>Ph.</title>, acte V, sc. 6.)</bibl>
         </quote>
-        <p>Enfin, ce vers si charmant, si doux, si harmonieux, qu’un Racine seul pouvait composer avec de pareils éléments :</p>
+        <p>Enfin, ce vers si charmant, si doux, si harmonieux, qu’un Racine seul pouvait composer
+          avec de pareils éléments :</p>
         <stage>Hippolyte à Thésée.</stage>
         <quote>
           <l rend="i">Le ciel n’est pas plus pur que le fond de mon cœur. </l>
           <bibl><title>(Ph.</title>, acte IV, sc. <title>2)</title></bibl>
         </quote>
-        <p>Nous terminons volontiers cette première étude sur Boileau et Racine par la citation des vers ci-dessus, qui rappellent assez bien, selon nous, la manière d’écrire et de penser de nos deux <hi rend="i">Maîtres</hi> : c’est, en quelque sorte, un résumé du style, du talent, et même de la nature propre de chacun d’eux.</p>
-        <p>Chez Boileau, en effet, la faculté qui domine toutes les autres, au point que parfois la sensibilité semble en être émoussée, l’imagination entravée, l’invention amoindrie, cette faculté, c’est la raison : la raison éprise du vrai, et trouvant que <quote><hi rend="i">le vrai seul est aimable</hi></quote> ;<hi rend="i"/> la froide raison, jugement, bon sens, ou sens commun, peu importe le nom formulant ses arrêts dans un langage plus ou moins poétique<note n="15" place="bottom"><p><space/>Voici comment Boileau lui-même apprécie son propre mérite littéraire :</p><quote><l>Sais-tu pourquoi mes vers sont lus dans les provinces,</l><l>Sont recherchés du peuple et reçus chez les princes ?</l><l>Ce n’est pas que leurs sons, agréables, nombreux,</l><l>Soient toujours à l’oreille également heureux ;    </l><l>Mais c’est qu’en eux le vrai, du mensonge vainqueur,</l><l>Partout se montre aux yeux, et va saisir le cœur.</l><bibl>(Ep. IX.)</bibl></quote></note>.</p>
-        <p>Chez Racine, c’est la sensibilité surtout qui est mise en jeu, mais sans nuire en aucune manière à la solidité de sa raison et de son jugement, non plus qu’à la délicatesse de son bon goût. Loin de là, ces facultés se marient en lui tout naturellement ; et de leur union féconde, naît l’imagination la plus riche, la plus belle et la plus pure. Chez Racine, le <hi rend="i">vrai</hi> est inséparable du <hi rend="i">beau</hi>, <quote>« <hi rend="i">cette splendeur du vrai, »</hi></quote> comme on ne saurait trop le répéter après Platon. Racine aime, cherche et trouve toujours ces deux éléments indispensables de <hi rend="i">l’art.</hi> Au fond le plus solide, il ajoute la forme la plus brillante ; et il arrive, dans son style, à une correction, une grâce, une harmonie, une perfection vraiment inimitable.</p>
-        <p>Chez l’un comme chez l’autre, nous trouvons, de plus, la <hi rend="i">volonté</hi>, la volonté de se faire un nom illustre, en mettant son intelligence au service du <hi rend="i">bien</hi>, l’amour de l’étude, la passion des beaux vers, l’ambition de la gloire littéraire : autant de forces agissant dans le même sens et qui tendent au même but; — enfin, toute une vie consacrée, sans relâche, sans interruption, sans distractions d’aucune sorte, à faire un livre, et quel livre peu volumineux<note n="16" place="bottom"><p>En réalité, il y a une lacune dans la vie de nos deux poètes. Après 1677, et tous les deux en même temps, ils abandonnèrent le culte des Muses. — Ils devaient y revenir, l’un douze ans, l’autre seize à dix-sept ans plus tard —.</p><p>Louis XIV venait de les nommer ses <hi rend="i">historiographes.</hi> Racine, d’ailleurs, plus sensible aux mauvaises critiques des ignorants et des envieux, et surtout à l’étrange triomphe de Pradon, qu’aux encouragements et aux éloges prophétiques de son <hi rend="i">maître et ami</hi>, était profondément découragé : on l’avait, pour ainsi dire, dégoûté du théâtre.</p><p>Celui qui avait déjà composé <hi rend="i">Andromaque, Britannicus, Mithridate, Iphigénie</hi> et <hi rend="i">Phèdre</hi>, pour ne parler que des chefs-d’œuvre. — cinq en dix années (1667-1677) ; — celui-là n’avait que trente-huit ans ! Quels trésors ne pouvait-on pas encore espérer d’une pareille âme de poète ? Et quel malheur, qu’une mine si riche ait cessé d’être exploitée précisément à l’heure où on en retirait les produits les plus magnifiques ! —Mais aussi (ne l’oublions pas), si Racine n’avait pas été détourné de cette voie du théâtre profane, quel autre nous aurait jamais donné <hi rend="i">Athalie</hi> ?</p></note> ! — Aucune de ces entraves d’aujourd’hui, la politique, les places, les emplois, les tracas de la pauvreté... ou de la richesse ; mais, au contraire toute la libre allure d’esprit que donne dans son alliance avec le désintéressement, ce juste-milieu de la fortune si poétiquement surnommé l’<hi rend="i">aurea mediocritas.</hi> Ah ! ce ne sont pas de tels hommes qui seront jamais exposés à produire <hi rend="i">mille ouvrages frivoles</hi>, pour avoir</p>
+        <p>Nous terminons volontiers cette première étude sur Boileau et Racine par la citation des
+          vers ci-dessus, qui rappellent assez bien, selon nous, la manière d’écrire et de penser de
+          nos deux <hi rend="i">Maîtres</hi> : c’est, en quelque sorte, un résumé du style, du
+          talent, et même de la nature propre de chacun d’eux.</p>
+        <p>Chez Boileau, en effet, la faculté qui domine toutes les autres, au point que parfois la
+          sensibilité semble en être émoussée, l’imagination entravée, l’invention amoindrie, cette
+          faculté, c’est la raison : la raison éprise du vrai, et trouvant que <quote><hi rend="i"
+              >le vrai seul est aimable</hi></quote> ;<hi rend="i"/> la froide raison, jugement, bon
+          sens, ou sens commun, peu importe le nom formulant ses arrêts dans un langage plus ou
+          moins poétique<note n="15" place="bottom"><p><space/>Voici comment Boileau lui-même
+              apprécie son propre mérite littéraire :</p><quote><l>Sais-tu pourquoi mes vers sont
+                lus dans les provinces,</l><l>Sont recherchés du peuple et reçus chez les
+                princes ?</l><l>Ce n’est pas que leurs sons, agréables, nombreux,</l><l>Soient
+                toujours à l’oreille également heureux ;    </l><l>Mais c’est qu’en eux le vrai, du
+                mensonge vainqueur,</l><l>Partout se montre aux yeux, et va saisir le
+                cœur.</l><bibl>(Ep. IX.)</bibl></quote></note>.</p>
+        <p>Chez Racine, c’est la sensibilité surtout qui est mise en jeu, mais sans nuire en aucune
+          manière à la solidité de sa raison et de son jugement, non plus qu’à la délicatesse de son
+          bon goût. Loin de là, ces facultés se marient en lui tout naturellement ; et de leur union
+          féconde, naît l’imagination la plus riche, la plus belle et la plus pure. Chez Racine, le
+            <hi rend="i">vrai</hi> est inséparable du <hi rend="i">beau</hi>, <quote>« <hi rend="i"
+              >cette splendeur du vrai, »</hi></quote> comme on ne saurait trop le répéter après
+          Platon. Racine aime, cherche et trouve toujours ces deux éléments indispensables de <hi
+            rend="i">l’art.</hi> Au fond le plus solide, il ajoute la forme la plus brillante ; et
+          il arrive, dans son style, à une correction, une grâce, une harmonie, une perfection
+          vraiment inimitable.</p>
+        <p>Chez l’un comme chez l’autre, nous trouvons, de plus, la <hi rend="i">volonté</hi>, la
+          volonté de se faire un nom illustre, en mettant son intelligence au service du <hi
+            rend="i">bien</hi>, l’amour de l’étude, la passion des beaux vers, l’ambition de la
+          gloire littéraire : autant de forces agissant dans le même sens et qui tendent au même
+          but; — enfin, toute une vie consacrée, sans relâche, sans interruption, sans distractions
+          d’aucune sorte, à faire un livre, et quel livre peu volumineux<note n="16" place="bottom"
+              ><p>En réalité, il y a une lacune dans la vie de nos deux poètes. Après 1677, et tous
+              les deux en même temps, ils abandonnèrent le culte des Muses. — Ils devaient y
+              revenir, l’un douze ans, l’autre seize à dix-sept ans plus tard —.</p><p>Louis XIV
+              venait de les nommer ses <hi rend="i">historiographes.</hi> Racine, d’ailleurs, plus
+              sensible aux mauvaises critiques des ignorants et des envieux, et surtout à l’étrange
+              triomphe de Pradon, qu’aux encouragements et aux éloges prophétiques de son <hi
+                rend="i">maître et ami</hi>, était profondément découragé : on l’avait, pour ainsi
+              dire, dégoûté du théâtre.</p><p>Celui qui avait déjà composé <hi rend="i">Andromaque,
+                Britannicus, Mithridate, Iphigénie</hi> et <hi rend="i">Phèdre</hi>, pour ne parler
+              que des chefs-d’œuvre. — cinq en dix années (1667-1677) ; — celui-là n’avait que
+              trente-huit ans ! Quels trésors ne pouvait-on pas encore espérer d’une pareille âme de
+              poète ? Et quel malheur, qu’une mine si riche ait cessé d’être exploitée précisément à
+              l’heure où on en retirait les produits les plus magnifiques ! —Mais aussi (ne
+              l’oublions pas), si Racine n’avait pas été détourné de cette voie du théâtre profane,
+              quel autre nous aurait jamais donné <hi rend="i">Athalie</hi> ?</p></note> ! — Aucune
+          de ces entraves d’aujourd’hui, la politique, les places, les emplois, les tracas de la
+          pauvreté... ou de la richesse ; mais, au contraire toute la libre allure d’esprit que
+          donne dans son alliance avec le désintéressement, ce juste-milieu de la fortune si
+          poétiquement surnommé l’<hi rend="i">aurea mediocritas.</hi> Ah ! ce ne sont pas de tels
+          hommes qui seront jamais exposés à produire <hi rend="i">mille ouvrages frivoles</hi>,
+          pour avoir</p>
         <quote>
           <l>Trafiqué du discours et vendu des paroles ;</l>
         </quote>
-        <p>mais ce sont eux qui auront le droit de dire à tous les écrivains de leur temps et des temps à venir :</p>
+        <p>mais ce sont eux qui auront le droit de dire à tous les écrivains de leur temps et des
+          temps à venir :</p>
         <quote>
           <l>Travaillez pour la gloire, et qu’un sordide gain</l>
           <l>Ne soit jamais l’objet d’un illustre écrivain.</l>
@@ -1176,15 +1432,80 @@
           <l>Apollon ne promet qu’un nom et des lauriers. [riers,</l>
           <bibl><title>(Boileau, Art p.</title>, v. 125 et v. 173.)</bibl>
         </quote>
-        <p>Avec de telles qualités, et dans de pareilles conditions, nos deux auteurs devaient réussir également, chacun dans son genre, et devenir : l’un, le plus correct et le plus habile des versificateurs, le <hi rend="i">législateur du Parnasse</hi>, le <hi rend="i">maître</hi> des poètes<note n="17" place="bottom"><quote><l>Le maître en l’art d’écrire,</l><l>Lui qu’orna la raison des traits de la satire,    </l><l>Qui, donnant le précepte et l’exemple à la fois,</l><l>Etablit d’Apollon les rigoureuses lois,</l><bibl>( <title>Voltaire, le Temple du Goût.)</title></bibl></quote></note> ; l’autre, le poète même par excellence, le type et le modèle des poètes.</p>
-        <p>Boileau fera, et avec le plus grand succès, d’abord des satires et des épigrammes, puis des épîtres et un art poétique. Mais il ne réussira pas dans l’ode, malgré toute sa bonne volonté<note n="18" place="bottom"><p>Voici un de ces passages curieux où Boileau parle lui-même avec tant de complaisance de <hi rend="i">son Ode sur la prise de Namur.</hi></p><quote><p>« Comme le grec est aujourd’hui assez ignoré de la plupart des hommes, et qu’il n’est pas possible de leur faire voir Pindare dans Pindare même, j’ai cru que je ne pouvais mieux justifier ce grand poète qu’en tâchant de faire une ode en français à sa manière, c’est-à-dire pleine de mouvements et de transports, où l’esprit parût plutôt entraîné du démon de la poésie, que guidé par la raison. C’est le but que je me suis proposé dans l’Ode qu’on va voir. J’ai pris pour sujet la prise de Namur, comme la plus grande action de guerre qui se soit faite de nos jours, et comme la matière la plus propre à échauffer l’imagination d’un poète. J’y ai jeté, autant que j’ai pu, la magnificence des mots ; et, à l’exemple des anciens poètes dithyrambiques, j’y ai employé les figures les plus audacieuses, jusqu’à y faire un astre de la plume blanche que le roi porte ordinairement à son chapeau, et qui est, en effet, comme une espèce de comète fatale à nos ennemis, qui se jugent perdus dès qu’ils l’aperçoivent. Voilà le dessein de cet ouvrage. Je ne réponds pas d’y avoir réussi ; et je ne sais si le public, accoutumé aux sages emportements de Malherbe, s’accommodera de ces saillies et de ces essais pindariques. »</p></quote></note>. Et s’il parvient, selon toutes les règles de l’art, et même avec une perfection digne d’une autre œuvre, à composer un poème, ce ne sera qu’un poème héroï-comique<note n="19" place="bottom"><quote><p>« Voyez comme sa vie littéraire est bien conduite : il déclare sa mission par ses <hi rend="i">Satires</hi>, sa compétence par <hi rend="i">l’Art poétique</hi>, sa supériorité par <hi rend="i">le Lutrin</hi>. Il critique, il enseigne, il pratique ; voilà le mal, voilà la route du bien, voilà le bien. N’est-ce pas là toute la vie littéraire de Boileau » —</p></quote><p><hi rend="i">en ajoutant les Épîtres</hi> ; —</p><quote><p>« et cette vie ne présente-t-elle pas une admirable progression ? A trente-six ans la mission de Boileau était remplie, son autorité littéraire était établie sur des titres incontestables : il ne fit plus que l’exercer. Il applaudit, il blâma ; et l’éloge comme le blâme étaient des arrêts dans sa bouche. »</p><bibl>(<author>Géruzez</author>, <title>Cours de Littérature</title>.)</bibl></quote><p>Malheureusement, parfois, comme dans les vers cités en tête du chapitre, les arrêts de Boileau,</p><quote><l>Ces fidèles échos d’un jugement si sûr,</l><l rend="i">Sont, d’un ton un peu froid, un peu sec, un peu dur. </l></quote></note>.</p>
-        <p>Il pourra bien railler agréablement Chapelain sur son <hi rend="i">âpre et rude verve</hi> et ses <hi rend="i">douze fois douze cents méchants vers ;</hi> mais lui-même (on peut l’affirmer sans crainte) n’aurait jamais été capable de traiter dignement cette sainte légende de <hi rend="i">Jeanne d’Arc</hi>, où le <hi rend="i">merveilleux</hi> est l’histoire même, et qui est peut-être le plus beau sujet de poème épique qui soit au monde. — Mais une pareille <hi rend="i">matière</hi> demanderait l’âme et la lyre d’un Lamartine. — D’un autre côté, il semble que Boileau aurait pu aborder d’autres genres plus voisins du sien, la haute comédie, par exemple, et, marchant sur les traces de l’écrivain qui, selon lui, <hi rend="i">honorait le plus le règne de Louis XIV</hi>, composer peut-être, qui sait ? quelque chose de comparable au <hi rend="i">Misanthrope</hi> ?<note n="20" place="bottom"> Dans sa vie littéraire, Boileau a les plus grands traits de ressemblance avec Horace. Tous deux ont écrit des <hi rend="i">satires</hi>, des <hi rend="i">épîtres</hi> et un <hi rend="i">art poétique.</hi> Mais Horace a, de plus, ses <hi rend="i">odes</hi> ; Boileau, son <hi rend="i">Lutrin.</hi> Horace, peu habile à faire <hi rend="i">l’hexamètre</hi>, a composé les vers latins les plus charmants sur toutes les autres mesures ; Boileau, incapable de faire le petit vers français (le vers de sept ou de huit syllabes), <hi rend="i">le vers de Lamartine</hi>, est d’une force incomparable sur <hi rend="i">l’alexandrin.</hi></note></p>
-        <p>Racine se livrera de préférence à la tragédie, genre le mieux approprié à sa nature et à son génie. Sous des noms différents, il fera le portrait de l’humanité elle-même, et se constituera l’interprète le plus vrai, le plus éloquent de ces sentiments intimes qui sont de tous les temps et de tous les pays. Il excellera à rendre, dans des termes de la plus irréprochable convenance, les mouvements et les transports les plus passionnés, et enfin semblera avoir trouvé le secret d’exprimer tout ce qu’il y a de plus délicat, de plus tendre, de plus aimant dans le cœur humain, et spécialement dans le cœur de la femme, depuis la jeune fille jusqu’à la mère, depuis Iphigénie jusqu’à Andromaque, en passant par Monime, Bérénice, Hermione et Phèdre.</p>
-        <label>Fin de la première partie.</label>
-        <p/>
-        <p/>
-        <p/>
-      </div>
+        <p>Avec de telles qualités, et dans de pareilles conditions, nos deux auteurs devaient
+          réussir également, chacun dans son genre, et devenir : l’un, le plus correct et le plus
+          habile des versificateurs, le <hi rend="i">législateur du Parnasse</hi>, le <hi rend="i"
+            >maître</hi> des poètes<note n="17" place="bottom"><quote><l>Le maître en l’art
+                d’écrire,</l><l>Lui qu’orna la raison des traits de la satire,    </l><l>Qui,
+                donnant le précepte et l’exemple à la fois,</l><l>Etablit d’Apollon les rigoureuses
+                lois,</l><bibl>( <title>Voltaire, le Temple du
+          Goût.)</title></bibl></quote></note> ; l’autre, le poète même par excellence, le type et
+          le modèle des poètes.</p>
+        <p>Boileau fera, et avec le plus grand succès, d’abord des satires et des épigrammes, puis
+          des épîtres et un art poétique. Mais il ne réussira pas dans l’ode, malgré toute sa bonne
+            volonté<note n="18" place="bottom"><p>Voici un de ces passages curieux où Boileau parle
+              lui-même avec tant de complaisance de <hi rend="i">son Ode sur la prise de
+              Namur.</hi></p><quote><p>« Comme le grec est aujourd’hui assez ignoré de la plupart
+                des hommes, et qu’il n’est pas possible de leur faire voir Pindare dans Pindare
+                même, j’ai cru que je ne pouvais mieux justifier ce grand poète qu’en tâchant de
+                faire une ode en français à sa manière, c’est-à-dire pleine de mouvements et de
+                transports, où l’esprit parût plutôt entraîné du démon de la poésie, que guidé par
+                la raison. C’est le but que je me suis proposé dans l’Ode qu’on va voir. J’ai pris
+                pour sujet la prise de Namur, comme la plus grande action de guerre qui se soit
+                faite de nos jours, et comme la matière la plus propre à échauffer l’imagination
+                d’un poète. J’y ai jeté, autant que j’ai pu, la magnificence des mots ; et, à
+                l’exemple des anciens poètes dithyrambiques, j’y ai employé les figures les plus
+                audacieuses, jusqu’à y faire un astre de la plume blanche que le roi porte
+                ordinairement à son chapeau, et qui est, en effet, comme une espèce de comète fatale
+                à nos ennemis, qui se jugent perdus dès qu’ils l’aperçoivent. Voilà le dessein de
+                cet ouvrage. Je ne réponds pas d’y avoir réussi ; et je ne sais si le public,
+                accoutumé aux sages emportements de Malherbe, s’accommodera de ces saillies et de
+                ces essais pindariques. »</p></quote></note>. Et s’il parvient, selon toutes les
+          règles de l’art, et même avec une perfection digne d’une autre œuvre, à composer un poème,
+          ce ne sera qu’un poème héroï-comique<note n="19" place="bottom"><quote><p>« Voyez comme sa
+                vie littéraire est bien conduite : il déclare sa mission par ses <hi rend="i"
+                  >Satires</hi>, sa compétence par <hi rend="i">l’Art poétique</hi>, sa supériorité
+                par <hi rend="i">le Lutrin</hi>. Il critique, il enseigne, il pratique ; voilà le
+                mal, voilà la route du bien, voilà le bien. N’est-ce pas là toute la vie littéraire
+                de Boileau » —</p></quote><p><hi rend="i">en ajoutant les Épîtres</hi> ;
+                —</p><quote><p>« et cette vie ne présente-t-elle pas une admirable progression ? A
+                trente-six ans la mission de Boileau était remplie, son autorité littéraire était
+                établie sur des titres incontestables : il ne fit plus que l’exercer. Il applaudit,
+                il blâma ; et l’éloge comme le blâme étaient des arrêts dans sa
+                  bouche. »</p><bibl>(<author>Géruzez</author>, <title>Cours de
+                Littérature</title>.)</bibl></quote><p>Malheureusement, parfois, comme dans les vers
+              cités en tête du chapitre, les arrêts de Boileau,</p><quote><l>Ces fidèles échos d’un
+                jugement si sûr,</l><l rend="i">Sont, d’un ton un peu froid, un peu sec, un peu dur.
+              </l></quote></note>.</p>
+        <p>Il pourra bien railler agréablement Chapelain sur son <hi rend="i">âpre et rude
+            verve</hi> et ses <hi rend="i">douze fois douze cents méchants vers ;</hi> mais lui-même
+          (on peut l’affirmer sans crainte) n’aurait jamais été capable de traiter dignement cette
+          sainte légende de <hi rend="i">Jeanne d’Arc</hi>, où le <hi rend="i">merveilleux</hi> est
+          l’histoire même, et qui est peut-être le plus beau sujet de poème épique qui soit au
+          monde. — Mais une pareille <hi rend="i">matière</hi> demanderait l’âme et la lyre d’un
+          Lamartine. — D’un autre côté, il semble que Boileau aurait pu aborder d’autres genres plus
+          voisins du sien, la haute comédie, par exemple, et, marchant sur les traces de l’écrivain
+          qui, selon lui, <hi rend="i">honorait le plus le règne de Louis XIV</hi>, composer
+          peut-être, qui sait ? quelque chose de comparable au <hi rend="i">Misanthrope</hi> ?<note
+            n="20" place="bottom"> Dans sa vie littéraire, Boileau a les plus grands traits de
+            ressemblance avec Horace. Tous deux ont écrit des <hi rend="i">satires</hi>, des <hi
+              rend="i">épîtres</hi> et un <hi rend="i">art poétique.</hi> Mais Horace a, de plus,
+            ses <hi rend="i">odes</hi> ; Boileau, son <hi rend="i">Lutrin.</hi> Horace, peu habile à
+            faire <hi rend="i">l’hexamètre</hi>, a composé les vers latins les plus charmants sur
+            toutes les autres mesures ; Boileau, incapable de faire le petit vers français (le vers
+            de sept ou de huit syllabes), <hi rend="i">le vers de Lamartine</hi>, est d’une force
+            incomparable sur <hi rend="i">l’alexandrin.</hi></note></p>
+        <p>Racine se livrera de préférence à la tragédie, genre le mieux approprié à sa nature et à
+          son génie. Sous des noms différents, il fera le portrait de l’humanité elle-même, et se
+          constituera l’interprète le plus vrai, le plus éloquent de ces sentiments intimes qui sont
+          de tous les temps et de tous les pays. Il excellera à rendre, dans des termes de la plus
+          irréprochable convenance, les mouvements et les transports les plus passionnés, et enfin
+          semblera avoir trouvé le secret d’exprimer tout ce qu’il y a de plus délicat, de plus
+          tendre, de plus aimant dans le cœur humain, et spécialement dans le cœur de la femme,
+          depuis la jeune fille jusqu’à la mère, depuis Iphigénie jusqu’à Andromaque, en passant par
+          Monime, Bérénice, Hermione et Phèdre.</p>
+        <trailer>Fin de la première partie.</trailer>
+        </div>
     </body>
   </text>
 </TEI>

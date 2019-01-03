@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="ecole.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -389,7 +389,7 @@
           <p>Réformateur et initiateur tout ensemble, Malherbe opéra une révolution littéraire, en faisant <quote>« le premier en France sentir dans les vers une juste cadence »</quote>, en enseignant le pouvoir d’un mot mis à sa place, et en réduisant — un peu tyranniquement, il faut le dire — la Muse aux règles du devoir.</p>
           <p>Après quelques faibles essais, parmi lesquels on cite toujours son imitation d’un Italien de la décadence de <hi rend="i">Luigi Tansillo, les Larmes de saint Pierre</hi>, Malherbe annonça tout ce qu’il devait être, en composant, sur le voyage de Henri IV en Limousin, la fameuse pièce :</p>
           <quote>
-            <l><quote>Ô Dieu dont les bontés de nos larmes touchées…</quote> </l>
+            <l>Ô Dieu dont les bontés de nos larmes touchées…</l>
           </quote>
           <p>Les succès se suivirent dès lors presque sans interruption.</p>
           <p>En 1596, il adressa encore au roi l’ode célèbre sur la <hi rend="i">Réduction de Marseille</hi> soumise après cinq ans de rébellion par le duc de Guise :</p>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -1227,7 +1227,7 @@
               <p>DON JUAN.</p>
               <p>Allons, asseyez-vous.</p>
               <p>M. DIMANCHE.   </p>
-              <p>II n’est pas besoin, Monsieur, et je n’ai qu’un mot à vous dire : j’étais...</p>
+              <p>Il n’est pas besoin, Monsieur, et je n’ai qu’un mot à vous dire : j’étais...</p>
               <p>DON JUAN.</p>
               <p>Mettez-vous là, vous dis-je.</p>
               <p>M. DIMANCHE.</p>
@@ -1645,7 +1645,7 @@
             <quote>
               <p>Une goutte d’eau, tombée du ciel sur un oranger, roulait de feuille en feuille, et bientôt allait tomber à terre.</p>
               <p>Le Génie d’une belle fontaine qui coulait au pied de l’arbre, la regardait, la pauvre petite goutte, et la croyait dans l’embarras.</p>
-              <p>II cria, en lui montrant un long roseau : Petite goutte d’eau, veux-tu que je te recueille ?</p>
+              <p>Il cria, en lui montrant un long roseau : Petite goutte d’eau, veux-tu que je te recueille ?</p>
               <p>Non pas, répondit la goutte d’eau, j’aime mieux me laisser tomber au milieu de cette jolie mousse verte qui est là.</p>
               <p>Donc, elle se laissa rouler à terre : mais, hélas ! au lieu de tomber sur l’herbe fraîche, elle rencontra un gros caillou qui la retint.</p>
               <p>Alors, elle appela le bon Génie qui reparut et qui lui dit avec un air sévère : « Petite, porte la peine de ton orgueil ; tu as dédaigné ma source et tu as voulu demeurer seule sur le gazon, comme une ambitieuse ; tu es une folle ! Tu devais savoir qu’une goutte d’eau n’est rien par elle-même, mais qu’en se réunissant à ses semblables, elle devient fontaine. Adieu. » — Vint un beau rayon de soleil qui but la goutte d’eau.</p>
@@ -1725,7 +1725,7 @@
               <l>Le sort des chiens me plaît, car ils n’ont rien à faire. »</l>
               <l>— Écolier ; voyez-vous ce laboureur aux champs ?</l>
               <l>Eh bien ! ce laboureur, dit Stentor, c’est mon maître.</l>
-              <l>II est très vigilant ; je le suis plus peut-être.</l>
+              <l>Il est très vigilant ; je le suis plus peut-être.</l>
               <l>Il dort la nuit, et moi j’écarte les méchants.</l>
               <l>J’éveille aussi ce bœuf qui d’un pas lent, mais ferme,</l>
               <l>Va creuser les sillons quand je garde la ferme.</l>
@@ -2758,7 +2758,7 @@
             <p>Chacun aurait vu que la liqueur est un mauvais guide ; c’est ce qui ne ressort pas aussi clairement de l’ordre nature grammatical.</p>
             <p><quote><hi rend="i">La joie est dans ses yeux</hi></quote>. Cet hémistiche renferme un trope fort hardi, mais qui est reçu dans le langage, et dont l’effet est très beau. La joie, à proprement parler, ne peut être dans les yeux ; les yeux peuvent indiquer que l’on est joyeux. L’usage, en attribuant aux yeux la puissance de recevoir un sentiment comme ils reçoivent une larme, a donc con-sacré une métonymie énergique, concise, à laquelle on fait peu attention.</p>
             <quote>
-              <l>Après mille détours il retrouve <quote>son</quote> chaume.</l>
+              <l>Après mille détours il retrouve <hi rend="i">son</hi> chaume.</l>
             </quote>
             <p><quote><hi rend="i">Après mille détours</hi></quote> est admirable de concision et d’exactitude. Ces mots renferment une véritable métalepse. Ne nous disent-ils pas, en effet, que le brave homme s’est trompé plusieurs fois de chemin, qu’il a consulté tous les buissons et les arbres de la route, qu’il a failli heurter aux maisons du voisinage, qu’il a été forcé de revenir sur ses pas, etc., etc. Mais ces détails prolixes eussent rendu la description languissante, et l’heureux choix de l’expression <quote><hi rend="i">après mille détours</hi></quote>nous les rend présents à l’esprit.</p>
             <p>Une fois rentré chez lui, le campagnard est souverain ; il est dans un palais. Son trône est un vieux banc ; il met un diadème sur la tête de sa femme, il distribue des parchemins à ses enfants, il est enchanté, et veut qu’on dresse en son honneur un arc de triomphe. Ces traits ironiques provoquent le sourire, et le lecteur satisfait éprouve une certaine émotion au moment où le pauvre homme s’endort en chantant. Quel sera le réveil ? L’imagination a été recréée jusqu’au dernier mot du dernier vers.</p>
@@ -3853,7 +3853,7 @@
               <l>Vaines précautions ! Tout soin est inutile ;</l>
               <l>L’heure approche, et déjà son cœur épouvanté</l>
               <l>Croit de l’affreuse nuit sentir l’obscurité.</l>
-              <l>II marche, il erre encor sous cette voûte sombre :</l>
+              <l>Il marche, il erre encor sous cette voûte sombre :</l>
               <l>Et le flambeau mourant fume et s’éteint dans l’ombre ;</l>
               <l>Il gémit ; toutefois d‘un souffle haletant</l>
               <l>Le flambeau ranimé se rallume à l’instant</l>
@@ -4207,7 +4207,7 @@
             <head>N° 207. — Le prix du portrait.</head>
             <quote>
               <p>Le chevalier de Boufflers à sa mère.</p>
-              <p>II vient de m’arriver une aventure qui tiendrait sa place dans le meilleur roman. J’ai été chez une femme qu’on m’avait indiquée, pour lui demander de vouloir bien me procurer de l’ouvrage. Son mari l’a engagée, quoique vieille, à se faire peindre ; j’ai parfaitement réussi. Pendant le temps du portrait, j’ai toujours mangé chez elle, et elle m’a fort bien traité. Ce matin, quand j‘ai donné les derniers coups à l’ouvrage, le mari m’a dit : Monsieur, voilà un portrait parfait ; il ne me reste plus qu’à vous satisfaire et à vous demander votre prix.</p>
+              <p>Il vient de m’arriver une aventure qui tiendrait sa place dans le meilleur roman. J’ai été chez une femme qu’on m’avait indiquée, pour lui demander de vouloir bien me procurer de l’ouvrage. Son mari l’a engagée, quoique vieille, à se faire peindre ; j’ai parfaitement réussi. Pendant le temps du portrait, j’ai toujours mangé chez elle, et elle m’a fort bien traité. Ce matin, quand j‘ai donné les derniers coups à l’ouvrage, le mari m’a dit : Monsieur, voilà un portrait parfait ; il ne me reste plus qu’à vous satisfaire et à vous demander votre prix.</p>
               <p>Je lui ai dit ; Monsieur, on ne se juge jamais bien soi-même ; le grand mérite se voit en petit, et le petit se voit en grand. Personne ne s’apprécie, et il est plus raisonnable de se laisser juger par les autres ; nos yeux ne nous sont pas donnés pour nous regarder.</p>
               <p>Monsieur, m’a-t-il dit, votre façon de parler m’embarrasse autant que la bonté de votre portrait.</p>
               <p>Je trouve que, quelque chose que vous me demandiez, vous ne sauriez me demander trop.</p>
@@ -4971,7 +4971,7 @@ Style
               <p>Deux beaux-frères sont dans les fers. Polidore est un jeune homme de vingt cinq ans. Callidore est <hi rend="i">un</hi> homme de quarante ans et père de famille. La somme destinée à leur délivrance n’est pas assez forte pour les racheter tous deux ; mais un peut être libre. Sera-ce Polidore ? sera-ce Callidore ?</p>
               <p>N’admirez-vous pas, Messieurs, ma témérité ? Dès la première fois que je parais dans le barreau, me déclarer le protecteur et l’avocat d’un âge qui a contre lui tant de préjugés ! La jeunesse est la plus belle saison de la vie, tout le monde en convient ; et cependant c’est de tous les âges le plus sujet à la censure. Ce ne sont que des déclamations cent fois rebattues, qu’invectives éternelles contre les jeunes gens ; mais surtout il fait beau entendre nos vieillards exhaler contre eux leur pesante mélancolie, et se consoler de n’être plus jeunes, en déclamant contre la jeunesse : on sait assez qu’ils n’en parlent que par envie, et que tel qui blâme les défauts du jeune âge, achèterait volontiers par tous ses cheveux blancs, cette fleur de jeunesse qui dans les autres lui fait tant mal au cœur.       </p>
               <p>Quoiqu’il en soit des motifs qui enflamment sa bile, j’ose descendre dans l’arène, et prêter au jeune Polidore le secours de ma voix. On dira sans doute (car jusqu’où ne va pas la malignité ?), on dira qu’en plaidant pour le jeune homme, je plaide un peu pour moi-même, et qu’ici les intérêts de l’avocat se trouvent confondus avec ceux des parties ; non, Messieurs, j’en fais ma déclaration ; ce n’est point l’intérêt personnel qui excite mon zèle.</p>
-              <p>II est vrai que je conserve encore, avec l’âge que je défends, quelque rapport de sympathie ; il est vrai que les années n’ont pas encore gravé sur mon front ces traces vénérables qui annoncent la vieillesse. Mais encore une fois, ce n’est pas là ce qui me touche ; des motifs plus dignes d’une âme généreuse m’obligent à solliciter la justice de vos arrêts.</p>
+              <p>Il est vrai que je conserve encore, avec l’âge que je défends, quelque rapport de sympathie ; il est vrai que les années n’ont pas encore gravé sur mon front ces traces vénérables qui annoncent la vieillesse. Mais encore une fois, ce n’est pas là ce qui me touche ; des motifs plus dignes d’une âme généreuse m’obligent à solliciter la justice de vos arrêts.</p>
               <p>Car puis-je voir sans douleur un jeune homme, l’espoir de sa famille, esclave dans une terre étrangère, au risque d’y périr et d’emporter avec lui dans le tombeau, la plus chère espérance d’une illustre maison ? Voilà, voilà ce qui m’enflamme ; voilà ce qui suppléera dans moi à toutes les ressources de l’éloquence que m’a refusé la nature : ou plutôt, voilà ce qui me rendra éloquent en dépit de la nature ; voici ce qui assure à Polidore, ma partie, une préférence qu’il mérite à double titre, parce que de tous les captifs, il est, en premier lieu, le plus précieux à sa famille, et en second lieu le plus précieux à l’État. Honorez-moi, Messieurs, d’une attention favorable ; je ne vous demande point votre suffrage ; c’est à moi de vous l’arracher.</p>
               <p>PREMIÈRE PARTIE.</p>
               <p>Représentez-vous, Messieurs, un parterre émaillé des plus belles couleurs, où une main avide vient de porter le ravage et la désolation ; entre les fleurs que le fer a moissonnées, une, quoique toute épanouie, conservait encore sa fraîcheur ; mais plus la fleur s’était développée, moins l’œil osait s’en promettre un plaisir durable : l’autre, quoiqu’encore tendre, laissait entrevoir ses trésors naissants ; son calice entr’ouvert flattait également les yeux, et par les richesses qu’il offrait, et par celles qu’il promettait : je vous le demande, Messieurs, si le parterre dépouillé pouvait être sensible à sa perte, où se porteraient ses premiers regrets ? serait-ce vers cette fleur épanouie, mais dont la sève presque épuisée, annonce le déclin ? Non, Messieurs, mais vers cette fleur nouvellement éclose, dont la pourpre naissante se montre et se dérobe en partie, pour faire goûter, tout-à-la-fois, et le plaisir de jouir et celui d’espérer ; voilà celle qui fixerait les regards et les complaisances du parterre, s’il était capable de sentiment.</p>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -1254,7 +1254,7 @@
                     <l>Miraud sur leur odeur ayant <hi rend="i">philosophé</hi></l>
                   </quote>
                   <p>Fait songer aux philosophes qui raisonnent pour trouver la vérité, et cette allusion piquante fait un très bel effet.</p>
-                  <p>II est facile d’apercevoir par ce peu d’exemples en quoi consiste le mérite de l’allusion, et quelles précautions l’on doit prendre pour la rendre sensible et agréable.</p>
+                  <p>Il est facile d’apercevoir par ce peu d’exemples en quoi consiste le mérite de l’allusion, et quelles précautions l’on doit prendre pour la rendre sensible et agréable.</p>
                 </div>
                 <div>
                   <head>XV. Communication dans les paroles.</head>
