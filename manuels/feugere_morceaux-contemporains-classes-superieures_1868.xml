@@ -976,11 +976,11 @@
               <l>Il en est un. Nolfock<note resp="author">Confident du roi qui ne joue d’ailleurs aucun rôle dans la pièce.</note> a déjà su m’instruire</l>
               <l>Que dans le cœur du roi sans doute il veut me nuire.</l>
               <label type="speaker">FRÉDEGONDE.</label>
-              <l>Et quel est-il ?</l>
+              <l part="I">Et quel est-il ?</l>
               <label type="speaker">MACBETH.</label>
-              <l>                     Glamis.</l>
+              <l part="M">Glamis.</l>
               <label type="speaker">FRÉDEGONDE.</label>
-              <l>                                 Faut-il s’en étonner ?</l>
+              <l part="F">Faut-il s’en étonner ?</l>
               <l>Déjà depuis longtemps j’ai dû le soupçonner.</l>
               <l>Quoi ! ne voyez-vous pas comment sa lâche adresse</l>
               <l>Du facile Duncan gouverne la vieillesse ?</l>
@@ -1031,9 +1031,9 @@
               <l>Un diadème au front et le sceptre à la main :</l>
               <l>Son regard m’a troublé ; son air, son port terrible,</l>
               <l>M’ont saisi tout à coup d’une crainte invincible.</l>
-              <l>Qui peut-elle être ?</l>
+              <l part="I">Qui peut-elle être ?</l>
               <label type="speaker">FRÉDEGONDE.</label>
-              <l>                            Eh quoi ! la méconnaissez-vous ?</l>
+              <l part="F">Eh quoi ! la méconnaissez-vous ?</l>
               <l>Le grand nom d’Iphyctone est-il nouveau pour nous<note resp="author">« Voilà, dit M. Villemain, une espèce de magicienne du grand ton, qui s’appelle du beau nom d’Iphyctone, qu’on ne voit pas, qu’on n’entend pas, et qui n’a rien de cette sorcellerie sauvage et populaire étalée par Shakespeare, et qui certes ne fera pas peur à la société polie du dix-huitième siècle. C’est un personnage sans date, sans réalité dans l’imagination. »</note> ?</l>
               <l>Les dieux dans leurs secrets lui permettent de lire :</l>
               <l>Elle y voit les États se heurter, se détruire,</l>
@@ -1051,11 +1051,11 @@
               <l>Elle recueille en paix ses esprits prophétiques.</l>
               <l>Élevant vers le ciel un œil fixe, arrêté,</l>
               <l>Confident des décrets de la Divinité.</l>
-              <l>Elle est ici.</l>
+              <l part="I">Elle est ici.</l>
               <label type="speaker">MACBETH.</label>
-              <l>                 Grands dieux !</l>
+              <l part="M">Grands dieux !</l>
               <label type="speaker">FRÉDEGONDE.</label>
-              <l>                                       Eh bien ! que crains-tu d’elle ?</l>
+              <l part="F">Eh bien ! que crains-tu d’elle ?</l>
               <l>C’est sans doute en ces lieux ton destin qui l’appelle.</l>
               <l>N’a-t-elle pas prédit ta gloire, tes exploits,</l>
               <l>Ce bras victorieux et vengeur de nos rois,</l>
@@ -1078,9 +1078,9 @@
               <l>Le peuple, le soldat, la noblesse t’adore :</l>
               <l>Le sort a fait beaucoup, il fera plus encore.</l>
               <label type="speaker">MACBETH.</label>
-              <l>Téméraire ! arrêtez,</l>
+              <l part="I">Téméraire ! arrêtez,</l>
               <label type="speaker">FRÉDEGONDE.</label>
-              <l>                             Pourquoi, pourquoi mes yeux</l>
+              <l part="M">Pourquoi, pourquoi mes yeux</l>
               <l>Craindraient-ils de s’ouvrir sur les décrets des dieux ?</l>
               <l>Les destins sont pour nous ; leurs promesses célèbres…</l>
               <label type="speaker">MACBETH.</label>
@@ -1090,9 +1090,9 @@
               <l>D’où vient qu’à l’instant même elle est dans ce palais ?</l>
               <l>Si sa bouche à nos vœux promettant la couronne…</l>
               <label type="speaker">MACBETH.</label>
-              <l>Malheureuse !… Fuyons.</l>
+              <l part="I">Malheureuse !… Fuyons.</l>
               <label type="speaker">FRÉDEGONDE.</label>
-              <l>                                    Ton corps tremble, il frissonne.</l>
+              <l part="F">Ton corps tremble, il frissonne.</l>
               <label type="speaker">MACBETH.</label>
               <l>Vaine erreur du sommeil, triste enfant de la nuit,</l>
               <l>Non, je ne te crois point : ma raison t’a détruit.</l>
@@ -1139,9 +1139,9 @@
               <l>Et tous trois dans les airs, en fuyant loin de moi,</l>
               <l>M’ont laissé pour adieu ces mots : « Tu seras roi. »</l>
               <label type="speaker">FRÉDEGONDE.</label>
-              <l>T’ont-ils réveillé ?</l>
+              <l part="I">T’ont-ils réveillé ?</l>
               <label type="speaker">MACBETH.</label>
-              <l>Non, ma langue s’est glacée.</l>
+              <l part="F">Non, ma langue s’est glacée.</l>
               <l>Un exécrable espoir entrait dans ma pensée.</l>
               <l>Si loin du trône encor, comment y parvenir !</l>
               <l>Je n’osais sans trembler regarder l’avenir.</l>
@@ -1246,24 +1246,24 @@
               <l>Adieu, tu peux partir. Raconte à tes amis</l>
               <l>Et l’accueil et les vœux que je garde à mes fils<note resp="author">On reconnaît dans ce passage d’un souffle cornélien le souvenir des célèbres imprécations de Camille dans <hi rend="i">Horace</hi>, acte IV, sc. <num>v</num>.</note>.</l>
               <label type="speaker">POLYNICE.</label>
-              <l>Je ne partirai point.</l>
+              <l part="I">Je ne partirai point.</l>
               <label type="speaker">ŒDIPE.</label>
-              <l>                            Qui ? toi !</l>
+              <l part="M">Qui ? toi !</l>
               <label type="speaker">POLYNICE.</label>
-              <l>                                           Non.</l>
+              <l part="M">Non.</l>
               <label type="speaker">ŒDIPE.</label>
-              <l>                                                  Téméraire !</l>
+              <l part="F">Téméraire !</l>
               <label type="speaker">POLYNICE.</label>
               <l>Je vous désobéis, j’ose encor vous déplaire.</l>
               <label type="speaker">ŒDIPE.</label>
               <l>De ton indigne voix je saurai m’affranchir.</l>
-              <l>Qu’attends-tu donc ?</l>
+              <l part="I">Qu’attends-tu donc ?</l>
               <label type="speaker">POLYNICE.</label>
-              <l>                              La mort.</l>
+              <l part="M">La mort.</l>
               <label type="speaker">ŒDIPE.</label>
-              <l>                                          Quoi ! tu veux…</l>
+              <l part="M">Quoi ! tu veux…</l>
               <label type="speaker">POLYNICE.</label>
-              <l>                                                                   Vous fléchir<note resp="author">Ce mot nous indique que Ducis a conçu le caractère de Polynice d’une toute autre manière que Sophocle. Après les imprécations d’Œdipe, le Polynice grec se retire en laissant échapper ces mots terribles (V. le vers 1422 et suiv.) : <quote>« Ne me retiens pas (c’est à Antigone qu’il s’adresse), je vais entrer dans cette voie malheureuse et funeste où la ruine m’a été préparée par la malédiction d’un père… Laissez-moi, adieu ; vous ne me reverrez plus vivant. »</quote> Mais le renversement de l’idée grecque va produire chez Ducis des beautés vraiment originales.</note>.</l>
+              <l part="F">Vous fléchir<note resp="author">Ce mot nous indique que Ducis a conçu le caractère de Polynice d’une toute autre manière que Sophocle. Après les imprécations d’Œdipe, le Polynice grec se retire en laissant échapper ces mots terribles (V. le vers 1422 et suiv.) : <quote>« Ne me retiens pas (c’est à Antigone qu’il s’adresse), je vais entrer dans cette voie malheureuse et funeste où la ruine m’a été préparée par la malédiction d’un père… Laissez-moi, adieu ; vous ne me reverrez plus vivant. »</quote> Mais le renversement de l’idée grecque va produire chez Ducis des beautés vraiment originales.</note>.</l>
               <label type="speaker">ŒDIPE.</label>
               <l>Avant qu’Œdipe ému s’ébranle à ta prière,</l>
               <l>L’astre éclatant du jour me rendra la lumière.</l>
@@ -1276,32 +1276,32 @@
               <l>Entendez mes sanglots ; sentez mes pleurs couler.</l>
               <l>Dans vos bras, malgré vous, oui, je répands mes larmes ;</l>
               <l>Il faut à ma douleur que vous rendiez les armes.</l>
-              <l>Mon père…</l>
+              <l part="I">Mon père…</l>
               <label type="speaker">ŒDIPE.</label>
-              <l>                 Eh bien !</l>
+              <l part="M">Eh bien !</l>
               <label type="speaker">POLYNICE.</label>
-              <l>                              Je meurs.</l>
+              <l part="M">Je meurs.</l>
               <label type="speaker">ŒDIPE.</label>
-              <l>                                             Perfide, éloigne-toi.</l>
+              <l part="F">Perfide, éloigne-toi.</l>
               <label type="speaker">POLYNICE.</label>
               <l>Nous le vaincrons, ma sœur : joignez-vous avec moi.</l>
               <label type="speaker">ŒDIPE.</label>
-              <l>Que dis-tu ?</l>
+              <l part="I">Que dis-tu ?</l>
               <label type="speaker">ANTIGONE.</label>
-              <l>                  Permettez…</l>
+              <l part="M">Permettez…</l>
               <label>ŒDIPE, <hi rend="i">à Antigone</hi>.</label>
-              <l>                                    Ah ! soutiens ma colère.</l>
-              <l>Affermis-la plutôt.</l>
+              <l part="F">Ah ! soutiens ma colère.</l>
+              <l part="I">Affermis-la plutôt.</l>
               <label type="speaker">ANTIGONE.</label>
-              <l>                           Seigneur, il est mon frère.</l>
+              <l part="F">Seigneur, il est mon frère.</l>
               <label type="speaker">ŒDIPE.</label>
               <l>Qu’entends-je ? où suis-je ?… Ô ciel ! si c’était la vertu !</l>
               <l>Je balance… je doute… Ingrat, te repens-tu ?</l>
               <l>Ne me trompes-tu pas ? Puis-je te croire encore ?</l>
               <label type="speaker">ANTIGONE.</label>
-              <l>Je vous réponds de lui.</l>
+              <l part="I">Je vous réponds de lui.</l>
               <label type="speaker">ŒDIPE.</label>
-              <l>                                 Dieux puissants que j’implore !</l>
+              <l part="F">Dieux puissants que j’implore !</l>
               <l>Dieux ! vous que j’invoquais pour sa punition,</l>
               <l>Enchaînez, s’il se peut, ma malédiction :</l>
               <l>J’ai calmé mon courroux, calmez votre colère.</l>
@@ -1938,24 +1938,24 @@
                 <l>Séjan même avec eux menace-t-il ma vie ?</l>
                 <l>Et de Germanicus tous les persécuteurs</l>
                 <l>De son ombre aujourd’hui sont-ils les protecteurs<note resp="author">Ces deux vers exposent bien l’action. Pison, le complice d’un infâme attentat, redoute déjà que Tibère ne le sacrifie à la vengeance d’Agrippine pour faire disparaître le témoin du crime qu’il a ordonné.</note> ?</l>
-                <l>Parle, ô mon cher Cnéius.</l>
+                <l part="I">Parle, ô mon cher Cnéius.</l>
                 <label type="speaker">CNÉIUS.</label>
-                <l>                                      Agrippine attendue</l>
+                <l part="F">Agrippine attendue</l>
                 <l>Aux désirs des Romains n’est pas encor rendue.</l>
                 <label type="speaker">PISON.</label>
-                <l>Ciel !</l>
+                <l part="I">Ciel !</l>
                 <label type="speaker">CNÉIUS.</label>
-                <l>         Mais aujourd’hui même elle doit en ces lieux</l>
+                <l part="F">Mais aujourd’hui même elle doit en ces lieux</l>
                 <l>Apporter d’un époux les restes glorieux.</l>
                 <label type="speaker">PISON.</label>
-                <l>Que m’apprends-tu ?</l>
+                <l part="I">Que m’apprends-tu ?</l>
                 <label type="speaker">CNÉIUS.</label>
-                <l>                              Séjan, ce ministre fidèle,</l>
+                <l part="F">Séjan, ce ministre fidèle,</l>
                 <l>Pour l’observer, sans doute, est envoyé près d’elle.</l>
                 <label type="speaker">PISON.</label>
-                <l>Et Tibère, Livie ?</l>
+                <l part="I">Et Tibère, Livie ?</l>
                 <label type="speaker">CNÉIUS.</label>
-                <l>                         Hélas ! avant ce jour,</l>
+                <l part="F">Hélas ! avant ce jour,</l>
                 <l>Cnéius, vous le savez, ignorait leur séjour.</l>
                 <l>Le besoin de revoir et d’embrasser mon père</l>
                 <l>Pouvait seul me conduire au palais de Tibère.</l>
@@ -1966,9 +1966,9 @@
                 <l>Heureux secrètement dans le commun malheur,</l>
                 <l>Cachent leur allégresse et non pas leur douleur<note resp="author"><hi rend="i">Annales</hi>, l. III, ch. 3 : <quote>« Tiberius atque Augusta publico abstinuere ; inferius majestate sua rati, si palam lamentarentur, an ne, omnium oculis vultum eorum scrutantibus, faIsi intelligerentur. » — « Tibère et Augusta (c’était le nom de Livie depuis la mort d’Auguste) s’abstinrent de paraître en public : soit qu’ils crussent au-dessous de la majesté suprême de donner leurs larmes en spectacle ; soit qu’ils craignissent que tant de regards, observant leurs visages, n’y lussent la fausseté de leurs cœurs. »</quote> (Trad. de M. Burnouf.)</note>.</l>
                 <label type="speaker">PISON.</label>
-                <l>Le peuple ?</l>
+                <l part="I">Le peuple ?</l>
                 <label type="speaker">CNÉIUS.</label>
-                <l>                Il adorait un prince magnanime :</l>
+                <l part="F">Il adorait un prince magnanime :</l>
                 <l>Les regrets sont profonds ; l’éloge est unanime ;</l>
                 <l>Et tous les vrais Romains ont accusé le sort<note resp="author">Un fils devait ainsi parler à son père ; mais la vérité, si nous consultons Tacite, est que le peuple accusait hautement l’arrogance de Pison et priait les dieux de protéger les enfants de Germanicus et <quote>« de les faire survivre à leurs persécuteurs. »</quote></note>.</l>
                 <label type="speaker">PISON.</label>
@@ -2074,9 +2074,9 @@
                 <l>Si, même en t’admirant, j’éprouve un peu d’effroi,</l>
                 <l>C’est de me voir contraint de rougir devant loi.</l>
                 <label type="speaker">CNÉIUS.</label>
-                <l>Qui ? vous !</l>
+                <l part="I">Qui ? vous !</l>
                 <label type="speaker">PISON.</label>
-                <l>                  Moi. Dût un jour la liberté renaître,</l>
+                <l part="F">Moi. Dût un jour la liberté renaître,</l>
                 <l>Je n’en jouirai plus ; j’ai fléchi sous un maître ;</l>
                 <l>À vivre en le servant je me suis condamné,</l>
                 <l>Soumis au bras d’airain qui me lient enchaîné.</l>
@@ -2114,9 +2114,9 @@
                 <l>Des hauteurs de Livie ils souffriront peut-être ;</l>
                 <l>Mais, nés du sang d’Auguste, ils ont assez d’un maître :</l>
                 <l>Les Romains de César reconnaissent la loi ;</l>
-                <l>C’est à lui qu’est l’empire<note resp="author">Livie, dit Tacite (<hi rend="i">Annales</hi>, I, 33), montrait pour Agrippine toute l’aigreur d’une marâtre (<quote><hi rend="i">novercales stimuli</hi></quote>), et celle-ci ne savait pas contenir en sa présence la hauteur naturelle de son caractère (<quote><hi rend="i">indomitum animum</hi></quote>).</note>.</l>
+                <l part="I">C’est à lui qu’est l’empire<note resp="author">Livie, dit Tacite (<hi rend="i">Annales</hi>, I, 33), montrait pour Agrippine toute l’aigreur d’une marâtre (<quote><hi rend="i">novercales stimuli</hi></quote>), et celle-ci ne savait pas contenir en sa présence la hauteur naturelle de son caractère (<quote><hi rend="i">indomitum animum</hi></quote>).</note>.</l>
                 <label type="speaker">TIBÈRE.</label>
-                <l>                                          Elle règne avec moi.</l>
+                <l part="F">Elle règne avec moi.</l>
                 <l>Ce discours vous surprend. J’ai, durant huit années,</l>
                 <l>Parmi les Rhodiens caché mes destinées,</l>
                 <l>Loin du palais d’Auguste et plus loin de son cœur.</l>
@@ -2196,9 +2196,9 @@
                 <l>Et voilà seulement ce qui peut m’indigner.</l>
                 <l>Vous n’avez qu’un chagrin : c’est de ne pas régner,</l>
                 <label type="speaker">AGRIPPINE.</label>
-                <l>Moi !</l>
+                <l part="I">Moi !</l>
                 <label type="speaker">TIBÈRE.</label>
-                <l>         Vous. En d’autres temps vous l’avez fait connaître,</l>
+                <l part="F">Vous. En d’autres temps vous l’avez fait connaître,</l>
                 <l>Quand sur les bords du Rhin tout le camp vit paraître</l>
                 <l>Votre jeune Caïus, promené sur un char,</l>
                 <l>Revêtu des habits et du nom de César<note resp="author">Voir sur la révolte des légions de Germanie apaisée par Germanicus les chap. 34 et suiv. du liv. I<hi rend="sup">er</hi> des <hi rend="i">Annales</hi>. <quote>« Germanicus quanto summæ spei propior, tanto impensius pro Tiberio niti. » — « Plus Germanicus était rapproché du rang suprême, plus il s’efforçait d’y affermir Tibère. »</quote></note>.</l>
@@ -2232,9 +2232,9 @@
                 <l>Il dompte la faiblesse, il cède à la constance.</l>
                 <l>Obéissez du moins aux conseils d’un époux.</l>
                 <l>Pour ses fils toutefois que me demandez-vous ?</l>
-                <l>Parlez : qu’espèrent-ils ?</l>
+                <l part="I">Parlez : qu’espèrent-ils ?</l>
                 <label type="speaker">AGRIPPINE.</label>
-                <l>                                   Qu’élevés par vous-même,</l>
+                <l part="F">Qu’élevés par vous-même,</l>
                 <l>Partageant tout l’éclat qui suit le rang suprême,</l>
                 <l>À côté de Drusus, près de vous réunis</l>
                 <label type="speaker">TIBÈRE.</label>
@@ -2310,9 +2310,9 @@
               <l>Le parti de Séjan combat pour Agrippine !</l>
               <l>Quoi ! ce Fulcinius, apprenti sénateur,</l>
               <l>Descend par habitude au rang de délateur<note resp="author"><p>Ce Fulcinius, gagné par Séjan, était prêt à accuser Pison, Séjan disait de lui à Tibère (acte I, sc. IV) :</p><quote><l>Ordonnez : rien ne coûte à son obéissance,</l><l>Et du soin de vous plaire il fait sa conscience.</l></quote></note> !</l>
-              <l>Et vous le permettez !</l>
+              <l part="I">Et vous le permettez !</l>
               <label type="speaker">TIBÈRE.</label>
-              <l>                                Votre courroux s’abuse.</l>
+              <l part="F">Votre courroux s’abuse.</l>
               <l>On n’est point délateur alors qu’on vous accuse.</l>
               <l>Ce droit de dénoncer, qui vous semble odieux,</l>
               <l>Fut, dans les plus beaux temps, utile à nos aïeux.</l>
@@ -2344,17 +2344,17 @@
               <label type="speaker">TIBÈRE.</label>
               <l>Sur des preuves, sans doute. Ainsi le veut la loi.</l>
               <label type="speaker">PISON.</label>
-              <l>César sera puni.</l>
+              <l part="I">César sera puni.</l>
               <label type="speaker">TIBÈRE.</label>
-              <l>                       Qui l’accuserait ?</l>
+              <l part="M">Qui l’accuserait ?</l>
               <label type="speaker">PISON.</label>
-              <l>                                                 Moi,</l>
+              <l part="M">Moi,</l>
               <l>Ses ordres à la main<note resp="author">Sur ce point, voici les indications que Tacite fournissait à Chénier : <quote>« On avait vu dans les mains de Pison des papiers qu’il ne publia pas. Ses amis répétèrent que c’étaient des lettres de Tibère et des ordres contre Germanicus, et qu’il avait résolu de les produire devant le sénat et d’accuser l’empereur, mais qu’il fut amusé par les promesses de Séjan ; que, du reste, il ne se tua point lui-même, et fut assassiné dans sa prison. »</quote></note>. Je les ai.</l>
               <label type="speaker">TIBÈRE.</label>
-              <l>                                               Téméraire !</l>
-              <l>Vous les avez gardés ?</l>
+              <l part="F">Téméraire !</l>
+              <l part="I">Vous les avez gardés ?</l>
               <label type="speaker">PISON.</label>
-              <l>                                 Je connaissais Tibère<note resp="author"><p>De même dans la tragédie d’<hi rend="i">Atrée et Thyeste</hi> de Sénèque, lorsque Atrée a présenté à son frère l’horrible festin composé des membres de ses fils, Thyeste s’écrie (v. 1106) :</p><quote><l>Agnosco fratrem………</l></quote></note>.</l>
+              <l part="F">Je connaissais Tibère<note resp="author"><p>De même dans la tragédie d’<hi rend="i">Atrée et Thyeste</hi> de Sénèque, lorsque Atrée a présenté à son frère l’horrible festin composé des membres de ses fils, Thyeste s’écrie (v. 1106) :</p><quote><l>Agnosco fratrem………</l></quote></note>.</l>
               <label type="speaker">TIBÈRE.</label>
               <l>Et des audacieux connaissez-vous le sort ?</l>
               <label type="speaker">PISON.</label>
@@ -2376,9 +2376,9 @@
               <l>Mes droits ! je n’en ai plus aux yeux de la justice :</l>
               <l>J’en ai sur vous encor ; je suis votre complice.</l>
               <label type="speaker">TIBÈRE.</label>
-              <l>Pison !</l>
+              <l part="I">Pison !</l>
               <label type="speaker">PISON.</label>
-              <l>           Vous le savez. Auriez-vous prétendu</l>
+              <l part="F">Vous le savez. Auriez-vous prétendu</l>
               <l>Que, par mon trépas même à vous plaire assidu,</l>
               <l>En bénissant vos coups, victime complaisante,</l>
               <l>J’irais tendre aux bourreaux ma tête obéissante<note resp="author"><p>On reconnaît une imitation des vers célèbres de Racine faisant dire à Iphigénie (acte IV, sc. <num>iv</num>) :</p><quote><l>Je saurai, s’il le faut, victime obéissante,</l><l>Tendre au fer de Calchas une tête innocente…</l></quote></note> ?</l>
@@ -2397,22 +2397,22 @@
               <label type="speaker">TIBÈRE.</label>
               <l>Non ; vous avez un fils ; vous la craindrez encore<note resp="author">L’auteur a ici recours à un moyen qui avait déjà réussi à Voltaire dans <hi rend="i">Mahomet</hi>. V. l’acte II, sc. <num>v</num>, de cette tragédie.</note>.</l>
               <label type="speaker">PISON.</label>
-              <l>Oseriez-vous, cruel !</l>
+              <l part="I">Oseriez-vous, cruel !</l>
               <label type="speaker">TIBÈRE.</label>
-              <l>                              Un fils qui vous honore ;</l>
+              <l part="F">                              Un fils qui vous honore ;</l>
               <l>Un fils qui vous chérit, que vous devez chérir.</l>
               <label type="speaker">PISON.</label>
-              <l>S’il m’est cher !</l>
+              <l part="I">S’il m’est cher !</l>
               <label type="speaker">TIBÈRE.</label>
-              <l>                       Qui pour vous serait prêt à mourir.</l>
+              <l part="F">Qui pour vous serait prêt à mourir.</l>
               <label type="speaker">PISON.</label>
               <l>Ah ! je sais de quels traits sa grande âme est capable :</l>
               <l>Il ne méritait pas un père aussi coupable ;</l>
               <l>Et le seul châtiment que je craigne aujourd’hui,</l>
               <l>C’est l’affreux désespoir d’être indigne de lui,</l>
-              <l>De, lui léguer la honte.</l>
+              <l part="I">De, lui léguer la honte.</l>
               <label type="speaker">TIBÈRE.</label>
-              <l>                                  Avez-vous pu le croire ?</l>
+              <l part="F">Avez-vous pu le croire ?</l>
               <l>La honte ! à lui ! jamais. Il est né pour la gloire :</l>
               <l>Déjà même il l’obtient en protégeant vos jours.</l>
               <l>Eh ! quand vous n’auriez pas ses généreux secours,</l>
@@ -3354,50 +3354,50 @@
                 <l>Ne crois pas éviter le sort que tu mérites :</l>
                 <l>Tu l’auras ; mes tourments, c’est toi qui les irrites.</l>
                 <l>À braver ma fureur leur excès t’enhardit.</l>
-                <l>Mais je t’écraserai.</l>
+                <l part="I">Mais je t’écraserai.</l>
                 <label>COITIER, <hi rend="i">froidement</hi>.</label>
-                <l>                           Vous l’avez déjà dit,</l>
-                <l>Sire, faites-le donc.</l>
+                <l part="F">Vous l’avez déjà dit,</l>
+                <l part="I">Sire, faites-le donc.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                            Certes, je vais le faire.</l>
+                <l part="F">Certes, je vais le faire.</l>
                 <l>Ton faux savoir n’est bon qu’à tromper le vulgaire.</l>
                 <l>Ton art ! j’en ris ; tes soins ! que me font-ils, tes soins ?</l>
                 <l>Rien. Je m’en passerai ; je n’en vivrai pas moins.</l>
                 <l>Je veux : ma volonté suffit pour que je vive ;</l>
-                <l>Je le sens, j’en suis sûr.</l>
+                <l part="I">Je le sens, j’en suis sûr.</l>
                 <label type="speaker">COITIER.</label>
-                <l>                                 Alors, quoi qu’il arrive,</l>
-                <l>Essayez-en.</l>
+                <l part="F">Alors, quoi qu’il arrive,</l>
+                <l part="I">Essayez-en.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                Oui, traître, oui, le saint que j’attends</l>
+                <l part="F">Oui, traître, oui, le saint que j’attends</l>
                 <l>Peut réparer d’un mot les ravages du temps<note resp="author">Saint François, le fondateur de l’ordre des Minimes, né vers 1416 à Paule, petite ville de Calabre, et mort en 1508.</note>.</l>
                 <l>Il va ressusciter cette force abattue ;</l>
                 <l>Son souffle emportera la douleur qui me tue.</l>
                 <label type="speaker">COITIER.</label>
-                <l>Qu’il se hâte.</l>
+                <l part="I">Qu’il se hâte.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                    Pour toi, privé de jour et d’air.</l>
+                <l part="F">Pour toi, privé de jour et d’air.</l>
                 <l>Captif, le corps plié sous un réseau de fer,</l>
                 <l>Tu verras, à travers les barreaux de ta cage,</l>
                 <l>Ma jeunesse nouvelle insulter à ta rage.</l>
                 <label type="speaker">COITIER.</label>
-                <l>D’accord.</l>
+                <l part="I">D’accord.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>              Tu le verras.</l>
+                <l part="M">Tu le verras.</l>
                 <label type="speaker">COITIER.</label>
-                <l>                                Sans doute.</l>
-                <label>LOUIS, <hi rend="i">avec émotion</hi>.</label>
-                <l>                                                 Faux ami,</l>
+                <l part="M">Sans doute.</l>
+                <label type="speaker">LOUIS, <hi rend="i">avec émotion</hi>.</label>
+                <l part="F">Faux ami,</l>
                 <l>M’as-tu trouvé pour toi généreux à demi ?</l>
-                <l>Va, tu n’es qu’un ingrat !</l>
+                <l part="I">Va, tu n’es qu’un ingrat !</l>
                 <label type="speaker">COITIER.</label>
-                <l>                                    Ce fut pour ne pas l’être</l>
+                <l part="F">Ce fut pour ne pas l’être</l>
                 <l>Que je sauvai Nemours<note resp="author"><p>Le père du jeune duc de Nemours avait appelé Coitier à la cour. V. l’acte I<hi rend="sup">er</hi>, sc. 4, où Coitier dit à Commines :</p><quote><l>Nemours fit ma fortune ; et moi, moi, son ouvrage,</l><l>Je n’ai pu de son roi fléchir l’aveugle rage !</l><l>Brillant de force alors, Louis, plein d’avenir,</l><l>Méprisa cette voix qui devait l’en punir,</l><l>Frappa mon bienfaiteur, et jeta sa famille</l><l>Dans la nuit des cachots creusés sous la Bastille.</l><l>Un de ses fils, un seul, voit la clarté des cieux :</l><l>J’ai soustrait avec vous ce dépôt précieux…</l></quote></note>.</l>
                 <label type="speaker">LOUIS.</label>
                 <l>                                      L’assassin de ton maître ;</l>
-                <l>Lui qui voulait ma perte !</l>
+                <l part="I">Lui qui voulait ma perte !</l>
                 <label type="speaker">COITIER.</label>
-                <l>                                     En chevalier : son bras</l>
+                <l part="F">En chevalier : son bras</l>
                 <l>Combat, quand il se venge, et n’assassine pas.</l>
                 <l>Je devais tout au père, et me tiendrais infâme</l>
                 <l>Si ses bienfaits passés ne vivaient dans mon âme.</l>
@@ -3407,9 +3407,9 @@
                 <l>De quel prix n’ai-je pas récompensé tes peines ?</l>
                 <l>De l’or, je t’en accable et tes mains en sont pleines.</l>
                 <l>Je donne sans compter, comme un autre promet :</l>
-                <l>Nemours, pour être aimé, fit-il plus ?</l>
+                <l part="I">Nemours, pour être aimé, fit-il plus ?</l>
                 <label type="speaker">COITIER.</label>
-                <l>                                                     Il m’aimait.</l>
+                <l part="F">Il m’aimait.</l>
                 <l>Vous, quels sont-ils vos droits à ma reconnaissance ?</l>
                 <l>Dieu merci ! nous traitons de puissance à puissance ;</l>
                 <l>L’un pour l’autre une fois n’ayons point de secret :</l>
@@ -3430,12 +3430,12 @@
                 <l>Et, parjure à l’honneur lorsqu’il vous abandonne,</l>
                 <l>S’il vous regarde en face après avoir failli,</l>
                 <l>On a droit de lui dire : Ingrat, tu m’as trahi !</l>
-                <label>LOUIS, <hi rend="i">d’une voix caressante</hi>.</label>
+                <label type="speaker">LOUIS, <hi rend="i">d’une voix caressante</hi>.</label>
                 <l>Eh bien ! mon bon Coitier, je t’aimerai, je t’aime.</l>
                 <label type="speaker">COITIER.</label>
-                <l>Pour vous,</l>
+                <l part="I">Pour vous,</l>
                 <label type="speaker">LOUIS.</label>
-                <l>               Sans intérêt. Ma souffrance est extrême,</l>
+                <l part="F">Sans intérêt. Ma souffrance est extrême,</l>
                 <l>J’en conviens ; mais le saint peut me guérir demain.</l>
                 <l>C’est donc par amitié que je te tends la main :</l>
                 <l>De tels nœuds sont trop doux pour que rien les détruise.</l>
@@ -3448,7 +3448,7 @@
                 <p/>
                 <label type="speaker">OLIVIER.</label>
                 <l>Sire, François de Paule attend qu’on l’introduise.</l>
-                <label>LOUIS, <hi rend="i">montrant Coitier</hi>.</label>
+                <label type="speaker">LOUIS, <hi rend="i">montrant Coitier</hi>.</label>
                 <l>Entrez. Voyez, mon père, il a bravé son roi</l>
                 <l>Et je lui pardonnais. Coitier, rentre chez toi.</l>
                 <p>(<hi rend="i">En le conduisant jusqu’à son appartement.</hi>)</p>
@@ -3464,44 +3464,44 @@
                 <label type="head"><hi rend="i">Louis, François de Paule</hi><note resp="author">Voir le récit de Commines sur la mort de Louis XI, cité dans l’introduction des <hi rend="i">Morceaux choisis pour les classes supérieures</hi> de M. Léon Feugère, p. <num>xiv</num>.</note>.</label>
                 <p/>
                 <label type="speaker">LOUIS.</label>
-                <l>Nous voilà sans témoins.</l>
+                <l part="I">Nous voilà sans témoins.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                                    Que voulez-vous de moi ?</l>
-                <label>LOUIS, <hi rend="i">prosterné</hi>.</label>
+                <l part="F">Que voulez-vous de moi ?</l>
+                <label type="speaker">LOUIS, <hi rend="i">prosterné</hi>.</label>
                 <l>Je tremble à vos genoux d’espérance et d’effroi.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>Relevez-vous, mon fils !</l>
+                <l part="I">Relevez-vous, mon fils !</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                   J’y reste pour attendre</l>
+                <l part="F">J’y reste pour attendre</l>
                 <l>La faveur qui sur moi de vos mains va descendre,</l>
                 <l>Et veux, courbant mon front à la terre attaché,</l>
                 <l>Baiser jusqu’à la place où vos pas ont louché.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
                 <l>Devant sa créature, en me rendant hommage,</l>
                 <l>Ne prosternez pas Dieu dans sa royale image ;</l>
-                <l>Prince, relevez-vous.</l>
-                <label>LOUIS, <hi rend="i">debout</hi>.</label>
-                <l>                               J’espère un bien si grand !</l>
+                <l part="I">Prince, relevez-vous.</l>
+                <label type="speaker">LOUIS, <hi rend="i">debout</hi>.</label>
+                <l part="F">J’espère un bien si grand !</l>
                 <l>Comment m’abaisser trop, saint homme, en l’implorant ?</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>Que puis-je ?</l>
+                <l part="I">Que puis-je ?</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                   Tout, mon père ; oui, tout vous est possible :</l>
+                <l part="F">Tout, mon père ; oui, tout vous est possible :</l>
                 <l>Vous réchauffez d’un souffle une chair insensible.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>Moi !</l>
+                <l part="I">Moi !</l>
                 <label type="speaker">LOUIS.</label>
-                <l>        Vous dites aux morts : Sortez de vos tombeaux !</l>
-                <l>Ils en sortent.</l>
+                <l part="F">Vous dites aux morts : Sortez de vos tombeaux !</l>
+                <l part="I">Ils en sortent.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                   Qui, moi !</l>
+                <l part="M">Qui, moi !</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                   Vous dites à nos maux :</l>
+                <l part="F">Vous dites à nos maux :</l>
                 <l>Guérissez !…</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                    Moi, mon fils !</l>
+                <l part="I">Moi, mon fils !</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                          Soudain nos maux guérissent.</l>
+                <l part="F">Soudain nos maux guérissent.</l>
                 <l>Que votre voix l’ordonne, et les cieux s’éclaircissent ;</l>
                 <l>Le vent gronde ou s’apaise à son commandement ;</l>
                 <l>La foudre qui tombait remonte au firmament.</l>
@@ -3548,7 +3548,7 @@
                 <l>Comme à tous ses enfants il vous doit son appui ;</l>
                 <l>Mais ces secours divins que votre voix réclame,</l>
                 <l>Plus juste envers vous-même, invoquez-les pour l’âme.</l>
-                <label>LOUIS, <hi rend="i">vivement</hi>.</label>
+                <label type="speaker">LOUIS, <hi rend="i">vivement</hi>.</label>
                 <l>Non, c’est trop à la fois : demandons pour le corps ;</l>
                 <l>L’âme, j’y songerai<note resp="author">« Seissel écrit de Louis XI, dit Nicolas Pasquier dans ses <hi rend="i">Lettres</hi>, X, 5, que comme on eut dressé une oraison expresse à saint Eutrope pour lui recommander et son corps son âme, il fit ôter ce mot de l’âme, disant que c’était assez que le saint lui fit recouvrer la santé du corps sans l’importuner de tant de choses. »</note>.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
@@ -3556,99 +3556,99 @@
                 <l>C’est cette plaie ardente et par le crime ouverte</l>
                 <l>Qui traîne lentement votre corps à sa perte.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>Les prêtres m’ont absous.</l>
+                <l part="I">Les prêtres m’ont absous.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                                    Vain espoir ! vous sentez</l>
+                <l part="F">Vain espoir ! vous sentez</l>
                 <l>Peser sur vos douleurs trente ans d’iniquités.</l>
                 <l>Confessez votre honte, exposez vos blessures :</l>
                 <l>Qu’un repentir sincère en lave les souillures.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>Je guérirai ?</l>
+                <l part="I">Je guérirai ?</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                  Peut-être.</l>
+                <l part="M">Peut-être.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                Oui, vous le promettez :</l>
-                <l>Je vais tout dire.</l>
+                <l part="F">Oui, vous le promettez :</l>
+                <l part="I">Je vais tout dire.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                        À moi ?</l>
+                <l part="M">À moi ?</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                    Je le veux : écoutez.</l>
-                <label>FRANÇOIS DE PAULE, <hi rend="i">qui s’assied, tandis que le roi reste debout les mains jointes.</hi></label>
+                <l part="F">Je le veux : écoutez.</l>
+                <label type="speaker">FRANÇOIS DE PAULE, <hi rend="i">qui s’assied, tandis que le roi reste debout les mains jointes.</hi></label>
                 <l>Pécheur, qui m’appelez à ce saint ministère,</l>
-                <l>Parlez donc.</l>
-                <label>LOUIS, <hi rend="i">après avoir dit mentalement son Confiteor</hi>.</label>
-                <l>                  Je ne puis et je n’ose me taire.</l>
+                <l part="I">Parlez donc.</l>
+                <label type="speaker">LOUIS, <hi rend="i">après avoir dit mentalement son Confiteor</hi>.</label>
+                <l part="F">Je ne puis et je n’ose me taire.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>Qu’avez-vous fait ?</l>
+                <l part="I">Qu’avez-vous fait ?</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                            L’effroi qu’il conçut du Dauphin</l>
+                <l part="F">L’effroi qu’il conçut du Dauphin</l>
                 <l>Fit mourir le feu roi de langueur et de faim<note resp="author">Charles VII avait formé le projet d’appeler son second fils à la couronne ; mais il n’eut pas la force de prendre ce parti décisif. Dans la crainte d’être empoisonné par les émissaires du Dauphin, il refusa toute nourriture et expira le 22 juillet 1461.</note>.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
                 <l>Un fils a de son père abrégé la vieillesse !</l>
                 <label type="speaker">LOUIS.</label>
-                <l>Le Dauphin… c’était moi.</l>
+                <l part="F">Le Dauphin… c’était moi.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                                      Vous !</l>
+                <l part="M">Vous !</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                                Mais tant de faiblesse</l>
+                <l part="F">Mais tant de faiblesse</l>
                 <l>Perdait tout, livrait tout aux mains d’un favori :</l>
                 <l>La France périssait, si le roi n’eût péri.</l>
                 <l>Les intérêts d’État sont des raisons si hautes !…</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
                 <l>Confessez ; mauvais fils, n’excusez pas vos fautes !</l>
                 <label type="speaker">LOUIS.</label>
-                <l>J’avais un frère.</l>
+                <l part="I">J’avais un frère.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                        Eh bien ?</l>
+                <l part="M">Eh bien ?</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                     Qui fut… empoisonné.</l>
+                <l part="F">Qui fut… empoisonné.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>Le fut-il par votre ordre ?</l>
+                <l part="I">Le fut-il par votre ordre ?</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                     Ils l’ont tous soupçonné<note resp="author"><p>Agrippine avait dit en parlant de la mort de Claude (<hi rend="i">Britannicus</hi>, acte IV, sc. 2) :</p><quote><l>Il mourut. Mille bruits en courent à ma honte.</l></quote></note>.</l>
+                <l part="F">Ils l’ont tous soupçonné<note resp="author"><p>Agrippine avait dit en parlant de la mort de Claude (<hi rend="i">Britannicus</hi>, acte IV, sc. 2) :</p><quote><l>Il mourut. Mille bruits en courent à ma honte.</l></quote></note>.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>Dieu !</l>
+                <l part="I">Dieu !</l>
                 <label type="speaker">LOUIS.</label>
-                <l>         Si ceux qui l’ont dit tombaient en ma puissance !</l>
+                <l part="F">Si ceux qui l’ont dit tombaient en ma puissance !</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>Est-ce vrai ?</l>
+                <l part="I">Est-ce vrai ?</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                   Du cercueil son spectre qui s’élance</l>
+                <l part="F">Du cercueil son spectre qui s’élance</l>
                 <l>Peut seul m’en accuser avec impunité.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>C’est donc vrai ?</l>
+                <l part="I">C’est donc vrai ?</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                         Mais le traître, il l’avait mérité<note resp="author">Le duc de Guyenne mourut le 24 mai 1472. <quote>« Louis XI, dit Brantôme, empoisonna son frère par gentille industrie, lorsqu’il y pensait le moins, priant la vierge, sa bonne dame, sa petite maitresse, sa grande amie, de lui obtenir son pardon. »</quote> Plusieurs historiens, entre autres Sismondi, ont nié que Louis XI eût participé à la mort de son frère.</note>.</l>
-                <label>FRANÇOIS DE PAULE, <hi rend="i">se levant</hi>.</label>
+                <l part="F">Mais le traître, il l’avait mérité<note resp="author">Le duc de Guyenne mourut le 24 mai 1472. <quote>« Louis XI, dit Brantôme, empoisonna son frère par gentille industrie, lorsqu’il y pensait le moins, priant la vierge, sa bonne dame, sa petite maitresse, sa grande amie, de lui obtenir son pardon. »</quote> Plusieurs historiens, entre autres Sismondi, ont nié que Louis XI eût participé à la mort de son frère.</note>.</l>
+                <label type="speaker">FRANÇOIS DE PAULE, <hi rend="i">se levant</hi>.</label>
                 <l>Et contre ses remords ton cœur cherche un refuge !</l>
                 <l>Tremble ! j’étais ton frère et je deviens ton juge.</l>
                 <l>Écrasé sous ta faute au pied du tribunal,</l>
                 <l>Baisse donc maintenant, courbe ton front royal.</l>
                 <l>Rentre dans le néant, majesté périssable !</l>
                 <l>Je ne vois plus le roi, j’écoute le coupable.</l>
-                <l>Fratricide, à genoux !</l>
-                <label>LOUIS, <hi rend="i">tombant à genoux</hi>.</label>
-                <l>                                Je frémis !</l>
+                <l part="I">Fratricide, à genoux !</l>
+                <label type="speaker">LOUIS, <hi rend="i">tombant à genoux</hi>.</label>
+                <l part="M">Je frémis !</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                                                Repens-toi.</l>
-                <label>LOUIS, <hi rend="i">se traînant jusqu’à lui et s’attachant à ses habits</hi>.</label>
+                <l part="F">Repens-toi.</l>
+                <label type="speaker">LOUIS, <hi rend="i">se traînant jusqu’à lui et s’attachant à ses habits</hi>.</label>
                 <l>C’est ma faute, ma faute, ayez pitié de moi !</l>
                 <l>En frappant ma poitrine, à genoux je déplore,</l>
                 <l>Sans y chercher d’excuse, un autre crime encore.</l>
-                <label>FRANÇOIS DE PAULE, <hi rend="i">qui retombe assis</hi>.</label>
-                <l>Ce n’est pas tout ?</l>
+                <label type="speaker">FRANÇOIS DE PAULE, <hi rend="i">qui retombe assis</hi>.</label>
+                <l part="I">Ce n’est pas tout ?</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                           Nemours !… il avait conspiré :</l>
+                <l part="F">Nemours !… il avait conspiré :</l>
                 <l>Mais sa mort… son forfait du moins est avéré.</l>
                 <l>Mais sous son échafaud ses enfants dont les larmes…</l>
                 <l>Trois fois contre son maître il avait pris les armes.</l>
                 <l>Sa vie, en s’échappant, a rejailli sur eux<note resp="author"><quote>« On mit sous l’échafaud, dans les halles de Paris, les jeunes enfants du duc, pour recevoir sur eux le sang de leur père. Ils en sortirent tout couverts, et en cet état on les conduisit à la Bastille dans des cachots faits en forme de hottes, où la gêne que leur corps éprouvait était un continuel supplice. On leur arrachait les dents à plusieurs intervalles. »</quote> (Voltaire.)</note>.</l>
                 <p>(<hi rend="i">En se relevant.</hi>)</p>
-                <l>C’était juste.</l>
-                <label>FRANÇOIS DE PAULE, <hi rend="i">le rejetant à genoux</hi>.</label>
-                <l>                   Ah ! cruel !</l>
+                <l part="I">C’était juste.</l>
+                <label type="speaker">FRANÇOIS DE PAULE, <hi rend="i">le rejetant à genoux</hi>.</label>
+                <l part="M">                   Ah ! cruel !</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                     Juste, mais rigoureux :</l>
+                <l part="F">Juste, mais rigoureux :</l>
                 <l>J’en conviens : j’ai puni… non, j’ai commis des crimes.</l>
                 <l>Dans l’air le nœud fatal étouffa mes victimes<note resp="author">Voilà une périphrase assurément ingénieuse pour parler du gibet sans le nommer ; mais est-elle bien à sa place ?</note> ;</l>
                 <l>L’acier les déchira dans un puits meurtrier ;</l>
@@ -3657,25 +3657,25 @@
                 <l>Gémissent oubliés au fond de ses entrailles.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
                 <l>Ah ! puisqu’il est des maux que tu peux réparer,</l>
-                <l>Viens !</l>
-                <label>LOUIS, <hi rend="i">debout</hi>.</label>
-                <l>           Où donc ?</l>
+                <l part="I">Viens !</l>
+                <label type="speaker">LOUIS, <hi rend="i">debout</hi>.</label>
+                <l part="M">Où donc ?</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                          Ces captifs, allons les délivrer.</l>
+                <l part="F">Ces captifs, allons les délivrer.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>L’intérêt le défend.</l>
-                <label>FRANÇOIS DE PAULE, <hi rend="i">aux pieds du roi</hi>.</label>
-                <l>                            La charité l’ordonne.</l>
-                <l>Viens, viens sauver ton âme.</l>
+                <l part="I">L’intérêt le défend.</l>
+                <label type="speaker">FRANÇOIS DE PAULE, <hi rend="i">aux pieds du roi</hi>.</label>
+                <l part="F">La charité l’ordonne.</l>
+                <l part="I">Viens, viens sauver ton âme.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                         En risquant ma couronne !</l>
-                <l>Roi, je ne le peux pas.</l>
+                <l part="F">En risquant ma couronne !</l>
+                <l part="I">Roi, je ne le peux pas.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                                Mais tu le dois, chrétien.</l>
+                <l part="F">Mais tu le dois, chrétien.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>Je me suis repenti, c’est assez.</l>
-                <label>FRANÇOIS DE PAULE (<hi rend="i">se relevant</hi>).</label>
-                <l>                                            Ce n’est rien.</l>
+                <l part="I">Je me suis repenti, c’est assez.</l>
+                <label type="speaker">FRANÇOIS DE PAULE (<hi rend="i">se relevant</hi>).</label>
+                <l part="F">Ce n’est rien.</l>
                 <label type="speaker">LOUIS.</label>
                 <l>N’ai-je pas de mes torts fait un aveu sincère ?</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
@@ -3684,7 +3684,7 @@
                 <l>L’Église a des pardons qu’un roi peut acheter.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
                 <l>Dieu ne vend pas les siens : il faut les mériter.</l>
-                <label>LOUIS (<hi rend="i">avec désespoir</hi>).</label>
+                <label type="speaker">LOUIS (<hi rend="i">avec désespoir</hi>).</label>
                 <l>Ils me sont dévolus, et par droit de misère !</l>
                 <l>Ah ! si dans mes tourments vous descendiez, mon père,</l>
                 <l>Je vous arracherais des larmes de pitié !</l>
@@ -3708,9 +3708,9 @@
                 <l>Que penche sur leur gouffre une main qui la glace</l>
                 <l>Sent des lambeaux hideux monter à leur surface<note resp="author"><p>Les derniers vers sont de mauvais goût. Racine, dans le songe d’<hi rend="i">Athalie</hi>, parle</p><quote><l>D’os et de chairs meurtris et traînés dans la fange,</l></quote><p rend="noindent">mais il se garde bien de prolonger une image dont le détail est repoussant.</p></note>…</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>Malheureux ! que dis-tu ?</l>
+                <l part="I">Malheureux ! que dis-tu ?</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                     Vous frémissez : eh bien !</l>
+                <l part="F">Vous frémissez : eh bien !</l>
                 <l>Mes veilles, les voilà ! ce sommeil, c’est le mien ;</l>
                 <l>C’est ma vie ; et mourant, j’en ai soif, je veux vivre,</l>
                 <l>Et ce calice amer, dont le poison m’enivre,</l>
@@ -3721,31 +3721,31 @@
                 <l>Viens de ton agonie apaiser les tortures.</l>
                 <l>Un acte de bonté te rendra le sommeil,</l>
                 <l>Et quelques voix du moins béniront ton réveil.</l>
-                <l>N’hésite pas.</l>
+                <l part="I">N’hésite pas.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                   Plus tard !</l>
+                <l part="M">Plus tard !</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                                   Dieu voudra-t-il attendre ?</l>
+                <l part="F">Dieu voudra-t-il attendre ?</l>
                 <label type="speaker">LOUIS.</label>
-                <l>Demain !</l>
+                <l part="I">Demain !</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>              Mais dès demain la mort peut te surprendre,</l>
-                <l>Ce soir, dans un instant.</l>
+                <l part="F">Mais dès demain la mort peut te surprendre,</l>
+                <l part="I">Ce soir, dans un instant.</l>
                 <label type="speaker">LOUIS.</label>
-                <l>                                   Je suis bien enfermé,</l>
-                <l>Bien défendu<note resp="author">Pour saisir la valeur de ce Irait, il faut se rappeler que Nemours au lieu de fuir est rentré, à l’insu même de Coitier, dans la chambre du roi et s’est caché derrière les rideaux du lit, décidé à venger son pure en tuant Louis XI.</note>.</l>
+                <l part="F">Je suis bien enfermé,</l>
+                <l part="I">Bien défendu<note resp="author">Pour saisir la valeur de ce trait, il faut se rappeler que Nemours au lieu de fuir est rentré, à l’insu même de Coitier, dans la chambre du roi et s’est caché derrière les rideaux du lit, décidé à venger son pure en tuant Louis XI.</note>.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                         L’est-on quand on n’est pas aimé ?</l>
+                <l part="F">L’est-on quand on n’est pas aimé ?</l>
                 <p>(<hi rend="i">En l’entraînant.</hi>)</p>
-                <l>Ah ! viens.</l>
-                <label>LOUIS (<hi rend="i">qui le repousse</hi>).</label>
-                <l>Non, laissez-moi du temps pour m’y résoudre.</l>
+                <l part="I">Ah ! viens.</l>
+                <label type="speaker">LOUIS (<hi rend="i">qui le repousse</hi>).</label>
+                <l part="F">Non, laissez-moi du temps pour m’y résoudre.</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
                 <l>Adieu donc, meurtrier, je ne saurais t’absoudre.</l>
-                <label>LOUIS (<hi rend="i">avec terreur</hi>).</label>
-                <l>Quoi ! me condamnez-vous ?</l>
+                <label type="speaker">LOUIS (<hi rend="i">avec terreur</hi>).</label>
+                <l part="I">Quoi ! me condamnez-vous ?</l>
                 <label type="speaker">FRANÇOIS DE PAULE.</label>
-                <l>                                          Dieu peut tout pardonner :</l>
+                <l part="F">Dieu peut tout pardonner :</l>
                 <l>Lorsqu’il hésite encor, dois-je te condamner ?</l>
                 <l>Mais profite, ô mon fils, du répit qu’il t’accorde :</l>
                 <l>Pleure, conjure, obtiens de sa miséricorde</l>
@@ -3917,7 +3917,7 @@
           </div>
           <div>
             <head>La prière pour tous</head>
-            <quote>
+            <quote type="epigraph">
               <p>                                               Ora pro nobis.</p>
             </quote>
             <div>
@@ -4470,13 +4470,13 @@
               <head>Acte IV, Scène VI<note resp="author">M. Sainte-Beuve, dans un rapport adressé au nom de la commission des primes à décerner aux ouvrages dramatiques (1854), signalait ainsi le mérite de cette scène <quote>: « Si la vérité peut manquer sur quelques points du tableau, cette vérité se fait sentir en d’autres endroits d’une manière vive, énergique et neuve ; par exemple, lorsque le personnage principal (George), au quatrième acte, se voit presque amené, à force d’humiliations, d’avanies et d’outrages, à se repentir de ce qu’il a fait de bien et à apostropher le monde entier dans une sorte de délire : moment dramatique et lyrique tout ensemble, d’une vigueur poignante… On a fort loué et fait ressortir ce personnage de Rodolphe, l’ami âgé de trente ans, plus mûr, plus sage, point trop misanthrope, unissant l’expérience, quelque ironie et beaucoup de cœur. C’est l’Ariste de la pièce, un Ariste jeune, animé, chaleureux, et qui représente le bon génie, la morale vivante du drame. »</quote></note></head>
               <quote>
                 <label type="head"><hi rend="i">George, Rodolphe</hi>.</label>
-                <p xml:lang="en"/>
+                <p/>
                 <label type="speaker">RODOLPHE.</label>
-                <l xml:lang="en">George !</l>
+                <l part="I">George !</l>
                 <label type="speaker">GEORGE.</label>
-                <l>                Ah ! c’est toi !</l>
+                <l part="M">Ah ! c’est toi !</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>                                     C’est moi qui ne te quitte pas ;</l>
+                <l part="F">C’est moi qui ne te quitte pas ;</l>
                 <l>Je veille sur loi, George, et te suis pas à pas.</l>
                 <l>Qu’est-ce que c’est, morbleu ! — je ne peux pas y croire, — </l>
                 <l>Que cette vieille fille et cette sotte histoire ?</l>
@@ -4500,19 +4500,19 @@
                 <l>Si j’ai changé d’avis, connaissant mieux les hommes,</l>
                 <l>Ne m’en accuse pas, mais le siècle où nous sommes.</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>Le siècle ! et comment ?</l>
+                <l part="I">Le siècle ! et comment ?</l>
                 <label type="speaker">GEORGE.</label>
-                <l>                                    Oui, ce siècle sans pudeur,</l>
+                <l part="F">Oui, ce siècle sans pudeur,</l>
                 <l>Ce siècle où la richesse est la seule grandeur,</l>
                 <l>Où l’on comble d’égards le fripon qui s’engraisse,</l>
                 <l>Où la probité pauvre est un manque d’adresse.</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>Ah ! ah !</l>
+                <l part="I">Ah ! ah !</l>
                 <label type="speaker">GEORGE.</label>
-                <l>              J’ai fait, je crois, une honnête action.</l>
-                <l>Qu’en ai-je retiré ?</l>
+                <l part="F">J’ai fait, je crois, une honnête action.</l>
+                <l part="I">Qu’en ai-je retiré ?</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>                           Ton approbation.</l>
+                <l part="F">Ton approbation.</l>
                 <l>Que diable ! est-ce qu’on fait le bien pour un salaire ?</l>
                 <l>Il serait trop commode, en ce cas, de bien faire ;</l>
                 <l>Et si c’est le profit que l’on a calculé,</l>
@@ -4534,14 +4534,14 @@
                 <l>Si j’en crois certains bruits, elle songerait moins</l>
                 <l>À se faire admirer qu’à pleurer sans témoins,</l>
                 <label type="speaker">GEORGE.</label>
-                <l>Quoi ! vraiment !</l>
+                <l part="I">Quoi ! vraiment !</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>                          Le Richard<note resp="author">C’est celui qui a épousé la fiancée de George.</note> est un brutal infâme ;</l>
+                <l part="F">Le Richard<note resp="author">C’est celui qui a épousé la fiancée de George.</note> est un brutal infâme ;</l>
                 <l>Qui maltraite, dit-on, la pauvre jeune femme.</l>
                 <label type="speaker">GEORGE.</label>
-                <l>J’en suis charmé.</l>
+                <l part="I">J’en suis charmé.</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>                          De plus, il est grand dépensier ;</l>
+                <l part="F">De plus, il est grand dépensier ;</l>
                 <l>Il joue un jeu d’enfer ; il mène un train princier.</l>
                 <l>La faillite est au bout, et ce sera miracle</l>
                 <l>Si l’an prochain n’amène une grosse débâcle.</l>
@@ -4567,12 +4567,12 @@
                 <label type="speaker">RODOLPHE.</label>
                 <l>Peut-être ; — mais, pour moi qui ne te flattais pas,</l>
                 <l>Je remarque un progrès et crois que tu peindras.</l>
-                <l>Travaille.</l>
+                <l part="I">Travaille.</l>
                 <label type="speaker">GEORGE.</label>
-                <l>               En attendant, je n’ai plus de ressource.</l>
-                <l>Comment vivre ?</l>
+                <l part="F">En attendant, je n’ai plus de ressource.</l>
+                <l part="I">Comment vivre ?</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>                          Eh ! parbleu ! n’avons-nous pas ma bourse ?</l>
+                <l part="F">Eh ! parbleu ! n’avons-nous pas ma bourse ?</l>
                 <label type="speaker">GEORGE.</label>
                 <l>Je n’emprunterai pas d’aussi pauvre que moi.</l>
                 <label type="speaker">RODOLPHE.</label>
@@ -4582,11 +4582,11 @@
                 <label type="speaker">RODOLPHE.</label>
                 <l>Puis tu pourrais donner des leçons, ce me semble.</l>
                 <label type="speaker">GEORGE.</label>
-                <l>Des leçons ?</l>
+                <l part="I">Des leçons ?</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>                  De dessin.</l>
+                <l part="M">De dessin.</l>
                 <label type="speaker">GEORGE.</label>
-                <l>                                 Chez des particuliers ?</l>
+                <l part="F">Chez des particuliers ?</l>
                 <label type="speaker">RODOLPHE.</label>
                 <l>Oui ; je puis te trouver quelques bons écoliers.</l>
                 <label type="speaker">GEORGE.</label>
@@ -4598,9 +4598,9 @@
                 <l>Respectueusement, à de petits garçons ;</l>
                 <l>Préparer les pinceaux des jeunes demoiselles</l>
                 <l>Dont je corrigerai les chastes aquarelles ;</l>
-                <l>Allons donc !</l>
+                <l part="I">Allons donc !</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>                    Ah ! voilà. Nous aimons les travaux</l>
+                <l part="M">Ah ! voilà. Nous aimons les travaux</l>
                 <l>Qui doivent faire un jour éclater les bravos ;</l>
                 <l>Quant à gagner son pain par un travail sans gloire,</l>
                 <l>D’autant moins glorieux, d’autant plus méritoire,</l>
@@ -4617,9 +4617,9 @@
                 <label type="speaker">RODOLPHE.</label>
                 <l>Eh ! quoi ! te repens-tu de ton acte honorable ?</l>
                 <label type="speaker">GEORGE.</label>
-                <l>Ah ! morbleu ! si c’était à refaire !</l>
+                <l part="I">Ah ! morbleu ! si c’était à refaire !</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>                                                  Comment !</l>
+                <l part="F">Comment !</l>
                 <label type="speaker">GEORGE.</label>
                 <l>Mon Dieu ! j’étalerais ma honte effrontément,</l>
                 <l>Et je dirais : Messieurs, j’ai fait comme vous autres ;</l>
@@ -4674,24 +4674,24 @@
                 <l>De vivre dignement de l’art que l’on enseigne</l>
                 <l>Que d’épouser la dot de quelque vieille duègne.</l>
                 <label type="speaker">GEORGE.</label>
-                <l>Rodolphe !</l>
+                <l part="I">Rodolphe !</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>                Que veux-tu, c’est ainsi que je voi ;</l>
+                <l part="F">Que veux-tu, c’est ainsi que je voi ;</l>
                 <l>Qui vend son cœur vendra son honneur et sa foi ;</l>
                 <l>Et si tu consommais l’acte où l’on te convie,</l>
                 <l>Je ne te reverrais, pour ma part, de la vie.</l>
                 <label type="speaker">GEORGE.</label>
                 <l>Libre à toi ! Ce sera ma dernière leçon.</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>Que veux-tu dire ?</l>
+                <l part="I">Que veux-tu dire ?</l>
                 <label type="speaker">GEORGE.</label>
-                <l>                            Ovide a dit avec raison :</l>
+                <l part="F">Ovide a dit avec raison :</l>
                 <l>Heureux, tu compteras des amitiés sans nombre ;</l>
                 <l>Mais adieu les amis, si le temps devient sombre.</l>
                 <label type="speaker">RODOLPHE.</label>
-                <l>Eh quoi ! tu peux penser !…</l>
+                <l part="I">Eh quoi ! tu peux penser !…</l>
                 <label type="speaker">GEORGE.</label>
-                <l>                                           Oh ! je ne pense rien.</l>
+                <l part="F">Oh ! je ne pense rien.</l>
                 <l>Mais il est temps, je crois, de clore l’entretien :</l>
                 <l>Bonsoir. J’ai passé l’âge où l’on nous morigène,</l>
                 <l>Et me sens trop nerveux pour subir cette gêne.</l>
