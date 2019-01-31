@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Cours complet de rhétorique (2<hi rend="sup">e</hi> éd.)</title>
-        <author key="Amar Du Rivier, Jean-Augustin (1765-1837)">Jean-Augustin Amar Du Rivier</author>
+        <author key="Amar Du Rivier, Jean-Augustin (1765-1837)" ref="https://data.bnf.fr/fr/12977199/jean-augustin_amar_du_rivier/">Jean-Augustin Amar Du Rivier</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -20,13 +20,13 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation, corrections et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/ecole/amar_cours-rhetorique_1811/</idno>
+ <idno>http://obvil.sorbonne-universite.site/corpus/ecole/amar_cours-rhetorique_1811</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +38,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Jean-Augustin Amar Du Rivier</author>, <title>Cours complet de rhétorique ; par M. J.-A. Amar, professeur d’humanités au lycée Napoléon, et l’un des conservateurs de la bibliothèque Mazarine</title>, seconde édition avec des corrections et des additions, <pubPlace>Paris</pubPlace>, <publisher>H. Langlois</publisher>, <date>1811</date>, XI-[1]-524 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61536247">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Jean-Augustin Amar Du Rivier, <hi rend="i">Cours complet de rhétorique ; par M. J.-A. Amar, professeur d’humanités au lycée Napoléon, et l’un des conservateurs de la bibliothèque Mazarine</hi>, <edition>seconde édition</edition> avec des corrections et des additions, <pubPlace>Paris</pubPlace>, <publisher>H. Langlois</publisher>, <date>1811</date>, XI-[1]-524 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61536247">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -46,7 +46,7 @@
         <date when="1811"/>
       </creation>
       <langUsage>
-        <language ident="fr">fre</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

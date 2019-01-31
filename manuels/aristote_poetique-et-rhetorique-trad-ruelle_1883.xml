@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Poétique et Rhétorique (trad. Ruelle)</title>
-        <author key="Aristote (0384-0322 av. J.-C.)">Aristote</author>
+        <author key="Aristote (0384-0322 av. J.-C.)" ref="https://data.bnf.fr/fr/13091331/aristote/">Aristote</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -16,13 +16,12 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date when="2017"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/ecole/aristote_poetique-et-rhetorique-trad-ruelle_1883</idno>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
+        <date when="2017"/> <idno>http://obvil.sorbonne-universite.site/corpus/ecole/aristote_poetique-et-rhetorique-trad-ruelle_1883</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -34,7 +33,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Aristote</author>, <title>Poétique et Rhétorique</title>, traduction entièrement nouvelle d’après les dernières recensions du texte, par Ch.-Émile Ruelle, bibliothécaire à la bibliothèque Sainte-Geneviève, <pubPlace>Paris</pubPlace>, <publisher>Garnier frères</publisher>, coll. « Chefs-d’œuvre de la littérature grecque », 1883, XXIV-371 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61518494">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Aristote, <hi rend="i">Poétique et Rhétorique</hi>, traduction entièrement nouvelle d’après les dernières recensions du texte, par Ch.-Émile Ruelle, bibliothécaire à la bibliothèque Sainte-Geneviève, <pubPlace>Paris</pubPlace>, <publisher>Garnier frères</publisher>, coll. « Chefs-d’œuvre de la littérature grecque », <date>1883</date>, XXIV-371 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k61518494">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -42,7 +41,7 @@
         <date when="1883"/>
       </creation>
       <langUsage>
-        <language ident="fr">fre</language>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="cahen_morceaux-premier-cycle_1912">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="cahen_morceaux-premier-cycle_1912">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,9 +22,9 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2014"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/ecole/cahen_morceaux-premier-cycle_1912/</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/ecole/cahen_morceaux-premier-cycle_1912</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -44,7 +44,7 @@
         <date when="1912"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

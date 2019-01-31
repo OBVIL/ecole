@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,17 +24,17 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/ecole/leclerc_principes-composition-01</idno>
+        <idno>http://obvil.sorbonne-universite.site/corpus/ecole/leclerc_principes-composition-01</idno>
         <idno type="tei"
-          >http://obvil.paris-sorbonne.fr/corpus/ecole/leclerc_principes-composition-01.xml</idno>
+          >http://obvil.sorbonne-universite.site/corpus/ecole/leclerc_principes-composition-01.xml</idno>
         <idno type="html"
-          >http://obvil.paris-sorbonne.fr/corpus/ecole/leclerc_principes-composition-01.html</idno>
+          >http://obvil.sorbonne-universite.site/corpus/ecole/leclerc_principes-composition-01.html</idno>
         <idno type="text"
-          >http://obvil.paris-sorbonne.fr/corpus/ecole/leclerc_principes-composition-01.txt</idno>
+          >http://obvil.sorbonne-universite.site/corpus/ecole/leclerc_principes-composition-01.txt</idno>
         <idno type="epub"
-          >http://obvil.paris-sorbonne.fr/corpus/ecole/leclerc_principes-composition-01.epub</idno>
+          >http://obvil.sorbonne-universite.site/corpus/ecole/leclerc_principes-composition-01.epub</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
