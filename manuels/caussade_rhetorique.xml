@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Rhétorique et genres littéraires</title>
-        <author key="Caussade, François de (1841-1894)">François de Caussade</author>
+        <author key="Caussade, François de (1841-1894)" ref="https://data.bnf.fr/fr/12511764/francois_de_caussade/">François de Caussade</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -20,17 +20,13 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/ecole/caussade_rhetorique</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.site/corpus/ecole/caussade_rhetorique.xml</idno>
-        <idno type="html">http://obvil.sorbonne-universite.site/corpus/ecole/caussade_rhetorique.html</idno>
-        <idno type="text">http://obvil.sorbonne-universite.site/corpus/ecole/caussade_rhetorique.txt</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/ecole/caussade_rhetorique.epub</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -42,7 +38,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>François de Caussade</author>, <title>Rhétorique et genres littéraires. Ouvrage rédigé conformément aux programmes officiels et accompagné de résumés synoptiques</title>, <pubPlace>Paris</pubPlace>, <publisher>G. Masson</publisher>, <date>1881</date>, 162 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k114749g">Gallica</ref>.</bibl>
+        <bibl>François de Caussade, <hi rend="i">Rhétorique et genres littéraires. Ouvrage rédigé conformément aux programmes officiels et accompagné de résumés synoptiques</hi>, <pubPlace>Paris</pubPlace>, <publisher>G. Masson</publisher>, <date>1881</date>, 162 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k114749g">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

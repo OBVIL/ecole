@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>Extraits des classiques français, dix-septième, dix-huitième et dix-neuvième siècles, accompagnés de notes et notices par Gustave Merlet,... à l'usage de tous les établissements d'instruction. Cours moyens, grammaire et enseignement spécial. Première partie : prose</title>
-        <author key="Merlet, Gustave (1828-1891)">Gustave Merlet</author>
+        <author key="Merlet, Gustave (1828-1891)" ref="https://data.bnf.fr/fr/12992375/gustave_merlet/">Gustave Merlet</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -39,7 +39,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Gustave Merlet</author>, <title>Extraits des classiques français, dix-septième, dix-huitième et dix-neuvième siècles, accompagnés de notes et notices par Gustave Merlet,... à l'usage de tous les établissements d'instruction. Cours moyens, grammaire et enseignement spécial. Première partie : prose</title>, <publisher>C. Fouraut et Fils</publisher>, <pubPlace>Paris</pubPlace>, <date>1870</date>.</bibl>
+        <bibl>Gustave Merlet, <hi rend="i">Extraits des classiques français, dix-septième, dix-huitième et dix-neuvième siècles, accompagnés de notes et notices par Gustave Merlet,... à l'usage de tous les établissements d'instruction. Cours moyens, grammaire et enseignement spécial. Première partie : prose</hi>, <publisher>C. Fouraut et Fils</publisher>, <pubPlace>Paris</pubPlace>, <date>1870</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

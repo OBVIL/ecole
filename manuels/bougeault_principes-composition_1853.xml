@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Principes de composition et de style (2<hi rend="sup">e</hi> éd.)</title>
-        <author key="Bougeault, Alfred (1817-1893)">Alfred Bougeault</author>
+        <author key="Bougeault, Alfred (1817-1893)" ref="https://data.bnf.fr/fr/10427964/alfred_bougeault/">Alfred Bougeault</author>
       </titleStmt>
       <editionStmt>
         <edition>Obvil</edition>
@@ -16,7 +16,7 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Alfred Bougeault</author>, <title>Principes de composition et de style ; suivis d’une Étude des genres de littérature en vers et en prose, par Alfred Bougeault, professeur de littérature et d’histoire</title>, <edition>seconde édition, revue et corrigée par l’auteur</edition>, <pubPlace>Paris, Librairie de Hachette et Cie</pubPlace>, <date>1853</date>, 320 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6381420k">Gallica</ref>.</bibl>
+        <bibl>Alfred Bougeault, <hi rend="i">Principes de composition et de style ; suivis d’une Étude des genres de littérature en vers et en prose, par Alfred Bougeault, professeur de littérature et d’histoire</hi>, <edition>seconde édition, revue et corrigée par l’auteur</edition>, <pubPlace>Paris, Librairie de Hachette et Cie</pubPlace>, <date>1853</date>, 320 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6381420k">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

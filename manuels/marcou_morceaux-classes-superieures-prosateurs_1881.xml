@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Morceaux choisis des classiques français des <num>xvi<hi rend="sup">e</hi></num>, <num>xvii<hi rend="sup">e</hi></num>, <num>xviii<hi rend="sup">e</hi></num> et <num>xix<hi rend="sup">e</hi></num> siècles, à l’usage des classes de troisième, seconde et rhétorique. Prosateurs</title>
-        <author key="Marcou, François-Léopold (1826-1911)">François-Léopold Marcou</author>
+        <author key="Marcou, François-Léopold (1826-1911)" ref="https://data.bnf.fr/fr/12181542/francois-leopold_marcou/">François-Léopold Marcou</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -20,17 +20,13 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/ecole/marcou_morceaux-classes-superieures-prosateurs_1881</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.site/corpus/ecole/marcou_morceaux-classes-superieures-prosateurs_1881.xml</idno>
-        <idno type="html">http://obvil.sorbonne-universite.site/corpus/ecole/marcou_morceaux-classes-superieures-prosateurs_1881.html</idno>
-        <idno type="text">http://obvil.sorbonne-universite.site/corpus/ecole/marcou_morceaux-classes-superieures-prosateurs_1881.txt</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/ecole/marcou_morceaux-classes-superieures-prosateurs_1881.epub</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -42,12 +38,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>François-Léopold Marcou</author>, <title>Morceaux choisis des classiques français des <num>xvi<hi rend="sup">e</hi></num>, <num>xvii<hi rend="sup">e</hi></num>, <num>xviii<hi rend="sup">e</hi></num> et <num>xix<hi rend="sup">e</hi></num> siècles, à l’usage des classes de troisième, seconde et rhétorique, par F.-L. Marcou, professeur au lycée Louis-le-Grand, professeur suppléant à la Faculté des Lettres de Paris. Prosateurs. Recueil conforme aux programmes du 2 août 1880</title>, <pubPlace>Paris</pubPlace>, <publisher>Garnier frères</publisher>, <date>1881</date>, XII-708 p.</bibl>
+        <bibl>François-Léopold Marcou, <hi rend="i">Morceaux choisis des classiques français des XVIe, XVIIe, XVIIIe et XIXe siècles, à l’usage des classes de troisième, seconde et rhétorique, par F.-L. Marcou, professeur au lycée Louis-le-Grand, professeur suppléant à la Faculté des Lettres de Paris. Prosateurs. Recueil conforme aux programmes du 2 août 1880</hi>, <pubPlace>Paris</pubPlace>, <publisher>Garnier frères</publisher>, <date>1881</date>, XII-708 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1881">1881</date>
+        <date when="1881"/>
       </creation>
       <langUsage>
         <language ident="fre"/>

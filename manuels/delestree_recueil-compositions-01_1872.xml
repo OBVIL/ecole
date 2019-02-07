@@ -16,7 +16,7 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>L. Delestrée</author>, <title>Recueil de compositions françaises pour préparer au discours latin les candidats au baccalauréat ès-lettres, publié par L. Delestrée, auteur des Cours de Versions Latines dictées à la Sorbonne. Première série</title>, <pubPlace>Paris</pubPlace>, <publisher>Hachette</publisher>, <date>1872</date>, IV-127 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6437845h">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>L. Delestrée, <hi rend="i">Recueil de compositions françaises pour préparer au discours latin les candidats au baccalauréat ès-lettres, publié par L. Delestrée, auteur des Cours de Versions Latines dictées à la Sorbonne. Première série</hi>, <pubPlace>Paris</pubPlace>, <publisher>Hachette</publisher>, <date>1872</date>, IV-127 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6437845h">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

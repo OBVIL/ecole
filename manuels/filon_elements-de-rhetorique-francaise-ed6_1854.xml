@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre" xml:id="filon_elements-de-rhetorique-francaise-ed6_1854">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Éléments de rhétorique française</title>
-        <author key="Filon, Auguste (1800-1875)">A. Filon</author>
+        <author key="Filon, Auguste (1800-1875)" ref="https://data.bnf.fr/fr/13165726/auguste_filon/">Auguste Filon</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -21,6 +21,10 @@
         <respStmt>
           <name>Frédéric Glorieux</name>
           <resp>TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>édition TEI (2019)</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -38,7 +42,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Auguste Filon</author>, <title>Éléments de rhétorique française</title>, <edition>sixième édition</edition>, <publisher>Librairie de L. Hachette et Cie</publisher>, <pubPlace>Paris</pubPlace>, <date>1854</date>.</bibl>
+        <bibl>Auguste Filon, <hi rend="i">Éléments de rhétorique française</hi>, <edition>sixième édition</edition>, <publisher>Librairie de L. Hachette et Cie</publisher>, <pubPlace>Paris</pubPlace>, <date>1854</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

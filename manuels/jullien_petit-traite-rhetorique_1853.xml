@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Petit traité de rhétorique et de littérature</title>
-        <author key="Jullien, Bernard (1798-1881)">Bernard Jullien</author>
+        <author key="Jullien, Bernard (1798-1881)" ref="https://data.bnf.fr/fr/12213959/bernard_jullien/">Bernard Jullien</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -16,7 +16,7 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Bernard Jullien</author>, <title>Cours raisonné de langue française — Troisième degré (Enseignement supérieur). Petit traité de rhétorique et de littérature, par B. Jullien, délégué pour l’un des arrondissements de Paris, docteur ès lettres, licencié ès sciences, secrétaire de la Société des méthodes d’enseignement</title>, <pubPlace>Paris</pubPlace>, <publisher>Librairie de Hachette et C<hi rend="sup">ie</hi></publisher>, <date>1853</date>, VIII-304 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6433316t">Gallica</ref>.</bibl>
+        <bibl>Bernard Jullien, <hi rend="i">Cours raisonné de langue française — Troisième degré (Enseignement supérieur). Petit traité de rhétorique et de littérature, par B. Jullien, délégué pour l’un des arrondissements de Paris, docteur ès lettres, licencié ès sciences, secrétaire de la Société des méthodes d’enseignement</hi>, <pubPlace>Paris</pubPlace>, <publisher>Librairie de Hachette et Cie</publisher>, <date>1853</date>, VIII-304 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6433316t">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

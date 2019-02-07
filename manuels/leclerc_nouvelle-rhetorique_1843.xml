@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Nouvelle rhétorique, extraite des meilleurs auteurs anciens et modernes (7<hi rend="sup">e</hi> éd.)</title>
-        <author key="Leclerc, Joseph-Victor (1789-1865)">Joseph-Victor Leclerc</author>
+        <author key="Leclerc, Joseph-Victor (1789-1865)" ref="https://data.bnf.fr/fr/12073790/joseph-victor_leclerc/">Joseph-Victor Leclerc</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -16,7 +16,7 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Leclerc, Joseph-Victor (1789-1865), <title>Nouvelle rhétorique, extraite des meilleurs écrivains anciens et modernes ; suivie d’observations sur les matières de composition dans les classes de rhétorique ; par Jos.-Vict. Le Clerc, membre de l’Institut, doyen de la Faculté des lettres de Paris ; ouvrage adopté par l’université</title>, <edition>7<hi rend="sup">e</hi> éd.</edition>, <pubPlace>Paris</pubPlace>, <publisher>Jules Delalain</publisher>, 18, XI-382 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6437485n">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Joseph-Victor Leclerc, <hi rend="i">Nouvelle rhétorique, extraite des meilleurs écrivains anciens et modernes ; suivie d’observations sur les matières de composition dans les classes de rhétorique ; par Jos.-Vict. Le Clerc, membre de l’Institut, doyen de la Faculté des lettres de Paris ; ouvrage adopté par l’université</hi>, <edition>7<hi rend="sup">e</hi> éd.</edition>, <pubPlace>Paris</pubPlace>, <publisher>Jules Delalain</publisher>, 18, XI-382 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6437485n">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

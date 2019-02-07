@@ -5,8 +5,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="http://gallica.bnf.fr/ark:/12148/bpt6k64240748">Principes de rhétorique et de littérature appliqués à l’étude du français</title>
-        <author key="Didier, Achille">Achille Didier</author>
+        <title>Principes de rhétorique et de littérature appliqués à l’étude du français</title>
+        <author key="Didier, Achille" ref="https://data.bnf.fr/fr/10349201/achille_didier/">Achille Didier</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -17,6 +17,10 @@
         <respStmt>
           <name>Vincent Jolivet</name>
           <resp>TEI</resp>
+        </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>édition TEI (2019)</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +38,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Didier, Achille</author>, <title>Principes de rhétorique et de littérature appliqués à l’étude du français</title>, <pubPlace>Paris</pubPlace>, <publisher>F. Tandou et Cie</publisher>, <date>1863</date>, 132 p.</bibl>
+        <bibl>Achille Didier, <hi rend="i">Principes de rhétorique et de littérature appliqués à l’étude du français</hi>, <pubPlace>Paris</pubPlace>, <publisher>F. Tandou et Cie</publisher>, <date>1863</date>, 132 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k64240748">Gallica</ref></bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

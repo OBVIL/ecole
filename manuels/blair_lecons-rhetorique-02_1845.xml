@@ -6,17 +6,21 @@
     <fileDesc>
       <titleStmt>
         <title>Leçons de rhétorique et de belles-lettres. Tome II (3<hi rend="sup">e</hi> éd.)</title>
-        <author key="Blair, Hugh (1718-1800)">Hugh Blair</author>
+        <author key="Blair, Hugh (1718-1800)" ref="https://data.bnf.fr/fr/13543842/hugh_blair/">Hugh Blair</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nicolas Bove</name>
-          <resp>Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
+          <resp>Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +38,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Hugh Blair</author>, <title>Leçons de rhétorique et de belles-lettres de H. Blair ; traduites en l’anglais et enrichies des opinions de Voltaire, Buffon, Marmontel, La Harpe, etc., sur les principales questions de littérature, par M. J.-P. Quénot</title> [1783, 1<hi rend="sup">re</hi> éd. de la traduction, 1830], <edition>troisième édition</edition>, tome II, <pubPlace>Paris</pubPlace>, <publisher>L. Hachette</publisher>, <date>1845</date>, 400 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6549587z">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Hugh Blair, <hi rend="i">Leçons de rhétorique et de belles-lettres de H. Blair ; traduites en l’anglais et enrichies des opinions de Voltaire, Buffon, Marmontel, La Harpe, etc., sur les principales questions de littérature, par M. J.-P. Quénot</hi> [1783, 1<hi rend="sup">re</hi> éd. de la traduction, 1830], <edition>troisième édition</edition>, tome II, <pubPlace>Paris</pubPlace>, <publisher>L. Hachette</publisher>, <date>1845</date>, 400 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6549587z">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Morceaux choisis de prosateurs et de poètes des <hi rend="sc">xviii</hi><hi rend="sup">e</hi> et <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècles à l’usage de la classe de rhétorique</title>
-        <author key="Feugère, Gaston (1836-1890)">Gaston Feugère</author>
+        <author key="Feugère, Gaston (1836-1890)" ref="https://data.bnf.fr/fr/12419954/leon_feugere/">Gaston Feugère</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -38,7 +38,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Gaston Feugère</author>, <title>Morceaux choisis de prosateurs et de poètes des <hi rend="sc">xviii</hi><hi rend="sup">e</hi> et <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècles à l’usage de la classe de rhétorique</title>, <publisher>Maison Jules Delalain et Fils</publisher>, <pubPlace>Paris</pubPlace>, <date></date>.</bibl>
+        <bibl>Gaston Feugère, <hi rend="i">Morceaux choisis de prosateurs et de poètes des XVIIIe et XIXe siècles à l’usage de la classe de rhétorique</hi>, <publisher>Maison Jules Delalain et Fils</publisher>, <pubPlace>Paris</pubPlace>, <date>1882</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

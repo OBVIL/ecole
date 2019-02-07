@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Manuel pratique de rhétorique</title>
-        <author key="Boulet, Jean-Étienne (1804-1864)">Jean-Étienne Boulet</author>
+        <author key="Boulet, Jean-Étienne (1804-1864)" ref="https://data.bnf.fr/fr/12550200/jean-etienne_boulet/">Jean-Étienne Boulet</author>
       </titleStmt>
       <editionStmt>
         <edition>Obvil</edition>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Jean-Étienne Boulet</author>, <title>Études classiques en un an. Manuel pratique de rhétorique, publié par J. E. Boulet, avocat, traducteur des Institutes de Gaius, Fondateur et ex-Rédacteur en chef de la Revue du Nord, Auteur des Manuels pratiques des Langues grecque et latine, Membre de l’Institut Historique, etc. etc. Contenant : 1° Introduction ou exposé des moyens à employer pour faire déduire à l’élève, par l’analyse et l’observation des chefs-d’œuvre classiques, les règles de l’art de bien dire ; 2° Exercices de style ; 3° Traité de rhétorique, ou Collection de règles s’appuyant sur des faits et des exemples. (À l’usage des pères de famille et des maisons d’éducation)</title>, <pubPlace>Paris</pubPlace>, <publisher>chez l’auteur, rue Notre-Dame-des-Victoires, 16, et chez Mansut, libraire, rue des Mathurins Saint-Jacques</publisher>, 17, <date>1839</date>, XX-112 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6429522t">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Jean-Étienne Boulet, <hi rend="i">Études classiques en un an. Manuel pratique de rhétorique, publié par J. E. Boulet, avocat, traducteur des Institutes de Gaius, Fondateur et ex-Rédacteur en chef de la Revue du Nord, Auteur des Manuels pratiques des Langues grecque et latine, Membre de l’Institut Historique, etc. etc. Contenant : 1° Introduction ou exposé des moyens à employer pour faire déduire à l’élève, par l’analyse et l’observation des chefs-d’œuvre classiques, les règles de l’art de bien dire ; 2° Exercices de style ; 3° Traité de rhétorique, ou Collection de règles s’appuyant sur des faits et des exemples. (À l’usage des pères de famille et des maisons d’éducation)</hi>, <pubPlace>Paris</pubPlace>, <publisher>chez l’auteur, rue Notre-Dame-des-Victoires, 16, et chez Mansut, libraire, rue des Mathurins Saint-Jacques</publisher>, 17, <date>1839</date>, XX-112 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6429522t">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

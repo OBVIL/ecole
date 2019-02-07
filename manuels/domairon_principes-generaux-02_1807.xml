@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Principes généraux des belles-lettres. Tome II (3<hi rend="sup">e</hi> éd.)</title>
-        <author key="Domairon, Louis (1745-1807)">Louis Domairon</author>
+        <author key="Domairon, Louis (1745-1807)" ref="https://data.bnf.fr/fr/12295331/louis_domairon/">Louis Domairon</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -38,7 +38,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louis Domairon</author>, <title>Principes généraux des belles-lettres</title> [1<hi rend="sup">re</hi> éd. 1784-1785], par M. Domairon, Ancien Professeur des Belles-Lettres à l’École Militaire de Paris, Inspecteur général de l’Instruction publique ; Ouvrage adopté par la Commission des Livres classiques, pour l’usage des Lycées et des Écoles secondaires, 3<hi rend="sup">e</hi> édition, revue, corrigée et augmentée, tome II, <pubPlace>Paris</pubPlace>, <publisher>Deterville</publisher>, <date>1807</date>, 451 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k229489r">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Louis Domairon, <hi rend="i">Principes généraux des belles-lettres</hi> [1<hi rend="sup">re</hi> éd. 1784-1785], par M. Domairon, Ancien Professeur des Belles-Lettres à l’École Militaire de Paris, Inspecteur général de l’Instruction publique ; Ouvrage adopté par la Commission des Livres classiques, pour l’usage des Lycées et des Écoles secondaires, 3<hi rend="sup">e</hi> édition, revue, corrigée et augmentée, tome II, <pubPlace>Paris</pubPlace>, <publisher>Deterville</publisher>, <date>1807</date>, 451 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k229489r">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

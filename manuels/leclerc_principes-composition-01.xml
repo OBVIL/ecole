@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Principes de composition française et de rhétorique, vol. I</title>
-        <author key="Leclerc, Joseph (jeune)">Joseph Leclerc</author>
+        <author key="Leclerc, Joseph-Victor (1789-1865)" ref="https://data.bnf.fr/fr/12073790/joseph-victor_leclerc/">Joseph-Victor Leclerc</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -20,21 +20,13 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/ecole/leclerc_principes-composition-01</idno>
-        <idno type="tei"
-          >http://obvil.sorbonne-universite.site/corpus/ecole/leclerc_principes-composition-01.xml</idno>
-        <idno type="html"
-          >http://obvil.sorbonne-universite.site/corpus/ecole/leclerc_principes-composition-01.html</idno>
-        <idno type="text"
-          >http://obvil.sorbonne-universite.site/corpus/ecole/leclerc_principes-composition-01.txt</idno>
-        <idno type="epub"
-          >http://obvil.sorbonne-universite.site/corpus/ecole/leclerc_principes-composition-01.epub</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -56,10 +48,10 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Joseph Leclerc</author>, <title>Principes de composition française et de
+        <bibl>Joseph-Victor Leclerc, <hi rend="i">Principes de composition française et de
             rhétorique, par J. Le Clerc jeune, ouvrage adopté pour être suivi au cours de l’abbé
-            Gaultier</title>, <pubPlace>Paris</pubPlace>, <publisher>Vve Maire-Nyon</publisher>,
-            <date>1859</date>, XVI-317 p. Source : <ref
+            Gaultier</hi>, <pubPlace>Paris</pubPlace>, <publisher>Vve Maire-Nyon</publisher>,
+            <date>1859</date>, XVI-317 p. PDF : <ref
             target="http://gallica.bnf.fr/ark:/12148/bpt6k6466049x">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>

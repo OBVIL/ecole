@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Cours élémentaire de rhétorique et d’éloquence (5<hi rend="sup">e</hi> éd.)</title>
-        <author key="Verniolles, Justin (1814-1900)">Justin Verniolles</author>
+        <author key="Verniolles, Justin (1814-1900)" ref="https://data.bnf.fr/fr/12751170/justin_verniolles/">Justin Verniolles</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -16,7 +16,7 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Justin Verniolles</author>, <title>Cours d’études à l’usage des petits séminaires et des collèges. Cours élémentaire de rhétorique et d’éloquence, par M. l’abbé J. Verniolles, chanoine honoraire de Tulle, supérieur du petit séminaire de Servières</title>, <edition>5<hi rend="sup">e</hi> édition</edition>, soigneusement revue et corrigée, <pubPlace>Paris</pubPlace>, <publisher>Louis Giraud</publisher> ; Nîmes, même maison, <date>1866</date>, VIII-310 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6514539h">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Justin Verniolles, <hi rend="i">Cours d’études à l’usage des petits séminaires et des collèges. Cours élémentaire de rhétorique et d’éloquence, par M. l’abbé J. Verniolles, chanoine honoraire de Tulle, supérieur du petit séminaire de Servières</hi>, <edition>5<hi rend="sup">e</hi> édition</edition>, soigneusement revue et corrigée, <pubPlace>Paris</pubPlace>, <publisher>Louis Giraud</publisher> ; Nîmes, même maison, <date>1866</date>, VIII-310 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6514539h">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

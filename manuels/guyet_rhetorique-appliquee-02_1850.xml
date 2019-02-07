@@ -18,6 +18,10 @@
           <name>Vincent Jolivet</name>
           <resp>TEI</resp>
         </respStmt>
+        <respStmt>
+          <name>Stella Louis</name>
+          <resp>édition TEI (2019)</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
@@ -34,7 +38,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>J.-A. Guyet</author>, <title>Rhétorique appliquée ou Recueil d’exercices littéraires dans tous les genres de composition française, dédié aux maisons d’éducation. Préceptes. — Canevas. — Modèles. Vol. 2 - Canevas</title>, <pubPlace>Lyon</pubPlace>, chez l’auteur, <date>1850</date> [1849].</bibl>
+        <bibl>J.-A. Guyet, <hi rend="i">Rhétorique appliquée ou Recueil d’exercices littéraires dans tous les genres de composition française, dédié aux maisons d’éducation. Préceptes. — Canevas. — Modèles. Vol. 2 - Canevas</hi>, <pubPlace>Lyon</pubPlace>, chez l’auteur, <date>1850</date> [1849]. PDF : <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6473244w?rk=64378;0">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

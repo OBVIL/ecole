@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Morceaux choisis des prosateurs et poètes français des XVIIe, XVIIIe et XIXe siècles. Cours supérieur. Poètes (2<hi rend="sup">e</hi> éd.)</title>
-        <author key="Godefroy, Frédéric (1826-1897)">Frédéric Godefroy</author>
+        <author key="Godefroy, Frédéric (1826-1897)" ref="https://data.bnf.fr/fr/11905236/frederic_godefroy/">Frédéric Godefroy</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -16,17 +16,13 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/ecole/godefroy_morceaux-XVII-XIX-poetes_cours-superieur</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.site/ecole/godefroy_morceaux-XVII-XIX-poetes_cours-superieur.xml</idno>
-        <idno type="html">http://obvil.sorbonne-universite.site/corpus/ecole/godefroy_morceaux-XVII-XIX-poetes_cours-superieur.html</idno>
-        <idno type="text">http://obvil.sorbonne-universite.site/corpus/ecole/godefroy_morceaux-XVII-XIX-poetes_cours-superieur.txt</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/ecole/godefroy_morceaux-XVII-XIX-poetes_cours-superieur.epub</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Frédéric Godefroy</author>, <title>Morceaux choisis des prosateurs et poètes français des <num>xvii</num><hi rend="sup">e</hi>, <num>xviii</num><hi rend="sup">e</hi> et <num>xix</num><hi rend="sup">e</hi> siècles. Cours supérieur. Poètes</title>, <edition>2<hi rend="sup">e</hi> édition</edition>, <pubPlace>Paris</pubPlace>, <publisher>Gaume</publisher>, <date>1882</date>, VIII-454-2 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k205094c/">Gallica</ref>.</bibl>
+        <bibl>Frédéric Godefroy, <hi rend="i">Morceaux choisis des prosateurs et poètes français des XVIIe, XVIIIe et XIXe siècles. Cours supérieur. Poètes</hi>, <edition>2<hi rend="sup">e</hi> édition</edition>, <pubPlace>Paris</pubPlace>, <publisher>Gaume</publisher>, <date>1882</date>, VIII-454-2 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k205094c/">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -12,11 +12,15 @@
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nicolas Bove</name>
-          <resp>Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
+          <resp>Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +38,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Léon et Alfred Gasc-Desfossés</author>, Blair, <title>Baccalauréat ès lettres (premier examen) rhétorique. Recueil des sujets de composition française donnés à la Sorbonne aux examens du baccalauréat ès lettres (première partie) de 1881 à 1885 ; avec des plans et des développements pour les sujets de 1884 et de 1885 ; par A. et L. Gasc-Desfossés licenciés ès lettres</title>, <pubPlace>Paris</pubPlace>, <publisher>Croville-Morant et Foucart</publisher>, <date>1886</date>, 188 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k135051c">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Léon et Alfred Gasc-Desfossés, Blair, <hi rend="i">Baccalauréat ès lettres (premier examen) rhétorique. Recueil des sujets de composition française donnés à la Sorbonne aux examens du baccalauréat ès lettres (première partie) de 1881 à 1885 ; avec des plans et des développements pour les sujets de 1884 et de 1885 ; par A. et L. Gasc-Desfossés licenciés ès lettres</hi>, <pubPlace>Paris</pubPlace>, <publisher>Croville-Morant et Foucart</publisher>, <date>1886</date>, 188 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k135051c">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

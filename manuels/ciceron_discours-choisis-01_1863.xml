@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Discours choisis ; traduction française par W. Rinn et B. Villefore. Première partie.</title>
-        <author key="Cicéron (0106-0043 av. J.-C.)">Cicéron</author>
+        <author key="Cicéron (0106-0043 av. J.-C.)" ref="https://data.bnf.fr/fr/11885977/ciceron/">Cicéron</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -16,7 +16,7 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Cicéron</author>, <title>Discours choisis ; traduction française par W. Rinn et B. Villefore. Première partie : Discours contre Catilina, Discours contre Verrès des statues et des supplices</title>, <pubPlace>Paris</pubPlace>, <publisher>Jules Delalain</publisher>, <date>1863</date>, 247 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k64565145">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Cicéron, <hi rend="i">Discours choisis ; traduction française par W. Rinn et B. Villefore. Première partie : Discours contre Catilina, Discours contre Verrès des statues et des supplices</hi>, <pubPlace>Paris</pubPlace>, <publisher>Jules Delalain</publisher>, <date>1863</date>, 247 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k64565145">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

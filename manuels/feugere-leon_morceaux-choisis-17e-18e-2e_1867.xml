@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Morceaux choisis des classiques français, à l’usage des classes supérieures : chefs d’œuvre des prosateurs et des poètes du dix-septième et du dix-huitième siècle (nouvelle édition). Classe de seconde</title>
-        <author key="Feugère, Léon (1810-1858)">Léon Feugère</author>
+        <author key="Feugère, Léon (1810-1858)" ref="https://data.bnf.fr/fr/12419954/leon_feugere/">Léon Feugère</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Léon Feugère</author>, <title>Morceaux choisis des classiques français, à l’usage des classes supérieures : chefs d’œuvre des prosateurs et des poètes du dix-septième et du dix-huitième siècle. Classe de seconde</title> (nouvelle édition), recueillis et annotés par Léon Feugère, ancien professeur aux lycées Napoléon et Louis-le-Grand et censeur des études au lycée Bonaparte, <pubPlace>Paris</pubPlace>, <publisher>J. Delalain et fils</publisher>, <date>1866</date>, XII-328 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6388595t">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Léon Feugère, <hi rend="i">Morceaux choisis des classiques français, à l’usage des classes supérieures : chefs d’œuvre des prosateurs et des poètes du dix-septième et du dix-huitième siècle. Classe de seconde</hi> (nouvelle édition), recueillis et annotés par Léon Feugère, ancien professeur aux lycées Napoléon et Louis-le-Grand et censeur des études au lycée Bonaparte, <pubPlace>Paris</pubPlace>, <publisher>J. Delalain et fils</publisher>, <date>1866</date>, XII-328 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6388595t">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

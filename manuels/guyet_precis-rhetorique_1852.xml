@@ -16,7 +16,7 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>J.-A. Guyet</author>,<title> Précis de rhétorique divisé en trente leçons, à l’usage des pensionnats de demoiselles, suivi d’un Petit traité de versification ; par J.-A. Guyet. Extrait de la Rhétorique appliquée du même auteur</title>, <pubPlace>Lyon</pubPlace>, <publisher>Girard et Josserand</publisher> ; <pubPlace>Paris</pubPlace>, <publisher>Perisse frères</publisher>, <date>1852</date>, 142 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6461349d">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>J.-A. Guyet,<hi rend="i"> Précis de rhétorique divisé en trente leçons, à l’usage des pensionnats de demoiselles, suivi d’un Petit traité de versification ; par J.-A. Guyet. Extrait de la Rhétorique appliquée du même auteur</hi>, <pubPlace>Lyon</pubPlace>, <publisher>Girard et Josserand</publisher> ; <pubPlace>Paris</pubPlace>, <publisher>Perisse frères</publisher>, <date>1852</date>, 142 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6461349d">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

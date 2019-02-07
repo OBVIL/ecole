@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Morceaux choisis des classiques français, prose et vers, … pour la classe de rhétorique</title>
-        <author key="Pellissier, Augustin (1819-1894)">Augustin Pellissier</author>
+        <author key="Pellissier, Augustin (1819-1894)" ref="https://data.bnf.fr/fr/11919010/augustin_pellissier/">Augustin Pellissier</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -20,17 +20,13 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/ecole/pellissier_morceaux-prose-et-vers-rhetorique_1885</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.site/corpus/ecole/pellissier_morceaux-prose-et-vers-rhetorique_1885.xml</idno>
-        <idno type="html">http://obvil.sorbonne-universite.site/corpus/ecole/pellissier_morceaux-prose-et-vers-rhetorique_1885.html</idno>
-        <idno type="text">http://obvil.sorbonne-universite.site/corpus/ecole/pellissier_morceaux-prose-et-vers-rhetorique_1885.txt</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/ecole/pellissier_morceaux-prose-et-vers-rhetorique_1885.epub</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -42,12 +38,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Augustin Pellissier</author>, <title>Cours gradué de littérature française. Morceaux choisis des classiques français, prose et vers, par A. Pellissier, professeur de l’Université. Recueil composé d’après les programmes officiels pour la classe de rhétorique</title>, nouvelle édition, <pubPlace>Paris</pubPlace>, <publisher>Librairie Hachette et Cie</publisher>, <date>1885</date>, 356 p.</bibl>
+        <bibl>Augustin Pellissier, <hi rend="i">Cours gradué de littérature française. Morceaux choisis des classiques français, prose et vers, par A. Pellissier, professeur de l’Université. Recueil composé d’après les programmes officiels pour la classe de rhétorique</hi>, nouvelle édition, <pubPlace>Paris</pubPlace>, <publisher>Librairie Hachette et Cie</publisher>, <date>1885</date>, 356 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1885">1885</date>
+        <date when="1885"/>
       </creation>
       <langUsage>
         <language ident="fre"/>

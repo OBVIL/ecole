@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Morceaux choisis des classiques français (prose et vers). Classe de troisième (nouvelle édition)</title>
-        <author key="Pellissier, Augustin (1819-1894)">Augustin Pellissier</author>
+        <author key="Pellissier, Augustin (1819-1894)" ref="https://data.bnf.fr/fr/11919010/augustin_pellissier/">Augustin Pellissier</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -16,17 +16,13 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
         <date when="2016"/>
         <idno>http://obvil.sorbonne-universite.site/corpus/ecole/pellissier_morceaux-troisieme_1883</idno>
-        <idno type="tei">http://obvil.sorbonne-universite.site/corpus/ecole/pellissier_morceaux-troisieme_1883.xml</idno>
-        <idno type="html">http://obvil.sorbonne-universite.site/corpus/ecole/pellissier_morceaux-troisieme_1883.html</idno>
-        <idno type="text">http://obvil.sorbonne-universite.site/corpus/ecole/pellissier_morceaux-troisieme_1883.txt</idno>
-        <idno type="epub">http://obvil.sorbonne-universite.site/corpus/ecole/pellissier_morceaux-troisieme_1883.epub</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Augustin Pellissier</author>, <title>Cours gradué de littérature française. Morceaux choisis des classiques français (prose et vers), par A. Pellissier (Professeur de l’Université). Recueil composé d’après les programmes officiels pour la classe de troisième</title>, nouvelle édition, <pubPlace>Paris</pubPlace>, <publisher>Librairie Hachette et Cie</publisher>, <date>1883</date>, in-16, 316 p. Source : <ref target="http://www.archive.org/details/morceauxchoisisd00pell">Internet Archive</ref>.</bibl>
+        <bibl>Augustin Pellissier, <hi rend="i">Cours gradué de littérature française. Morceaux choisis des classiques français (prose et vers), par A. Pellissier (Professeur de l’Université). Recueil composé d’après les programmes officiels pour la classe de troisième</hi>, <edition>nouvelle édition</edition>, <pubPlace>Paris</pubPlace>, <publisher>Librairie Hachette et Cie</publisher>, <date>1883</date>, in-16, 316 p. PDF : <ref target="http://www.archive.org/details/morceauxchoisisd00pell">Internet Archive</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

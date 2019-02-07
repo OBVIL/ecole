@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Résumé de rhétorique et d’art oratoire</title>
-        <author key="Malepeyre, Léopold (1795-18..)">Léopold Malepeyre</author>
+        <author key="Malepeyre, Léopold (1795-18..)" ref="https://data.bnf.fr/fr/12521138/leopold_malepeyre/">Léopold Malepeyre</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -16,7 +16,7 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -34,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Léopold Malepeyre</author>, <title>Résumé de rhétorique et d’art oratoire, par L. Malepeyre, avocat à la Cour royale de Paris</title>, <pubPlace>Paris</pubPlace>, <publisher>F. Malepeyre</publisher>, <date>1827</date>, XIV-341 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k64989949">Gallica</ref>. Graphies modernisées, errata intégré.</bibl>
+        <bibl>Léopold Malepeyre, <hi rend="i">Résumé de rhétorique et d’art oratoire, par L. Malepeyre, avocat à la Cour royale de Paris</hi>, <pubPlace>Paris</pubPlace>, <publisher>F. Malepeyre</publisher>, <date>1827</date>, XIV-341 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k64989949">Gallica</ref>. Graphies modernisées, errata intégré.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -6,7 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Cours élémentaire de rhétorique</title>
-        <author key="Courtaud-Diverneresse, Jean-Jacques (1794-1879)">Jean-Jacques Courtaud-Diverneresse</author>
+        <author key="Courtaud-Diverneresse, Jean-Jacques (1794-1879)" ref="https://data.bnf.fr/fr/16702765/jean-jacques_courtaud-diverneresse/">Jean-Jacques Courtaud-Diverneresse</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -20,12 +20,13 @@
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
-          <resp>Numérisation et encodage TEI</resp>
+          <resp>édition TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-        <date when="2017"/> <idno>http://obvil.sorbonne-universite.site/corpus/ecole/courtaud-divernesse_cours-elementaire-rhetorique_1872</idno>
+        <date when="2017"/>
+        <idno>http://obvil.sorbonne-universite.site/corpus/ecole/courtaud-divernesse_cours-elementaire-rhetorique_1872</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -37,7 +38,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Jean-Jacques Courtaud-Diverneresse</author>, <title>Cours élémentaire de rhétorique, appliqué aux trois langues française, grecque, latine, par J.-J. Courtaud-Divernéresse, docteur ès-lettres</title>, <pubPlace>Paris</pubPlace>, <publisher>chez l’auteur, Delagrave</publisher>, <date>1872</date>, XVI-168 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6460708j">Gallica</ref>. Graphies modernisées.</bibl>
+        <bibl>Jean-Jacques Courtaud-Diverneresse, <hi rend="i">Cours élémentaire de rhétorique, appliqué aux trois langues française, grecque, latine, par J.-J. Courtaud-Divernéresse, docteur ès-lettres</hi>, <pubPlace>Paris</pubPlace>, <publisher>chez l’auteur, Delagrave</publisher>, <date>1872</date>, XVI-168 p. PDF : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6460708j">Gallica</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

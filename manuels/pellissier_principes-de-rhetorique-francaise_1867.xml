@@ -10,7 +10,7 @@
     <fileDesc>
       <titleStmt>
         <title>Principes de rhétorique française</title>
-        <author key="Pellissier, Augustin (1819-1894)">A. Pellissier</author>
+        <author key="Pellissier, Augustin (1819-1894)" ref="https://data.bnf.fr/fr/11919010/augustin_pellissier/">Augustin Pellissier</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -52,7 +52,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Augustin Pellisier</author>, <title>Principes de rhétorique française</title>,
+        <bibl>Augustin Pellisier, <hi rend="i">Principes de rhétorique française</hi>,
             <edition>troisième édition</edition>, <publisher>Librairie Hachette et Cie</publisher>,
             <pubPlace>Paris</pubPlace>, <date>1873</date>.</bibl>
       </sourceDesc>

@@ -6,9 +6,7 @@
     <fileDesc>
       <titleStmt>
         <title>Morceaux choisis des auteurs français XVI<hi rend="sup">e</hi>, XVII<hi rend="sup">e</hi>, XVIII<hi rend="sup">e</hi> et XIX<hi rend="sup">e</hi> siècles</title>
-        <title type="sub">Publiés conformément aux programmes de l’enseignement secondaire CLASSIQUE avec des notices, des notes et un choix de textes antérieurs au XVI<hi rend="sup">e</hi> siècle</title>
-        <title type="desc">Premier cycle, Nouvelle édition revue, corrigée et augmentée</title>
-        <author key="Cahen, Albert (1857-1937)">Albert Cahen</author>
+        <author key="Cahen, Albert (1857-1937)" ref="https://data.bnf.fr/fr/12378733/albert_cahen/">Albert Cahen</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -36,7 +34,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Albert Cahen</author>, <title>Morceaux choisis des auteurs français <hi rend="sc">xvi</hi><hi rend="sup">e</hi>, <hi rend="sc">xvii</hi><hi rend="sup">e</hi>, <hi rend="sc">xviii</hi><hi rend="sup">e</hi> et <hi rend="sc">xix</hi><hi rend="sup">e</hi> siècles</title>, <publisher>Librairie Hachette et Cie</publisher>, <pubPlace>Paris</pubPlace>, <date>1912</date>.</bibl>
+        <bibl>Albert Cahen, <hi rend="i">Morceaux choisis des auteurs français XVIe, XVIIe, XVIIIe et XIXe siècles, publiés conformément aux programmes de l’enseignement secondaire CLASSIQUE avec des notices, des notes et un choix de textes antérieurs au XVIe siècle. Premier cycle, Nouvelle édition revue, corrigée et augmentée</hi>, <publisher>Librairie Hachette et Cie</publisher>, <pubPlace>Paris</pubPlace>, <date>1912</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
