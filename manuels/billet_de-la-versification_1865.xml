@@ -8,7 +8,7 @@
         <title ref="http://gallica.bnf.fr/ark:/12148/bpt6k54640923">De la Versification française,
           préceptes et exercices à l’usage des élèves de rhétorique</title>
         <title type="sub">Première partie. Préceptes. Conseils aux élèves.</title>
-        <author key="Billet, Henri-Louis">Henri-Louis Billet</author>
+        <author key="Billet, Henri-Louis" ref="https://data.bnf.fr/fr/13523202/henri-louis_billet/">Henri-Louis Billet</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
