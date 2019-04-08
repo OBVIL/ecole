@@ -6284,9 +6284,9 @@
                 l’on trouve un accent assez ferme, mais où manque trop souvent le sentiment de la
                 couleur originale.</note>. </head>
             <head type="sub">(Fragment.)</head>
+            <head type="sub">Acte I, Scène III.</head>
             <p>Un vieillard reproche à sa fille le goût frivole qu’elle éprouve pour un jeune
               désœuvré, au lieu de consentir à prendre un époux sensé et laborieux.</p>
-            <head type="sub">Acte I, Scène III.</head>
             <stage rend="center"><hi rend="i">Silène</hi> (<hi rend="i">père d’Arténice</hi>), <hi
                 rend="i">Arténice</hi>.</stage>
             <label type="speaker"><hi rend="sc">Silène</hi>.</label>
@@ -6506,7 +6506,7 @@
             <p>Don Diègue est offensé par Gomès, comte de Gormas : il confie à son fils, don
               Rodrigue, que ses exploits feront plus tard honorer du nom de <hi rend="i">Cid</hi>
               (chef), le soin de sa vengeance.</p>
-            <div type="section" subtype="4">
+            <div4 type="section">
               <head><hi rend="sc">Acte I, Scène III</hi>.</head>
               <stage rend="center"><hi rend="i">Le comte, don Diègue</hi>.</stage>
               <label type="speaker"><hi rend="sc">Le comte</hi>.</label>
@@ -6651,8 +6651,8 @@
               <l>Pour son instruction l’histoire de ta vie :</l>
               <l>D’un insolent discours ce juste châtiment</l>
               <l>Ne lui servira pas d’un petit ornement.</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte I, Scène IV</hi>.</head>
               <label type="speaker"><hi rend="sc">D. Diègue</hi>, <hi rend="i">seul</hi>.</label>
               <l>O rage, ô désespoir ! ô vieillesse ennemie !</l>
@@ -6692,8 +6692,8 @@
               <l>M’as servi de parade et non pas de défense,</l>
               <l>Va, quitte désormais le dernier des humains :</l>
               <l>Passe, pour me venger, en de meilleures mains.</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte I, Scène V</hi>.</head>
               <stage rend="center"><hi rend="i">Don Diègue, don Rodrigue.</hi></stage>
               <label type="speaker"><hi rend="sc">D. Diègue</hi>.</label>
@@ -6765,8 +6765,8 @@
                   pour <hi rend="i">jette</hi>, <hi rend="i">plonge</hi> : Corneille s’est laissé
                   ici dominer par la rime.</note>,</l>
               <l>Je vais les déplorer. Va, cours, vole et nous venge.</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <pb n="178" xml:id="p178"/>
               <head><hi rend="sc">Acte II, Scène II</hi>.</head>
               <stage rend="center"><hi rend="i">Le comte, don Rodrigue</hi>.</stage>
@@ -6880,8 +6880,8 @@
               <l>Qui survit un moment à l’honneur de son père.</l>
               <p>Chimène, fille du comte, vient demander au roi d’Espagne le châtiment de Rodrigue,
                 qui a tué Gomès en combat singulier. Rodrigue est défendu par son père.</p>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte II, Scène VIII</hi>.</head>
               <stage rend="center"><hi rend="i">Don Fernand, roi de Castille ; don Diègue, Chimène,
                   don Sanche</hi>.</stage>
@@ -7057,7 +7057,7 @@
                   dix-septième et du dix-huitième siècle, par une rivalité féconde qui a élevé la
                   gloire de la scène française au-dessus de celle de tous les autres pays.</note>
                 mes malheurs.</l>
-            </div>
+            </div4>
           </div3>
           <div3 type="section">
             <pb n="184" xml:id="p184"/>
@@ -7076,7 +7076,7 @@
                 essayés avec succès, tandis qu’aucun de nos comiques, quelle que fût sa célébrité,
                 n’a fait une tragédie passable.</note>. </head>
             <head type="sub">(Extraits.)</head>
-            <div type="section" subtype="4">
+            <div4 type="section">
               <head><hi rend="sc">Acte I, Scène III</hi>.</head>
               <p rend="margin">Dorante, c’est le menteur : il veut se faire valoir auprès d’une
                 personne (Clarice) qu’il vient de rencontrer pour la première fois dans la promenade
@@ -7136,8 +7136,8 @@
               <l>De mille exploits fameux enfler ma renommée,</l>
               <l>Et tous ces nobles soins qui m’avaient su ravir</l>
               <l>Cédèrent aussitôt à ceux de vous servir…</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte I, Scène V</hi>.</head>
               <p rend="margin">Deux jeunes gens, Alcippe et Philiste, dont le premier recherche la
                 main de Clarice, s’entretenaient d’une sérénade qui lui avait été donnée sur l’eau,
@@ -7222,8 +7222,8 @@
               <label type="speaker"><hi rend="sc">Alcippe</hi>, <hi rend="i">a
                 Philiste</hi>.</label>
               <l>Le lieu s’accorde, et l’heure ; et le reste n’est rien.</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte I, Scène VI</hi>.</head>
               <stage rend="center"><hi rend="i">Dorante, Cliton</hi>.</stage>
               <label type="speaker"><hi rend="sc">Cliton</hi>.</label>
@@ -7295,8 +7295,8 @@
               <l>Qui l’étonne lui-même, et le force à se taire<note n="6" place="bottom">Cf. la
                   fable de La Fontaine intitulée : le <hi rend="i">Dépositaire infidèle</hi>,
                   liv. IX, fab. 1.</note>…</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <pb n="189" xml:id="p189"/>
               <head><hi rend="sc">Acte V, Scène II</hi>.</head>
               <p rend="margin">Géronte (c’est le père de Dorante) vient de reconnaître qu’il a été
@@ -7324,8 +7324,8 @@
               <l>De n’avoir à rougir que de son infamie,</l>
               <l>L’infâme, se jouant de mon trop de bonté,</l>
               <l>Me fait encor rougir de ma crédulité !</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte V, Scène III</hi><note n="2" place="bottom">On voit ici, dit
                   Voltaire, <quote>« la même main qui peignit le vieil Horace et D. Diègue. Il n’est
                     point de père qui ne doive faire lire cette belle scène à ses
@@ -7505,7 +7505,7 @@
                     Menteur</hi> ; mais, quoique cette seconde pièce ne manquât pas de détails
                   agréables et de vers heureux, elle fut très-éloignée d’avoir de même accès que la
                   première.</note></l>
-            </div>
+            </div4>
           </div3>
         </div2>
         <div2 type="chapter">
@@ -9118,7 +9118,7 @@
               si elle consent à lui donner sa main, il prendra sous sa protection le fils qu’elle a
               eu d’Hector, Astyanax, dont la mort est demandée par la Grèce.</p>
             <p/>
-            <div type="section" subtype="4">
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> III, <hi rend="sc">Scène</hi>
                 <num>viii</num>.</head>
               <stage rend="center"><hi rend="i">Andromaque, Céphise</hi> (sa confidente).</stage>
@@ -9238,8 +9238,8 @@
               <l>Allons sur son tombeau<note n="2" place="bottom">Il s’agit du cénotaphe
                   qu’Andromaque avait élevé à son époux en Epire, comme le rapporte Virgile
                   (liv. III).</note> consulter mon époux.</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> IV, <hi rend="sc">Scène</hi> <num>i</num>.</head>
               <stage rend="center"><hi rend="i">Andromaque, Céphise</hi>.</stage>
               <label type="speaker"><hi rend="sc">Céphise</hi>.</label>
@@ -9347,8 +9347,8 @@
               <p rend="margin">Cependant Hermione, qui avait dû épouser Pyrrhus, outragée par la
                 passion que ce prince a ressentie pour Andromaque, n’a pas craint de confier au fils
                 d’Agamemnon, à Oreste qui l’aime, le soin de la venger.</p>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> V, <hi rend="sc">Scène</hi> <num>i</num>.</head>
               <label type="speaker"><hi rend="sc">Hermione</hi>, <hi rend="i">seule.</hi>.</label>
               <l>Où suis-je ? qu’ai-je fait ? que dois-je faire encore ?</l>
@@ -9396,8 +9396,8 @@
                   indifféremment l’un pour l’autre ; mais, aujourd’hui, il faudrait <hi rend="i"
                     >avant</hi> dans ce tour, <hi rend="i">devant</hi> n’étant plus employé que
                   comme préposition.</note> qu’il expire…</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> V, <hi rend="sc">Scène</hi> <num>ii</num>.</head>
               <stage rend="center"><hi rend="i">Hermione, Cléone</hi> (sa confidente).</stage>
               <label type="speaker"><hi rend="sc">Hermione</hi>.</label>
@@ -9491,8 +9491,8 @@
               <l>Tout me sera Pyrrhus, fût-ce Oreste lui-même.</l>
               <l>Je mourrai. Mais au moins ma mort me vengera.</l>
               <l>Je ne mourrai pas seule, et quelqu’un me suivra.</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> V, <hi rend="sc">Scène <num>iii</num></hi>.</head>
               <stage rend="center">Oreste, Hermione, Cléone.</stage>
               <label type="speaker"><hi rend="sc">Oreste</hi>.</label>
@@ -9594,8 +9594,8 @@
               <l>Je renonce à la Grèce, à Sparte, à son empire,</l>
               <l>A toute ma famille ; et c’est assez pour moi,</l>
               <l>Traître, qu’elle ait produit un monstre tel que toi.</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> V, <hi rend="sc">Scène</hi> <num>iv</num>.</head>
               <label type="speaker"><hi rend="sc">Oreste</hi>, <hi rend="i">seul</hi>.</label>
               <l>Que vois-je ? est-ce Hermione ? Et que viens-je d’entendre ?</l>
@@ -9616,8 +9616,8 @@
               <l>Je la vois pour jamais s’éloigner de mes yeux !</l>
               <l>Et l’ingrate en fuyant me laisse pour salaire</l>
               <l>Tous les noms odieux que j’ai pris pour lui plaire !</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> V, <hi rend="sc">Scène</hi> <num>v</num>.</head>
               <stage rend="center">Oreste, Hermione, Cléone.</stage>
               <label type="speaker"><hi rend="sc">Pylade</hi>.</label>
@@ -9711,7 +9711,7 @@
               <l>Mais non, retirez-vous, laissez faire Hermione :</l>
               <l>L’ingrate mieux que vous saura me déchirer ;</l>
               <l>Et je lui porte enfin mon cœur à dévorer.</l>
-            </div>
+            </div4>
           </div3>
         </div2>
         <div2 type="chapter">
@@ -9774,7 +9774,7 @@
                   se connaître aux talents et au génie des auteurs, pour soupçonner Regnard d’avoir
                   dérobé cette pièce à Dufresny. »</quote></note>. </head>
             <head type="sub">(Extraits.)</head>
-            <div type="section" subtype="4">
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> I, <hi rend="sc">scène</hi> <num>i</num>.</head>
               <stage rend="center"><hi rend="i">Hector</hi>, seul (c’est le valet du joueur, de
                 Valère). <hi rend="i">Il est dans un fauteuil, près d’une toilette.</hi></stage>
@@ -9804,8 +9804,8 @@
                     <l>Furent d’un <hi rend="i">drap du sceau</hi>…</l>
                   </quote></note> couvert,</l>
               <l>Bornait sa garde-robe à son justaucorps vert.</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <pb n="244" xml:id="p244"/>
               <head><hi rend="sc">Acte</hi> I, <hi rend="sc">scène</hi>
                 <num>iv</num>.</head>
@@ -9877,8 +9877,8 @@
               <l part="I">Va-t’en.</l>
               <label type="speaker"><hi rend="sc">Hector</hi>.</label>
               <l part="M">Tant mieux.</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> I, <hi rend="sc">scène</hi> <num>v</num>.</head>
               <quote><label type="speaker"><hi rend="sc">Valère</hi>, <hi rend="i">se mettant dans
                     un fauteuil</hi>.</label>
@@ -9888,8 +9888,8 @@
                 <l>Et n’ai pas, grâce au ciel, un écu dans ma bourse.</l>
                 <l>Hector !… Que ce coquin est heureux de dormir.</l>
                 <l part="I">Hector !</l></quote>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> I, <hi rend="sc">scène</hi> <num>vi</num>.</head>
               <stage rend="center"><hi rend="i">Valère, Hector</hi>.</stage>
               <label type="speaker"><hi rend="sc">Hector</hi>, <hi rend="i">derrière le
@@ -10000,8 +10000,8 @@
               <l>Le joueur a réussi, par un emprunt usuraire (il a mis en gage le portrait de sa
                 future, d’Angélique), à se procurer de l’argent. Il a de nouveau tenté les chances
                 du jeu, qui lui ont été favorables.</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <pb n="248" xml:id="p248"/>
               <head><hi rend="sc">Acte</hi> III, <hi rend="sc">scène</hi>
                 <num>vi</num>.</head>
@@ -10116,8 +10116,8 @@
               <l>Et monsieur Galonier, votre honnête tailleur.</l>
               <label type="speaker"><hi rend="sc">Valère</hi>.</label>
               <l part="I">>Quel contre-temps !</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Acte</hi> III, <hi rend="sc">scène</hi> <num>vii</num>.</head>
               <stage rend="center"><hi rend="i">Madame Adam, M. Galonier, Valère,
                 Hector</hi>.</stage>
@@ -10157,8 +10157,8 @@
               <label type="speaker"><hi rend="sc">Hector</hi>, <hi rend="i">à M.
                 Galonier</hi>.</label>
               <l part="F">Ma culotte s’use en deux ou trois endroits…</l>
-            </div>
-            <div type="section" subtype="4">
+            </div4>
+            <div4 type="section">
               <pb n="251" xml:id="p251"/>
               <head><hi rend="sc">Acte</hi> IV, <hi rend="sc">scène</hi>
                 <num>xiii</num>.</head>
@@ -10310,7 +10310,7 @@
                 qu’avait reçue son portrait, ne voudra plus être sa femme. Valère aura donc perdu
                 avec son argent l’établissement qu’il désirait. Telle est la fin de la pièce de
                 Regnard, morale dans sa conclusion, si elle ne l’est pas dans tous ses détails.</p>
-            </div>
+            </div4>
           </div3>
         </div2>
         <div2 type="chapter">
@@ -10965,7 +10965,7 @@
                   en ce genre dans le dix-huitième siècle »</quote>. On peut la rapprocher surtout
                 du poëme de la<hi rend="i">Religion vengée</hi>, par le cardinal de Bernis, qui est
                 d’ailleurs demeuré fort au-dessous de L. Racine.</note></head>
-            <div3 type="section">
+            <div4 type="section">
               <head><hi rend="b">Chant I</hi> (fragments).</head>
               <argument>
                 <p>Preuves de l’existence de Dieu : nécessité de la religion.</p>
@@ -11191,8 +11191,8 @@
               <l>Tout conspire pour nous, les montagnes, les mers,</l>
               <l>L’astre brillant du jour, les fiers tyrans des airs.</l>
               <l>Puisse le même accord régner parmi les hommes !.</l>
-            </div3>
-            <div3 type="section">
+            </div4>
+            <div4 type="section">
               <head><hi rend="sc">Chant II</hi> (fragments).</head>
               <argument>
                 <p>L’homme étudiant sa propre nature : sa misère, sa grandeur ; immortalité de son
@@ -11378,7 +11378,7 @@
                   prosaïques. Louis Racine n’en conservera pas moins l’honneur d’avoir exprimé le
                   premier, avec grandeur et souvent avec poésie, beaucoup d’idées qui semblaient
                   jusque-là, parmi nous, exclues du domaine des vers.</note>.</l>
-            </div3>
+            </div4>
           </div3>
         </div2>
         <div2 type="chapter">
@@ -11745,6 +11745,8 @@
                   >romanesques</hi>, où le poëte puise dans son imagination, non dans l’histoire,
                 les principaux événements qu’il offre aux yeux des spectateurs.</note>. </head>
             <head type="sub">(Une scène de cette pièce.)</head>
+            <head type="sub"><hi rend="sc">Acte</hi> II, <hi rend="sc">scène</hi>
+              <num>iii</num>.</head>
             <p rend="margin">Lusignan, prince du sang des rois de Jérusalem, a été fait prisonnier
               par les musulmans pendant les croisades. Après avoir été enfermé longtemps dans les
               cachots de cette ville, rendu à la liberté par le soudan qui y commande, Orosmane, il
@@ -11753,8 +11755,6 @@
               qui, tombée au pouvoir de l’ennemi comme son père et toute sa famille, avait été dès
               sa plus tendre enfance nourrie dans les erreurs du mahométisme, et semblait être alors
               sur le point d’épouser Orosmane.</p>
-            <head type="sub"><hi rend="sc">Acte</hi> II, <hi rend="sc">scène</hi>
-              <num>iii</num>.</head>
             <stage rend="center"><hi rend="i">Zaïre, Lusignan, Châtillon, Nérestan, plusieurs
                 esclaves chrétiens.</hi></stage>
             <label type="speaker"><hi rend="sc">Lusignan</hi>.</label>
