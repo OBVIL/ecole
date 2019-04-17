@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="http://gallica.bnf.fr/ark:/12148/bpt6k54640923">De la Versification française,
+        <title>De la Versification française,
           préceptes et exercices à l’usage des élèves de rhétorique</title>
         <title type="sub">Première partie. Préceptes. Conseils aux élèves.</title>
         <author key="Billet, Henri-Louis" ref="https://data.bnf.fr/fr/13523202/henri-louis_billet/">Henri-Louis Billet</author>
@@ -42,10 +42,10 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Billet, Henri-Louis</author>, <title>De la versification française, préceptes
-            et exercices à l’usage des élèves de rhétorique</title>,
+        <bibl>Billet, Henri-Louis, <hi rend="i">De la versification française, préceptes
+            et exercices à l’usage des élèves de rhétorique</hi>,
             <pubPlace>Saint-Quentin</pubPlace>, <publisher>Imprimerie Hourdequin et
-            Thiroux</publisher>, <date>1865</date>, 47 p.</bibl>
+              Thiroux</publisher>, <date>1865</date>, 47 p. PDF: <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k54640923">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

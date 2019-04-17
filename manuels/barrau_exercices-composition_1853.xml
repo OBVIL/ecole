@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title ref="http://gallica.bnf.fr/ark:/12148/bpt6k6361073s">Exercices de composition et de style ou sujets de descriptions, de narrations de dialogues et de discours</title>
+        <title>Exercices de composition et de style ou sujets de descriptions, de narrations de dialogues et de discours</title>
         <author key="Barrau, Théodore-Henri (1794-1865)" ref="https://data.bnf.fr/fr/12165547/theodore-henri_barrau/">Théodore-Henri Barrau</author>
       </titleStmt>
       <editionStmt>
@@ -38,7 +38,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Théodore-Henri Barrau, <hi rend="i">Exercices de composition et de style ou Sujets de descriptions, de narrations de dialogues et de discours</hi>, <pubPlace>Paris</pubPlace>, <publisher>L. Hachette</publisher>, <date>1853</date>, VIII-188 p.</bibl>
+        <bibl>Théodore-Henri Barrau, <hi rend="i">Exercices de composition et de style ou Sujets de descriptions, de narrations de dialogues et de discours</hi>, <pubPlace>Paris</pubPlace>, <publisher>L. Hachette</publisher>, <date>1853</date>, VIII-188 p. PDF: <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6361073s">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
