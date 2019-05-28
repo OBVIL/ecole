@@ -7,6 +7,7 @@
       <titleStmt>
         <title>Poétique et Rhétorique (trad. Ruelle)</title>
         <author key="Aristote (0384-0322 av. J.-C.)" ref="https://data.bnf.fr/fr/13091331/aristote/">Aristote</author>
+        <author role="translator" key="Charles-Émile Ruelle (1833-1912)" ref="https://data.bnf.fr/fr/12162656/charles-emile_ruelle/">Charles-Émile Ruelle</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
