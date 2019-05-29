@@ -5,8 +5,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><hi rend="i">Ad augustissimum principem Carolum in urbem redeutem</hi></title>
-                <author key="Chardin, Charles">Charles Chardin</author>
+                <title><hi rend="i">Ad augustissimum principem Carolum in urbem
+                    redeutem</hi></title>
+                <author key="Chardin, Charles (18..?-18..)">Charles Chardin</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -18,19 +19,34 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/chardin-charles_ad-augustissimum-principem-carolum-i-urbem-redeutem</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire
+                            d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
+                            OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété
+                            intellectuelle sur les bases de données (L341-1) est mise à disposition
+                            de la communauté scientifique internationale par l’OBVIL, selon les
+                            termes de la licence Creative Commons : « Attribution - Pas
+                            d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
+                            3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou
+                            publication dérivée de cette ressource électroniques comportera le nom
+                            de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
+                            scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
+                            ressource électronique, notamment en intégrant toutes les contributions
+                            extérieures. La diffusion de versions modifiées de cette ressource n’est
+                            pas souhaitable.</p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Charles Chardin, <hi rend="i">Ad augustissimum principem Carolum in urbem redeutem</hi>, [6 juin 1825], Archives nationales, F<hi rend="sup">17</hi> 7646.</bibl>
+                <bibl>Charles Chardin, <hi rend="i">Ad augustissimum principem Carolum in urbem
+                        redeutem</hi>, [6 juin 1825], Archives nationales, F<hi rend="sup">17</hi>
+                    7646.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -46,75 +62,75 @@
         <body>
             <div>
                 <head><hi rend="i">Ad augustissimum principem Carolum in urbem redeutem</hi>
-        <lb/>[6 juin 1825]</head>
-    <p/>
-    <quote>
-        <l>Ite novo Regi date flores, nectite palmas</l>
-        <l>Et domibus festas Cives appendite lauros !</l>
-        <l>Carmen grande sonent cytharae : nil musa loquatur</l>
-        <l>Demissum. En laeto fremit omnis Gallia cantu,</l>
-        <l>Atque Deo plenum Regem venerata salutat.</l>
-        <l>Jam tormenta tonant : cecinerunt classica : Princeps</l>
-        <l>Incipit apparere procul. Clarissima Regum</l>
-        <l>Salve Progenies ! iterum salvete recepti</l>
-        <l>Nec frustra, o nostris spes vos nunc ultima rebus !</l>
-        <l>Insidet augustae majestas Regia fronti</l>
-        <l>Et patet incessu Princeps : sed blanda serenat</l>
-        <l>Gratia Regalem vultum, fastusque superbos</l>
-        <l>Temperat, et risu populis dat noscere Patrem.</l>
-        <l>O Rex heu quantis te quassum saepe procellis</l>
-        <l>Accipimus ! majus quiddam nunc spirat in ore :</l>
-        <l>Scilicet aeterno frontem signavit honore</l>
-        <l>Relligio, infusumque viget sub pectore numen.</l>
-        <l>O quae felicem adventum praeclara sequentur !</l>
-        <l>Incipiunt patriae laeti procedere menses.</l>
-        <l>Vultus ubi fessae seu sidus amabile genti</l>
-        <l>Affulsit, campos puro sol lumine vestit</l>
-        <l>Largior, et tuti nautae freta libera verrunt.</l>
-        <l>I nunc, et Lodoix quae opera interrupta reliquit</l>
-        <l>Perfice, civilis restingue incendia belli !</l>
-        <l>Haec tibi erunt artes : pacem firmare, volentem</l>
-        <l>Per populum dare jura, soloque levare jacentes,</l>
-        <l>Parcere subjectis, et vincere corda merendo.</l>
-        <l>Perge iter incoeptum ; nunc dives ruris honorum</l>
-        <l>Copia, foecundo que venit Pax aurea cornu.</l>
-        <l>Poena premit culpam, et virtus Te Principe regnat.</l>
-        <l>Non tu per gentes volitans ceu flamma per herbas</l>
-        <l>Bellumagitabis atrox, lugubres nempe daturus</l>
-        <l>Urbibus in vacuis, Patria moerente, triumphos.</l>
-        <l>En comes incedit ramis insignis olivae</l>
-        <l>Filius : ille reget patriis virtutibus orbem,</l>
-        <l>Et quamvis bello felix dabit otia pacis.</l>
-        <l>Hic vir hic est, qui sacrilegi discordia belli</l>
-        <l>Semina, civiles que hominum compescuit aestus</l>
-        <l>Magna laude recens : victrix nunc dextra quiescit,</l>
-        <l>At si sopitum desueta af bella leonem,</l>
-        <l>Immemores que iras temerarius excitet hostis,</l>
-        <l>Armatam pacem sero turbaste pigebit.</l>
-        <l>Quis te praeteritam conjux generosa relinquat ?</l>
-        <l>O et praesidium miseris tutelaque ! matrem</l>
-        <l>Quae virtute refers claram, et pietate parentem</l>
-        <l>Sis felix et fausta tuis ! precibus que Tonantem</l>
-        <l>Flecte piis, nostrae ut pereant vestigia culpae !</l>
-        <l>Et tu quanta nites juveni viduata marito !</l>
-        <l>Infelix ! aliquid nunc lumina moesta requirunt ;</l>
-        <l>At meritis fallis luctus et taedia vitae,</l>
-        <l>Et tantum nati amplexu solare dolorem.</l>
-        <l>Ingredere o vitam nostris tu debite fatis</l>
-        <l>Henrice ! in te unum domus inclinata recumbit !</l>
-        <l>Gallia tolle caput ! Dextra Deus ipse potenti</l>
-        <l>Sustinet, ac charum supera genus arce tuetur !</l>
-        <l>Cernis ut interitu vigeat stirps Regia : frustra</l>
-        <l>Frondentes olim secuit manus impia ramos.</l>
-        <l>Haud secus ac abies terras quae tendit in imas</l>
-        <l>Fixa solo, ridet miscentes proelia ventos</l>
-        <l>Atque animum viresque novas a vulnere ducit :</l>
-        <l>Talis Francigenum vivit gens integra Regum,</l>
-        <l>Et claro reparans aeternam Semine prolem,</l>
-        <l>Nec scelerum furiis, nec longo vincitur aevo.</l>
-    </quote>
-    <p/>
-</div>
-</body>
-</text>
+                    <lb/>[6 juin 1825]</head>
+                <p/>
+                <quote>
+                    <l>Ite novo Regi date flores, nectite palmas</l>
+                    <l>Et domibus festas Cives appendite lauros !</l>
+                    <l>Carmen grande sonent cytharae : nil musa loquatur</l>
+                    <l>Demissum. En laeto fremit omnis Gallia cantu,</l>
+                    <l>Atque Deo plenum Regem venerata salutat.</l>
+                    <l>Jam tormenta tonant : cecinerunt classica : Princeps</l>
+                    <l>Incipit apparere procul. Clarissima Regum</l>
+                    <l>Salve Progenies ! iterum salvete recepti</l>
+                    <l>Nec frustra, o nostris spes vos nunc ultima rebus !</l>
+                    <l>Insidet augustae majestas Regia fronti</l>
+                    <l>Et patet incessu Princeps : sed blanda serenat</l>
+                    <l>Gratia Regalem vultum, fastusque superbos</l>
+                    <l>Temperat, et risu populis dat noscere Patrem.</l>
+                    <l>O Rex heu quantis te quassum saepe procellis</l>
+                    <l>Accipimus ! majus quiddam nunc spirat in ore :</l>
+                    <l>Scilicet aeterno frontem signavit honore</l>
+                    <l>Relligio, infusumque viget sub pectore numen.</l>
+                    <l>O quae felicem adventum praeclara sequentur !</l>
+                    <l>Incipiunt patriae laeti procedere menses.</l>
+                    <l>Vultus ubi fessae seu sidus amabile genti</l>
+                    <l>Affulsit, campos puro sol lumine vestit</l>
+                    <l>Largior, et tuti nautae freta libera verrunt.</l>
+                    <l>I nunc, et Lodoix quae opera interrupta reliquit</l>
+                    <l>Perfice, civilis restingue incendia belli !</l>
+                    <l>Haec tibi erunt artes : pacem firmare, volentem</l>
+                    <l>Per populum dare jura, soloque levare jacentes,</l>
+                    <l>Parcere subjectis, et vincere corda merendo.</l>
+                    <l>Perge iter incoeptum ; nunc dives ruris honorum</l>
+                    <l>Copia, foecundo que venit Pax aurea cornu.</l>
+                    <l>Poena premit culpam, et virtus Te Principe regnat.</l>
+                    <l>Non tu per gentes volitans ceu flamma per herbas</l>
+                    <l>Bellumagitabis atrox, lugubres nempe daturus</l>
+                    <l>Urbibus in vacuis, Patria moerente, triumphos.</l>
+                    <l>En comes incedit ramis insignis olivae</l>
+                    <l>Filius : ille reget patriis virtutibus orbem,</l>
+                    <l>Et quamvis bello felix dabit otia pacis.</l>
+                    <l>Hic vir hic est, qui sacrilegi discordia belli</l>
+                    <l>Semina, civiles que hominum compescuit aestus</l>
+                    <l>Magna laude recens : victrix nunc dextra quiescit,</l>
+                    <l>At si sopitum desueta af bella leonem,</l>
+                    <l>Immemores que iras temerarius excitet hostis,</l>
+                    <l>Armatam pacem sero turbaste pigebit.</l>
+                    <l>Quis te praeteritam conjux generosa relinquat ?</l>
+                    <l>O et praesidium miseris tutelaque ! matrem</l>
+                    <l>Quae virtute refers claram, et pietate parentem</l>
+                    <l>Sis felix et fausta tuis ! precibus que Tonantem</l>
+                    <l>Flecte piis, nostrae ut pereant vestigia culpae !</l>
+                    <l>Et tu quanta nites juveni viduata marito !</l>
+                    <l>Infelix ! aliquid nunc lumina moesta requirunt ;</l>
+                    <l>At meritis fallis luctus et taedia vitae,</l>
+                    <l>Et tantum nati amplexu solare dolorem.</l>
+                    <l>Ingredere o vitam nostris tu debite fatis</l>
+                    <l>Henrice ! in te unum domus inclinata recumbit !</l>
+                    <l>Gallia tolle caput ! Dextra Deus ipse potenti</l>
+                    <l>Sustinet, ac charum supera genus arce tuetur !</l>
+                    <l>Cernis ut interitu vigeat stirps Regia : frustra</l>
+                    <l>Frondentes olim secuit manus impia ramos.</l>
+                    <l>Haud secus ac abies terras quae tendit in imas</l>
+                    <l>Fixa solo, ridet miscentes proelia ventos</l>
+                    <l>Atque animum viresque novas a vulnere ducit :</l>
+                    <l>Talis Francigenum vivit gens integra Regum,</l>
+                    <l>Et claro reparans aeternam Semine prolem,</l>
+                    <l>Nec scelerum furiis, nec longo vincitur aevo.</l>
+                </quote>
+                <p/>
+            </div>
+        </body>
+    </text>
 </TEI>

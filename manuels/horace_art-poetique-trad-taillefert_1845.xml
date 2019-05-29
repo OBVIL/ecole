@@ -6,7 +6,7 @@
             <titleStmt>
                 <title>Les auteurs latins expliqués... Horace. Art poétique</title>
                 <author key="Horace (0065-0008 av. J.-C.)" ref="https://data.bnf.fr/fr/11886570/horace/">Horace</author>
-                <author role="translator" key="Taillefert, Émile (18..-18..)">Émile Taillefert</author>
+                <author role="translator" key="Taillefert, Émile (18..-18..)" ref="https://data.bnf.fr/fr/13481124/emile_taillefert/">Émile Taillefert</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>

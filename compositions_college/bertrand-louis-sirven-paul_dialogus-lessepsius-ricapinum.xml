@@ -6,8 +6,10 @@
         <fileDesc>
             <titleStmt>
                 <title>« Dialogus inter Lessepsium et Ricapinum »</title>
-                <author key="Bertrand, Louis">Louis Bertrand</author>
-                <author key="Sirven, Paul">Paul Sirven</author>
+                <author key="Bertrand, Louis (1866-1941)"
+                    ref="https://data.bnf.fr/fr/12002733/louis_bertrand/">Louis Bertrand</author>
+                <author key="Sirven, Paul (1865-1953)"
+                    ref="https://data.bnf.fr/fr/12463250/paul_sirven/">Paul Sirven</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -19,19 +21,35 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/bertrand-louis-sirven-paul_dialogus-lessepsius-ricapinum</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire
+                            d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
+                            OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété
+                            intellectuelle sur les bases de données (L341-1) est mise à disposition
+                            de la communauté scientifique internationale par l’OBVIL, selon les
+                            termes de la licence Creative Commons : « Attribution - Pas
+                            d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
+                            3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou
+                            publication dérivée de cette ressource électroniques comportera le nom
+                            de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
+                            scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
+                            ressource électronique, notamment en intégrant toutes les contributions
+                            extérieures. La diffusion de versions modifiées de cette ressource n’est
+                            pas souhaitable.</p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Louis Bertrand et Paul Sirven, <hi rend="i">Dialogus inter Lessepsium et Ricapinum, poème récité au banquet de la Saint-Charlemagne, le 31 janvier 1885, par MM. Louis Bertrand et Paul Sirven, élèves du lycée Henri IV</hi>, Briey, impr. E. Branchard, 1885.</bibl>
+                <bibl>Louis Bertrand et Paul Sirven, <hi rend="i">Dialogus inter Lessepsium et
+                        Ricapinum, poème récité au banquet de la Saint-Charlemagne, le 31 janvier
+                        1885, par MM. Louis Bertrand et Paul Sirven, élèves du lycée Henri IV</hi>,
+                    <pubPlace>Briey</pubPlace>, <publisher>impr. E. Branchard</publisher>, 1885.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -48,9 +66,11 @@
             <div>
                 <head>« Dialogus inter Lessepsium et Ricapinum »</head>
                 <p/>
-                <p rend="right i">À monsieur Marot, professeur de Rhétorique au lycée Henri IV, hommage respectueux.</p>
+                <p rend="right i">À monsieur Marot, professeur de Rhétorique au lycée Henri IV,
+                    hommage respectueux.</p>
                 <p/>
-                <p>Comment M. de Lesseps rencontra Jean Richepin, devenu ermite, et de la conversion qui s’ensuivit.</p>
+                <p>Comment M. de Lesseps rencontra Jean Richepin, devenu ermite, et de la conversion
+                    qui s’ensuivit.</p>
                 <p/>
                 <p rend="i">La scène représente un désert.</p>
                 <p/>

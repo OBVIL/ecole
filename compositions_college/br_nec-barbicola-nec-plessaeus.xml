@@ -18,7 +18,7 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/br_nec-barbicola-nec-plessaeus</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
                         <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -30,7 +30,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>[BR…..], <hi rend="i">Nec barbicola nec plessaeus B*, Ad amicum D. L. H.</hi>, Kal. Juanur. 1809.</bibl>
+                <bibl>[BR…..], <hi rend="i">Nec barbicola nec plessaeus B*, Ad amicum D. L. H.</hi>, <publisher>Kal. Juanur</publisher>, 1809.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>« Le czar Pierre-le-Grand visite la Sorbonne »</title>
-                <author key="Sainte-Beuve, Charles-Augustin (1804-1869)">Charles-Augustin Sainte-Beuve</author>
+                <author key="Sainte-Beuve, Charles-Augustin (1804-1869)" ref="https://data.bnf.fr/fr/11923412/charles-augustin_sainte-beuve/">Charles-Augustin Sainte-Beuve</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -30,7 +30,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Charles-Augustin Sainte-Beuve, « Le czar Pierre-le-Grand visite la Sorbonne », <hi rend="i">Annales des concours généraux ou recueil des discours latins, discours français et vers latins couronnés, en rhétorique, aux concours généraux de l’ancienne et de la nouvelle Université</hi>, Paris, Brédif, 1825, p. 385-387. Source : <ref target="https://books.google.fr/books?id=Opg0AAAAMAAJ">Google</ref>.</bibl>
+                <bibl>Charles-Augustin Sainte-Beuve, « Le czar Pierre-le-Grand visite la Sorbonne », <hi rend="i">Annales des concours généraux ou recueil des discours latins, discours français et vers latins couronnés, en rhétorique, aux concours généraux de l’ancienne et de la nouvelle Université</hi>, <pubPlace>Paris</pubPlace>, <publisher>Brédif</publisher>, 1825, p. 385-387. Source : <ref target="https://books.google.fr/books?id=Opg0AAAAMAAJ">Google</ref>.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>« Le Phonographe »</title>
-                <author key="Dautremer, Léon (1861-1941)">Léon Dautremer</author>
+                <author key="Dautremer, Léon (1861-1941)" ref="https://data.bnf.fr/fr/10348274/leon_dautremer/">Léon Dautremer</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -18,19 +18,34 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/dautremer-leon_phonographe</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire
+                            d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
+                            OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété
+                            intellectuelle sur les bases de données (L341-1) est mise à disposition
+                            de la communauté scientifique internationale par l’OBVIL, selon les
+                            termes de la licence Creative Commons : « Attribution - Pas
+                            d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
+                            3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou
+                            publication dérivée de cette ressource électroniques comportera le nom
+                            de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
+                            scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
+                            ressource électronique, notamment en intégrant toutes les contributions
+                            extérieures. La diffusion de versions modifiées de cette ressource n’est
+                            pas souhaitable.</p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Léon Dautremer, « Le phonographe », <hi rend="i">Lycée Charlemagne. Banquet de la Saint-Charlemagne du 1er février 1879</hi>, Paris, impr. de Seringe frères, 1879, p. 1-4.</bibl>
+                <bibl>Léon Dautremer, « Le phonographe », <hi rend="i">Lycée Charlemagne. Banquet de
+                        la Saint-Charlemagne du 1er février 1879</hi>, <pubPlace>Paris</pubPlace>, <publisher>impr. de Seringe
+                    frères</publisher>, 1879, p. 1-4.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -44,135 +59,134 @@
     </teiHeader>
     <text>
         <body>
-<div>
-    <head>« Le Phonographe » 
-        <lb/>[1<hi rend="sup">er</hi> février 1879]</head>
-    <p/>
-    <quote>
-        <l>Annua festivo redeunt convivia ludo…</l>
-        <l>O quam tritum iter ingredior ! jam cernere risus</l>
-        <l>Mi videor, non immerito. Nova, nunc nova vultis ?</l>
-        <l>Hoc esto ; incipiam ; Phoebus mihi, si placet, aurem</l>
-        <l>Vellat et admoneat, solito nova carmine dicam.</l>
-        <l/>
-        <l>At fugite hinc, dulces mellita voce camoenae,</l>
-        <l>Flacci deliciae, quarum pia dextra coronam</l>
-        <l>Nexuit, unde comam tegeret, frontemque Maronis ;</l>
-        <l>Eia fugam properate citae, ne vulneret aures</l>
-        <l>Barbarico inventor signatus nomine <hi rend="i">Edison</hi>.</l>
-        <l>Musa mihi, si qua est, Musa americana, vocanti</l>
-        <l>Adsis, sollicitumque juva non sueta poetam.</l>
-        <l/>
-        <l>Est deus ille, deus, rigidum qui voce metallum</l>
-        <l>Donavit, ferrumque loqui sine mente coegit.</l>
-        <l>Nempe sonum primus liquidum conclusit, et Echo</l>
-        <l>Ante vagam vinclis compescuit : aeneus illam</l>
-        <l>Carcer habet, tenuis, nulloque insignis honore ;</l>
-        <l>Non species mortalis inest, non ora neque artus :</l>
-        <l>Sed ritu docilem si forte rogaveris, unam</l>
-        <l>Machina verba dabit torrens sexcenta per horam.</l>
-        <l>Illa caret lingua : loquitur ; caret auribus : audit.</l>
-        <l>Ferrea vox gracili : parvae sunt pectora centum.</l>
-        <l>Induit ut formas Proteus mutabilis omnes,</l>
-        <l>Haud aliter facile assimulat discrimina vocum</l>
-        <l>Omnia : clamat homo, mugit leo, sibilat anguis.</l>
-        <l/>
-        <l>Hanc homines docti dixerunt nomine graeco</l>
-        <l><hi rend="i">Phonographum</hi>, quem fata manent praeclara per orbem.</l>
-        <l>Multas nostras quidem tulit aetas utilis artes ;</l>
-        <l>Nulla sed utilior nobis, nec gratior illo.</l>
-        <l/>
-        <l>Vespere quum primo post taedia longa diei</l>
-        <l>Otia grata petis, juvat assedisse camino :</l>
-        <l>Si tantum possit praesto tibi adesse theatrum !</l>
-        <l>Eia age ; jam gaudere licet : non frigora corpus,</l>
-        <l>Offendentve pedes nunc sordida compita coeno,</l>
-        <l>Gratuitaque domi scenâ, propriaque frueris :</l>
-        <l>Scilicet ipsa modos imitabitur aere canoros,</l>
-        <l>Et te dulcisono recreabit machina cantu :</l>
-        <l>Fida tibi referet partes, mentita theatrum</l>
-        <l>Quas tenet interpres plebi notissimus actor,</l>
-        <l>Nunc tragica elata, facili nunc comica voce.</l>
-        <l/>
-        <l><hi rend="i">Phonographo</hi> in primis pandetur porta Lycaei,</l>
-        <l>Namque suî memores hoc munere fecit <hi rend="i">Edison</hi></l>
-        <l>Discipulos, quod tetra licet nunc spernere pensa.</l>
-        <l>Nempe olim miseris et mane et vespere bina</l>
-        <l>Quoque die discenda fuit, – recitendaque saepe –</l>
-        <l>Lectio Virgilii pariter, pariterque Boloei,</l>
-        <l>(Quam nescire fuit pigris damnoque maloque).</l>
-        <l>Sed nunc, phonographo collatis assibus empto,</l>
-        <l>Omnes Virgilium rident, ridentque Boloeum.</l>
-        <l/>
-        <l>Quid sibi vult consul, qui garrulus ante senatum</l>
-        <l>Verba facit, populove ferox adstante tribunus ?</l>
-        <l>Ridetur pariter consul, pariterque tribunus.</l>
-        <l>Scilicet affertur furtiva machina dextra :</l>
-        <l>Ponitur a tergo : rigida quum voce magister :</l>
-        <l>« Surge », inquit, vultuque jubet recitare minaci,</l>
-        <l>Surgit discipulus : faciat quasi verba, moventur</l>
-        <l>Labra ; tacet tamen ; at, didicit quae carmina nuper</l>
-        <l>Machina mota refert, pergitque, probante magistro ;</l>
-        <l>Quumque dedit finem dictis, laudare professor :</l>
-        <l>« Perbene », laetus ait : risit piger, atque resedit.</l>
-        <l/>
-        <l>Nec te solum humili tunicatus voce popellus,</l>
-        <l><hi rend="i">Phonographe</hi>, implorat : te gens vocat illa togata,</l>
-        <l>Atque professores, censor, provisor et ipse.</l>
-        <l>Illo tu propera cunctos donare lycaeos,</l>
-        <l>Tu, quem prosequimur merita pietate, Minister.</l>
-        <l>Scilicet aera ferent impensam publica parvam,</l>
-        <l>Quantaque praebebit tenuis res commoda nobis !</l>
-        <l>Non jam ridiculo mandabit verba papyro</l>
-        <l>Censor quem famulus sine majestate pererrans</l>
-        <l>Huc ferat atque illuc : adhibetur machina : linum</l>
-        <l>Ducitur : increpuit jam vox austera per auras :</l>
-        <l>« Discipulum, precor, indomitum mihi mitte, magister,</l>
-        <l>Quem liceat nobis immani affligere penso ;</l>
-        <l>Curet et ille simul metuendum afferre libellum</l>
-        <l>Quo genitor culpam noscat, mulctetque noscentem. »</l>
-        <l/>
-        <l>Sed quid plura loquar ? non taedia longa magistros</l>
-        <l>Vexabunt eadem toties iterare coactos,</l>
-        <l>Ne totus pereat labor irritus, atque eadem eras</l>
-        <l>Discipuli stupeant inhiantes ore rogati.</l>
-        <l>Scilicet haud miseris sunt ferrea pectora, nec vox</l>
-        <l>Ferrea : siccantur fauces dicentibus ustae,</l>
-        <l>Membraque singultu quatit arida tussis anhelo.</l>
-        <l>Haec mala non aegris jam nunc toleranda, nec ulli</l>
-        <l>Sugere pastillos opus est, fomenta doloris.</l>
-        <l>Nempe fatigatis aderis, quae verba reportes,</l>
-        <l>Inque locum subeas, stupefacta machina classe,</l>
-        <l>Garrulus et fiet de ferro rhetor inerti.</l>
-        <l/>
-        <l>Si, non sponte, domi retinetur forte magister</l>
-        <l>Defessus, nimia quum sedulitate laborat,</l>
-        <l>Non tamen idcirco dilecta voce carebunt</l>
-        <l>Discipuli : absentis reddet nam verba locosque</l>
-        <l><hi rend="i">Phonographus</hi>, certe tanto bene dignus honore.</l>
-        <l>Affertur risus inter fremitusque videntum :</l>
-        <l>Ponitur in cathedra : tunc alta silentia fiunt.</l>
-        <l>Solvitur : en coepit : rapit admiratio classem ;</l>
-        <l>Auscultant, et verba tremunt metuenda magistri :</l>
-        <l>Tanta vel absentis soli reverentia voci !</l>
-        <l/>
-        <l>Si veterum nossent hunc mortua saecla vivorum,</l>
-        <l>Inter discipulos, solita pro voce magistri</l>
-        <l>Cantet nunc Sophocles et causa Tullius oret,</l>
-        <l>Vivaque nunc validi fremerent Demosthenis ora :</l>
-        <l>Quin etiam, magni Caroli vox alta sonaret</l>
-        <l>Hac in sede sua, quum jam provectior aevo</l>
-        <l>Acres ingeniis stimulos juvenilibus addens</l>
-        <l>Omnibus injiceret studiorum et laudis amorem :</l>
-        <l>« Eia laborandum, juvenes, operique vacandum !</l>
-        <l>Aemulus ardenti comitem pede quisque sequatur :</l>
-        <l>Nobilis ambitio, si non est aequa cupido</l>
-        <l>Viribus : hinc, animi socordes, ite, profani !</l>
-        <l>At te, pulchra cohors, majorum exempla secutam</l>
-        <l>Gallia te sobolem non indignata recuset ! »</l>
-    </quote>
-    <p/>
-</div>
-</body>
-</text>
+            <div>
+                <head>« Le Phonographe » <lb/>[1<hi rend="sup">er</hi> février 1879]</head>
+                <p/>
+                <quote>
+                    <l>Annua festivo redeunt convivia ludo…</l>
+                    <l>O quam tritum iter ingredior ! jam cernere risus</l>
+                    <l>Mi videor, non immerito. Nova, nunc nova vultis ?</l>
+                    <l>Hoc esto ; incipiam ; Phoebus mihi, si placet, aurem</l>
+                    <l>Vellat et admoneat, solito nova carmine dicam.</l>
+                    <l/>
+                    <l>At fugite hinc, dulces mellita voce camoenae,</l>
+                    <l>Flacci deliciae, quarum pia dextra coronam</l>
+                    <l>Nexuit, unde comam tegeret, frontemque Maronis ;</l>
+                    <l>Eia fugam properate citae, ne vulneret aures</l>
+                    <l>Barbarico inventor signatus nomine <hi rend="i">Edison</hi>.</l>
+                    <l>Musa mihi, si qua est, Musa americana, vocanti</l>
+                    <l>Adsis, sollicitumque juva non sueta poetam.</l>
+                    <l/>
+                    <l>Est deus ille, deus, rigidum qui voce metallum</l>
+                    <l>Donavit, ferrumque loqui sine mente coegit.</l>
+                    <l>Nempe sonum primus liquidum conclusit, et Echo</l>
+                    <l>Ante vagam vinclis compescuit : aeneus illam</l>
+                    <l>Carcer habet, tenuis, nulloque insignis honore ;</l>
+                    <l>Non species mortalis inest, non ora neque artus :</l>
+                    <l>Sed ritu docilem si forte rogaveris, unam</l>
+                    <l>Machina verba dabit torrens sexcenta per horam.</l>
+                    <l>Illa caret lingua : loquitur ; caret auribus : audit.</l>
+                    <l>Ferrea vox gracili : parvae sunt pectora centum.</l>
+                    <l>Induit ut formas Proteus mutabilis omnes,</l>
+                    <l>Haud aliter facile assimulat discrimina vocum</l>
+                    <l>Omnia : clamat homo, mugit leo, sibilat anguis.</l>
+                    <l/>
+                    <l>Hanc homines docti dixerunt nomine graeco</l>
+                    <l><hi rend="i">Phonographum</hi>, quem fata manent praeclara per orbem.</l>
+                    <l>Multas nostras quidem tulit aetas utilis artes ;</l>
+                    <l>Nulla sed utilior nobis, nec gratior illo.</l>
+                    <l/>
+                    <l>Vespere quum primo post taedia longa diei</l>
+                    <l>Otia grata petis, juvat assedisse camino :</l>
+                    <l>Si tantum possit praesto tibi adesse theatrum !</l>
+                    <l>Eia age ; jam gaudere licet : non frigora corpus,</l>
+                    <l>Offendentve pedes nunc sordida compita coeno,</l>
+                    <l>Gratuitaque domi scenâ, propriaque frueris :</l>
+                    <l>Scilicet ipsa modos imitabitur aere canoros,</l>
+                    <l>Et te dulcisono recreabit machina cantu :</l>
+                    <l>Fida tibi referet partes, mentita theatrum</l>
+                    <l>Quas tenet interpres plebi notissimus actor,</l>
+                    <l>Nunc tragica elata, facili nunc comica voce.</l>
+                    <l/>
+                    <l><hi rend="i">Phonographo</hi> in primis pandetur porta Lycaei,</l>
+                    <l>Namque suî memores hoc munere fecit <hi rend="i">Edison</hi></l>
+                    <l>Discipulos, quod tetra licet nunc spernere pensa.</l>
+                    <l>Nempe olim miseris et mane et vespere bina</l>
+                    <l>Quoque die discenda fuit, – recitendaque saepe –</l>
+                    <l>Lectio Virgilii pariter, pariterque Boloei,</l>
+                    <l>(Quam nescire fuit pigris damnoque maloque).</l>
+                    <l>Sed nunc, phonographo collatis assibus empto,</l>
+                    <l>Omnes Virgilium rident, ridentque Boloeum.</l>
+                    <l/>
+                    <l>Quid sibi vult consul, qui garrulus ante senatum</l>
+                    <l>Verba facit, populove ferox adstante tribunus ?</l>
+                    <l>Ridetur pariter consul, pariterque tribunus.</l>
+                    <l>Scilicet affertur furtiva machina dextra :</l>
+                    <l>Ponitur a tergo : rigida quum voce magister :</l>
+                    <l>« Surge », inquit, vultuque jubet recitare minaci,</l>
+                    <l>Surgit discipulus : faciat quasi verba, moventur</l>
+                    <l>Labra ; tacet tamen ; at, didicit quae carmina nuper</l>
+                    <l>Machina mota refert, pergitque, probante magistro ;</l>
+                    <l>Quumque dedit finem dictis, laudare professor :</l>
+                    <l>« Perbene », laetus ait : risit piger, atque resedit.</l>
+                    <l/>
+                    <l>Nec te solum humili tunicatus voce popellus,</l>
+                    <l><hi rend="i">Phonographe</hi>, implorat : te gens vocat illa togata,</l>
+                    <l>Atque professores, censor, provisor et ipse.</l>
+                    <l>Illo tu propera cunctos donare lycaeos,</l>
+                    <l>Tu, quem prosequimur merita pietate, Minister.</l>
+                    <l>Scilicet aera ferent impensam publica parvam,</l>
+                    <l>Quantaque praebebit tenuis res commoda nobis !</l>
+                    <l>Non jam ridiculo mandabit verba papyro</l>
+                    <l>Censor quem famulus sine majestate pererrans</l>
+                    <l>Huc ferat atque illuc : adhibetur machina : linum</l>
+                    <l>Ducitur : increpuit jam vox austera per auras :</l>
+                    <l>« Discipulum, precor, indomitum mihi mitte, magister,</l>
+                    <l>Quem liceat nobis immani affligere penso ;</l>
+                    <l>Curet et ille simul metuendum afferre libellum</l>
+                    <l>Quo genitor culpam noscat, mulctetque noscentem. »</l>
+                    <l/>
+                    <l>Sed quid plura loquar ? non taedia longa magistros</l>
+                    <l>Vexabunt eadem toties iterare coactos,</l>
+                    <l>Ne totus pereat labor irritus, atque eadem eras</l>
+                    <l>Discipuli stupeant inhiantes ore rogati.</l>
+                    <l>Scilicet haud miseris sunt ferrea pectora, nec vox</l>
+                    <l>Ferrea : siccantur fauces dicentibus ustae,</l>
+                    <l>Membraque singultu quatit arida tussis anhelo.</l>
+                    <l>Haec mala non aegris jam nunc toleranda, nec ulli</l>
+                    <l>Sugere pastillos opus est, fomenta doloris.</l>
+                    <l>Nempe fatigatis aderis, quae verba reportes,</l>
+                    <l>Inque locum subeas, stupefacta machina classe,</l>
+                    <l>Garrulus et fiet de ferro rhetor inerti.</l>
+                    <l/>
+                    <l>Si, non sponte, domi retinetur forte magister</l>
+                    <l>Defessus, nimia quum sedulitate laborat,</l>
+                    <l>Non tamen idcirco dilecta voce carebunt</l>
+                    <l>Discipuli : absentis reddet nam verba locosque</l>
+                    <l><hi rend="i">Phonographus</hi>, certe tanto bene dignus honore.</l>
+                    <l>Affertur risus inter fremitusque videntum :</l>
+                    <l>Ponitur in cathedra : tunc alta silentia fiunt.</l>
+                    <l>Solvitur : en coepit : rapit admiratio classem ;</l>
+                    <l>Auscultant, et verba tremunt metuenda magistri :</l>
+                    <l>Tanta vel absentis soli reverentia voci !</l>
+                    <l/>
+                    <l>Si veterum nossent hunc mortua saecla vivorum,</l>
+                    <l>Inter discipulos, solita pro voce magistri</l>
+                    <l>Cantet nunc Sophocles et causa Tullius oret,</l>
+                    <l>Vivaque nunc validi fremerent Demosthenis ora :</l>
+                    <l>Quin etiam, magni Caroli vox alta sonaret</l>
+                    <l>Hac in sede sua, quum jam provectior aevo</l>
+                    <l>Acres ingeniis stimulos juvenilibus addens</l>
+                    <l>Omnibus injiceret studiorum et laudis amorem :</l>
+                    <l>« Eia laborandum, juvenes, operique vacandum !</l>
+                    <l>Aemulus ardenti comitem pede quisque sequatur :</l>
+                    <l>Nobilis ambitio, si non est aequa cupido</l>
+                    <l>Viribus : hinc, animi socordes, ite, profani !</l>
+                    <l>At te, pulchra cohors, majorum exempla secutam</l>
+                    <l>Gallia te sobolem non indignata recuset ! »</l>
+                </quote>
+                <p/>
+            </div>
+        </body>
+    </text>
 </TEI>

@@ -12,7 +12,11 @@
         <edition>OBVIL</edition>
         <respStmt>
           <name>Nicolas Bove</name>
-          <resp>Stylage sémantique ; Eric Thiébaud Stylage sémantique</resp>
+          <resp>Stylage sémantique</resp>
+        </respStmt>
+        <respStmt>
+          <name>Eric Thiébaud</name>
+          <resp>Stylage sémantique</resp>
         </respStmt>
         <respStmt>
           <name>Stella Louis</name>
