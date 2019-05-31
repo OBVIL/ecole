@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>« Christophe Colomb découvre l’Amérique »</title>
-                <author key="Deschanel, Paul (1855-1922)">Paul Deschanel</author>
+                <author key="Deschanel, Paul (1855-1922)"
+                    ref="https://data.bnf.fr/fr/12307483/paul_deschanel/">Paul Deschanel</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -18,19 +19,34 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/deschanel-paul_christophe-colomb-decouvre-l-amerique</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire
+                            d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
+                            OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété
+                            intellectuelle sur les bases de données (L341-1) est mise à disposition
+                            de la communauté scientifique internationale par l’OBVIL, selon les
+                            termes de la licence Creative Commons : « Attribution - Pas
+                            d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
+                            3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou
+                            publication dérivée de cette ressource électroniques comportera le nom
+                            de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
+                            scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
+                            ressource électronique, notamment en intégrant toutes les contributions
+                            extérieures. La diffusion de versions modifiées de cette ressource n’est
+                            pas souhaitable.</p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Paul Deschanel, « Christophe Colomb découvre l’Amérique », <hi rend="i">Le Cahier d'honneur. Revue de l'enseignement secondaire</hi>, 2<hi rend="sup">e</hi> année, n° 25, 1869, p. 7.</bibl>
+                <bibl>Paul Deschanel, « Christophe Colomb découvre l’Amérique », <hi rend="i">Le
+                        Cahier d'honneur. Revue de l'enseignement secondaire</hi>, 2<hi rend="sup"
+                        >e</hi> année, n° 25, 1869, p. 7.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -44,56 +60,56 @@
     </teiHeader>
     <text>
         <body>
-<div>
-    <head>« Christophe Colomb découvre l’Amérique » 
-        <lb/>[classe de troisième, 30 octobre 1868]</head>
-    <p/>
-    <quote>
-        <l>Binos jam menses, nondum explorata Columbus</l>
-        <l>Aequora lustrabat certus ; sed fortibus obstant</l>
-        <l>Coeptis fata ducis. Pavitanti pectore, nautae</l>
-        <l>Europam cupiunt, patriamque revisere terram.</l>
-        <l>Magnanimo recreans mentes ardore Columbus :</l>
-        <l>« Tertia lux classem longinqua sistet in acta ;</l>
-        <l>Tertia lux vobis famam donabit, et orbem</l>
-        <l>Ignotum, terrasque novo sub sole jacentes ! »</l>
-        <l>Interea jam prima dies, fugientibus horis,</l>
-        <l>Effluit : et frustra dux vastum interrogat aequor</l>
-        <l>Luminibus fixis, absentesve adspicit oras :</l>
-        <l>Terram in conspectu nullam !... Altera surgit</l>
-        <l>Aurora pallente, dies… Nil prospicit usquam !</l>
-        <l>Tertia lux tandem vastis emergit ab undis ;</l>
-        <l>O, si consurgant promissae littora terrae !</l>
-        <l>Nil, nisi pontus adhuc patet undique et undique caelum.</l>
-        <l>Tum vero exarsit nautis furor omnibus ingens ;</l>
-        <l>Incusantque ducem, et jactant minitantia verba :</l>
-        <l>« Insanus pereat, qui nos in gurgitis umbras</l>
-        <l>Infernas rapit ! Heus ! pereat, qui, perfidus auctor,</l>
-        <l>Nos patria abduxit miseros, et dulcibus arvis !</l>
-        <l>Quando nulla salus nobis, solatia saltem</l>
-        <l>Tu dabis exitio, primus, promissaque falsa</l>
-        <l>Digna morte lues, tibi sint maria ista sepulcrum ;</l>
-        <l>I, demens ! I, quaere novas sub fluctibus oras ! »</l>
-        <l>Jamqe virum turba arreptum rapiuntque ruuntque…</l>
-        <l>Ecce autem celsus malo speculator ab alto,</l>
-        <l>Incclamat : « Terram ! » – « Terram ! » omnis turba repente</l>
-        <l>Ingeminat ; caecum subito exsecrata furorem,</l>
-        <l>Magnanimum ante virum procumbit, poplite flexo,</l>
-        <l>Atque orat veniam. Laetanti corde Columbus</l>
-        <l>Immotus manet, atque suum jam conspicit orbem.</l>
-        <l>Interea malis variae circumque supraque</l>
-        <l>Insidunt volucres ; pictis nova littora cunctae</l>
-        <l>Ultro alis referunt, arbustaque florida narrant.</l>
-        <l>Adspirat velis clementior aura Favoni ;</l>
-        <l>Tum novus apparet fulgens splendore corusco</l>
-        <l>Orbis, et umbrosis viridantia littora silvis.</l>
-        <l>Tum, divinata tandem regione potitus,</l>
-        <l>Desilit in littus victor, genibusque volutis,</l>
-        <l>Ad caelum alterius grates pro munere terrae</l>
-        <l>Fundit ovans, figitque crucem, pia signa salutis.</l>
-    </quote>
-    <p/>
-</div>
-</body>
-</text>
+            <div>
+                <head>« Christophe Colomb découvre l’Amérique » <lb/>[classe de troisième, 30
+                    octobre 1868]</head>
+                <p/>
+                <quote>
+                    <l>Binos jam menses, nondum explorata Columbus</l>
+                    <l>Aequora lustrabat certus ; sed fortibus obstant</l>
+                    <l>Coeptis fata ducis. Pavitanti pectore, nautae</l>
+                    <l>Europam cupiunt, patriamque revisere terram.</l>
+                    <l>Magnanimo recreans mentes ardore Columbus :</l>
+                    <l>« Tertia lux classem longinqua sistet in acta ;</l>
+                    <l>Tertia lux vobis famam donabit, et orbem</l>
+                    <l>Ignotum, terrasque novo sub sole jacentes ! »</l>
+                    <l>Interea jam prima dies, fugientibus horis,</l>
+                    <l>Effluit : et frustra dux vastum interrogat aequor</l>
+                    <l>Luminibus fixis, absentesve adspicit oras :</l>
+                    <l>Terram in conspectu nullam !... Altera surgit</l>
+                    <l>Aurora pallente, dies… Nil prospicit usquam !</l>
+                    <l>Tertia lux tandem vastis emergit ab undis ;</l>
+                    <l>O, si consurgant promissae littora terrae !</l>
+                    <l>Nil, nisi pontus adhuc patet undique et undique caelum.</l>
+                    <l>Tum vero exarsit nautis furor omnibus ingens ;</l>
+                    <l>Incusantque ducem, et jactant minitantia verba :</l>
+                    <l>« Insanus pereat, qui nos in gurgitis umbras</l>
+                    <l>Infernas rapit ! Heus ! pereat, qui, perfidus auctor,</l>
+                    <l>Nos patria abduxit miseros, et dulcibus arvis !</l>
+                    <l>Quando nulla salus nobis, solatia saltem</l>
+                    <l>Tu dabis exitio, primus, promissaque falsa</l>
+                    <l>Digna morte lues, tibi sint maria ista sepulcrum ;</l>
+                    <l>I, demens ! I, quaere novas sub fluctibus oras ! »</l>
+                    <l>Jamqe virum turba arreptum rapiuntque ruuntque…</l>
+                    <l>Ecce autem celsus malo speculator ab alto,</l>
+                    <l>Incclamat : « Terram ! » – « Terram ! » omnis turba repente</l>
+                    <l>Ingeminat ; caecum subito exsecrata furorem,</l>
+                    <l>Magnanimum ante virum procumbit, poplite flexo,</l>
+                    <l>Atque orat veniam. Laetanti corde Columbus</l>
+                    <l>Immotus manet, atque suum jam conspicit orbem.</l>
+                    <l>Interea malis variae circumque supraque</l>
+                    <l>Insidunt volucres ; pictis nova littora cunctae</l>
+                    <l>Ultro alis referunt, arbustaque florida narrant.</l>
+                    <l>Adspirat velis clementior aura Favoni ;</l>
+                    <l>Tum novus apparet fulgens splendore corusco</l>
+                    <l>Orbis, et umbrosis viridantia littora silvis.</l>
+                    <l>Tum, divinata tandem regione potitus,</l>
+                    <l>Desilit in littus victor, genibusque volutis,</l>
+                    <l>Ad caelum alterius grates pro munere terrae</l>
+                    <l>Fundit ovans, figitque crucem, pia signa salutis.</l>
+                </quote>
+                <p/>
+            </div>
+        </body>
+    </text>
 </TEI>

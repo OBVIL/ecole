@@ -7,7 +7,7 @@
             <titleStmt>
               <title>« Les mésaventures de deux habitants de Falaise »</title>
               <author key="Deseilligny, Paul">Paul Deseilligny</author>
-              <author key="Hermant, Abel (1862-1950)">Abel Hermant</author>
+              <author key="Hermant, Abel (1862-1950)" ref="https://data.bnf.fr/fr/12090487/abel_hermant/">Abel Hermant</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -19,7 +19,7 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+              <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/deseilligny-paul-et-hermant-abel_mesaventures-de-deux-habitants-de-falaise</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
                         <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -31,7 +31,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-              <bibl>Paul Deseilligny et Abel Hermant, « Les mésaventures de deux habitants de Falaise », <hi rend="i">Lycée Fontanes. Vers latins lus au banquet de la Saint-Charlemagne</hi>, Paris, imprimerie typographique Kugelmann, 1879.</bibl>
+              <bibl>Paul Deseilligny et Abel Hermant, « Les mésaventures de deux habitants de Falaise », <hi rend="i">Lycée Fontanes. Vers latins lus au banquet de la Saint-Charlemagne</hi>, <pubPlace>Paris</pubPlace>, <publisher>imprimerie typographique Kugelmann</publisher>, 1879.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

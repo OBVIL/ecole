@@ -6,7 +6,8 @@
         <fileDesc>
             <titleStmt>
                 <title>« Le chien du mont Saint-Bernard »</title>
-                <author key="Deschanel, Paul (1855-1922)">Paul Deschanel</author>
+                <author key="Deschanel, Paul (1855-1922)"
+                    ref="https://data.bnf.fr/fr/12307483/paul_deschanel/">Paul Deschanel</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -18,19 +19,34 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/deschanel-paul_chien-du-mont-saint-bernard</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire
+                            d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
+                            OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété
+                            intellectuelle sur les bases de données (L341-1) est mise à disposition
+                            de la communauté scientifique internationale par l’OBVIL, selon les
+                            termes de la licence Creative Commons : « Attribution - Pas
+                            d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
+                            3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou
+                            publication dérivée de cette ressource électroniques comportera le nom
+                            de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
+                            scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
+                            ressource électronique, notamment en intégrant toutes les contributions
+                            extérieures. La diffusion de versions modifiées de cette ressource n’est
+                            pas souhaitable.</p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Paul Deschanel, « Le chien du mont Saint-Bernard », <hi rend="i">Le Cahier d'honneur. Revue de l'enseignement secondaire</hi>, 2<hi rend="sup">e</hi> année, n° 25, 1869, p. 6-7.</bibl>
+                <bibl>Paul Deschanel, « Le chien du mont Saint-Bernard », <hi rend="i">Le Cahier
+                        d'honneur. Revue de l'enseignement secondaire</hi>, 2<hi rend="sup">e</hi>
+                    année, n° 25, 1869, p. 6-7.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -44,57 +60,57 @@
     </teiHeader>
     <text>
         <body>
-<div>
-    <head>« Le chien du mont Saint-Bernard »
-        <lb/>[classe de troisième, 30 octobre 1868]</head>
-    <p/>
-    <quote>
-        <l>Montibus alpinis incedit summa viator</l>
-        <l>Per juga, ferrata niveis in callibus hasta</l>
-        <l>Ignotum tentans iter ; at constricta laborant</l>
-        <l>Membra gelu. Lento superans obstantia passu,</l>
-        <l>Frigore paulatim victus tremit ; aeger ad auras</l>
-        <l>Clamores tollit miserandos, si cava tantum</l>
-        <l>Vastaque saxa procul scirent miserescere… at Echo</l>
-        <l>Sola refert vocem ; respondet fletibus Echo</l>
-        <l>Sola !... Adolescentis tum gliscit pectore terror,</l>
-        <l>Dum gelidas errat per rupes, indigus omni</l>
-        <l>Auxilio vitae. Deserta per ardua montis,</l>
-        <l>Proh dolor ! ecce nivis magno splendore coruscae</l>
-        <l>Lumina fessa natant ; artus torpore gravantur.</l>
-        <l>Amens, conatur funestum arcere soporem ;</l>
-        <l>Nequidquam ! Devicta gravi jam lumina somno</l>
-        <l>Claudit, et, exhaustus, tandem procumbit humi vir.</l>
-        <l>Infelix, patriam longinquam mente revisit ;</l>
-        <l>Oscula sentit adhuc patris, caraeque sororis ;</l>
-        <l>Et, jamjam moriens, matrem reminiscitur… orbam !</l>
-        <l>Ingruit alta quies placidaeque simillima morti.</l>
-        <l>Ultimus, ah ! misero sopor ! ultima somnia !... At ecce</l>
-        <l>Collo vina cibumque gerens, praestante molossus</l>
-        <l>Corpore, praecipiti cursu festinat anhelans.</l>
-        <l>Effodit immersum glacie niveoque sepulchro,</l>
-        <l>Atque quiescenti paulisper obambulat ; ora</l>
-        <l>Pallida luminibus lustras, immobilis haeret.</l>
-        <l>Sollicitus, vocat exanimem, lingaque jacentem</l>
-        <l>Lambit, et adstrictos refovet complexibus artus ;</l>
-        <l>Frigida labra viri atque genae coepere rubere ;</l>
-        <l>Palpebras aperit languentes ; membra soporem</l>
-        <l>Excutiunt ; neque jam torpent huic crura rigenti.</l>
-        <l>Vir tandem magnos oculos ad sidera tollit,</l>
-        <l>Agnoscitque canem ; de collo plena lagena</l>
-        <l>Pendet ; eam arripiens avido bibit ore viator ;</l>
-        <l>Vina novas reddunt vires ; tum surgere primum</l>
-        <l>Nequidquam enisus, validi devincta molossi</l>
-        <l>Rursus conatur collo dare brachia circum.</l>
-        <l>Tandem, consurgens, graditur, sequiturque vocantem.</l>
-        <l>Laetitiam clamore canens, praeit ille superbus,</l>
-        <l>Atque movet caudam ; compellat voce ; sequentem</l>
-        <l>Respicit interdum… Mox alta cacumina longe</l>
-        <l>Adscipit hospitii redivivo corde viator ;</l>
-        <l>Atque Deo solvit, vitae pro munere, grates.</l>
-    </quote>
-    <p/>
-</div>
-</body>
-</text>
+            <div>
+                <head>« Le chien du mont Saint-Bernard » <lb/>[classe de troisième, 30 octobre
+                    1868]</head>
+                <p/>
+                <quote>
+                    <l>Montibus alpinis incedit summa viator</l>
+                    <l>Per juga, ferrata niveis in callibus hasta</l>
+                    <l>Ignotum tentans iter ; at constricta laborant</l>
+                    <l>Membra gelu. Lento superans obstantia passu,</l>
+                    <l>Frigore paulatim victus tremit ; aeger ad auras</l>
+                    <l>Clamores tollit miserandos, si cava tantum</l>
+                    <l>Vastaque saxa procul scirent miserescere… at Echo</l>
+                    <l>Sola refert vocem ; respondet fletibus Echo</l>
+                    <l>Sola !... Adolescentis tum gliscit pectore terror,</l>
+                    <l>Dum gelidas errat per rupes, indigus omni</l>
+                    <l>Auxilio vitae. Deserta per ardua montis,</l>
+                    <l>Proh dolor ! ecce nivis magno splendore coruscae</l>
+                    <l>Lumina fessa natant ; artus torpore gravantur.</l>
+                    <l>Amens, conatur funestum arcere soporem ;</l>
+                    <l>Nequidquam ! Devicta gravi jam lumina somno</l>
+                    <l>Claudit, et, exhaustus, tandem procumbit humi vir.</l>
+                    <l>Infelix, patriam longinquam mente revisit ;</l>
+                    <l>Oscula sentit adhuc patris, caraeque sororis ;</l>
+                    <l>Et, jamjam moriens, matrem reminiscitur… orbam !</l>
+                    <l>Ingruit alta quies placidaeque simillima morti.</l>
+                    <l>Ultimus, ah ! misero sopor ! ultima somnia !... At ecce</l>
+                    <l>Collo vina cibumque gerens, praestante molossus</l>
+                    <l>Corpore, praecipiti cursu festinat anhelans.</l>
+                    <l>Effodit immersum glacie niveoque sepulchro,</l>
+                    <l>Atque quiescenti paulisper obambulat ; ora</l>
+                    <l>Pallida luminibus lustras, immobilis haeret.</l>
+                    <l>Sollicitus, vocat exanimem, lingaque jacentem</l>
+                    <l>Lambit, et adstrictos refovet complexibus artus ;</l>
+                    <l>Frigida labra viri atque genae coepere rubere ;</l>
+                    <l>Palpebras aperit languentes ; membra soporem</l>
+                    <l>Excutiunt ; neque jam torpent huic crura rigenti.</l>
+                    <l>Vir tandem magnos oculos ad sidera tollit,</l>
+                    <l>Agnoscitque canem ; de collo plena lagena</l>
+                    <l>Pendet ; eam arripiens avido bibit ore viator ;</l>
+                    <l>Vina novas reddunt vires ; tum surgere primum</l>
+                    <l>Nequidquam enisus, validi devincta molossi</l>
+                    <l>Rursus conatur collo dare brachia circum.</l>
+                    <l>Tandem, consurgens, graditur, sequiturque vocantem.</l>
+                    <l>Laetitiam clamore canens, praeit ille superbus,</l>
+                    <l>Atque movet caudam ; compellat voce ; sequentem</l>
+                    <l>Respicit interdum… Mox alta cacumina longe</l>
+                    <l>Adscipit hospitii redivivo corde viator ;</l>
+                    <l>Atque Deo solvit, vitae pro munere, grates.</l>
+                </quote>
+                <p/>
+            </div>
+        </body>
+    </text>
 </TEI>

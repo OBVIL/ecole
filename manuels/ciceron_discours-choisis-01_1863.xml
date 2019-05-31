@@ -7,6 +7,8 @@
       <titleStmt>
         <title>Discours choisis ; traduction française par W. Rinn et B. Villefore. Première partie.</title>
         <author key="Cicéron (0106-0043 av. J.-C.)" ref="https://data.bnf.fr/fr/11885977/ciceron/">Cicéron</author>
+        <author role="translator" key="Rinn, Louis Wilhelm (1824-1875)">Louis Wilhelm Rinn</author>
+        <author role="translator" key="Villefore, Joseph-François Bourgoing de (1652-1737)" ref="https://data.bnf.fr/fr/12006968/joseph-francois_bourgoing_de_villefore/">Joseph-François Bourgoing de Villefore</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

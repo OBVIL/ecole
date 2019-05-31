@@ -18,19 +18,37 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/bosseux-louis_union-des-lettres-et-des-sciences</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire
+                            d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
+                            OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété
+                            intellectuelle sur les bases de données (L341-1) est mise à disposition
+                            de la communauté scientifique internationale par l’OBVIL, selon les
+                            termes de la licence Creative Commons : « Attribution - Pas
+                            d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
+                            3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou
+                            publication dérivée de cette ressource électroniques comportera le nom
+                            de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
+                            scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
+                            ressource électronique, notamment en intégrant toutes les contributions
+                            extérieures. La diffusion de versions modifiées de cette ressource n’est
+                            pas souhaitable.</p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Louis Bosseux, « Sur l’union des lettres et des sciences dans l’éducation », <hi rend="i">Concours généraux de l’Université. Devoirs donnés au concours général entre les élèves des collèges de Paris et de Versailles suivis de copies d’élèves couronnés, année 1853</hi>, Paris, Jules Delalain, 1854, p. 92-95. Sources : <ref target="https://books.google.fr/books?id=3gQBAAAAYAAJ">Google</ref>.</bibl>
+                <bibl>Louis Bosseux, « Sur l’union des lettres et des sciences dans l’éducation »,
+                        <hi rend="i">Concours généraux de l’Université. Devoirs donnés au concours
+                        général entre les élèves des collèges de Paris et de Versailles suivis de
+                        copies d’élèves couronnés, année 1853</hi>, <pubPlace>Paris</pubPlace>, <publisher>Jules Delalain</publisher>, 1854, p.
+                    92-95. Sources : <ref target="https://books.google.fr/books?id=3gQBAAAAYAAJ"
+                        >Google</ref>.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -45,8 +63,32 @@
     <text>
         <body>
             <div>
-                <head>Louis Bosseux, « Sur l’union des lettres et des sciences dans l’éducation<note place="bottom">. Le poème fut composé à partir de la matière suivante : « <hi rend="i">Narrat Lucianus deas sibi quondam esse visas in somno, Sculpturam atque Doctrinam, contendentes utram ipse sequeretur ; se vero Sculpturae valedicentem ad Doctrinam confugisse. Verum Lucianus unam Doctrinam norat. Nunc illa geminas filias peperit. Ambae quidem pulcherrimae, sed diversae tamen et in diversos amores trahentes nostra ingenia, ubi nos ad adolescentiam pervenimus. Gaudet altera facundo eloquio, et versibus canoris, et libris veteribus. Altera docet quibus legibus pareant numeri, formaeque rerum ; aut omnium, quae sunt in mundo, animantium, arborum, lapidum figuras habitumque perspicit ; aut ipsam elementorum scrutatur substantiam ; nec eam fallit subtilis aeris natura ; neque ignis ; neque lucis illius aethereae ; neque arcana vis, quae olim vix magnete apparebat, aut in electro, nunc penitus nota manifestaque tanta miracula efficit : quin ipsa corporum principia, et juncta separat, et jungit separata ; et quasi transmutat inter se ; aut siderum vias describit radio ; aut terrae parentis antiquam originem, historiamque temporum, quibus nondum fuerunt homines, evolvit. O felices nimium, quibus datum est tantas artes exercere ! Me vero dulces, ut ait Virgilius, accipiant Musae, alantque melle suo ut rapiant in loca secreta, ubi vox Homeri auditur, aut Platonis</hi> ! », <hi rend="i">Concours généraux de l’Université. Devoirs donnés au Concours général entre les élèves des collèges de Paris et de Versailles suivis de copies d’élèves couronnés, année 1853</hi>, Paris, Jules Delalain, 1854, p. 8-9.</note> » 
-                    <lb/>[1<hi rend="sup">er</hi> prix des nouveaux au concours général, en 1853]</head>
+                <head>Louis Bosseux, « Sur l’union des lettres et des sciences dans l’éducation<note
+                        place="bottom">. Le poème fut composé à partir de la matière suivante :
+                            « <hi rend="i">Narrat Lucianus deas sibi quondam esse visas in somno,
+                            Sculpturam atque Doctrinam, contendentes utram ipse sequeretur ; se vero
+                            Sculpturae valedicentem ad Doctrinam confugisse. Verum Lucianus unam
+                            Doctrinam norat. Nunc illa geminas filias peperit. Ambae quidem
+                            pulcherrimae, sed diversae tamen et in diversos amores trahentes nostra
+                            ingenia, ubi nos ad adolescentiam pervenimus. Gaudet altera facundo
+                            eloquio, et versibus canoris, et libris veteribus. Altera docet quibus
+                            legibus pareant numeri, formaeque rerum ; aut omnium, quae sunt in
+                            mundo, animantium, arborum, lapidum figuras habitumque perspicit ; aut
+                            ipsam elementorum scrutatur substantiam ; nec eam fallit subtilis aeris
+                            natura ; neque ignis ; neque lucis illius aethereae ; neque arcana vis,
+                            quae olim vix magnete apparebat, aut in electro, nunc penitus nota
+                            manifestaque tanta miracula efficit : quin ipsa corporum principia, et
+                            juncta separat, et jungit separata ; et quasi transmutat inter se ; aut
+                            siderum vias describit radio ; aut terrae parentis antiquam originem,
+                            historiamque temporum, quibus nondum fuerunt homines, evolvit. O felices
+                            nimium, quibus datum est tantas artes exercere ! Me vero dulces, ut ait
+                            Virgilius, accipiant Musae, alantque melle suo ut rapiant in loca
+                            secreta, ubi vox Homeri auditur, aut Platonis</hi> ! », <hi rend="i"
+                            >Concours généraux de l’Université. Devoirs donnés au Concours général
+                            entre les élèves des collèges de Paris et de Versailles suivis de copies
+                            d’élèves couronnés, année 1853</hi>, Paris, Jules Delalain, 1854, p.
+                        8-9.</note> » <lb/>[1<hi rend="sup">er</hi> prix des nouveaux au concours
+                    général, en 1853]</head>
                 <p/>
                 <quote>
                     <l>Olim graius homo, primus qui luce carentes</l>

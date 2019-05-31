@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>« Satan fait la revue des anges rebelles »</title>
-                <author key="Deschanel, Paul (1855-1922)">Paul Deschanel</author>
+                <author key="Deschanel, Paul (1855-1922)" ref="https://data.bnf.fr/fr/12307483/paul_deschanel/">Paul Deschanel</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -18,7 +18,7 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/deschanel-paul_satan-fait-la-revue-des-anges-rebelles</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
                         <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>

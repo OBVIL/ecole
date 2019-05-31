@@ -5,10 +5,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>De la Versification française,
-          préceptes et exercices à l’usage des élèves de rhétorique</title>
-        <title type="sub">Première partie. Préceptes. Conseils aux élèves.</title>
-        <author key="Billet, Henri-Louis" ref="https://data.bnf.fr/fr/13523202/henri-louis_billet/">Henri-Louis Billet</author>
+        <title>De la Versification française, préceptes et exercices à l’usage des élèves de
+          rhétorique. Première partie. Préceptes. Conseils aux élèves.</title>
+        <author key="Billet, Henri-Louis" ref="https://data.bnf.fr/fr/13523202/henri-louis_billet/"
+          >Henri-Louis Billet</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -42,10 +42,10 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Billet, Henri-Louis, <hi rend="i">De la versification française, préceptes
-            et exercices à l’usage des élèves de rhétorique</hi>,
-            <pubPlace>Saint-Quentin</pubPlace>, <publisher>Imprimerie Hourdequin et
-              Thiroux</publisher>, <date>1865</date>, 47 p. PDF: <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k54640923">Gallica</ref>.</bibl>
+        <bibl>Billet, Henri-Louis, <hi rend="i">De la versification française, préceptes et
+            exercices à l’usage des élèves de rhétorique</hi>, <pubPlace>Saint-Quentin</pubPlace>,
+            <publisher>Imprimerie Hourdequin et Thiroux</publisher>, <date>1865</date>, 47 p. PDF:
+            <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k54640923">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1505,7 +1505,7 @@
           depuis la jeune fille jusqu’à la mère, depuis Iphigénie jusqu’à Andromaque, en passant par
           Monime, Bérénice, Hermione et Phèdre.</p>
         <trailer>Fin de la première partie.</trailer>
-        </div>
+      </div>
     </body>
   </text>
 </TEI>
