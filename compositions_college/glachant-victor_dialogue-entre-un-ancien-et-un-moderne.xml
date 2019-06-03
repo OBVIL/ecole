@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>« Dialogue entre un Ancien et un Moderne »</title>
-                <author key="Glachant, Victor (1864-1941)">Victor Glachant</author>
+                <author key="Glachant, Victor (1864-1941)" ref="https://data.bnf.fr/fr/12888775/victor_glachant/">Victor Glachant</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -18,19 +18,34 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/glachant-victor_dialogue-entre-un-ancien-et-un-moderne</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire
+                            d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
+                            OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété
+                            intellectuelle sur les bases de données (L341-1) est mise à disposition
+                            de la communauté scientifique internationale par l’OBVIL, selon les
+                            termes de la licence Creative Commons : « Attribution - Pas
+                            d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
+                            3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou
+                            publication dérivée de cette ressource électroniques comportera le nom
+                            de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
+                            scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
+                            ressource électronique, notamment en intégrant toutes les contributions
+                            extérieures. La diffusion de versions modifiées de cette ressource n’est
+                            pas souhaitable.</p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Victor Glachant, « Dialogue entre un Ancien et un Moderne », <hi rend="i">Lycée Fontanes. Vers latins lus au banquet de la Saint-Charlemagne</hi>, Versailles, imprimerie Cerf et fils, 1881.</bibl>
+                <bibl>Victor Glachant, « Dialogue entre un Ancien et un Moderne », <hi rend="i"
+                        >Lycée Fontanes. Vers latins lus au banquet de la Saint-Charlemagne</hi>,
+                    <pubPlace>Versailles</pubPlace>, <publisher>imprimerie Cerf et fils</publisher>, <date>1881</date>.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -44,183 +59,183 @@
     </teiHeader>
     <text>
         <body>
-<div>
-    <head>Victor Glachant, « Dialogue entre un Ancien et un Moderne » 
-        <lb/>[banquet de la Saint-Charlemagne, 29 janvier 1881]</head>
-    <p/>
-    <label>Rhétoricien Vétéran</label>
-    <quote>
-        <l>Venit festa dies Caroli ! Laetare, sodalis ;</l>
-        <l>Tempus adest !...</l>
-        <l/>
-    </quote>
-    <label>Rhétoricien Nouveau</label>
-    <quote>
-        <l>                            Quid agis ? Versus tentare latinos</l>
-        <l>Te juvat ! O, dicam quo te, bone, nomine ? Certe</l>
-        <l>Te geris intrepidum, sopitam funere diro</l>
-        <l>In lucem qui coneris revocare camoenam !</l>
-        <l>Vana impensa perit ; silet, aeternumque silebit.</l>
-        <l>Desierunt Musae latias garrire loquelas.</l>
-        <l/>
-    </quote>
-    <label>Vétéran</label>
-    <quote>
-        <l>Eheu ! jure quidem stultum me, dulcis amice,</l>
-        <l>Increpitas ! Sed enim quondam docuere magistri</l>
-        <l>Me servare procul vestigia sacra Maronis.</l>
-        <l>Illis auspicibus (fateor, non divite vena),</l>
-        <l>Carmina procudi.. damnet quae forsan Apollo,</l>
-        <l>Non prave tornata tamen…</l>
-        <l/>
-    </quote>
-    <label>Nouveau</label>
-    <quote>
-        <l>                                         Quid plura, sodalis ?</l>
-        <l>Desine, praeteriti laudator temporis, usus</l>
-        <l>Irrita quae tandem monstravit, tollere ad astra.</l>
-        <l>Decretum hexametros, nisi fallor, sustulit.</l>
-        <l/>
-    </quote>
-    <label>Vétéran</label>
-    <quote>
-        <l>                                                       Immo</l>
-        <l>Applausere omnes : ego solus flebile luxi ;</l>
-        <l>Non quia laetari quemquam fert taedia nobis,</l>
-        <l>Sed quibus assueris quia perdere praemia durum est.</l>
-        <l/>
-    </quote>
-    <label>Nouveau</label>
-    <quote>
-        <l>Ne doleas ! Nempe egregio qui pectore pollent,</l>
-        <l>Nunc etiam numeris possunt sua nectere verba.</l>
-        <l/>
-    </quote>
-    <label>Vétéran</label>
-    <quote>
-        <l>Dum liquet, esperiar : facit admiratio versus.</l>
-        <l>Ante oculos quae panduntur spectacula rerum !</l>
-        <l>Quae vox digna satis referat mensasque nitentes,</l>
-        <l>Instructamque dapum seriem procul ordine longo !</l>
-        <l>Aspice vina, comes, non inferiora Falerno ;</l>
-        <l>Aspice et altilium disjecta cadavera, coenae</l>
-        <l>Relliquias, avidos malarum experta furores,</l>
-        <l>Et patinas quibus esca fuit !... Ditissima prorsus</l>
-        <l>Vati materies, et carmine digna latino !</l>
-        <l/>
-    </quote>
-    <label>Nouveau</label>
-    <quote>
-        <l>Discimus hic Lucullano pinguescere ritu.</l>
-        <l>Sed de ventre nimis loqueris, laticemque Lyaeum</l>
-        <l>Laudas atque cibos, tantum terrestria curans.</l>
-        <l>Eia age ! discipulos potius, laeta agmina, cerne,</l>
-        <l>Quos domus haec aluit, felici carcere clausos,</l>
-        <l>Ac dulce hospitium teneris excepit ab annis,</l>
-        <l>Quos dein vita viros, cives mox Gallia poscat,</l>
-        <l>Libertate data !</l>
-        <l/>
-    </quote>
-    <label>Vétéran</label>
-    <quote>
-        <l>                       Cujus non venit ad aures</l>
-        <l>Illius insignis celeberrima fama Lycei ?</l>
-        <l>Ut volucres, alata cohors, ad pabula nota</l>
-        <l>Saepe volant, comites hilari clamore vocantes,</l>
-        <l>Sic in eas aedes succedit alumnus alumno,</l>
-        <l>Inque dies crescit numerus.</l>
-        <l/>
-    </quote>
-    <label>Nouveau</label>
-    <quote>
-        <l>                                                Non unica turbam</l>
-        <l>Continet immensam domus, irrumpentibus impar</l>
-        <l>Fluctibus ; at populo spatium jam quaeritur amplum ;</l>
-        <l>Plures discipuli jam limina prisca relinquunt,</l>
-        <l>Adque novas aedes vicinaque tecta feruntur ;</l>
-        <l>Fitque domus major : physicis poscentibus, alta</l>
-        <l>Atria procumbunt ducis ; amphitheatra superba</l>
-        <l>Exsurgunt : licet<hi rend="i"> ingenti procedere pompa</hi> !</l>
-        <l/>
-    </quote>
-    <label>Vétéran</label>
-    <quote>
-        <l>Nec mutata domus tantum : labentibus annis,</l>
-        <l>Pulcher, at insolitus, studiorum nascitur ordo,</l>
-        <l>Antiquo potior, famae si credere fas est.</l>
-        <l/>
-    </quote>
-    <label>Nouveau</label>
-    <quote>
-        <l>Men’igitur nescire putas ? Tu, fautor avorum,</l>
-        <l>Forsitan ignoras quali ratione regamur.</l>
-        <l>Hanc vellem narrare tibi ; sed voce molesta</l>
-        <l>Nequicquam vexarem aures…</l>
-        <l/>
-    </quote>
-    <label>Vétéran</label>
-    <quote>
-        <l>                                             Te decipit error :</l>
-        <l>Dic age, ne dubita ! Possum laudare recentes.</l>
-        <l/>
-    </quote>
-    <label>Nouveau</label>
-    <quote>
-        <l>O Pueri, pueri, tristes auferte querelas !</l>
-        <l>Non jam grammatice terrebit somnia vestra ;</l>
-        <l>Jam versare manu nemo exemplaria graeca</l>
-        <l>Romanosque libros primis vos coget ab annis.</l>
-        <l>Quum fiet vobis paulo maturior aetas,</l>
-        <l>Noscere tum dabitur, cecinit quae grandis Homerus,</l>
-        <l>Quidve Maro, aut acer mordaci carmine Flaccus :</l>
-        <l>Discetis melius breviori tempore linguas.</l>
-        <l/>
-    </quote>
-    <label>Vétéran</label>
-    <quote>
-        <l>Sed quid adhuc facient ? Parcentne labori ?</l>
-        <l>Quidve docebuntur pueri ?</l>
-        <l/>
-    </quote>
-    <label>Nouveau</label>
-    <quote>
-        <l>                                       Quid ? Magna profecto.</l>
-        <l>Ipsas incipient rerum cognoscere formas,</l>
-        <l>Materiemque ipsam, silicem, lapidesque metallis</l>
-        <l>Permixtos, quo sit Marpesia robore cautes.</l>
-        <l>Stat cujusque rei specimen ; collecta feruntur</l>
-        <l>Per dextras exempla, notis inscripta disertis.</l>
-        <l>Attonito pueri mirantur lumine cuncta :</l>
-        <l>Expleri nequeunt juvenilia corda tuendo</l>
-        <l>Relliquias, lacertosque artus, vasta ossa ferarum,</l>
-        <l>Atque <hi rend="i">praehistorici</hi> spatium admirabile monstri.</l>
-        <l>Plura per adspectum : bene habet. Sic tempora poscunt !</l>
-        <l/>
-    </quote>
-    <label>Vétéran</label>
-    <quote>
-        <l>Tempora num poscunt studia interrupta relinqui ?</l>
-        <l>Anxius hoc spectat juvenis, ne laurea bacca</l>
-        <l>Tardius adveniat, nimio quaesita labore.</l>
-        <l>Nunc gaudet quoniam superavit gallica lingua,</l>
-        <l>Atque solaecismum ridet…</l>
-        <l/>
-    </quote>
-    <label>Nouveau</label>
-    <quote>
-        <l>                                              Ridebitur olim</l>
-        <l>Qui risit citius !... sed non et flere necessum est.</l>
-        <l>Ne timeas ! Non obliti sunt laudis avitae</l>
-        <l>Discipuli : nequeunt, tali duce, et auspice tali,</l>
-        <l>Se praebere pigros, turpique jacere veterno.</l>
-        <l>Optime provisor, grates nunc accipe nostras,</l>
-        <l>Et promissa simul ! Vosque, o laetissima turba,</l>
-        <l>Insanire licet, dum vos habet hospita mensa.</l>
-        <l>Nos hodie Libertati libabimus una :</l>
-        <l>Cras, ingens, socii, studiorum iterabimus aequor !</l>
-    </quote>
-    <p/>
-</div>
-</body>
-</text>
+            <div>
+                <head>Victor Glachant, « Dialogue entre un Ancien et un Moderne » <lb/>[banquet de
+                    la Saint-Charlemagne, 29 janvier 1881]</head>
+                <p/>
+                <label>Rhétoricien Vétéran</label>
+                <quote>
+                    <l>Venit festa dies Caroli ! Laetare, sodalis ;</l>
+                    <l>Tempus adest !...</l>
+                    <l/>
+                </quote>
+                <label>Rhétoricien Nouveau</label>
+                <quote>
+                    <l>                            Quid agis ? Versus tentare latinos</l>
+                    <l>Te juvat ! O, dicam quo te, bone, nomine ? Certe</l>
+                    <l>Te geris intrepidum, sopitam funere diro</l>
+                    <l>In lucem qui coneris revocare camoenam !</l>
+                    <l>Vana impensa perit ; silet, aeternumque silebit.</l>
+                    <l>Desierunt Musae latias garrire loquelas.</l>
+                    <l/>
+                </quote>
+                <label>Vétéran</label>
+                <quote>
+                    <l>Eheu ! jure quidem stultum me, dulcis amice,</l>
+                    <l>Increpitas ! Sed enim quondam docuere magistri</l>
+                    <l>Me servare procul vestigia sacra Maronis.</l>
+                    <l>Illis auspicibus (fateor, non divite vena),</l>
+                    <l>Carmina procudi.. damnet quae forsan Apollo,</l>
+                    <l>Non prave tornata tamen…</l>
+                    <l/>
+                </quote>
+                <label>Nouveau</label>
+                <quote>
+                    <l>                                         Quid plura, sodalis ?</l>
+                    <l>Desine, praeteriti laudator temporis, usus</l>
+                    <l>Irrita quae tandem monstravit, tollere ad astra.</l>
+                    <l>Decretum hexametros, nisi fallor, sustulit.</l>
+                    <l/>
+                </quote>
+                <label>Vétéran</label>
+                <quote>
+                    <l>                                                       Immo</l>
+                    <l>Applausere omnes : ego solus flebile luxi ;</l>
+                    <l>Non quia laetari quemquam fert taedia nobis,</l>
+                    <l>Sed quibus assueris quia perdere praemia durum est.</l>
+                    <l/>
+                </quote>
+                <label>Nouveau</label>
+                <quote>
+                    <l>Ne doleas ! Nempe egregio qui pectore pollent,</l>
+                    <l>Nunc etiam numeris possunt sua nectere verba.</l>
+                    <l/>
+                </quote>
+                <label>Vétéran</label>
+                <quote>
+                    <l>Dum liquet, esperiar : facit admiratio versus.</l>
+                    <l>Ante oculos quae panduntur spectacula rerum !</l>
+                    <l>Quae vox digna satis referat mensasque nitentes,</l>
+                    <l>Instructamque dapum seriem procul ordine longo !</l>
+                    <l>Aspice vina, comes, non inferiora Falerno ;</l>
+                    <l>Aspice et altilium disjecta cadavera, coenae</l>
+                    <l>Relliquias, avidos malarum experta furores,</l>
+                    <l>Et patinas quibus esca fuit !... Ditissima prorsus</l>
+                    <l>Vati materies, et carmine digna latino !</l>
+                    <l/>
+                </quote>
+                <label>Nouveau</label>
+                <quote>
+                    <l>Discimus hic Lucullano pinguescere ritu.</l>
+                    <l>Sed de ventre nimis loqueris, laticemque Lyaeum</l>
+                    <l>Laudas atque cibos, tantum terrestria curans.</l>
+                    <l>Eia age ! discipulos potius, laeta agmina, cerne,</l>
+                    <l>Quos domus haec aluit, felici carcere clausos,</l>
+                    <l>Ac dulce hospitium teneris excepit ab annis,</l>
+                    <l>Quos dein vita viros, cives mox Gallia poscat,</l>
+                    <l>Libertate data !</l>
+                    <l/>
+                </quote>
+                <label>Vétéran</label>
+                <quote>
+                    <l>                       Cujus non venit ad aures</l>
+                    <l>Illius insignis celeberrima fama Lycei ?</l>
+                    <l>Ut volucres, alata cohors, ad pabula nota</l>
+                    <l>Saepe volant, comites hilari clamore vocantes,</l>
+                    <l>Sic in eas aedes succedit alumnus alumno,</l>
+                    <l>Inque dies crescit numerus.</l>
+                    <l/>
+                </quote>
+                <label>Nouveau</label>
+                <quote>
+                    <l>                                                Non unica turbam</l>
+                    <l>Continet immensam domus, irrumpentibus impar</l>
+                    <l>Fluctibus ; at populo spatium jam quaeritur amplum ;</l>
+                    <l>Plures discipuli jam limina prisca relinquunt,</l>
+                    <l>Adque novas aedes vicinaque tecta feruntur ;</l>
+                    <l>Fitque domus major : physicis poscentibus, alta</l>
+                    <l>Atria procumbunt ducis ; amphitheatra superba</l>
+                    <l>Exsurgunt : licet<hi rend="i"> ingenti procedere pompa</hi> !</l>
+                    <l/>
+                </quote>
+                <label>Vétéran</label>
+                <quote>
+                    <l>Nec mutata domus tantum : labentibus annis,</l>
+                    <l>Pulcher, at insolitus, studiorum nascitur ordo,</l>
+                    <l>Antiquo potior, famae si credere fas est.</l>
+                    <l/>
+                </quote>
+                <label>Nouveau</label>
+                <quote>
+                    <l>Men’igitur nescire putas ? Tu, fautor avorum,</l>
+                    <l>Forsitan ignoras quali ratione regamur.</l>
+                    <l>Hanc vellem narrare tibi ; sed voce molesta</l>
+                    <l>Nequicquam vexarem aures…</l>
+                    <l/>
+                </quote>
+                <label>Vétéran</label>
+                <quote>
+                    <l>                                             Te decipit error :</l>
+                    <l>Dic age, ne dubita ! Possum laudare recentes.</l>
+                    <l/>
+                </quote>
+                <label>Nouveau</label>
+                <quote>
+                    <l>O Pueri, pueri, tristes auferte querelas !</l>
+                    <l>Non jam grammatice terrebit somnia vestra ;</l>
+                    <l>Jam versare manu nemo exemplaria graeca</l>
+                    <l>Romanosque libros primis vos coget ab annis.</l>
+                    <l>Quum fiet vobis paulo maturior aetas,</l>
+                    <l>Noscere tum dabitur, cecinit quae grandis Homerus,</l>
+                    <l>Quidve Maro, aut acer mordaci carmine Flaccus :</l>
+                    <l>Discetis melius breviori tempore linguas.</l>
+                    <l/>
+                </quote>
+                <label>Vétéran</label>
+                <quote>
+                    <l>Sed quid adhuc facient ? Parcentne labori ?</l>
+                    <l>Quidve docebuntur pueri ?</l>
+                    <l/>
+                </quote>
+                <label>Nouveau</label>
+                <quote>
+                    <l>                                       Quid ? Magna profecto.</l>
+                    <l>Ipsas incipient rerum cognoscere formas,</l>
+                    <l>Materiemque ipsam, silicem, lapidesque metallis</l>
+                    <l>Permixtos, quo sit Marpesia robore cautes.</l>
+                    <l>Stat cujusque rei specimen ; collecta feruntur</l>
+                    <l>Per dextras exempla, notis inscripta disertis.</l>
+                    <l>Attonito pueri mirantur lumine cuncta :</l>
+                    <l>Expleri nequeunt juvenilia corda tuendo</l>
+                    <l>Relliquias, lacertosque artus, vasta ossa ferarum,</l>
+                    <l>Atque <hi rend="i">praehistorici</hi> spatium admirabile monstri.</l>
+                    <l>Plura per adspectum : bene habet. Sic tempora poscunt !</l>
+                    <l/>
+                </quote>
+                <label>Vétéran</label>
+                <quote>
+                    <l>Tempora num poscunt studia interrupta relinqui ?</l>
+                    <l>Anxius hoc spectat juvenis, ne laurea bacca</l>
+                    <l>Tardius adveniat, nimio quaesita labore.</l>
+                    <l>Nunc gaudet quoniam superavit gallica lingua,</l>
+                    <l>Atque solaecismum ridet…</l>
+                    <l/>
+                </quote>
+                <label>Nouveau</label>
+                <quote>
+                    <l>                                              Ridebitur olim</l>
+                    <l>Qui risit citius !... sed non et flere necessum est.</l>
+                    <l>Ne timeas ! Non obliti sunt laudis avitae</l>
+                    <l>Discipuli : nequeunt, tali duce, et auspice tali,</l>
+                    <l>Se praebere pigros, turpique jacere veterno.</l>
+                    <l>Optime provisor, grates nunc accipe nostras,</l>
+                    <l>Et promissa simul ! Vosque, o laetissima turba,</l>
+                    <l>Insanire licet, dum vos habet hospita mensa.</l>
+                    <l>Nos hodie Libertati libabimus una :</l>
+                    <l>Cras, ingens, socii, studiorum iterabimus aequor !</l>
+                </quote>
+                <p/>
+            </div>
+        </body>
+    </text>
 </TEI>
