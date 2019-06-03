@@ -18,7 +18,7 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/thierry-lucien-alexandre-marie_union-des-lettres-et-des-sciences</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
                         <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -30,7 +30,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Lucien-Alexandre-Marie Thierry, « Sur l’union des lettres et des sciences dans l’éducation », <hi rend="i">Concours généraux de l’Université. Devoirs donnés au concours général entre les élèves des collèges de Paris et de Versailles suivis de copies d’élèves couronnés, année 1853</hi>, Paris, Jules Delalain, 1854, p. 89-92. Source : <ref target="https://books.google.fr/books?id=3gQBAAAAYAAJ">Google</ref>.</bibl>
+                <bibl>Lucien-Alexandre-Marie Thierry, « Sur l’union des lettres et des sciences dans l’éducation », <hi rend="i">Concours généraux de l’Université. Devoirs donnés au concours général entre les élèves des collèges de Paris et de Versailles suivis de copies d’élèves couronnés, année 1853</hi>, <pubPlace>Paris</pubPlace>, <publisher>Jules Delalain</publisher>, <date>1854</date>, <biblScope>p. 89-92</biblScope>. Source : <ref target="https://books.google.fr/books?id=3gQBAAAAYAAJ">Google</ref>.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

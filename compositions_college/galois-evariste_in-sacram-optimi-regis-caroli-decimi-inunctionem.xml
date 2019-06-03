@@ -6,7 +6,7 @@
         <fileDesc>
             <titleStmt>
                 <title>« In sacram optimi regis Caroli decimi inunctionem »</title>
-                <author key="Galois, Évariste (1811-1832)">Évariste Galois</author>
+                <author key="Galois, Évariste (1811-1832)" ref="https://data.bnf.fr/fr/11903995/evariste_galois/">Évariste Galois</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -18,7 +18,7 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/galois-evariste_in-sacram-optimi-regis-caroli-decimi-inunctionem</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
                         <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -30,7 +30,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Évariste Galois, « In sacram optimi regis Caroli decimi inunctionem », ms. aux Archives nationales : F<hi rend="sup">17</hi> 7646.</bibl>
+                <bibl>Évariste Galois, « In sacram optimi regis Caroli decimi inunctionem », <date>1825</date>, ms. aux Archives nationales : F<hi rend="sup">17</hi> 7646.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

@@ -18,19 +18,37 @@
             <publicationStmt>
                 <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno>http://obvil.sorbonne-universite.fr/ecole/</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/ecole/riche-l-m_discipulus-et-musa-latina-inter-se-colloquuntur</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                        <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire
+                            d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé
+                            OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété
+                            intellectuelle sur les bases de données (L341-1) est mise à disposition
+                            de la communauté scientifique internationale par l’OBVIL, selon les
+                            termes de la licence Creative Commons : « Attribution - Pas
+                            d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND
+                            3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou
+                            publication dérivée de cette ressource électroniques comportera le nom
+                            de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté
+                            scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette
+                            ressource électronique, notamment en intégrant toutes les contributions
+                            extérieures. La diffusion de versions modifiées de cette ressource n’est
+                            pas souhaitable.</p>
                     </licence>
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>L. M. Riché, « Discipulus et Musa latina inter se colloquuntur », <hi rend="i">Concours généraux de l’Université. Devoirs donnés au concours général des lycées et collèges de Paris, de Versailles et des départements, suivis de copies d’élèves couronnés, recueillis et publiés par N.-A. Dubois, professeur de l’Université, année 1868</hi>, Paris, Jules Delalain et fils, [1868].</bibl>
+                <bibl>L. M. Riché, « Discipulus et Musa latina inter se colloquuntur », <hi rend="i"
+                        >Concours généraux de l’Université. Devoirs donnés au concours général des
+                        lycées et collèges de Paris, de Versailles et des départements, suivis de
+                        copies d’élèves couronnés, recueillis et publiés par N.-A. Dubois,
+                        professeur de l’Université, année 1868</hi>, <pubPlace>Paris</pubPlace>, <publisher>Jules Delalain et fils</publisher>,
+                    <date>[1868]</date>.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>
@@ -44,64 +62,81 @@
     </teiHeader>
     <text>
         <body>
-<div>
-    <head>« Discipulus et Musa latina inter se colloquuntur » 
-        <lb/>[2<hi rend="sup">e</hi> prix de seconde au concours général, en 1868]<note place="bottom">. Le poème fut composé à partir de la matière suivante : « <hi rend="i">Discipulus, in subsello male sedens, postquam terque quaterque Thesauri velamen versavit, Musam latinam incusat : ”Quid, Musa, me cogis ungues rodere, caputque tundere innocuum ? Cur frustra contendo, invita Minerva, istos movere spondeos fugacesque dactylos lacessere ? Nonne melius sit aperto potiri campo vel patria saltem lingua poeticam artem tentare ?” Cui Musa subridens : ”Ne doleas, adolescens, neque illam matrem incuses, quae te poenum excepit, quae tuas aures adhuc rudis suavibus modis informavit, quae primos ingenii aestus in te curat adhuc suscitare. Te ipsum adjuva, mox ego, te adjuvabo. Quemadmodum pallus ala matris paulatim alas sentit inscrescere, ita, me fovente, majores in nisus paulatim adolesces”</hi> », <hi rend="i">Concours généraux de l’Université. Devoirs donnés au Concours général des lycées et collèges de Paris, de Versailles et des départements, suivis de copies d’élèves couronnés, recueillis et publiés par N.-A. Dubois, professeur de l’Université, année 1868</hi>, Paris, Jules Delalain et fils, [1868], p. 79.</note></head>
-    <p/>
-    <quote>
-        <l>Dura sede jacens, quum terque quaterque volumen,</l>
-        <l>(Carmina si vigili lateant non nota magistro)</l>
-        <l>Discipulus cupido lustravit lumine, muscae</l>
-        <l>Invidus errantem sequitur trans aethera cursum ;</l>
-        <l>Corpora languescunt fesso resupina cathedra ;</l>
-        <l>Mens effeta jacet, Phoebeo fracta labore.</l>
-        <l>Oscitat : extendens languentia brachia late,</l>
-        <l>Increpat ingratam pigra tum voce Camenam :</l>
-        <l>« Quid me, Musa, jubes corrodere dentibus ungues ?</l>
-        <l>Quid Parnassi apices semper semperque fugaces</l>
-        <l>Adscensu superare jubes, dum linquis alumnum ?</l>
-        <l>Eheu ! Tantaleos renovo miser ipse dolores ;</l>
-        <l>Innocuum ludis, crudelis Musa, poetam :</l>
-        <l>Vix sudo invita versus proferre Minerva ;</l>
-        <l>Dum certis luctor pedibus componere verba,</l>
-        <l>Carmina destituunt sterilem mihi perfida venam,</l>
-        <l>Musaque felices fugit afflatura poetas.</l>
-        <l>Infelix, stabiles ad carmina cogere nitor</l>
-        <l>Spondeos : petulans rapida tum dactylus ala</l>
-        <l>Aufugit. Assidui nobis periere labores.</l>
-        <l>Quin potius liber tepido sub sole pererrem !</l>
-        <l>Me mea rura manent : sunt et sua carmina ruri ;</l>
-        <l>Carmine perpetuo celebrat natura parentem ;</l>
-        <l>Carmina dulcisono recitat quoque murmure rivus ;</l>
-        <l>Carmina cantat avis, dulci quum gutture, flexa</l>
-        <l>Fronde sendens, solitos lente suspirat amores ;</l>
-        <l>Carmina silva canit, mollis sive aura Favoni</l>
-        <l>Mulceat incertas tremulo sub flamine frondes,</l>
-        <l>Sive horrenda ferat, rauca cum voce, procella</l>
-        <l>Carmina, rhetoricas debellatura camenas !</l>
-        <l>Si saltem patrio possim sermone querelas</l>
-        <l>Pandere, dum formas inducere verba recusant</l>
-        <l>Gallica romanas, indignaturque camena</l>
-        <l>Gallica jam latiae submittere carmina legi ! »</l>
-        <l>Haec ait : at blandis respondet Musa loquelis :</l>
-        <l>« Desine nascentes in matrem vertere vires,</l>
-        <l>Improbe, constanti sunt praemia parta poetae.</l>
-        <l>Ipsa ego formavi sensus tibi ; numine molem</l>
-        <l>Afflavi gelidam ; sopitos suscitat ignes</l>
-        <l>Vox mea ; Parnassi per me fastigia tanges.</l>
-        <l>Adspice ut, assiduo matris recreata calore,</l>
-        <l>Parva, novi cernens volucris miracula mundi</l>
-        <l>Haereat, et tandem validas quum sentiat alas,</l>
-        <l>Insolitum scrutetur iter, tractusque negatos</l>
-        <l><hi rend="i">Anteā</hi>, nunc, certo fidens violare volatu</l>
-        <l>Audeat, et domito jam regnet in aethere victrix.</l>
-        <l>Sic tibi jam validis est tempus credere pennis ;</l>
-        <l>Tempus Apollineos est jam penetrare recessus ;</l>
-        <l>Quo te Musa vocat, fidenti jam pede perge ;</l>
-        <l>I, puer, et longos pensabit palma labores. »</l>
-    </quote>
-    <p/>
-</div>
-</body>
-</text>
+            <div>
+                <head>« Discipulus et Musa latina inter se colloquuntur » <lb/>[2<hi rend="sup"
+                        >e</hi> prix de seconde au concours général, en 1868]<note place="bottom">.
+                        Le poème fut composé à partir de la matière suivante : « <hi rend="i"
+                            >Discipulus, in subsello male sedens, postquam terque quaterque Thesauri
+                            velamen versavit, Musam latinam incusat : ”Quid, Musa, me cogis ungues
+                            rodere, caputque tundere innocuum ? Cur frustra contendo, invita
+                            Minerva, istos movere spondeos fugacesque dactylos lacessere ? Nonne
+                            melius sit aperto potiri campo vel patria saltem lingua poeticam artem
+                            tentare ?” Cui Musa subridens : ”Ne doleas, adolescens, neque illam
+                            matrem incuses, quae te poenum excepit, quae tuas aures adhuc rudis
+                            suavibus modis informavit, quae primos ingenii aestus in te curat adhuc
+                            suscitare. Te ipsum adjuva, mox ego, te adjuvabo. Quemadmodum pallus ala
+                            matris paulatim alas sentit inscrescere, ita, me fovente, majores in
+                            nisus paulatim adolesces”</hi> », <hi rend="i">Concours généraux de
+                            l’Université. Devoirs donnés au Concours général des lycées et collèges
+                            de Paris, de Versailles et des départements, suivis de copies d’élèves
+                            couronnés, recueillis et publiés par N.-A. Dubois, professeur de
+                            l’Université, année 1868</hi>, Paris, Jules Delalain et fils, [1868], p.
+                        79.</note></head>
+                <p/>
+                <quote>
+                    <l>Dura sede jacens, quum terque quaterque volumen,</l>
+                    <l>(Carmina si vigili lateant non nota magistro)</l>
+                    <l>Discipulus cupido lustravit lumine, muscae</l>
+                    <l>Invidus errantem sequitur trans aethera cursum ;</l>
+                    <l>Corpora languescunt fesso resupina cathedra ;</l>
+                    <l>Mens effeta jacet, Phoebeo fracta labore.</l>
+                    <l>Oscitat : extendens languentia brachia late,</l>
+                    <l>Increpat ingratam pigra tum voce Camenam :</l>
+                    <l>« Quid me, Musa, jubes corrodere dentibus ungues ?</l>
+                    <l>Quid Parnassi apices semper semperque fugaces</l>
+                    <l>Adscensu superare jubes, dum linquis alumnum ?</l>
+                    <l>Eheu ! Tantaleos renovo miser ipse dolores ;</l>
+                    <l>Innocuum ludis, crudelis Musa, poetam :</l>
+                    <l>Vix sudo invita versus proferre Minerva ;</l>
+                    <l>Dum certis luctor pedibus componere verba,</l>
+                    <l>Carmina destituunt sterilem mihi perfida venam,</l>
+                    <l>Musaque felices fugit afflatura poetas.</l>
+                    <l>Infelix, stabiles ad carmina cogere nitor</l>
+                    <l>Spondeos : petulans rapida tum dactylus ala</l>
+                    <l>Aufugit. Assidui nobis periere labores.</l>
+                    <l>Quin potius liber tepido sub sole pererrem !</l>
+                    <l>Me mea rura manent : sunt et sua carmina ruri ;</l>
+                    <l>Carmine perpetuo celebrat natura parentem ;</l>
+                    <l>Carmina dulcisono recitat quoque murmure rivus ;</l>
+                    <l>Carmina cantat avis, dulci quum gutture, flexa</l>
+                    <l>Fronde sendens, solitos lente suspirat amores ;</l>
+                    <l>Carmina silva canit, mollis sive aura Favoni</l>
+                    <l>Mulceat incertas tremulo sub flamine frondes,</l>
+                    <l>Sive horrenda ferat, rauca cum voce, procella</l>
+                    <l>Carmina, rhetoricas debellatura camenas !</l>
+                    <l>Si saltem patrio possim sermone querelas</l>
+                    <l>Pandere, dum formas inducere verba recusant</l>
+                    <l>Gallica romanas, indignaturque camena</l>
+                    <l>Gallica jam latiae submittere carmina legi ! »</l>
+                    <l>Haec ait : at blandis respondet Musa loquelis :</l>
+                    <l>« Desine nascentes in matrem vertere vires,</l>
+                    <l>Improbe, constanti sunt praemia parta poetae.</l>
+                    <l>Ipsa ego formavi sensus tibi ; numine molem</l>
+                    <l>Afflavi gelidam ; sopitos suscitat ignes</l>
+                    <l>Vox mea ; Parnassi per me fastigia tanges.</l>
+                    <l>Adspice ut, assiduo matris recreata calore,</l>
+                    <l>Parva, novi cernens volucris miracula mundi</l>
+                    <l>Haereat, et tandem validas quum sentiat alas,</l>
+                    <l>Insolitum scrutetur iter, tractusque negatos</l>
+                    <l><hi rend="i">Anteā</hi>, nunc, certo fidens violare volatu</l>
+                    <l>Audeat, et domito jam regnet in aethere victrix.</l>
+                    <l>Sic tibi jam validis est tempus credere pennis ;</l>
+                    <l>Tempus Apollineos est jam penetrare recessus ;</l>
+                    <l>Quo te Musa vocat, fidenti jam pede perge ;</l>
+                    <l>I, puer, et longos pensabit palma labores. »</l>
+                </quote>
+                <p/>
+            </div>
+        </body>
+    </text>
 </TEI>
