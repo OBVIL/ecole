@@ -58,7 +58,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="preface">
         <head>Avertissement.</head>
         <p>L’accueil bienveillant que les professeurs des divers établissements d’instruction publique ont fait à ma méthode de composition et de style me fait espérer qu’ils recevront avec faveur ce nouvel ouvrage, qui est, en quelque sorte, le complément du premier.</p>
         <p>J’ai choisi ces sujets d’exercices parmi ceux que j’ai donnés à traiter aux élèves de rhétorique pendant un enseignement qui a été de longue durée.</p>
@@ -74,7 +74,7 @@
         <p>Cet exercice est sous tous les rapports excellent : il accoutume les élèves à retenir les choses et à les exprimer.</p>
         <p>Les autres exercices qu’on a voulu substituer à celui-là, plus commodes pour le maître, sont peu utiles à l’élève. Mettre de beaux vers en prose nécessairement mauvaise, et s’étudier ainsi à dire mal ce qu’un auteur a bien dit ; traduire en français de nos jours quelque morceau de notre vieille langue que l’on ne comprend qu’a moitié, et par là se familiariser avec des tournures et des locutions incorrectes, à quoi tout cela est-il bon ? à rien, si ce n’est peut-être à gâter le goût, et même quelquefois à fausser le jugement.</p>
       </div>
-      <div>
+      <div type="section">
         <head>Première partie. Descriptions<note resp="author"><p>Pour ne pas multiplier inutilement les divisions de ce recueil, nous avons placé sous ce titre <hi rend="i">Descriptions</hi> quelques exercices qui consistent, comme les sujets de description, à développer les pensées énoncées dans le plan.</p></note>.</head>
         <div>
           <head>1. Tableau du printemps.</head>
@@ -196,7 +196,7 @@ Notice historique
           <p rend="small"><milestone type="consigne"/>Développez.</p>
         </div>
       </div>
-      <div>
+      <div type="section">
         <head>Deuxième partie. Narrations.</head>
         <div>
           <head>11. Les deux pommiers.</head>
@@ -1503,7 +1503,7 @@ Notice historique
           <p rend="small"><milestone type="notice"/>Belvédère est une ville de la Calabre extérieure, située non loin de la mer, à peu de distance de Paola.</p>
         </div>
       </div>
-      <div>
+      <div type="section">
         <head>Troisième partie. Dialogues.</head>
         <div>
           <head>106 et 107. Le jeune sourd-muet.</head>
@@ -1537,7 +1537,7 @@ Notice historique
           <p rend="small"><milestone type="consigne"/>On trouvera dans la <hi rend="i">Méthode de composition et de style</hi><note resp="author"><hi rend="i">Méthode de composition et de style</hi>, par M. Barrau ; 3<hi rend="sup">e</hi> édition, page 285.</note> le dialogue de Vanglenne et de son cousin le banquier, dont la lecture sera pour la composition de celui-ci, une excellente préparation.</p>
         </div>
       </div>
-      <div>
+      <div type="section">
         <head>Quatrième partie. Discours.</head>
         <div>
           <head>109. Discours de Godefroi de Bouillon aux chefs de la croisade.</head>

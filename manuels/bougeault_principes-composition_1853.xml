@@ -48,7 +48,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="preface">
         <head>Avertissement.</head>
         <p>Quel est le but de toute éducation littéraire ? C’est d’enseigner à parler et à écrire avec grâce, avec élégance, avec talent ; c’est de former le goût et l’imagination ; c’est, enfin, d’apprendre à juger sainement les ouvrages d’esprit.</p>
         <p>La littérature forme donc la base essentielle de toutes nos connaissances ; elle se mêle à toute notre vie : c’est le flambeau de l’intelligence. L’homme en qui n’est pas développé le goût littéraire, a comme un sens de moins : il ne peut participer aux plus douces et aux plus pures jouissances de la vie intellectuelle.</p>
@@ -68,10 +68,9 @@
         <p>L’étude des genres en prose qui termine l’ouvrage renferme un tableau complet de l’éloquence, de l’histoire et du roman ; nous avons fait un historique de ce dernier genre, dont nous avons signalé avec soin les dangers et les abus.</p>
         <p>Sur l’observation qu’on nous a faite que nous avions été trop sobre de citations et d’exemples, nous avons ajouté, dans cette seconde édition, un certain nombre de morceaux littéraires pour appuyer les préceptes ; pourtant nous supposons toujours, ou que les élèves ont entre les mains une chrestomathie, ou que le maître y supplée par des lectures choisies d’après son goût et selon les besoins des élèves.</p>
       </div>
-      <div>
-        <head>Première partie.</head>
-        <div>
-          <head>Principes de composition et de style.</head>
+      <div type="section">
+        <head type="sur">Première partie.</head>          
+        <head type ="main">Principes de composition et de style.</head>
           <div type="chapter">
             <head>Chapitre premier. <lb/>De l’art de la composition en général.</head>
             <p>La composition littéraire est le talent de <hi rend="i">trouver</hi> des idées, de les <hi rend="i">disposer</hi> avec ordre, et de les <hi rend="i">exprimer</hi>, de les revêtir d’un style convenable. On voit par cette définition qu’il y a nécessairement trois opérations à faire en composant : l’<hi rend="i">invention</hi>, la <hi rend="i">disposition</hi> et l’<hi rend="i">élocution</hi>.</p>
@@ -255,7 +254,7 @@
               <p>Nous avons voulu, dans ce qui précède, donner aux élèves des préceptes généraux de composition, et leur enseigner les principaux moyens de développer un sujet, de se former le jugement, le goût et l’imagination. L’art d’écrire s’apprend sans doute bien plus par la pratique que par les leçons ; mais nous savons par expérience que les régies sont aussi d’un grand secours pour perfectionner le talent. Tout art a des secrets, tout art a une méthode ; l’élève ne peut pas tout deviner ; il faut l’aider par de bons principes. L’art du maître consiste à faire marcher simultanément la pratique et les règles. C’est dans ce but que nous allons exposer un abrégé de rhétorique, où nous avons surtout recherché la brièveté et la clarté.</p>
             </div>
           </div>
-        </div>
+        
         <div>
           <head>Principes de rhétorique.</head>
           <div type="chapter">
@@ -2344,8 +2343,9 @@
           </div>
         </div>
       </div>
-      <div>
-        <head>Seconde partie. <lb/>Étude des genres de littérature, en vers et en prose.</head>
+      <div type="section">
+        <head type="sur">Seconde partie.</head>
+        <head type="main">Étude des genres de littérature, en vers et en prose.</head>
         <div type="chapter">
           <head>Chapitre premier. <lb/>Division générale.</head>
           <p>Les œuvres littéraires peuvent choisir entre deux formes bien distinctes : la <hi rend="i">prose</hi> et les <hi rend="i">vers</hi>.</p>

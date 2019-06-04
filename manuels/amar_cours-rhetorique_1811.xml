@@ -77,7 +77,7 @@
               >Quintil.</hi>)</p>
         </epigraph>
       </div>
-      <div>
+      <div type="preface">
         <head>Préface.</head>
         <p><hi rend="sc">Rappelé</hi>, après vingt ans d’interruption, dans une carrière que j’ai
           toujours aimée, que j’avais choisie de préférence à toute autre, et dont la force seule
@@ -181,7 +181,7 @@
           les véritables grands hommes, de la vertu et de l’éloquence, des mœurs et des talents.</p>
         <trailer>FIN DE LA PRÉFACE.</trailer>
       </div>
-      <div>
+      <div type="book">
         <head>Livre premier. <lb/>Éléments généraux du Goût et du Style.</head>
         <div type="chapter">
           <head>Chapitre premier. <lb/>Du Goût.</head>
@@ -3998,7 +3998,7 @@
           <trailer>Fin du Premier Livre.</trailer>
         </div>
       </div>
-      <div>
+      <div type="book">
         <head>Livre second. <lb/>Définition et devoir de la Rhétorique. — Histoire abrégée de
           l’Éloquence chez les anciens et chez les modernes.</head>
         <div type="chapter">
@@ -4563,7 +4563,7 @@
           <trailer>Fin du Second Livre.</trailer>
         </div>
       </div>
-      <div>
+      <div type="book">
         <head>Livre troisième. <lb/>Des Trois Genres principaux d’Éloquence.</head>
         <p>C’<hi rend="sc">est</hi> sur la nature même du discours, que les anciens fondaient leur
           division de l’éloquence. Ils ont donc appelé <hi rend="i">démonstratif</hi> le genre qui a
@@ -12786,7 +12786,7 @@
           </div>
         </div>
       </div>
-      <div>
+      <div type="book">
         <head>Livre quatrième. <lb/>De la disposition oratoire, ou de l’Ordre mécanique du
           discours.</head>
         <p><hi rend="sc">Après</hi> avoir, dans la section précédente, traité avec l’étendue
@@ -13602,7 +13602,7 @@
           </div>
         </div>
       </div>
-      <div>
+      <div type="book">
         <head>Livre cinquième. <lb/>De l’Éloquence des Livres saints.</head>
         <epigraph>
           <p>Cedite, Romani scriptores, cedite Graii ;</p>
