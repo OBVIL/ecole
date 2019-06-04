@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://obvil.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -70,27 +70,27 @@
                     <l>Hîc ubi sublimes arcus se tollit ad auras,</l>
                     <l>Quem Stellam Stellae de nomine diximus, hortus</l>
                     <l>Panditur, et mirae spectantibus explicat artis</l>
-                    <l xml:lang="it">Prodigium, praebetque novi nova gaudia lusûs.</l>
-                    <l xml:lang="it">Nàmque Parisiacis sua surgere culmina campis</l>
+                    <l xml:lang="ita">Prodigium, praebetque novi nova gaudia lusûs.</l>
+                    <l xml:lang="ita">Nàmque Parisiacis sua surgere culmina campis</l>
                     <l>Russia miratur ; miratur et invidet arti</l>
-                    <l xml:lang="it">Natura, usque adeò mens ingeniosa periti</l>
-                    <l xml:lang="it">Artificis novit Russaeos fingere montes !</l>
-                    <l xml:lang="it">Scilicet arboreis junctus compagibus aptè</l>
-                    <l xml:lang="it">Conseritur, duplicique duplex mons vertice surgit</l>
-                    <l xml:lang="it">Lubricus, undè ruunt uno tres impete rapti</l>
-                    <l xml:lang="it">Aethereum per iter, jussoque in tramite currus,</l>
-                    <l xml:lang="it">Tutaque deponunt in molli pondera clivo.</l>
-                    <l xml:lang="it">Hîc ardent Galli Russaea cacumina lapsu</l>
-                    <l xml:lang="it">Linquere praecipiti : dilectum scandere montem</l>
-                    <l xml:lang="it">Passibus accelerant : stant omnes ordine denso,</l>
-                    <l xml:lang="it">increpitantque moras, posito dùm munere tandem</l>
-                    <l xml:lang="it">Alterni aërio devolvi culmine possint.</l>
-                    <l xml:lang="it">Nec mora, curriculo signum datur : ocyùs illi</l>
-                    <l xml:lang="it">Componunt se sede suâ ; currusque sonantes</l>
-                    <l xml:lang="it">Jàm per prona volant, defixaque lumina fallunt.</l>
+                    <l xml:lang="ita">Natura, usque adeò mens ingeniosa periti</l>
+                    <l xml:lang="ita">Artificis novit Russaeos fingere montes !</l>
+                    <l xml:lang="ita">Scilicet arboreis junctus compagibus aptè</l>
+                    <l xml:lang="ita">Conseritur, duplicique duplex mons vertice surgit</l>
+                    <l xml:lang="ita">Lubricus, undè ruunt uno tres impete rapti</l>
+                    <l xml:lang="ita">Aethereum per iter, jussoque in tramite currus,</l>
+                    <l xml:lang="ita">Tutaque deponunt in molli pondera clivo.</l>
+                    <l xml:lang="ita">Hîc ardent Galli Russaea cacumina lapsu</l>
+                    <l xml:lang="ita">Linquere praecipiti : dilectum scandere montem</l>
+                    <l xml:lang="ita">Passibus accelerant : stant omnes ordine denso,</l>
+                    <l xml:lang="ita">increpitantque moras, posito dùm munere tandem</l>
+                    <l xml:lang="ita">Alterni aërio devolvi culmine possint.</l>
+                    <l xml:lang="ita">Nec mora, curriculo signum datur : ocyùs illi</l>
+                    <l xml:lang="ita">Componunt se sede suâ ; currusque sonantes</l>
+                    <l xml:lang="ita">Jàm per prona volant, defixaque lumina fallunt.</l>
                     <l>Labitur ille sedens ; hic curru pendet ab alto,</l>
                     <l>Unanimesque inter plausus et murmura, gaudet</l>
-                    <l xml:lang="it">Summa triumphali tetigisse repagula cursu.</l>
+                    <l xml:lang="ita">Summa triumphali tetigisse repagula cursu.</l>
                     <l>Foemineis etiàm non lusus displicet ille</l>
                     <l>Mentibus. Ut mulier sese committere monti</l>
                     <l>Audet, inexpertos trepidanti lumine lapsus</l>
