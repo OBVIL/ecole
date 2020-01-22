@@ -8,9 +8,8 @@
             <titleStmt>
                 <title>Rhétorique française, extraite des meilleurs auteurs anciens et
                     modernes</title>
-                <author key="Andrieux, François (1759-1833)"
-                    ref="https://data.bnf.fr/fr/11888836/francois_andrieux/">François
-                    Andrieux</author>
+                <author key="Andrieux, Matthieu"
+                    ref="https://catalogue.bnf.fr/ark:/12148/cb104617666">Matthieu Andrieux</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -51,7 +50,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>François Andrieux, <hi rend="i">Rhétorique française, extraite des meilleurs
+                <bibl>Matthieu Andrieux, <hi rend="i">Rhétorique française, extraite des meilleurs
                         auteurs anciens et modernes, par M. Andrieux, professeur de rhétorique en
                         l’Université royale de France, membre de plusieurs académies</hi>,
                         <pubPlace>Paris</pubPlace>, <publisher>Brunot-Labbe</publisher>, 1825, PDF :
