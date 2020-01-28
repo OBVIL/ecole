@@ -5,3 +5,6 @@ toc/
 *.sqlite
 conf.php
 .DS_Store
+html/
+iramuteq/
+markdown/

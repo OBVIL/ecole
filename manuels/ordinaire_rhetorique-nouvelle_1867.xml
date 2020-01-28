@@ -7,7 +7,8 @@
     <fileDesc>
       <titleStmt>
         <title>Rhétorique nouvelle</title>
-        <author>Ordinaire, Dionys (1826-1896)</author>
+        <author key="Ordinaire, Dionys (1826-1896)"
+          ref="https://data.bnf.fr/fr/10676597/dionys_ordinaire/">Dionys Ordinaire</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -26,17 +27,19 @@
         <idno>http://http://obvil.sorbonne-universite.site/corpus/ecole/ordinaire_rhetorique-nouvelle_1867</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2019 Sorbonne Université, agissant pour le Laboratoire d’Excellence «
+              Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur
               les bases de données (L341-1) est mise à disposition de la communauté scientifique
-              internationale par l’OBVIL, selon les termes de la licence Creative Commons :
-              « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
-              (CCBY-NC-ND 3.0 FR) ».</p>
-            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
+              internationale par l’OBVIL, selon les termes de la licence Creative Commons : «
+              Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France
+              (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée
               de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse
               Internet de la ressource.</p>
-            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute
               utilisation commerciale est interdite.</p>
-            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource
               électronique, notamment en intégrant toutes les contributions extérieures, la
               diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
           </licence>
@@ -115,12 +118,13 @@
               genres d’éloquence : le genre démonstratif, qui blâme ou qui loue, le genre
               délibératif, qui conseille ou qui dissuade, le genre judiciaire, qui accuse ou qui
               défend. De même, il y a trois genres de style, le style simple, le style tempéré et le
-              style sublime. De même encore, il y a trois parties dans le <pb n="6" xml:id="p6"/>discours : l’Invention qui en trouve les matériaux, la Disposition
-              qui les ordonne, l’Élocution qui les fait valoir. Enfin, en décomposant chacune de ces
-              parties, on trouve six éléments (six, entendez-vous bien ? ni plus ni moins) :
-              l’exorde, la proposition, la narration, la confirmation, la réfutation, la péroraison,
-              et chacun de ces éléments a ses règles particulières. Ainsi l’exorde doit être modeste
-              et insinuant, la confirmation doit présenter les preuves dans un certain ordre de
+              style sublime. De même encore, il y a trois parties dans le <pb n="6" xml:id="p6"
+              />discours : l’Invention qui en trouve les matériaux, la Disposition qui les ordonne,
+              l’Élocution qui les fait valoir. Enfin, en décomposant chacune de ces parties, on
+              trouve six éléments (six, entendez-vous bien ? ni plus ni moins) : l’exorde, la
+              proposition, la narration, la confirmation, la réfutation, la péroraison, et chacun de
+              ces éléments a ses règles particulières. Ainsi l’exorde doit être modeste et
+              insinuant, la confirmation doit présenter les preuves dans un certain ordre de
               bataille, les plus fortes en tête et les plus faibles en queue, ou vice versa, les
               plus fortes en queue et les plus faibles en tête, etc., etc. »</quote></p>
           <p>Vous sentez déjà vous-mêmes combien il est téméraire de vouloir fixer les règles d’un
@@ -524,11 +528,11 @@
             entendu ces paroles, les Francs, indignés de tant <pb n="40" xml:id="p40"/>de crimes,
             demandèrent d’une voix unanime à marcher contre les Thuringiens.</p>
           <p>Le même Thierry, dans une autre occasion, est plus bref encore, mais n’est pas moins
-            éloquent : <quote>« — Suivez-moi en Auvergne<seg type="exquote">, dit-il à ses fidèles,</seg> et je vous conduirai
-              dans un pays où vous prendrez de l’or et de l’argent autant que vous en pourrez
-              désirer, d’où vous enlèverez des troupeaux, des esclaves et des vêtements en
-              abondance. »</quote> — Et les leudes se jettent avec lui sur l’Auvergne comme une
-            bande de loups.</p>
+            éloquent : <quote>« — Suivez-moi en Auvergne<seg type="exquote">, dit-il à ses
+                fidèles,</seg> et je vous conduirai dans un pays où vous prendrez de l’or et de
+              l’argent autant que vous en pourrez désirer, d’où vous enlèverez des troupeaux, des
+              esclaves et des vêtements en abondance. »</quote> — Et les leudes se jettent avec lui
+            sur l’Auvergne comme une bande de loups.</p>
           <p>Supposez que Thierry, au lieu d’être le chef militaire d’un clan barbare, soit le roi
             constitutionnel d’un des États de l’Europe moderne : il sera obligé de recourir à des
             procédés oratoires moins sommaires. Il devra, avant de déclarer la guerre, établir aux
@@ -736,12 +740,12 @@
               vous n’êtes pas des femmes, si vous êtes des Grecs, partons, retournons chez nous sur
               nos vaisseaux. »</quote></p>
           <p>Mais Ulysse déjà s’est levé, et le regardant de travers : — <quote>« Thersite, tu as la
-              langue longue et tu es un bel orateur, mais borne là tes discours et ne continue
-              <pb n="57" xml:id="p57"/>pas à injurier les rois ; autrement, je te le
-              jure, et ma parole s’accomplira ; je consens à avoir la tête séparée des épaules et à
-              n’être plus appelé le père de Télémaque, si je ne te fais saisir, enlever d’ici,
-              dépouiller de tous tes vêtements, manteau et tunique, et fouetter ignominieusement sur
-              le bord de la mer ! »</quote></p>
+              langue longue et tu es un bel orateur, mais borne là tes discours et ne continue <pb
+                n="57" xml:id="p57"/>pas à injurier les rois ; autrement, je te le jure, et ma
+              parole s’accomplira ; je consens à avoir la tête séparée des épaules et à n’être plus
+              appelé le père de Télémaque, si je ne te fais saisir, enlever d’ici, dépouiller de
+              tous tes vêtements, manteau et tunique, et fouetter ignominieusement sur le bord de la
+              mer ! »</quote></p>
           <p>Ce disant, il le frappe de son sceptre à la poitrine et sur les épaules. Thersite se
             courbe, de grosses larmes roulent de ses yeux. Le sceptre d’or lui a imprimé des
             meurtrissures sanglantes sur la poitrine. Il s’assied tout troublé, le regard hébété et
@@ -823,14 +827,14 @@
             actions. Son premier abord n’a rien d’imposant, rien qui appelle l’attention, rien qui
             le fasse distinguer des autres chefs. Debout dans leurs rangs, il n’a ni la haute
             taille, ni la mâle et vigoureuse prestance qui commandent aux foules la crainte et le
-              respect. <quote>— « Mais<seg type="exquote">, dit-il lui-même,</seg> les dieux ne prodiguent pas à tous les
-              hommes tous les heureux dons à la fois : la beauté, le génie, l’éloquence. Tel est
-              d’apparence chétive, mais les dieux l’ont couronné d’éloquence, et les hommes prennent
-              <pb n="64" xml:id="p64"/>plaisir à le regarder. Il parle avec une
-              confiance tempérée par une aimable modestie et brille entre tous dans les assemblées.
-              Quand il marche dans la ville, les peuples le regardent passer comme un dieu. Tel
-              autre, au contraire, a la beauté des immortels, mais la grâce n’environne pas ses
-              discours. »</quote></p>
+                respect. <quote>— « Mais<seg type="exquote">, dit-il lui-même,</seg> les dieux ne
+              prodiguent pas à tous les hommes tous les heureux dons à la fois : la beauté, le
+              génie, l’éloquence. Tel est d’apparence chétive, mais les dieux l’ont couronné
+              d’éloquence, et les hommes prennent <pb n="64" xml:id="p64"/>plaisir à le regarder. Il
+              parle avec une confiance tempérée par une aimable modestie et brille entre tous dans
+              les assemblées. Quand il marche dans la ville, les peuples le regardent passer comme
+              un dieu. Tel autre, au contraire, a la beauté des immortels, mais la grâce n’environne
+              pas ses discours. »</quote></p>
           <p>C’est assis dans le conseil qu’il faut observer Ulysse, pour remarquer déjà la
             puissance du génie empreinte sur son visage. Quand vient son tour de parler et qu’il se
             lève, à le voir les yeux baissés, attachés sur la terre, son sceptre immobile dans sa
@@ -849,7 +853,8 @@
             retourner dans leur patrie, auprès de leurs femmes et de leurs enfants. <quote>« — Rien
               que pour un mois d’absence, le marin s’ennuie sur son vaisseau battu par les tempêtes
               et par la mer soulevée ; et nous, voilà neuf ans que nous sommes retenus sur ce
-              rivage. Mais quoi ! après être restés si longtemps, il est bien <pb n="66" xml:id="p66"/>honteux de partir sans avoir rien fait. Patience donc, mes amis,
+              rivage. Mais quoi ! après être restés si longtemps, il est bien <pb n="66"
+                xml:id="p66"/>honteux de partir sans avoir rien fait. Patience donc, mes amis,
               attendons encore jusqu’à ce que nous voyions si les prophéties de Calchas sont vaines,
               ou si elles doivent s’accomplir. » — </quote></p>
           <p>Les Grecs l’ont envoyé comme négociateur auprès d’Achille, qui boude Agamemnon dans sa
@@ -862,25 +867,25 @@
             leur flotte. Qui pourra les sauver, si Achille ne vient pas à leur aide ? Tout le peuple
             a les yeux tournés vers lui, comme vers son salut. Ne se <pb n="67" xml:id="p67"
             />rappellera-t-il pas les derniers conseils que Pélée, son père, lui adressait au moment
-            de son départ pour l’armée ? <quote>« — Mon fils<seg type="exquote">, lui disait-il,</seg> je ne te recommande pas
-              le courage : Minerve et Junon, si elles le veulent, sauront bien te l’inspirer ; mais
-              il dépend de toi de refréner la violence hautaine de ton caractère, et de te montrer
-              facile et traitable : c’est le parti le plus sage. Évite les discussions et les
-              dangereuses rivalités ; les Grecs, jeunes et vieux, t’en honoreront
-              davantage. »</quote> — Voilà les recommandations que lui faisait le vieillard, mais
-            Achille les a oubliées. S’il veut abjurer ses ressentiments, Agamemnon consent à lui
-            faire, comme réparation, les plus riches présents. Il lui donnera de beaux trépieds, dix
-            talents, des bassins d’or pur, douze chevaux vainqueurs dans les courses. Ces dons seuls
-            suffiraient déjà pour enrichir un homme. Mais ce n’est pas tout, Agamemnon lui rendra
-            Briséis, sa captive. Si Troie succombe, il lui permettra de puiser à pleines <pb n="68"
-              xml:id="p68"/>mains l’or et l’argent dans le butin commun, et d’en charger ses
-            vaisseaux ; il le laissera libre de choisir vingt captives Phrygiennes parmi les plus
-            belles. De retour dans Argos, il le prendra pour gendre et lui donnera, avec une riche
-            dot, les sept villes les plus florissantes de son royaume. <quote>« — Peut-être, dit
-              l’orateur en finissant, peut-être, venant d’une main ennemie, ces présents te
-              paraissent odieux ; mais songe aux autres Grecs, songe au malheureux peuple foulé par
-              la guerre. Aie pitié de lui, et il t’honorera comme un dieu et te comblera d’honneurs
-              et de gloire. » —</quote> </p>
+            de son départ pour l’armée ? <quote>« — Mon fils<seg type="exquote">, lui
+                disait-il,</seg> je ne te recommande pas le courage : Minerve et Junon, si elles le
+              veulent, sauront bien te l’inspirer ; mais il dépend de toi de refréner la violence
+              hautaine de ton caractère, et de te montrer facile et traitable : c’est le parti le
+              plus sage. Évite les discussions et les dangereuses rivalités ; les Grecs, jeunes et
+              vieux, t’en honoreront davantage. »</quote> — Voilà les recommandations que lui
+            faisait le vieillard, mais Achille les a oubliées. S’il veut abjurer ses ressentiments,
+            Agamemnon consent à lui faire, comme réparation, les plus riches présents. Il lui
+            donnera de beaux trépieds, dix talents, des bassins d’or pur, douze chevaux vainqueurs
+            dans les courses. Ces dons seuls suffiraient déjà pour enrichir un homme. Mais ce n’est
+            pas tout, Agamemnon lui rendra Briséis, sa captive. Si Troie succombe, il lui permettra
+            de puiser à pleines <pb n="68" xml:id="p68"/>mains l’or et l’argent dans le butin
+            commun, et d’en charger ses vaisseaux ; il le laissera libre de choisir vingt captives
+            Phrygiennes parmi les plus belles. De retour dans Argos, il le prendra pour gendre et
+            lui donnera, avec une riche dot, les sept villes les plus florissantes de son royaume.
+              <quote>« — Peut-être, dit l’orateur en finissant, peut-être, venant d’une main
+              ennemie, ces présents te paraissent odieux ; mais songe aux autres Grecs, songe au
+              malheureux peuple foulé par la guerre. Aie pitié de lui, et il t’honorera comme un
+              dieu et te comblera d’honneurs et de gloire. » —</quote> </p>
           <p>Voilà un discours prodigieusement habile, mais qui nous révèle une civilisation à peine
             ébauchée. Un orateur veut rallier à la cause commune un chef dissident, et, au lieu de
             lui faire entendre le langage sévère de l’honneur et du devoir, il ne lui parle que des
@@ -901,7 +906,8 @@
         </div>
         <div type="section">
           <head type="sur">IV</head>
-          <head type="main">L’éloquence grecque dans les cités démocratiques. — Les chefs athéniens</head>
+          <head type="main">L’éloquence grecque dans les cités démocratiques. — Les chefs
+            athéniens</head>
           <p>Nous voici bien loin des temps chantés par Homère. Les guerriers du siége de Troie,
             façonnés lentement à la vie civile, ne veulent plus être gouvernés par la lance, mais
             par les lois qu’ils ont eux-mêmes faites ou consenties. La multitude a arraché des mains
@@ -1087,12 +1093,11 @@
               ils jouissent nous conjecturons qu’ils sont immortels, et les mesmes choses sont en
               ceulx qui meurent pour la défense de leur païs</hi>.</p>
           <p>Une autre fois il pique leur amour-propre : <quote>« — Vous me demandez compte des
-              sommes que j’ai dépensées pour les grands travaux de la ville. Soit, j’en payerai
-              <pb n="86" xml:id="p86"/>seul les frais, mais seul aussi j’aurai le
-              droit d’y faire inscrire mon nom. »</quote> — Il ne craint pas même de leur infliger
-            de rudes leçons, sachant bien que les peuples sont comme les enfants, qui n’obéissent
-            pas volontiers, si un peu de crainte ne se trouve mêlée à l’amour qu’on leur
-            inspire :</p>
+              sommes que j’ai dépensées pour les grands travaux de la ville. Soit, j’en payerai <pb
+                n="86" xml:id="p86"/>seul les frais, mais seul aussi j’aurai le droit d’y faire
+              inscrire mon nom. »</quote> — Il ne craint pas même de leur infliger de rudes leçons,
+            sachant bien que les peuples sont comme les enfants, qui n’obéissent pas volontiers, si
+            un peu de crainte ne se trouve mêlée à l’amour qu’on leur inspire :</p>
           <quote>
             <p>« — Quand j’ay fidèlement et bien administré la charge que vous m’aviez commise, j’en
               ai receu de vous oultrage, honte et villannie, et maintenant que j’ay fait semblant de
@@ -1113,11 +1118,11 @@
             cette île à une paille dans l’œil du Pirée. Veut-il les exciter contre Sparte, il leur
             dit qu’il voit déjà du fond du Péloponèse la guerre qui se lève et qui se met en marche.
             Le peuple, enfermé dans la ville, demande à courir sus à l’ennemi qu’il voit moissonner
-            ses champs et couper ses oliviers : <quote>« — Laissez-les faire<seg type="exquote">, dit-il,</seg> les arbres
-              coupés <pb n="88" xml:id="p88"/>peuvent renaître, mais non les hommes
-              couchés par terre. »</quote> — A la jeunesse présomptueuse qui exalte ses exploits
-            récents pour rabaisser ceux des héros des grandes guerres Médiques, Thémistocle jette
-            cet apologue, que je vous demande la permission de traduire en langage
+            ses champs et couper ses oliviers : <quote>« — Laissez-les faire<seg type="exquote">,
+                dit-il,</seg> les arbres coupés <pb n="88" xml:id="p88"/>peuvent renaître, mais non
+              les hommes couchés par terre. »</quote> — A la jeunesse présomptueuse qui exalte ses
+            exploits récents pour rabaisser ceux des héros des grandes guerres Médiques, Thémistocle
+            jette cet apologue, que je vous demande la permission de traduire en langage
               moderne : — <quote>« Un jour le Lundi entra en contestation avec le Dimanche. C’était
               lui, Lundi, qui avait tout le travail et toute la peine, tandis que le Dimanche ne
               faisait que dépenser l’argent que les autres avaient gagné. — Cela est vrai, répondit
@@ -1308,12 +1313,12 @@
               marchands qui encombrent la place publique et mettent le feu à leurs baraques.
               D’autres vont chercher les généraux, mandent le trompette : toute la ville est en
               tumulte. Le lendemain, au point du jour, les Prytanes convoquent le Sénat dans la
-              salle des délibérations. Le peuple court à l’assemblée, et <pb n="104" xml:id="p104"/>prend ses places sur les hauts gradins<note place="bottom">Les
-                degrés inférieurs étaient réservés aux Prytanes et aux Sénateurs.</note>. Arrive le
-              Sénat, et les Prytanes font part au peuple du message et produisent le messager, qui
-              répète la nouvelle. Alors le héraut se lève et dit : — Qui veut parler<note
-                place="bottom">Démosthène, <hi rend="i">Discours de la
-              Couronne.</hi></note> ? »</quote></p>
+              salle des délibérations. Le peuple court à l’assemblée, et <pb n="104" xml:id="p104"
+              />prend ses places sur les hauts gradins<note place="bottom">Les degrés inférieurs
+                étaient réservés aux Prytanes et aux Sénateurs.</note>. Arrive le Sénat, et les
+              Prytanes font part au peuple du message et produisent le messager, qui répète la
+              nouvelle. Alors le héraut se lève et dit : — Qui veut parler<note place="bottom"
+                >Démosthène, <hi rend="i">Discours de la Couronne.</hi></note> ? »</quote></p>
           <p>Ces scènes se renouvelaient à chaque agression, et que produisaient-elles ? Les motions
             se succédaient à la tribune. On votait des flottes qu’on n’équipait pas, des armées dont
             les cadres ne se remplissaient que sur le papier, et on retournait à ses plaisirs,
@@ -1611,8 +1616,8 @@
               dans un pays où jamais on n’a pu acheter un bon esclave. Qu’attendez-vous pour le
               punir ? Vous a-t-il épargné un seul affront ? C’est peu du sac de tant de villes ; ne
               préside-t-il pas les jeux Pythiques, ces grandes assemblées de toute la Grèce ? Et
-              quand il ne peut y assister, <pb n="130" xml:id="p130"/>n’y envoie-t-il
-              pas ses esclaves pour présider à sa place ? N’est-il pas maître des Thermopyles et des
+              quand il ne peut y assister, <pb n="130" xml:id="p130"/>n’y envoie-t-il pas ses
+              esclaves pour présider à sa place ? N’est-il pas maître des Thermopyles et des
               passages de la Grèce ? N’y tient-il pas des garnisons de soldats étrangers ? Ne
               s’est-il pas arrogé le droit exorbitant de consulter le premier l’oracle d’Apollon,
               après nous avoir enlevé à nous et aux Thessaliens et aux autres Amphictyons ce
@@ -1712,14 +1717,14 @@
             Plutarque qui nous le dit) que tous les intérêts doivent céder à l’honnêteté, et qu’il
             faut faire le bien pour le seul amour du bien. Ce sentiment élevé du juste respire dans
             tous ses discours : il en forme pour ainsi dire la moelle et la
-              substance : — <quote>« Ce n’est pas sur l’injustice<seg type="exquote">, dit-il,</seg> ni sur la perfidie, ni
-              sur le mensonge que l’on a jamais pu fonder une puissance durable. Ces moyens peuvent
-              réussir une fois, ils peuvent assurer à celui qui en use une prospérité passagère et
-              enfler ses <pb n="138" xml:id="p138"/>espérances si le hasard le
-              seconde. Mais une fortune ainsi bâtie tombe avec le temps et s’écroule sur elle-même.
-              De même que les maisons, les navires et les autres constructions ont besoin pour durer
-              d’avoir de solides assises, de même il faut que les actions des hommes aient pour
-              principes et pour bases la vérité et la justice. »</quote></p>
+              substance : — <quote>« Ce n’est pas sur l’injustice<seg type="exquote">, dit-il,</seg>
+              ni sur la perfidie, ni sur le mensonge que l’on a jamais pu fonder une puissance
+              durable. Ces moyens peuvent réussir une fois, ils peuvent assurer à celui qui en use
+              une prospérité passagère et enfler ses <pb n="138" xml:id="p138"/>espérances si le
+              hasard le seconde. Mais une fortune ainsi bâtie tombe avec le temps et s’écroule sur
+              elle-même. De même que les maisons, les navires et les autres constructions ont besoin
+              pour durer d’avoir de solides assises, de même il faut que les actions des hommes
+              aient pour principes et pour bases la vérité et la justice. »</quote></p>
           <p>On peut en dire autant de l’éloquence. Otez-lui le fondement d’une conviction sérieuse
             et d’un amour désintéressé du bien, vous enlevez à l’orateur toute autorité morale et à
             ses paroles toute gravité. L’éloquence sans principes cesse d’être un art utile ; elle
@@ -1762,8 +1767,8 @@
             elle aurait dû le faire, même quand les événements auraient pu être prévus, même quand
             la défaite aurait paru certaine : <quote>« Non, Athéniens, non, vous n’avez pas failli,
               quand vous vous êtes exposés pour la liberté et le salut le tous, j’en jure par nos
-              ancêtres les <pb n="142" xml:id="p142"/>combattants de Marathon et de
-              Platée, les glorieux marins de Salamine et d’Artémise, etc. »</quote></p>
+              ancêtres les <pb n="142" xml:id="p142"/>combattants de Marathon et de Platée, les
+              glorieux marins de Salamine et d’Artémise, etc. »</quote></p>
           <p>Les Athéniens applaudirent à ces belles paroles, comme à une revanche de Chéronée. Ils
             condamnèrent l’accusateur, ils justifièrent la politique de Démosthène en lui accordant
             de nouveaux honneurs ; ils le récompensèrent par de magnifiques décrets de n’avoir pas
@@ -1880,20 +1885,21 @@
             demandant à Achille le corps de son fils. Elles sont dans toutes les mémoires, ou plutôt
             dans tous les cœurs. Mais écoutez, dans Euripide, Iphigénie suppliant son père :
               <quote>« Mon père, ne me fais pas mourir avant l’âge, ne me condamne pas à descendre
-              au pays <pb n="153" xml:id="p153"/>des ténèbres, car il est doux de
-              voir la lumière. La première j’ai été bercée sur tes genoux, je t’ai donné mes
-              caresses et j’ai reçu les tiennes. « — Eh bien, ma fille, me disais-tu, te verrons-nous
-              bientôt au foyer d’un époux, heureuse, riche et florissante ? »</quote> Moi, caressant
-            ta barbe, qu’aujourd’hui je touche en suppliante, je te répondais : <quote>« — Et toi,
-              mon père, quand tu seras vieux, aurai-je le bonheur de t’avoir auprès de moi, dans ma
-              maison, et de te rendre les soins que tu donnes à mon enfance ? »Ah ! ces chères
-              paroles, je les ai gardées dans ma mémoire, mais toi tu les as oubliées, et tu veux
-              égorger ton enfant… Allons, mon père, tourne la tête vers moi, donne-moi un regard, un
-              baiser ; j’emporterai au moins cela de toi en descendant dans la tombe, si tu ne veux
-              pas te laisser attendrir. Viens, mon frère, tu es encore bien petit pour me défendre ;
-              viens cependant, et prie ton père avec tes larmes, fléchis-le <pb n="154" xml:id="p154"/>pour que ta sœur ne meure pas. On dit que les enfants eux-mêmes
-              ont le sentiment des maux qu’ils voient souffrir. Regarde, mon père, il te prie en
-              silence. Allons, ne repousse pas ta fille ; aie pitié de sa vie ! »</quote></p>
+              au pays <pb n="153" xml:id="p153"/>des ténèbres, car il est doux de voir la lumière.
+              La première j’ai été bercée sur tes genoux, je t’ai donné mes caresses et j’ai reçu
+              les tiennes. « — Eh bien, ma fille, me disais-tu, te verrons-nous bientôt au foyer
+              d’un époux, heureuse, riche et florissante ? »</quote> Moi, caressant ta barbe,
+            qu’aujourd’hui je touche en suppliante, je te répondais : <quote>« — Et toi, mon père,
+              quand tu seras vieux, aurai-je le bonheur de t’avoir auprès de moi, dans ma maison, et
+              de te rendre les soins que tu donnes à mon enfance ? »Ah ! ces chères paroles, je les
+              ai gardées dans ma mémoire, mais toi tu les as oubliées, et tu veux égorger ton
+              enfant… Allons, mon père, tourne la tête vers moi, donne-moi un regard, un baiser ;
+              j’emporterai au moins cela de toi en descendant dans la tombe, si tu ne veux pas te
+              laisser attendrir. Viens, mon frère, tu es encore bien petit pour me défendre ; viens
+              cependant, et prie ton père avec tes larmes, fléchis-le <pb n="154" xml:id="p154"
+              />pour que ta sœur ne meure pas. On dit que les enfants eux-mêmes ont le sentiment des
+              maux qu’ils voient souffrir. Regarde, mon père, il te prie en silence. Allons, ne
+              repousse pas ta fille ; aie pitié de sa vie ! »</quote></p>
           <p>On admire l’art des poëtes qui ont su rendre avec cette vérité les cris de la nature ;
             mais on n’admire pas moins la sagesse des législateurs athéniens qui interdirent à cet
             art dangereux l’accès des tribunaux. Représentez-vous, en effet, dans une enceinte ou
@@ -1925,25 +1931,24 @@
             l’indignation, la douleur, tous les sentiments qu’un cœur peut contenir doivent déborder
             dans le discours ! Voici de quel ton Lysias s’exprime : <quote>« Les Trente prononcèrent
               contre Polémarque<note place="bottom">Son frère.</note> leur sentence accoutumée : ils
-              <pb n="157" xml:id="p157"/>lui ordonnèrent de boire la ciguë, et bien
-              loin de le juger et de lui permettre de se défendre, ils ne daignèrent pas même
-              l’informer de la cause pour laquelle il devait mourir. Nous avions trois maisons ;
-              quand le cadavre sortit de la prison, ils ne permirent pas qu’il fût reçu dans
-              aucune : ils louèrent une litière et l’y firent jeter. Nous avions abondance de
-              linge : ils refusèrent d’en donner pour l’ensevelir ; nos amis durent se cotiser :
-              l’un fournit un drap, l’autre un oreiller, chacun donna ce qu’il pouvait. Nous avions
-              chez nous sept cents boucliers, de l’or et de l’argent à profusion, du cuivre, des
-              objets d’art, des voiles et des parures de femme en si grande quantité que jamais les
-              Trente n’auraient espéré avoir richesses pareilles en leur possession. Nous avions
-              enfin cent vingt esclaves (et notez qu’ils prirent pour eux les plus beaux et
-              vendirent les autres au marché), eh bien, voici un fait qui montrera jusqu’où allaient
-              leur avidité insatiable, leur <pb n="158" xml:id="p158"/>ignoble
-              convoitise et la bassesse de leur caractère. La femme de Polémarque avait des pendants
-              qu’elle possédait déjà quand elle entra, nouvelle mariée, dans notre maison : Mélobios
-              les lui arracha des oreilles. Ainsi il n’y a pas une partie de notre patrimoine, si
-              minime qu’elle fût, qui trouvât grâce devant eux, et ils nous persécutèrent, pour
-              avoir nos biens, avec tout l’acharnement que met la haine à poursuivre sa
-              vengeance. »</quote></p>
+                <pb n="157" xml:id="p157"/>lui ordonnèrent de boire la ciguë, et bien loin de le
+              juger et de lui permettre de se défendre, ils ne daignèrent pas même l’informer de la
+              cause pour laquelle il devait mourir. Nous avions trois maisons ; quand le cadavre
+              sortit de la prison, ils ne permirent pas qu’il fût reçu dans aucune : ils louèrent
+              une litière et l’y firent jeter. Nous avions abondance de linge : ils refusèrent d’en
+              donner pour l’ensevelir ; nos amis durent se cotiser : l’un fournit un drap, l’autre
+              un oreiller, chacun donna ce qu’il pouvait. Nous avions chez nous sept cents
+              boucliers, de l’or et de l’argent à profusion, du cuivre, des objets d’art, des voiles
+              et des parures de femme en si grande quantité que jamais les Trente n’auraient espéré
+              avoir richesses pareilles en leur possession. Nous avions enfin cent vingt esclaves
+              (et notez qu’ils prirent pour eux les plus beaux et vendirent les autres au marché),
+              eh bien, voici un fait qui montrera jusqu’où allaient leur avidité insatiable, leur
+                <pb n="158" xml:id="p158"/>ignoble convoitise et la bassesse de leur caractère. La
+              femme de Polémarque avait des pendants qu’elle possédait déjà quand elle entra,
+              nouvelle mariée, dans notre maison : Mélobios les lui arracha des oreilles. Ainsi il
+              n’y a pas une partie de notre patrimoine, si minime qu’elle fût, qui trouvât grâce
+              devant eux, et ils nous persécutèrent, pour avoir nos biens, avec tout l’acharnement
+              que met la haine à poursuivre sa vengeance. »</quote></p>
           <p>Voilà le ton général du discours. Vous diriez d’un avocat plaidant une cause étrangère.
             Je me trompe, un avocat déployerait plus de chaleur. Lisez les plaidoyers civils
             d’Antiphon, de Démosthène, d’Andocide, vous n’en trouverez pas un qui sorte de cette
@@ -2027,14 +2032,14 @@
             rappelle la gloire de l’accusé.</p>
           <p>Un brave paysan avait, dans la campagne romaine, une propriété d’un bon rapport, sur
             laquelle il vivait, lui et les siens, fort à son aise. Ses voisins, jaloux de sa
-            prospérité, l’accusent de sorcellerie. <quote>« — Il a recours<seg type="exquote">, disent-ils,</seg> à des
-              maléfices pour nous ruiner et faire passer la fécondité de nos champs dans les
-              siens. »</quote> Au jour de l’audience, le fermier se présente au forum avec tout son
-            attirail de labour, charrue, herses, bèches, hoyaux, <pb n="166" xml:id="p166"/>bien
-            entretenus, bien reluisants ; un chariot traîné par deux forts bœufs, et sur l’attelage,
-            portée comme en triomphe, la famille du laboureur, de beaux et solides garçons, la
-            fermière et ses filles, mains calleuses, teint brûlé, forte lignée de
-              paysans. — <quote>« Regardez, citoyens, dit l’homme au peuple, voilà ma magie, voilà
+            prospérité, l’accusent de sorcellerie. <quote>« — Il a recours<seg type="exquote">,
+                disent-ils,</seg> à des maléfices pour nous ruiner et faire passer la fécondité de
+              nos champs dans les siens. »</quote> Au jour de l’audience, le fermier se présente au
+            forum avec tout son attirail de labour, charrue, herses, bèches, hoyaux, <pb n="166"
+              xml:id="p166"/>bien entretenus, bien reluisants ; un chariot traîné par deux forts
+            bœufs, et sur l’attelage, portée comme en triomphe, la famille du laboureur, de beaux et
+            solides garçons, la fermière et ses filles, mains calleuses, teint brûlé, forte lignée
+            de paysans. — <quote>« Regardez, citoyens, dit l’homme au peuple, voilà ma magie, voilà
               mes sorti-léges. »</quote> Je demande s’il y a des discours qui vaillent cette
             éloquence des faits.</p>
           <p>Rien de plus décent et de plus régulier que le cours des débats dans nos enceintes
@@ -2272,11 +2277,11 @@
             décrets. Le Sénat reste indécis et comme paralysé par l’éloquence habile de César,
             jusqu’à ce que Caton se lève : — <quote>« Voulez-vous conserver vos biens, vos maisons,
               vos statues, vos tableaux, votre vie et vos plaisirs que vous aimez plus encore que la
-              vie, prenez une résolution <pb n="186" xml:id="p186"/>énergique. Demain
-              il sera trop tard. Quand la ville est prise, il n’y a plus de recours aux tribunaux.
-              Ceux que vous tenez en prison se sont déclarés les ennemis de la République,
-              traitez-les en ennemis. Si vous les épargnez, vous êtes perdus. »</quote> — Voilà le
-            langage ferme d’un homme d’État.</p>
+              vie, prenez une résolution <pb n="186" xml:id="p186"/>énergique. Demain il sera trop
+              tard. Quand la ville est prise, il n’y a plus de recours aux tribunaux. Ceux que vous
+              tenez en prison se sont déclarés les ennemis de la République, traitez-les en ennemis.
+              Si vous les épargnez, vous êtes perdus. »</quote> — Voilà le langage ferme d’un homme
+            d’État.</p>
           <p>Mais si l’orateur politique prête le flanc aux critiques, l’avocat est au-dessus des
             éloges. C’est une adresse, un esprit, une chaleur, une abondance, une sensibilité qui
             épuisent toutes les formes de l’admiration. Jamais l’art n’a été porté plus loin. Il a
@@ -2454,33 +2459,35 @@
             des hommes, mais qui leur font perdre la santé. Il le comparait encore à une boutique de
             parfumerie où l’on vend dans des fioles le teint de la jeunesse et le vermillon de
             l’embonpoint. Puis il opposait à leurs procédés les vrais principes de
-            l’éloquence. <quote>— L’éloquence<seg type="exquote">, disait-il,</seg> ne mérite le nom d’art qu’autant qu’elle est
-            utile, et elle n’est utile qu’autant qu’elle contribue à rendre <pb n="202"
-              xml:id="p202"/>les hommes meilleurs.</quote> Excellente définition qui a inspiré à Fénelon ces
-            paroles que je vous recommande comme les plus belles peut-être qui soient sorties de son
-            âme divine : — <quote>« L’orateur ne doit se servir de la parole que pour la pensée, et
-              de la pensée que pour la vérité et la vertu. »</quote></p>
+                l’éloquence. <quote>— L’éloquence<seg type="exquote">, disait-il,</seg> ne mérite le
+              nom d’art qu’autant qu’elle est utile, et elle n’est utile qu’autant qu’elle contribue
+              à rendre <pb n="202" xml:id="p202"/>les hommes meilleurs.</quote> Excellente
+            définition qui a inspiré à Fénelon ces paroles que je vous recommande comme les plus
+            belles peut-être qui soient sorties de son âme divine : — <quote>« L’orateur ne doit se
+              servir de la parole que pour la pensée, et de la pensée que pour la vérité et la
+              vertu. »</quote></p>
           <p>Mais où Socrate sortait de la mesure, où il exagérait son principe, où il tombait dans
             les subtilités qu’il reprochait aux sophistes, c’est quand il prétendait qu’il n’y a que
             le philosophe qui puisse être orateur, attendu qu’il n’y a que lui qui, connaissant les
             hommes, soit capable de savoir ce qui leur est utile ou nuisible. A ce compte, ni
             Thémistocle, ni Périclès n’avaient été orateurs ; et, en effet, il ne craignait pas de
-            leur refuser ce titre. <quote>— Car<seg type="exquote">, disait-il,</seg> à quoi ont songé ces hommes d’État ? A rendre
-            meilleurs leurs concitoyens ? Non, mais à leur creuser des ports, à leur bâtir des
-            murailles, à leur faire <pb n="203" xml:id="p203"/>remporter des victoires sur leurs
-            ennemis. Ils ont été leurs corrupteurs au lieu d’être leurs médecins. <seg type="exquote">— Il allait plus
-            loin encore : —</seg> Si vous avez commis une faute<seg type="exquote">, disait-il,</seg> ne cherchez pas un avocat pour
-            vous défendre, attendez votre châtiment, courez même au-devant de l’expiation. Si c’est
-            votre ami qui s’est rendu coupable, ne le défendez pas, livrez-le, dans son intérêt, à
-            la vindicte des lois. Si c’est votre ennemi, employez pour le justifier toutes les
-            ressources de votre éloquence et tout le crédit de vos amis. En le forçant à vivre
-            coupable, vous le forcerez à vivre malheureux. Vous vous vengerez de lui, en le sauvant,
-            plus qu’en l’abandonnant au supplice. — Étendons ces principes à la politique, pour en
-            montrer l’exagération. — Si le peuple a commis sciemment un attentat à la justice, le
-            devoir de son chef sera donc de l’abandonner aux conséquences de son crime, afin de le
-            purifier par l’expiation ! Et si c’est l’ennemi, au <pb n="204" xml:id="p204"
-            />contraire, il devra lui ôter le mérite de l’expiation en le laissant prospérer et
-            asservir ses voisins.</quote></p>
+            leur refuser ce titre. <quote>— Car<seg type="exquote">, disait-il,</seg> à quoi ont
+              songé ces hommes d’État ? A rendre meilleurs leurs concitoyens ? Non, mais à leur
+              creuser des ports, à leur bâtir des murailles, à leur faire <pb n="203" xml:id="p203"
+              />remporter des victoires sur leurs ennemis. Ils ont été leurs corrupteurs au lieu
+              d’être leurs médecins. <seg type="exquote">— Il allait plus loin encore : —</seg> Si
+              vous avez commis une faute<seg type="exquote">, disait-il,</seg> ne cherchez pas un
+              avocat pour vous défendre, attendez votre châtiment, courez même au-devant de
+              l’expiation. Si c’est votre ami qui s’est rendu coupable, ne le défendez pas,
+              livrez-le, dans son intérêt, à la vindicte des lois. Si c’est votre ennemi, employez
+              pour le justifier toutes les ressources de votre éloquence et tout le crédit de vos
+              amis. En le forçant à vivre coupable, vous le forcerez à vivre malheureux. Vous vous
+              vengerez de lui, en le sauvant, plus qu’en l’abandonnant au supplice. — Étendons ces
+              principes à la politique, pour en montrer l’exagération. — Si le peuple a commis
+              sciemment un attentat à la justice, le devoir de son chef sera donc de l’abandonner
+              aux conséquences de son crime, afin de le purifier par l’expiation ! Et si c’est
+              l’ennemi, au <pb n="204" xml:id="p204"/>contraire, il devra lui ôter le mérite de
+              l’expiation en le laissant prospérer et asservir ses voisins.</quote></p>
           <p>Où vous entraîne, ô Socrate, votre haine des rhéteurs, et votre amour de la logique ?
             Oubliez-vous que la saine politique consiste à faire tout ce qui peut rendre un peuple
             heureux et puissant, sans violer la justice ? L’éloquence est-elle nécessairement un
@@ -2706,70 +2713,70 @@
               poésie ; apprenez-les par cœur ; récitez-les pour vous exercer l’oreille et la
               mémoire ; écrivez les parties principales de vos harangues : la plume est la meilleure
               maîtresse de la parole. Prenez une question, non pas une de ces thèses bizarres qu’on
-              <pb n="223" xml:id="p223"/>donnait autrefois comme exercice dans les
-              écoles, mais une question pratique, une de celles que les passions et les intérêts des
-              hommes ramènent tous les jours au barreau ; plaidez-en le pour et le contre ;
-              étudiez-vous à en tirer tous les développements et à en épuiser toutes les preuves.
-              Assistez aux luttes des tribunaux, observez les manœuvres des adversaires, érigez-vous
-              en juge du camp. A un observateur intelligent, les fautes des maîtres sont aussi
-              profitables que leurs victoires. Suivez sur le visage des assistants les différentes
-              nuances des impressions que leurs paroles éveillent dans les âmes : la foule est le
-              miroir de l’orateur.</quote> Dites-vous : <quote>« Tel effet oratoire a manqué, tel
-              autre a réussi, »</quote> et demandez-vous pourquoi. La parole n’est qu’une note dans
-            le concert de l’éloquence : sans le concours du geste, de l’attitude et de l’intonation,
-            il n’y a pas d’ensemble, pas d’harmonie. Étudiez toutes ces parties. Démosthène prenait
-            des leçons <pb n="224" xml:id="p224"/>du comédien Satyros et les répétait devant un
-            miroir. Le préjugé romain n’empêchait pas Cicéron de consulter le grand acteur Roscius.
-            Vous pouvez, sans rougir, suivre l’exemple de ces grands hommes ; mais n’oubliez pas
-            qu’entre l’action oratoire et l’action tragique il y a des nuances, et n’allez pas
-            transporter la scène dans le barreau. Étudiez avec soin toutes vos causes. La lecture
-            d’un dossier ne suffit pas pour bien connaître une affaire. Le dossier c’est la
-            procédure morte ; tandis que le client c’est la cause vivante. Qui connaît mieux que lui
-            ses intérêts ? Qui est plus capable d’en parler avec chaleur ! Donc ayez de fréquents
-            entretiens avec lui, et cela sans témoins, le plus possible ; car souvent un témoin est
-            un mur entre vous et lui qui arrête au passage la vérité. Écoutez patiemment ses
-            redites ; opposez-lui les raisons de l’adversaire ; mettez-le en contradiction avec
-            lui-même ; il s’échauffera, il vous répliquera, il vous donnera, <pb n="225"
-              xml:id="p225"/>sans le savoir, une répétition de l’audience. Un jour, un citoyen vint
-            prier Démosthène de le défendre : il se plaignait d’avoir été battu. — <quote>« Vous,
-              battu ! lui dit l’orateur ; non, vous vous trompez. — Comment ! reprit l’autre, je
-              n’ai pas été battu ? — Non. — Qui ? moi, je n’ai pas été battu ? — A la bonne heure !
-              je reconnais là le ton d’un homme qui a été battu. »</quote> Démosthène l’avait piqué
-            à dessein pour lui arracher le récit animé de son insulte. Vous ne serez jamais un
-            véritable orateur si vous ne vous faites une grande idée de votre profession, des
-            qualités qu’elle exige et des devoirs qu’elle impose. Si vous voulez atteindre les
-            sommets de cet art, ne vous contentez pas d’avoir sous les yeux les maîtres de
-            l’éloquence : unissez à la véhémence de Démosthène l’ampleur et le coloris de Cicéron ;
-            faites mieux, ajoutez à ces dons les plus rares facultés qui vous auront frappé dans les
-            orateurs modernes ; faites mieux encore, imitez les artistes <pb n="226" xml:id="p226"
-            />qui, les yeux fixés sur la toile ou sur le marbre, ont l’âme attachée à la
-            contemplation d’un type dont leur main reproduit l’idéale beauté ; concevez un modèle de
-            perfection tel qu’il n’en a jamais existé de semblable. Que votre orateur ne soit pas
-            seulement un homme disert et capable de parler agréablement sur tous les sujets ; qu’au
-            talent de la parole il joigne un savoir étendu : car la parole, sans l’instruction,
-            c’est un archet sans instrument. Qu’il soit familier avec tout ce qui concerne la vie
-            des peuples et les relations des particuliers : droit des gens, traités, commerce,
-            industrie, politique, histoire, morale, lois, usages, que rien ne lui soit étranger.
-            S’il ne peut embrasser ces connaissances dans tous leurs détails (aujourd’hui les
-            rapports entre les hommes et les choses sont devenus si compliqués qu’il n’est pas un
-            cerveau humain capable de les contenir toutes), qu’il en possède au moins des notions
-            générales. Que son intelligence, <pb n="227" xml:id="p227"/>nourrie de fortes études,
-            soit comme une source d’où les développements les plus riches puissent couler avec
-            abondance et se répandre heureusement sur les sujets les plus variés. Qu’il soit
-            philosophe surtout : sans philosophie, point de grande éloquence. C’est la science
-            maîtresse, celle qui contient toutes les autres. N’est-ce pas à l’école de Platon que
-            s’inspira l’éloquence de Démosthène et de Cicéron ? Cette large conception du sujet,
-            cette puissance de raisonnement, cette noblesse de sentiments, ce sens juste et droit,
-            toutes ces qualités supérieures par lesquelles ils s’élevèrent au-dessus des discoureurs
-            de leur temps, autant que Platon lui-même au-dessus des sophistes, où les puisèrent-ils,
-            sinon dans la dialectique du maître ? Qu’enfin votre modèle ait <hi rend="i">le
-              caractère</hi>, sans lequel la plus belle éloquence n’est qu’un bruit harmonieux. Que
-            ses mains soient pures, ses principes inflexibles, sa vie à l’abri du soupçon ; que son
-            abord <pb n="228" xml:id="p228"/>inspire à la foule le respect, la sympathie et la
-            confiance aux juges ; que sa parole ait à leurs yeux l’autorité d’un témoignage, qu’elle
-            soit regardée par tous comme l’organe de la justice et de la vérité. Je ne vous promets
-            pas que vous atteindrez jamais à cet idéal ; mais le concevoir c’est déjà en approcher.
-            De la médiocrité à la perfection on compte plus d’un degré honorable, et, comme dit
+                <pb n="223" xml:id="p223"/>donnait autrefois comme exercice dans les écoles, mais
+              une question pratique, une de celles que les passions et les intérêts des hommes
+              ramènent tous les jours au barreau ; plaidez-en le pour et le contre ; étudiez-vous à
+              en tirer tous les développements et à en épuiser toutes les preuves. Assistez aux
+              luttes des tribunaux, observez les manœuvres des adversaires, érigez-vous en juge du
+              camp. A un observateur intelligent, les fautes des maîtres sont aussi profitables que
+              leurs victoires. Suivez sur le visage des assistants les différentes nuances des
+              impressions que leurs paroles éveillent dans les âmes : la foule est le miroir de
+              l’orateur.</quote> Dites-vous : <quote>« Tel effet oratoire a manqué, tel autre a
+              réussi, »</quote> et demandez-vous pourquoi. La parole n’est qu’une note dans le
+            concert de l’éloquence : sans le concours du geste, de l’attitude et de l’intonation, il
+            n’y a pas d’ensemble, pas d’harmonie. Étudiez toutes ces parties. Démosthène prenait des
+            leçons <pb n="224" xml:id="p224"/>du comédien Satyros et les répétait devant un miroir.
+            Le préjugé romain n’empêchait pas Cicéron de consulter le grand acteur Roscius. Vous
+            pouvez, sans rougir, suivre l’exemple de ces grands hommes ; mais n’oubliez pas qu’entre
+            l’action oratoire et l’action tragique il y a des nuances, et n’allez pas transporter la
+            scène dans le barreau. Étudiez avec soin toutes vos causes. La lecture d’un dossier ne
+            suffit pas pour bien connaître une affaire. Le dossier c’est la procédure morte ; tandis
+            que le client c’est la cause vivante. Qui connaît mieux que lui ses intérêts ? Qui est
+            plus capable d’en parler avec chaleur ! Donc ayez de fréquents entretiens avec lui, et
+            cela sans témoins, le plus possible ; car souvent un témoin est un mur entre vous et lui
+            qui arrête au passage la vérité. Écoutez patiemment ses redites ; opposez-lui les
+            raisons de l’adversaire ; mettez-le en contradiction avec lui-même ; il s’échauffera, il
+            vous répliquera, il vous donnera, <pb n="225" xml:id="p225"/>sans le savoir, une
+            répétition de l’audience. Un jour, un citoyen vint prier Démosthène de le défendre : il
+            se plaignait d’avoir été battu. — <quote>« Vous, battu ! lui dit l’orateur ; non, vous
+              vous trompez. — Comment ! reprit l’autre, je n’ai pas été battu ? — Non. — Qui ? moi,
+              je n’ai pas été battu ? — A la bonne heure ! je reconnais là le ton d’un homme qui a
+              été battu. »</quote> Démosthène l’avait piqué à dessein pour lui arracher le récit
+            animé de son insulte. Vous ne serez jamais un véritable orateur si vous ne vous faites
+            une grande idée de votre profession, des qualités qu’elle exige et des devoirs qu’elle
+            impose. Si vous voulez atteindre les sommets de cet art, ne vous contentez pas d’avoir
+            sous les yeux les maîtres de l’éloquence : unissez à la véhémence de Démosthène
+            l’ampleur et le coloris de Cicéron ; faites mieux, ajoutez à ces dons les plus rares
+            facultés qui vous auront frappé dans les orateurs modernes ; faites mieux encore, imitez
+            les artistes <pb n="226" xml:id="p226"/>qui, les yeux fixés sur la toile ou sur le
+            marbre, ont l’âme attachée à la contemplation d’un type dont leur main reproduit
+            l’idéale beauté ; concevez un modèle de perfection tel qu’il n’en a jamais existé de
+            semblable. Que votre orateur ne soit pas seulement un homme disert et capable de parler
+            agréablement sur tous les sujets ; qu’au talent de la parole il joigne un savoir
+            étendu : car la parole, sans l’instruction, c’est un archet sans instrument. Qu’il soit
+            familier avec tout ce qui concerne la vie des peuples et les relations des
+            particuliers : droit des gens, traités, commerce, industrie, politique, histoire,
+            morale, lois, usages, que rien ne lui soit étranger. S’il ne peut embrasser ces
+            connaissances dans tous leurs détails (aujourd’hui les rapports entre les hommes et les
+            choses sont devenus si compliqués qu’il n’est pas un cerveau humain capable de les
+            contenir toutes), qu’il en possède au moins des notions générales. Que son intelligence,
+              <pb n="227" xml:id="p227"/>nourrie de fortes études, soit comme une source d’où les
+            développements les plus riches puissent couler avec abondance et se répandre
+            heureusement sur les sujets les plus variés. Qu’il soit philosophe surtout : sans
+            philosophie, point de grande éloquence. C’est la science maîtresse, celle qui contient
+            toutes les autres. N’est-ce pas à l’école de Platon que s’inspira l’éloquence de
+            Démosthène et de Cicéron ? Cette large conception du sujet, cette puissance de
+            raisonnement, cette noblesse de sentiments, ce sens juste et droit, toutes ces qualités
+            supérieures par lesquelles ils s’élevèrent au-dessus des discoureurs de leur temps,
+            autant que Platon lui-même au-dessus des sophistes, où les puisèrent-ils, sinon dans la
+            dialectique du maître ? Qu’enfin votre modèle ait <hi rend="i">le caractère</hi>, sans
+            lequel la plus belle éloquence n’est qu’un bruit harmonieux. Que ses mains soient pures,
+            ses principes inflexibles, sa vie à l’abri du soupçon ; que son abord <pb n="228"
+              xml:id="p228"/>inspire à la foule le respect, la sympathie et la confiance aux juges ;
+            que sa parole ait à leurs yeux l’autorité d’un témoignage, qu’elle soit regardée par
+            tous comme l’organe de la justice et de la vérité. Je ne vous promets pas que vous
+            atteindrez jamais à cet idéal ; mais le concevoir c’est déjà en approcher. De la
+            médiocrité à la perfection on compte plus d’un degré honorable, et, comme dit
             l’Écriture, <hi rend="i">il y a plusieurs demeures dans la maison de mon père</hi>.</p>
         </div>
         <div type="section">
@@ -2825,9 +2832,9 @@
             entraînera le cœur à son tour, le triomphe de l’éloquence sera complet.</p>
           <p>Regardez autour de vous : tout dans les œuvres de la nature semble élever la voix et
             vous rappeler à cette grande loi de l’unité<quote>. « Est-il rien de plus beau que le
-              <pb n="233" xml:id="p233"/>spectacle de la voûte céleste et des astres
-              qui s’y meuvent ? Vous croiriez qu’il n’y a pas un détail de ce vaste ensemble qui ne
-              soit fait uniquement pour le plaisir des yeux ; il n’en est pas un qui ne joue un rôle
+                <pb n="233" xml:id="p233"/>spectacle de la voûte céleste et des astres qui s’y
+              meuvent ? Vous croiriez qu’il n’y a pas un détail de ce vaste ensemble qui ne soit
+              fait uniquement pour le plaisir des yeux ; il n’en est pas un qui ne joue un rôle
               utile dans la machine du monde, et qui ne concoure à son salut et à sa conservation.
               Tel est l’ordre qui préside à ce grand tout que le moindre changement détruirait
               l’harmonie générale ; telle en est la beauté, que l’imagination ne saurait rien
@@ -2836,10 +2843,11 @@
               et telle est la perfection de ce mécanisme, qu’on y reconnaît une main intelligente et
               non pas un jeu du hasard. Et dans les arbres, ce tronc arrondi, ce dôme de branches et
               de verdure ne servent-ils qu’à l’ornement ? Non, mais à la vie de la plante et à la
-              perpétuité des espèces. Détachons nos yeux de la nature et voyons <pb n="234" xml:id="p234"/>les arts. Quelle noble et belle chose qu’un navire avec sa
-              carène, sa proue, sa poupe, ses antennes, ses voiles, ses mâts ! Tous ces détails sont
-              gracieux, tous sont nécessaires. Les colonnes sont faites pour soutenir les temples et
-              les portiques : se peut-il rien de plus élégant et rien de plus utile ? Le faîte du
+              perpétuité des espèces. Détachons nos yeux de la nature et voyons <pb n="234"
+                xml:id="p234"/>les arts. Quelle noble et belle chose qu’un navire avec sa carène, sa
+              proue, sa poupe, ses antennes, ses voiles, ses mâts ! Tous ces détails sont gracieux,
+              tous sont nécessaires. Les colonnes sont faites pour soutenir les temples et les
+              portiques : se peut-il rien de plus élégant et rien de plus utile ? Le faîte du
               Capitole, ceux des autres édifices, ce n’est pas au goût des artistes que nous les
               devons, mais à la nécessité. Il fallait aviser aux moyens de faciliter l’écoulement
               des eaux : on en trouva un, et le dôme, en protégeant le temple, ajouta à son
@@ -2884,10 +2892,10 @@
             victorieux ; votre vie répondra pour vous.</p>
           <p>Les rhéteurs avouent que l’art ne peut remplacer le caractère, mais ils ajoutent qu’il
             peut le seconder. Ils recommandent à l’orateur un maintien modeste, timide et même
-            embarrassé. <quote>« Car<seg type="exquote">, disent-ils,</seg> le tribunal est flatté de ces marques d’émotion
-              comme d’un témoignage de respect rendu à ses lumières et à son autorité ; tandis
-              qu’une assurance imperturbable <pb n="238" xml:id="p238"/>lui paraît
-              impudente et irrévérencieuse. »</quote></p>
+            embarrassé. <quote>« Car<seg type="exquote">, disent-ils,</seg> le tribunal est flatté
+              de ces marques d’émotion comme d’un témoignage de respect rendu à ses lumières et à
+              son autorité ; tandis qu’une assurance imperturbable <pb n="238" xml:id="p238"/>lui
+              paraît impudente et irrévérencieuse. »</quote></p>
           <p>La réflexion est juste. Mais le tort de la rhétorique est de gâter trop souvent les
             meilleures remarques en nous les donnant pour des préceptes. Ici, par exemple, que
             veut-elle nous apprendre ? Est-ce à manifester le trouble que nous ressentons, et à nous
@@ -2931,14 +2939,14 @@
             prince et sait qu’à lui seul appartient le droit de trancher la question ; aussi est-ce
             à lui seul qu’il s’adresse :</p>
           <quote>
-            <p>« Sire<seg type="exquote">, lui dit-il,</seg> je me tiens bien heureux, tant de ce qu’il vous plaist que je
-              vous die mon advis sur cette délibération, qui a esté tenue en votre conseil, que
-              parce aussi que j’ay à parler devant un roy soldat, et non devant un roy qui n’a
-              jamais esté en guerre. Avant qu’estre appelé à cette grande charge que Dieu vous a
-              donnée, et depuis, vous avez autant cherché la fortune de la guerre que roy qui jamais
-              aist esté en France, sans avoir espargné votre personne, non plus que le moindre
-              gentil homme : doncques ne doy-je craindre, puisque j’ay à parler devant un roy
-              roldat. »</p>
+            <p>« Sire<seg type="exquote">, lui dit-il,</seg> je me tiens bien heureux, tant de ce
+              qu’il vous plaist que je vous die mon advis sur cette délibération, qui a esté tenue
+              en votre conseil, que parce aussi que j’ay à parler devant un roy soldat, et non
+              devant un roy qui n’a jamais esté en guerre. Avant qu’estre appelé à cette grande
+              charge que Dieu vous a donnée, et depuis, vous avez autant cherché la fortune de la
+              guerre que roy qui jamais aist esté en France, sans avoir espargné votre personne, non
+              plus que le moindre gentil homme : doncques ne doy-je craindre, puisque j’ay à parler
+              devant un roy roldat. »</p>
           </quote>
           <p><pb n="242" xml:id="p242"/>Je doute que l’art des maîtres les plus consommés trouve un
             exorde plus habile et plus approprié à la circonstance. Montluc réveille les instincts
@@ -2989,7 +2997,8 @@
             son ampleur, et essayons de tracer, non pas les règles, mais les caractères généraux de
             cette partie du discours. Nous opposerons un historien à un orateur, Voltaire à Bossuet.
             Voici comment ils nous racontent la bataille de Rocroy :</p>
-          <p><hi rend="sc">Voltaire</hi>. — <quote>« On remarque que le duc <pb n="246" xml:id="p246"/>d’Enghien, ayant tout réglé le soir, veille de la bataille,
+          <p><hi rend="sc">Voltaire</hi>. — <quote>« On remarque que le duc <pb n="246"
+                xml:id="p246"/>d’Enghien, ayant tout réglé le soir, veille de la bataille,
               s’endormit si profondément qu’il fallut le réveiller pour combattre. On conte la même
               chose d’Alexandre. Il est naturel qu’un jeune homme, épuisé par les fatigues que
               demande l’arrangement d’un si grand jour, tombe dans un sommeil plein : il l’est aussi
@@ -3002,11 +3011,12 @@
           <p><hi rend="sc">Voltaire</hi>. — <quote>« Le prince gagna la bataille par lui-même, par
               un coup d’œil qui voyait à la fois le danger et la ressource, par son activité exempte
               de trouble, qui le portait à propos à tous les endroits. »</quote></p>
-          <p><hi rend="sc">Bossuet</hi>. — <quote>« Le voyez-vous comme il <pb n="247" xml:id="p247"/>vole ou à la victoire ou à la mort ? Aussitôt qu’il eut porté de
-              rang en rang l’ardeur dont il était animé, on le vit presque en même temps pousser
-              l’aile droite des ennemis, soutenir la nôtre ébranlée, rallier le Français à demi
-              vaincu, porter partout la terreur et étonner de ses regards étincelants ceux qui
-              échappaient à ses coups. »</quote></p>
+          <p><hi rend="sc">Bossuet</hi>. — <quote>« Le voyez-vous comme il <pb n="247" xml:id="p247"
+              />vole ou à la victoire ou à la mort ? Aussitôt qu’il eut porté de rang en rang
+              l’ardeur dont il était animé, on le vit presque en même temps pousser l’aile droite
+              des ennemis, soutenir la nôtre ébranlée, rallier le Français à demi vaincu, porter
+              partout la terreur et étonner de ses regards étincelants ceux qui échappaient à ses
+              coups. »</quote></p>
           <p><hi rend="sc">Voltaire</hi>. — <quote>« Ce fut lui qui, avec de la cavalerie, attaqua
               cette infanterie espagnole jusque-là invincible, aussi forte, aussi serrée que la
               phalange ancienne si estimée, et qui s’ouvrait avec une agilité que la phalange
@@ -3015,9 +3025,9 @@
           <p><hi rend="sc">Bossuet</hi>. — <quote>« Restait cette redoutable infanterie de l’armée
               d’Espagne, dont les gros bataillons, semblables à autant de tours, mais à des tours
               qui sauraient réparer leurs brèches, demeuraient inébranlables au milieu de tout le
-              reste en <pb n="248" xml:id="p248"/>déroute, et lançaient des feux de
-              toutes parts. Trois fois le jeune vainqueur s’efforça de rompre ces intrépides
-              combattants ; trois fois, etc. »</quote></p>
+              reste en <pb n="248" xml:id="p248"/>déroute, et lançaient des feux de toutes parts.
+              Trois fois le jeune vainqueur s’efforça de rompre ces intrépides combattants ; trois
+              fois, etc. »</quote></p>
           <p>Pourquoi cette différence de ton dans un même récit ? C’est que les deux narrateurs ne
             poursuivent pas le même but. L’un n’a en vue que la vérité et se contente d’exposer
             clairement les faits ; l’autre veut nous persuader que Condé, à son début, est déjà un
@@ -3333,14 +3343,14 @@
             illusion : il respire, il renaît à l’espoir ? Mais voilà qu’arrivé à la péroraison,
             l’avocat s’avise de tirer du fond de son sac oratoire ce splendide développement :
               <quote>« Regardez, juges, la misère de la condition humaine ; regardez l’inconstance
-                et la mobilité des événements ; regardez la <pb n="274" xml:id="p274"
-                />vieillesse de Fabricius ; regardez… »</quote> Comme il disait :
-              <quote>« Regardez ! »</quote> il regarda lui-même. Mais déjà Fabricius, tout honteux,
-            s’était sauvé la tête basse et avait disparu de l’audience. Les juges de rire et
-            l’orateur de se fâcher tout rouge. Il crie que sa cause lui échappe, qu’on lui coupe sa
-            belle tirade, qu’il n’a pas fini encore son : <hi rend="i">Regardez, juges,
-              regardez</hi>. On voit le moment où il va courir après son client, lui sauter à la
-            gorge et le ramener de force à sa place pour achever sa péroraison.</p>
+              et la mobilité des événements ; regardez la <pb n="274" xml:id="p274"/>vieillesse de
+              Fabricius ; regardez… »</quote> Comme il disait : <quote>« Regardez ! »</quote> il
+            regarda lui-même. Mais déjà Fabricius, tout honteux, s’était sauvé la tête basse et
+            avait disparu de l’audience. Les juges de rire et l’orateur de se fâcher tout rouge. Il
+            crie que sa cause lui échappe, qu’on lui coupe sa belle tirade, qu’il n’a pas fini
+            encore son : <hi rend="i">Regardez, juges, regardez</hi>. On voit le moment où il va
+            courir après son client, lui sauter à la gorge et le ramener de force à sa place pour
+            achever sa péroraison.</p>
           <p>Un autre avait amené à l’audience un enfant dont les larmes devaient attendrir le
             tribunal. Son précepteur, placé auprès de lui, devait l’avertir quand il faudrait
             pleurer. Et en effet, au moment le plus pathétique du discours, l’enfant joua son rôle à
@@ -3431,8 +3441,8 @@
               première charge de l’État, dans ce moment critique (car vous savez, juges, combien un
               candidat est timide et inquiet, et pat quelles angoisses nous fait passer la poursuite
               du consulat), dans ce moment, dis-je, où tout nous effraye, non-seulement le blâme
-              hautement manifesté, mais le <pb n="282" xml:id="p282"/>murmure secret
-              de l’improbation, dans ce moment où bruits fâcheux, contes mensongers, si vagues, si
+              hautement manifesté, mais le <pb n="282" xml:id="p282"/>murmure secret de
+              l’improbation, dans ce moment où bruits fâcheux, contes mensongers, si vagues, si
               légers, si imperceptibles qu’ils soient, nous donnent le frisson, où nous étudions
               avec anxiété jusqu’aux physionomies, jusqu’aux regards de la foule ! »</quote></p>
           <p>Retranchez un membre à cette phrase où tout s’enchaîne et se rattache logiquement à
@@ -3586,11 +3596,11 @@
             n’est rien, et qu’avec elle le plus médiocre peut l’emporter sur le plus habile. Il va
             jusqu’à nous donner la théorie des mouvements du corps : — <quote>« Que la pose soit
               noble et virile ; qu’elle rappelle non l’attitude du comédien, mais celle du guerrier
-              dans le combat et de <pb n="294" xml:id="p294"/>l’athlète dans la
-              palestre ; que la main n’ait rien d’affecté, qu’elle suive la parole, sans vouloir
-              l’expliquer ; que le bras soulevé soit tendu en avant comme pour lancer le trait de
-              l’éloquence ; que le pied marque en frappant la terre le commencement et la fin des
-              luttes animées. »</quote></p>
+              dans le combat et de <pb n="294" xml:id="p294"/>l’athlète dans la palestre ; que la
+              main n’ait rien d’affecté, qu’elle suive la parole, sans vouloir l’expliquer ; que le
+              bras soulevé soit tendu en avant comme pour lancer le trait de l’éloquence ; que le
+              pied marque en frappant la terre le commencement et la fin des luttes
+              animées. »</quote></p>
           <p>Tout, chez les anciens, justifiait cette pantomime violente et passionnée : les mœurs,
             les traditions, l’ampleur du costume, les vastes dimensions de la tribune, la présence
             de la multitude. Tout chez nous fait une loi à l’orateur d’être plus sobre et plus
@@ -3601,11 +3611,12 @@
             énergumène de carrefour, il y a une mesure que l’orateur <pb n="295" xml:id="p295"/>doit
             garder. Fénelon reprochait à Bourdaloue son immobilité et la précipitation de son
             débit ; comme aussi à d’autres prédicateurs la fougue désordonnée de leur
-              gesticulation. — <quote>« Il y a quelque temps<seg type="exquote">, dit-il,</seg> je m’endormis à un sermon.
-              Vous savez que le sommeil surprend aux sermons de l’après-midi. Je m’éveillai bientôt,
-              et j’entendis le prédicateur qui s’agitait extraordinairement ; je crus que c’était le
-              fort de sa morale. — Eh bien, qu’était-ce donc ? — C’est qu’il avertissait ses
-              auditeurs que, le dimanche suivant, il prêcherait sur la pénitence. »</quote></p>
+              gesticulation. — <quote>« Il y a quelque temps<seg type="exquote">, dit-il,</seg> je
+              m’endormis à un sermon. Vous savez que le sommeil surprend aux sermons de
+              l’après-midi. Je m’éveillai bientôt, et j’entendis le prédicateur qui s’agitait
+              extraordinairement ; je crus que c’était le fort de sa morale. — Eh bien, qu’était-ce
+              donc ? — C’est qu’il avertissait ses auditeurs que, le dimanche suivant, il prêcherait
+              sur la pénitence. »</quote></p>
           <p>Evitez ces deux excès. Réglez votre action sur l’importance des choses que vous avez à
             dire, et sur la vivacité des sentiments qui vous agitent. Souvent les moyens les plus
             simples produisent les plus grands effets. C’est l’âme qui donne le ton au geste et à la
@@ -3715,121 +3726,119 @@
       </div>
       <div type="chapter">
         <head type="main">Tableau des arguments</head>
-          <head type="sub">I</head>
-          <p>La forme principale du raisonnement, celle dont toutes les autres dérivent, c’est le
-              <hi rend="i">syllogisme</hi>.</p>
-          <p>Faire un syllogisme, c’est affirmer l’existence d’un rapport entre deux termes, au
-            moyen d’un troisième.</p>
-          <p>Vous voulez savoir si deux surfaces sont d’égale longueur, vous prenez une règle et
-            vous l’appliquez sur chacune d’elles. Cette règle, c’est le moyen terme.</p>
-          <p>Le syllogisme repose sur cet axiome de <pb n="306" xml:id="p306"/>géométrie : <hi
-              rend="i">Deux quantités égales à une troisième sont égales entre elles</hi>.</p>
-          <p>Prenons cet exemple banal qui traîne dans tous les traités :</p>
-          <quote>
-            <l>Il faut aimer ce qui nous rend heureux,</l>
-            <l>Or la Vertu nous rend heureux,</l>
-            <l>Donc il faut aimer la Vertu.</l>
-          </quote>
-          <p><hi rend="i">Aimer… vertu…</hi> sont les deux termes dont vous cherchez le rapport :
-              <hi rend="i">heureux</hi> est le troisième terme au moyen duquel vous l’affirmez.</p>
-          <p>Tout syllogisme complet renferme trois propositions. La première se nomme <hi rend="i"
-              >majeure</hi>, la seconde <hi rend="i">mineure</hi>, la troisième <hi rend="i"
-              >conclusion</hi>.</p>
-          <p>Il y a dans cet enchaînement logique de trois propositions quelque chose de régulier
-            qui satisfait l’esprit. Mais il faut se garder de conclure de là que toute vérité
-            présentée sous la forme du syllogisme soit par le fait même suffisamment démontrée. Pour
-            que la conclusion fût rigoureuse, il <pb n="307" xml:id="p307"/>faudrait qu’elle dérivât
-            de principes évidents par eux-mêmes. Mais presque toujours les prémisses sont
-            discutables et auraient besoin elles-mêmes d’être appuyées sur d’autres prémisses.</p>
-          <p>Les syllogismes en forme, comme celui dont vous venez de voir un exemple, étaient bien
-            placés dans ces <hi rend="i">soutenances</hi> de la Sorbonne, où les terribles logiciens
-            du moyen âge retroussaient leurs manches, en disant : <hi rend="i">Argumentabor</hi>.
-            Mais cette même symétrie, qui sied à la discussion savante, répugne à la fougue de
-            l’éloquence.</p>
-          <p>L’orateur, emporté par son imagination, supprime le troisième terme et laisse à
-            l’auditeur le soin de le suppléer. Au lieu de dire dogmatiquement :</p>
-          <quote>
-            <l>Il faut aimer ce qui nous rend heureux,</l>
-            <l>Or la Vertu, etc.</l>
-          </quote>
-          <p>Il dit :</p>
-          <quote>
-            <l>La Vertu nous rend heureux,</l>
-            <l>Il faut aimer la Vertu.</l>
-          </quote>
-          <p><pb n="308" xml:id="p308"/>Réduit à ces deux propositions, le syllogisme s’appelle <hi
-              rend="i">enthymème</hi>. L’enthymème est la vraie forme oratoire du raisonnement.</p>
-          <p>Dans son discours sur l’<hi rend="i">indemnité des émigrés</hi> (21 février 1825), le
-            général Foy commence ainsi :</p>
-          <quote>
-            <p>« Le droit et la force se disputent le monde : le droit, qui institue et conserve les
-              sociétés ; la force, qui subjugue et pressure les nations. On nous propose un projet
-              de loi qui a pour objet de verser l’argent de la France dans les mains des émigrés.
-              Les émigrés ont-ils vaincu ? Non. Combien sont-ils ? Deux contre un dans cette
-              Chambre ; un sur mille dans la nation. Ce n’est donc pas la force, c’est le droit
-              qu’ils peuvent invoquer. » — L’orateur prouve ensuite que les émigrés n’ont pas plus
-              le droit pour eux que la force, et sa démonstration est complète.</p>
-          </quote>
-          <p>Un discours n’est qu’une longue suite d’enthymèmes.</p>
-          <p><pb n="309" xml:id="p309"/>Souvent, l’orateur, pareil à un stratégiste prudent, qui
-            assure sa marche en pays ennemi, ne hasarde une proposition qu’en l’appuyant de ses
-            preuves. Si la majeure ou la mineure lui paraît devoir laisser des doutes dans l’esprit,
-            il la rend évidente par une démonstration. Les prémisses, ainsi développées, pèsent de
-            tout leur poids sur la conclusion. Cette forme de syllogisme s’appelle <hi rend="i"
-              >épichérème</hi>.</p>
-          <p>— <quote>« Un scélérat capable de tout, un assassin avéré, un sicaire à gages, un homme
-              de ce caractère peut-il être tué impunément ? »</quote> — Voilà la proposition.</p>
-          <p>— <quote>« Que signifient donc ces escortes avec lesquelles nous marchons, ces épées,
-              ces armes que nous portons ? »</quote> — C’est la preuve.</p>
-          <p>— <quote>« Certainement les lois ne toléreraient pas un semblable appareil de défense,
-              si elles ne nous permettaient jamais de nous en servir. »</quote> — C’est la
-            conséquence. » (Cicéron, <hi rend="i">Milonienne</hi>.)</p>
-          <p><pb n="310" xml:id="p310"/>Le <hi rend="i">sorite</hi> (monceau, amas de preuves) est
-            un épichérème qui étend et développe le moyen terme, jusqu’à ce que ses rapports avec
-            les deux extrêmes soient surabondamment démontrés.</p>
-          <p>Mirabeau, dans son troisième discours sur <hi rend="i">la contribution du quart</hi>,
-            appuie le projet de Necker, le ministre des finances. Il en recommande l’adoption
-            immédiate. Voici la substance de son raisonnement : — Nous perdons un temps précieux à
-            discuter le plan de M. Necker. Or tout autre projet, même excellent, serait pernicieux,
-            parce que le temps presse et que la question est urgente. Donc… — </p>
-          <p>Écoutez le développement : <quote>« Avons-nous un plan à substituer à celui que M.
-              Necker nous propose ? Oui ! a crié quelqu’un dans l’assemblée. Je conjure celui qui
-              répond oui de considérer que son plan n’est pas connu, qu’il faut du temps pour le
-              développer, l’examiner, le démontrer ; que, fut-il immédiatement soumis à notre
-              <pb n="311" xml:id="p311"/>délibération, son auteur a pu se tromper ;
-              que, fût-il exempt de toute erreur, on peut croire qu’il s’est trompé ; que, quand
-              tout le monde a tort, tout le monde a raison ; qu’il se pourrait donc que l’auteur de
-              cet autre projet, même en ayant raison, eût tort contre tout le monde, puisque sans
-              l’assentiment de l’opinion publique, le plus grand talent ne saurait triompher des
-              circonstances. »</quote> —</p>
-          <p>Le <hi rend="i">dilemme</hi> divise les moyens de l’adversaire en propositions
-            contradictoires et le tient enfermé dans la conclusion, comme en une impasse. L’exemple
-            cité plus haut revient à un dilemme : — Ou vous avez de meilleurs plans à proposer, et
-            il est trop tard ; ou vous n’en avez pas, et il faut adopter celui qu’on vous
-            présente. — </p>
-          <p>Le dilemme est une suite d’enthymèmes présentés sous une forme vive et pressante.</p>
-          <p>L’<hi rend="i">exemple</hi> est un enthymème, où la <pb n="312" xml:id="p312"/>majeure
-            s’appuie, non sur une raison abstraite, mais sur l’autorité d’un fait, comme l’opinion
-            d’un grand homme ou d’un jurisconsulte ancien, les institutions, les monuments, les
-            actes des ancêtres. Cet argument est très-fort, parce que les hommes sont toujours
-            disposés à accepter, comme règle de conduite, les leçons du passé. Quelques orateurs
-            parlementaires en usent jusqu’à l’excès. Il en est dont les discours ne sont que des
-            citations. Ils écrasent leurs auditeurs sous des liasses de documents et croient avoir
-            été éloquents, parce qu’ils ont prouvé longuement que d’autres pensaient comme eux. Cet
-            étalage de lecture, ce faste d’érudition ne convient pas à l’éloquence. Une tribune
-            n’est pas une chaire d’histoire.</p>
-          <p>Mettre un adversaire en contradiction avec lui-même, en retournant contre lui ses
-            propres actes et ses propres paroles, est un moyen très-habile et très-employé, qu’on
-            appelle <hi rend="i">argument personnel</hi>, ou <pb n="313" xml:id="p313"/>argument <hi
-              rend="i">ad hominem</hi>. J’en ai donné, en parlant du discours de Cicéron pour
-            Ligarius, le plus bel exemple que l’histoire de l’éloquence nous ait transmis. J’ai dit
-            que ce moyen est habile, j’ajoute qu’il est souvent perfide, parce qu’il peut se faire
-            qu’un orateur ait eu raison autrefois de penser d’une manière et qu’il ait raison de
-            penser aujourd’hui différemment. J’ajoute encore qu’il est dangereux, parce qu’il peut
-            tourner à la confusion de celui qui l’emploie. On reprochait à un illustre orateur du
-            parti démocratique d’avoir chanté en vers la monarchie : — J’avais treize ans ! répondit
-            le poëte. De grandes acclamations couvrirent la voix de son contradicteur.</p>
-        
+        <head type="sub">I</head>
+        <p>La forme principale du raisonnement, celle dont toutes les autres dérivent, c’est le <hi
+            rend="i">syllogisme</hi>.</p>
+        <p>Faire un syllogisme, c’est affirmer l’existence d’un rapport entre deux termes, au moyen
+          d’un troisième.</p>
+        <p>Vous voulez savoir si deux surfaces sont d’égale longueur, vous prenez une règle et vous
+          l’appliquez sur chacune d’elles. Cette règle, c’est le moyen terme.</p>
+        <p>Le syllogisme repose sur cet axiome de <pb n="306" xml:id="p306"/>géométrie : <hi
+            rend="i">Deux quantités égales à une troisième sont égales entre elles</hi>.</p>
+        <p>Prenons cet exemple banal qui traîne dans tous les traités :</p>
+        <quote>
+          <l>Il faut aimer ce qui nous rend heureux,</l>
+          <l>Or la Vertu nous rend heureux,</l>
+          <l>Donc il faut aimer la Vertu.</l>
+        </quote>
+        <p><hi rend="i">Aimer… vertu…</hi> sont les deux termes dont vous cherchez le rapport : <hi
+            rend="i">heureux</hi> est le troisième terme au moyen duquel vous l’affirmez.</p>
+        <p>Tout syllogisme complet renferme trois propositions. La première se nomme <hi rend="i"
+            >majeure</hi>, la seconde <hi rend="i">mineure</hi>, la troisième <hi rend="i"
+            >conclusion</hi>.</p>
+        <p>Il y a dans cet enchaînement logique de trois propositions quelque chose de régulier qui
+          satisfait l’esprit. Mais il faut se garder de conclure de là que toute vérité présentée
+          sous la forme du syllogisme soit par le fait même suffisamment démontrée. Pour que la
+          conclusion fût rigoureuse, il <pb n="307" xml:id="p307"/>faudrait qu’elle dérivât de
+          principes évidents par eux-mêmes. Mais presque toujours les prémisses sont discutables et
+          auraient besoin elles-mêmes d’être appuyées sur d’autres prémisses.</p>
+        <p>Les syllogismes en forme, comme celui dont vous venez de voir un exemple, étaient bien
+          placés dans ces <hi rend="i">soutenances</hi> de la Sorbonne, où les terribles logiciens
+          du moyen âge retroussaient leurs manches, en disant : <hi rend="i">Argumentabor</hi>. Mais
+          cette même symétrie, qui sied à la discussion savante, répugne à la fougue de
+          l’éloquence.</p>
+        <p>L’orateur, emporté par son imagination, supprime le troisième terme et laisse à
+          l’auditeur le soin de le suppléer. Au lieu de dire dogmatiquement :</p>
+        <quote>
+          <l>Il faut aimer ce qui nous rend heureux,</l>
+          <l>Or la Vertu, etc.</l>
+        </quote>
+        <p>Il dit :</p>
+        <quote>
+          <l>La Vertu nous rend heureux,</l>
+          <l>Il faut aimer la Vertu.</l>
+        </quote>
+        <p><pb n="308" xml:id="p308"/>Réduit à ces deux propositions, le syllogisme s’appelle <hi
+            rend="i">enthymème</hi>. L’enthymème est la vraie forme oratoire du raisonnement.</p>
+        <p>Dans son discours sur l’<hi rend="i">indemnité des émigrés</hi> (21 février 1825), le
+          général Foy commence ainsi :</p>
+        <quote>
+          <p>« Le droit et la force se disputent le monde : le droit, qui institue et conserve les
+            sociétés ; la force, qui subjugue et pressure les nations. On nous propose un projet de
+            loi qui a pour objet de verser l’argent de la France dans les mains des émigrés. Les
+            émigrés ont-ils vaincu ? Non. Combien sont-ils ? Deux contre un dans cette Chambre ; un
+            sur mille dans la nation. Ce n’est donc pas la force, c’est le droit qu’ils peuvent
+            invoquer. » — L’orateur prouve ensuite que les émigrés n’ont pas plus le droit pour eux
+            que la force, et sa démonstration est complète.</p>
+        </quote>
+        <p>Un discours n’est qu’une longue suite d’enthymèmes.</p>
+        <p><pb n="309" xml:id="p309"/>Souvent, l’orateur, pareil à un stratégiste prudent, qui
+          assure sa marche en pays ennemi, ne hasarde une proposition qu’en l’appuyant de ses
+          preuves. Si la majeure ou la mineure lui paraît devoir laisser des doutes dans l’esprit,
+          il la rend évidente par une démonstration. Les prémisses, ainsi développées, pèsent de
+          tout leur poids sur la conclusion. Cette forme de syllogisme s’appelle <hi rend="i"
+            >épichérème</hi>.</p>
+        <p>— <quote>« Un scélérat capable de tout, un assassin avéré, un sicaire à gages, un homme
+            de ce caractère peut-il être tué impunément ? »</quote> — Voilà la proposition.</p>
+        <p>— <quote>« Que signifient donc ces escortes avec lesquelles nous marchons, ces épées, ces
+            armes que nous portons ? »</quote> — C’est la preuve.</p>
+        <p>— <quote>« Certainement les lois ne toléreraient pas un semblable appareil de défense, si
+            elles ne nous permettaient jamais de nous en servir. »</quote> — C’est la conséquence. »
+          (Cicéron, <hi rend="i">Milonienne</hi>.)</p>
+        <p><pb n="310" xml:id="p310"/>Le <hi rend="i">sorite</hi> (monceau, amas de preuves) est un
+          épichérème qui étend et développe le moyen terme, jusqu’à ce que ses rapports avec les
+          deux extrêmes soient surabondamment démontrés.</p>
+        <p>Mirabeau, dans son troisième discours sur <hi rend="i">la contribution du quart</hi>,
+          appuie le projet de Necker, le ministre des finances. Il en recommande l’adoption
+          immédiate. Voici la substance de son raisonnement : — Nous perdons un temps précieux à
+          discuter le plan de M. Necker. Or tout autre projet, même excellent, serait pernicieux,
+          parce que le temps presse et que la question est urgente. Donc… — </p>
+        <p>Écoutez le développement : <quote>« Avons-nous un plan à substituer à celui que M. Necker
+            nous propose ? Oui ! a crié quelqu’un dans l’assemblée. Je conjure celui qui répond oui
+            de considérer que son plan n’est pas connu, qu’il faut du temps pour le développer,
+            l’examiner, le démontrer ; que, fut-il immédiatement soumis à notre <pb n="311"
+              xml:id="p311"/>délibération, son auteur a pu se tromper ; que, fût-il exempt de toute
+            erreur, on peut croire qu’il s’est trompé ; que, quand tout le monde a tort, tout le
+            monde a raison ; qu’il se pourrait donc que l’auteur de cet autre projet, même en ayant
+            raison, eût tort contre tout le monde, puisque sans l’assentiment de l’opinion publique,
+            le plus grand talent ne saurait triompher des circonstances. »</quote> —</p>
+        <p>Le <hi rend="i">dilemme</hi> divise les moyens de l’adversaire en propositions
+          contradictoires et le tient enfermé dans la conclusion, comme en une impasse. L’exemple
+          cité plus haut revient à un dilemme : — Ou vous avez de meilleurs plans à proposer, et il
+          est trop tard ; ou vous n’en avez pas, et il faut adopter celui qu’on vous
+          présente. — </p>
+        <p>Le dilemme est une suite d’enthymèmes présentés sous une forme vive et pressante.</p>
+        <p>L’<hi rend="i">exemple</hi> est un enthymème, où la <pb n="312" xml:id="p312"/>majeure
+          s’appuie, non sur une raison abstraite, mais sur l’autorité d’un fait, comme l’opinion
+          d’un grand homme ou d’un jurisconsulte ancien, les institutions, les monuments, les actes
+          des ancêtres. Cet argument est très-fort, parce que les hommes sont toujours disposés à
+          accepter, comme règle de conduite, les leçons du passé. Quelques orateurs parlementaires
+          en usent jusqu’à l’excès. Il en est dont les discours ne sont que des citations. Ils
+          écrasent leurs auditeurs sous des liasses de documents et croient avoir été éloquents,
+          parce qu’ils ont prouvé longuement que d’autres pensaient comme eux. Cet étalage de
+          lecture, ce faste d’érudition ne convient pas à l’éloquence. Une tribune n’est pas une
+          chaire d’histoire.</p>
+        <p>Mettre un adversaire en contradiction avec lui-même, en retournant contre lui ses propres
+          actes et ses propres paroles, est un moyen très-habile et très-employé, qu’on appelle <hi
+            rend="i">argument personnel</hi>, ou <pb n="313" xml:id="p313"/>argument <hi rend="i">ad
+            hominem</hi>. J’en ai donné, en parlant du discours de Cicéron pour Ligarius, le plus
+          bel exemple que l’histoire de l’éloquence nous ait transmis. J’ai dit que ce moyen est
+          habile, j’ajoute qu’il est souvent perfide, parce qu’il peut se faire qu’un orateur ait eu
+          raison autrefois de penser d’une manière et qu’il ait raison de penser aujourd’hui
+          différemment. J’ajoute encore qu’il est dangereux, parce qu’il peut tourner à la confusion
+          de celui qui l’emploie. On reprochait à un illustre orateur du parti démocratique d’avoir
+          chanté en vers la monarchie : — J’avais treize ans ! répondit le poëte. De grandes
+          acclamations couvrirent la voix de son contradicteur.</p>
         <div type="section">
           <head>Lieux communs</head>
           <p>Nous savons ce que les rhéteurs entendaient par <hi rend="i">lieux communs</hi>. Ils en
@@ -3846,12 +3855,11 @@
               lui être encore utile ; celui que ne rassasie pas une vaine popularité, et qui
               dédaigne les succès d’un jour pour la véritable gloire ; celui qui veut dire la
               vérité, qui veut faire le bien public, indépendamment des mobiles mouvements de
-              l’opinion populaire ; cet homme porte <pb n="315" xml:id="p315"/>avec
-              lui la récompense de ses services, le charme de ses peines et le prix de ses dangers ;
-              il ne doit attendre sa moisson, sa destinée, la seule qui l’intéresse, la destinée de
-              son nom, que du temps, ce juge incorruptible, qui fait justice à tous. » — (<hi
-                rend="i">Du droit de paix et de guerre. 2<hi rend="sup">e</hi>
-              Discours</hi>.)</quote></p>
+              l’opinion populaire ; cet homme porte <pb n="315" xml:id="p315"/>avec lui la
+              récompense de ses services, le charme de ses peines et le prix de ses dangers ; il ne
+              doit attendre sa moisson, sa destinée, la seule qui l’intéresse, la destinée de son
+              nom, que du temps, ce juge incorruptible, qui fait justice à tous. » — (<hi rend="i"
+                >Du droit de paix et de guerre. 2<hi rend="sup">e</hi> Discours</hi>.)</quote></p>
           <p>Est-ce là la définition de l’orateur en général ? Non ; mais de l’orateur
             incorruptible, de celui que Mirabeau veut défendre en sa personne.</p>
           <p><hi rend="i">Enumération des parties</hi>. — C’est l’art de développer un argument,
@@ -3944,100 +3952,97 @@
       </div>
       <div type="chapter">
         <head type="main">Tableau des figures</head>
-          <head type="sub">II</head>
-          <p>Les rhéteurs ont analysé les lois du langage avec autant de soin que celles du
-            raisonnement. Ils distinguent deux sortes de figures : les figures de mots, qu’ils
-            appellent <hi rend="i">tropes</hi> (du mot grec τρԑπω, tourner, parce qu’elles changent
-            la signification des mots), et les figures de pensées, qui, tenant non au signe, mais à
-            la chose signifiée, sont indépendantes des mots.</p>
-          <p>Les principales figures de mots sont : la <hi rend="i">métaphore</hi>, la <hi rend="i"
-              >métonymie</hi> et la <hi rend="i">synecdoche</hi>.</p>
-          <p><pb n="324" xml:id="p324"/><hi rend="i">Métaphore</hi>. — Nous ne reviendrons pas sur
-            ce que nous avons dit de la métaphore. L’abus de cette figure suppose un jugement faux.
-            L’orateur qui la prodigue ne tarde pas à fatiguer son auditoire, en le forçant à
-            chercher entre les choses des rapports éloignés ou imaginaires. N’oublions pas que la
-            langue de l’éloquence est la langue des affaires, et que, s’adressant au peuple, elle
-            doit être avant tout simple, précise, pratique. L’image, pour être oratoire, ne doit
-            être qu’une forme vivante du raisonnement.</p>
-          <p><hi rend="i">L’allégorie</hi> est une métaphore prolongée :</p>
-          <quote>
-            <l>— O Corse, à cheveux plats ! que ta France était belle</l>
-            <l>Au grand soleil de messidor !</l>
-            <l>C’était une cavale indomptable et rebelle.</l>
-            <l>Sans frein d’acier, ni rênes d’or, etc.</l>
-          </quote>
-          <p>Et le poëte poursuit la comparaison jusqu’à ce qu’il ait épuisé les rapports.</p>
-          <p><pb n="325" xml:id="p325"/>La <hi rend="i">catachrèse</hi> supplée à l’insuffisance de
-            la langue, en empruntant des noms à des choses qui en ont, pour les donner à celles qui
-            n’en ont pas. Les enfants, dont l’imagination toujours en éveil saisit partout des
-            rapports, font un grand usage de cette figure. Leur mémoire trouve soudain le mot qui
-            leur manque et leur langue n’est jamais en défaut. Ils disent : le <hi rend="i"
-              >chapeau</hi> de la lampe (c’est l’abat-jour), la <hi rend="i">dent</hi> de la
-            bouteille (c’est le tire-bouchon), le <hi rend="i">nez</hi> de l’éléphant (c’est sa
-            trompe).</p>
-          <p>Le peuple dit : l’<hi rend="i">âme</hi> du soufflet, le <hi rend="i">roulement</hi> du
-            tambour, un <hi rend="i">coup</hi> de vin, un <hi rend="i">pied</hi> de laitue, etc.</p>
-          <p>La <hi rend="i">métonymie</hi> prend la cause pour l’effet :</p>
-          <p>Le <hi rend="i">chypre</hi> incendiait les coupes ;</p>
-          <p>Et leur <hi rend="i">âme</hi> chantait dans les clairons d’airain ;</p>
-          <p>Ou l’effet pour la cause :</p>
-          <p>Les <hi rend="i">canons</hi> vomissent la <hi rend="i">mort</hi> ;</p>
-          <p>Ou le contenant pour le contenu :</p>
-          <p><pb n="326" xml:id="p326"/>Les foudres du <hi rend="i">Vatican</hi> ;</p>
-          <p>Ou le signe pour la chose signifiée :</p>
-          <p>On dit d’un gourmand : C’est une belle fourchette ; d’un écrivain : C’est une plume
-            éloquente ;</p>
-          <p>Ou enfin le nom abstrait pour le nom concret :</p>
-          <quote>
-            <l>— Là, parmi les douceurs d’un tranquille silence,</l>
-            <l>Règne sur le duvet une <hi rend="i">heureuse indolence</hi>.</l>
-          </quote>
-          <p>C’est-à-dire : d’heureux indolents dorment sur le duvet.</p>
-          <quote>
-            <l>— <hi rend="i">L’ignorance et l’erreur</hi>, à ses naissantes pièces.</l>
-            <l>En habit de marquis, en robes de comtesses,</l>
-            <l>Venaient pour diffamer son chef-d’œuvre nouveau,</l>
-            <l>Et secouaient la tête à l’endroit le plus beau.</l>
-          </quote>
-          <bibl><hi rend="sc">(Boileau)</hi></bibl>
-          <p>La <hi rend="i">synecdoche</hi> ou <hi rend="i">synecdoque</hi> prend le genre pour
-            l’espèce : les <hi rend="i">mortels</hi> pour les hommes :</p>
-          <p><pb n="327" xml:id="p327"/>Ou l’espèce pour le genre :</p>
-          <quote>
-            <l>— En son <hi rend="i">Louvre</hi> il les invita ;</l>
-            <l>Quel Louvre ! un vrai charnier.</l>
-          </quote>
-          <bibl><hi rend="sc">(La Fontaine.)</hi></bibl>
-          <p>Elle prend la partie pour le tout :</p>
-          <p>Regagner ses <hi rend="i">foyers</hi>. Cent <hi rend="i">lances</hi>. Les <hi rend="i"
-              >bleus</hi>, c’est-à-dire les républicains. Un village de çent <hi rend="i"
-            >feux</hi> ;</p>
-          <p>Ou le tout pour la partie :</p>
-          <p>Une chambre commence l’énoncé d’un arrêt par cette formule : <hi rend="i">La cour,
-              après avoir délibéré…</hi> C’est une synecdoche. Elle prend le singulier pour le
-            pluriel :</p>
-          <quote>
-            <l>— <hi rend="i">Le Français</hi>, né malin, forma le vaudeville<note place="bottom">Et
-                non pas <hi rend="i">créa</hi>. Ce vers est toujours mal cité.</note> ;</l>
-          </quote>
-          <p>Le nom de la matière pour celui de la chose qui en est faite : Le <hi rend="i"
-              >bronze</hi> tonne. <hi rend="i">L’airain</hi> sacré tremble et s’agite (C. <pb
-              n="328" xml:id="p328"/><hi rend="sc">Delavigne</hi>). L’<hi rend="i">ivoire</hi>
-            pleure dans les temples (<hi rend="sc">Virgile</hi>).</p>
-          <p>Quelquefois, quand on ne veut pas nommer une personne, on la désigne, ou par un trait
-            caractéristique, ou par un nom qui est devenu un type, et alors on fait une <hi rend="i"
-              >antonomase</hi> :</p>
-          <p>Le <hi rend="i">fléau de Dieu</hi>, c’est Attila ; <hi rend="i">l’aigle de Meaux</hi>,
-            c’est Bossuet ; le <hi rend="i">cygne de Cambrai</hi>, c’est Fénelon. Bonaparte, pour
-            les royalistes, c’était <hi rend="i">l’ogre de Corse</hi>. Un libertin est un <hi
-              rend="i">don Juan</hi>, un <hi rend="i">Lovelace</hi> ; un assassin est un <hi
-              rend="i">Lacenaire</hi> ; un critique envieux est un <hi rend="i">Zoïle</hi> ; un
-            hypocrite est un <hi rend="i">Tartufe</hi> ; un juge inique est un <hi rend="i"
-              >Jeffreys</hi>, un <hi rend="i">Laubardemont</hi>.</p>
-          <p>Quand vous dites d’un coquin, c’est un bien honnête homme, ou d’une femme laide, c’est
-            une Vénus, vous faites une <hi rend="i">antiphrase</hi>.</p>
-          <pb n="329" xml:id="p329"/>
-        
+        <head type="sub">II</head>
+        <p>Les rhéteurs ont analysé les lois du langage avec autant de soin que celles du
+          raisonnement. Ils distinguent deux sortes de figures : les figures de mots, qu’ils
+          appellent <hi rend="i">tropes</hi> (du mot grec τρԑπω, tourner, parce qu’elles changent la
+          signification des mots), et les figures de pensées, qui, tenant non au signe, mais à la
+          chose signifiée, sont indépendantes des mots.</p>
+        <p>Les principales figures de mots sont : la <hi rend="i">métaphore</hi>, la <hi rend="i"
+            >métonymie</hi> et la <hi rend="i">synecdoche</hi>.</p>
+        <p><pb n="324" xml:id="p324"/><hi rend="i">Métaphore</hi>. — Nous ne reviendrons pas sur ce
+          que nous avons dit de la métaphore. L’abus de cette figure suppose un jugement faux.
+          L’orateur qui la prodigue ne tarde pas à fatiguer son auditoire, en le forçant à chercher
+          entre les choses des rapports éloignés ou imaginaires. N’oublions pas que la langue de
+          l’éloquence est la langue des affaires, et que, s’adressant au peuple, elle doit être
+          avant tout simple, précise, pratique. L’image, pour être oratoire, ne doit être qu’une
+          forme vivante du raisonnement.</p>
+        <p><hi rend="i">L’allégorie</hi> est une métaphore prolongée :</p>
+        <quote>
+          <l>— O Corse, à cheveux plats ! que ta France était belle</l>
+          <l>Au grand soleil de messidor !</l>
+          <l>C’était une cavale indomptable et rebelle.</l>
+          <l>Sans frein d’acier, ni rênes d’or, etc.</l>
+        </quote>
+        <p>Et le poëte poursuit la comparaison jusqu’à ce qu’il ait épuisé les rapports.</p>
+        <p><pb n="325" xml:id="p325"/>La <hi rend="i">catachrèse</hi> supplée à l’insuffisance de la
+          langue, en empruntant des noms à des choses qui en ont, pour les donner à celles qui n’en
+          ont pas. Les enfants, dont l’imagination toujours en éveil saisit partout des rapports,
+          font un grand usage de cette figure. Leur mémoire trouve soudain le mot qui leur manque et
+          leur langue n’est jamais en défaut. Ils disent : le <hi rend="i">chapeau</hi> de la lampe
+          (c’est l’abat-jour), la <hi rend="i">dent</hi> de la bouteille (c’est le tire-bouchon), le
+            <hi rend="i">nez</hi> de l’éléphant (c’est sa trompe).</p>
+        <p>Le peuple dit : l’<hi rend="i">âme</hi> du soufflet, le <hi rend="i">roulement</hi> du
+          tambour, un <hi rend="i">coup</hi> de vin, un <hi rend="i">pied</hi> de laitue, etc.</p>
+        <p>La <hi rend="i">métonymie</hi> prend la cause pour l’effet :</p>
+        <p>Le <hi rend="i">chypre</hi> incendiait les coupes ;</p>
+        <p>Et leur <hi rend="i">âme</hi> chantait dans les clairons d’airain ;</p>
+        <p>Ou l’effet pour la cause :</p>
+        <p>Les <hi rend="i">canons</hi> vomissent la <hi rend="i">mort</hi> ;</p>
+        <p>Ou le contenant pour le contenu :</p>
+        <p><pb n="326" xml:id="p326"/>Les foudres du <hi rend="i">Vatican</hi> ;</p>
+        <p>Ou le signe pour la chose signifiée :</p>
+        <p>On dit d’un gourmand : C’est une belle fourchette ; d’un écrivain : C’est une plume
+          éloquente ;</p>
+        <p>Ou enfin le nom abstrait pour le nom concret :</p>
+        <quote>
+          <l>— Là, parmi les douceurs d’un tranquille silence,</l>
+          <l>Règne sur le duvet une <hi rend="i">heureuse indolence</hi>.</l>
+        </quote>
+        <p>C’est-à-dire : d’heureux indolents dorment sur le duvet.</p>
+        <quote>
+          <l>— <hi rend="i">L’ignorance et l’erreur</hi>, à ses naissantes pièces.</l>
+          <l>En habit de marquis, en robes de comtesses,</l>
+          <l>Venaient pour diffamer son chef-d’œuvre nouveau,</l>
+          <l>Et secouaient la tête à l’endroit le plus beau.</l>
+        </quote>
+        <bibl><hi rend="sc">(Boileau)</hi></bibl>
+        <p>La <hi rend="i">synecdoche</hi> ou <hi rend="i">synecdoque</hi> prend le genre pour
+          l’espèce : les <hi rend="i">mortels</hi> pour les hommes :</p>
+        <p><pb n="327" xml:id="p327"/>Ou l’espèce pour le genre :</p>
+        <quote>
+          <l>— En son <hi rend="i">Louvre</hi> il les invita ;</l>
+          <l>Quel Louvre ! un vrai charnier.</l>
+        </quote>
+        <bibl><hi rend="sc">(La Fontaine.)</hi></bibl>
+        <p>Elle prend la partie pour le tout :</p>
+        <p>Regagner ses <hi rend="i">foyers</hi>. Cent <hi rend="i">lances</hi>. Les <hi rend="i"
+            >bleus</hi>, c’est-à-dire les républicains. Un village de çent <hi rend="i"
+          >feux</hi> ;</p>
+        <p>Ou le tout pour la partie :</p>
+        <p>Une chambre commence l’énoncé d’un arrêt par cette formule : <hi rend="i">La cour, après
+            avoir délibéré…</hi> C’est une synecdoche. Elle prend le singulier pour le pluriel :</p>
+        <quote>
+          <l>— <hi rend="i">Le Français</hi>, né malin, forma le vaudeville<note place="bottom">Et
+              non pas <hi rend="i">créa</hi>. Ce vers est toujours mal cité.</note> ;</l>
+        </quote>
+        <p>Le nom de la matière pour celui de la chose qui en est faite : Le <hi rend="i"
+            >bronze</hi> tonne. <hi rend="i">L’airain</hi> sacré tremble et s’agite (C. <pb n="328"
+            xml:id="p328"/><hi rend="sc">Delavigne</hi>). L’<hi rend="i">ivoire</hi> pleure dans les
+          temples (<hi rend="sc">Virgile</hi>).</p>
+        <p>Quelquefois, quand on ne veut pas nommer une personne, on la désigne, ou par un trait
+          caractéristique, ou par un nom qui est devenu un type, et alors on fait une <hi rend="i"
+            >antonomase</hi> :</p>
+        <p>Le <hi rend="i">fléau de Dieu</hi>, c’est Attila ; <hi rend="i">l’aigle de Meaux</hi>,
+          c’est Bossuet ; le <hi rend="i">cygne de Cambrai</hi>, c’est Fénelon. Bonaparte, pour les
+          royalistes, c’était <hi rend="i">l’ogre de Corse</hi>. Un libertin est un <hi rend="i">don
+            Juan</hi>, un <hi rend="i">Lovelace</hi> ; un assassin est un <hi rend="i"
+            >Lacenaire</hi> ; un critique envieux est un <hi rend="i">Zoïle</hi> ; un hypocrite est
+          un <hi rend="i">Tartufe</hi> ; un juge inique est un <hi rend="i">Jeffreys</hi>, un <hi
+            rend="i">Laubardemont</hi>.</p>
+        <p>Quand vous dites d’un coquin, c’est un bien honnête homme, ou d’une femme laide, c’est
+          une Vénus, vous faites une <hi rend="i">antiphrase</hi>.</p>
+        <pb n="329" xml:id="p329"/>
         <div type="section">
           <head>
             <hi rend="sc">figures grammaticales</hi>
@@ -4076,8 +4081,7 @@
         </div>
         <div type="section">
           <head>
-            <hi rend="sc">figures de pensées</hi>.
-          </head>
+            <hi rend="sc">figures de pensées</hi>. </head>
           <p>Rappelons-nous que ce tableau n’est pas un code, mais un recueil d’analyses curieuses,
             et n’imitons pas ces poëtes tragiques, copistes malheureux de Corneille et de Racine,
             qui disaient : Ici je mettrai un songe, là un récit, ailleurs un monologue. Un discours
@@ -4109,11 +4113,11 @@
           <p>L’<hi rend="i">apostrophe</hi>. — Vous semblez tout à coup abandonner votre sujet pour
             interpeller une personne ou une chose dont votre imagination est pleine.</p>
           <p>Lally-Tolendal, plaidant la réhabilitation de son père, interrompt le récit de
-            l’injuste condamnation du vieillard pour s’écrier : <quote>« Hommes justes, fils religieux et
-            soumis, c’est vous que j’invoque. Telle est la faible annonce de l’horrible tragédie que
-            je vais développer à vos yeux. Voilà ce père opprimé dont la cause doit être plaidée par
-            vous. Voilà la première victime sur laquelle j’appelle vos regards et votre
-            intérêt. »</quote></p>
+            l’injuste condamnation du vieillard pour s’écrier : <quote>« Hommes justes, fils
+              religieux et soumis, c’est vous que j’invoque. Telle est la faible annonce de
+              l’horrible tragédie que je vais développer à vos yeux. Voilà ce père opprimé dont la
+              cause doit être plaidée par vous. Voilà la première victime sur laquelle j’appelle vos
+              regards et votre intérêt. »</quote></p>
           <p><hi rend="i">L’exclamation</hi>. — Quand la pitié, la haine, la colère, le mépris, la
             douleur remplissent l’âme de l’orateur, ces sentiments <pb n="334" xml:id="p334"
             />débordent en cris passionnés, en interpellations violentes.</p>
@@ -4128,8 +4132,8 @@
             César ; Corneille, dans le <hi rend="i">Cid</hi>, le sang du Comte ; Socrate, dans le
               <hi rend="i">Criton</hi>, entend les Lois qui lui ordonnent de subir, sans se
             plaindre, son injuste condamnation. Une prosopopée classique est celle de Rousseau, dans
-            son Discours sur les arts et les lettres : <quote>« O Fabricius ! qu’eût pensé votre grande
-            âme, si, pour votre malheur, rappelé à la vie, etc. »</quote></p>
+            son Discours sur les arts et les lettres : <quote>« O Fabricius ! qu’eût pensé votre
+              grande âme, si, pour votre malheur, rappelé à la vie, etc. »</quote></p>
           <p>Une troupe d’amateurs jouait autrefois <pb n="335" xml:id="p335"/>à Rouen la <hi
               rend="i">Mort d’Abel</hi>, tragédie en cinq actes. Le fils d’un notable demande à en
             faire partie. Mais tous les rôles étant distribués, on lui donna pour personnage le <hi
@@ -4137,18 +4141,18 @@
             roula sur la scène, et il criait : <quote>« Vengeance ! vengeance ! »</quote> — C’était
             une prosopopée en action.</p>
           <p>L’<hi rend="i">obsécration</hi> :</p>
-            <label type="speaker"><hi rend="sc">chimène</hi>.</label>
-            <p>— Sire, sire, justice !</p>
-          <label type="speaker"><hi rend="sc">d. diègue</hi>.</label>
-            <p>Ah ! sire, écoutez-nous !</p>
           <label type="speaker"><hi rend="sc">chimène</hi>.</label>
-            <p>Je me jette à vos pieds.</p>
+          <p>— Sire, sire, justice !</p>
           <label type="speaker"><hi rend="sc">d. diègue</hi>.</label>
-            <p>J’embrasse vos genoux.</p>
+          <p>Ah ! sire, écoutez-nous !</p>
           <label type="speaker"><hi rend="sc">chimène</hi>.</label>
-            <p>Je demande justice.</p>
+          <p>Je me jette à vos pieds.</p>
+          <label type="speaker"><hi rend="sc">d. diègue</hi>.</label>
+          <p>J’embrasse vos genoux.</p>
+          <label type="speaker"><hi rend="sc">chimène</hi>.</label>
+          <p>Je demande justice.</p>
           <label type="speaker"><hi rend="sc">d. diégue</hi>.</label>
-            <p>Écoutez ma défense.</p>
+          <p>Écoutez ma défense.</p>
           <bibl>(<hi rend="sc">Corneille</hi>.)</bibl>
           <p><pb n="336" xml:id="p336"/>L’<hi rend="i">imprécation</hi>. — <quote>« Malheur à qui ne
               souhaite pas au premier ministre des finances tous les succès dont la France a un
@@ -4174,11 +4178,11 @@
               matin, vous êtes descendu sans bruit de votre mansarde ; vous avez pénétré à l’aide
               d’une fausse clef dans la chambre de votre victime ; vous vous êtes approché doucement
               du lit où dormait la pauvre femme ; vous vous êtes penché sur elle pour vous assurer
-              de son sommeil ; vous êtes allé <pb n="338" xml:id="p338"/>ensuite à la
-              fenêtre ; vous avez pris un foulard qu’elle y avait pendu… »</quote> Et il continue,
-            dardant son regard sur l’accusé, accompagnant d’un geste terrible chaque détail de son
-            récit imaginaire. Arrivé à la scène du meurtre, il peint l’agonie de la vieille, sa
-            lutte suprême contre la mort, les derniers efforts de l’assassin. Il voit la figure du
+              de son sommeil ; vous êtes allé <pb n="338" xml:id="p338"/>ensuite à la fenêtre ; vous
+              avez pris un foulard qu’elle y avait pendu… »</quote> Et il continue, dardant son
+            regard sur l’accusé, accompagnant d’un geste terrible chaque détail de son récit
+            imaginaire. Arrivé à la scène du meurtre, il peint l’agonie de la vieille, sa lutte
+            suprême contre la mort, les derniers efforts de l’assassin. Il voit la figure du
             coupable, qui n’exprimait d’abord qu’une stupeur inquiète, s’assombrir à chaque trait du
             tableau. Sûr désormais de tenir la vérité, il force à dessein ses couleurs, il sent
             qu’il triomphe, que la conscience de l’homme s’émeut, que la vérité va sortir de sa
@@ -4324,9 +4328,10 @@
                 rend="sc">Vergniaud</hi>.)</p>
           </quote>
           <p>Allusion à Robespierre et à son parti.</p>
-          <p>La <hi rend="i">gradation</hi>. — <quote>« Si empoisonner un <pb n="347" xml:id="p347"/>citoyen romain est un crime, si le battre de verges est un
-              attentat, si le faire mourir est presque un parricide, que sera-ce de le mettre en
-              croix ? » (<hi rend="sc">Cicéron</hi>.)</quote></p>
+          <p>La <hi rend="i">gradation</hi>. — <quote>« Si empoisonner un <pb n="347" xml:id="p347"
+              />citoyen romain est un crime, si le battre de verges est un attentat, si le faire
+              mourir est presque un parricide, que sera-ce de le mettre en croix ? » (<hi rend="sc"
+                >Cicéron</hi>.)</quote></p>
           <quote>
             <l>J’ai profané leur temple et brisé leurs autels,</l>
             <l>Je le ferais encore si j’avais à le faire,</l>
